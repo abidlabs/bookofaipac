@@ -8,8 +8,13 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $132,953 for Aaron Bean in U.S. House, FL-04. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing shows Israel Lobby Total: $132,953."
+      }
+    ],
     "sourceIds": [
       "trackaipac-congress"
     ],
@@ -18,7 +23,7 @@
     "trackAipacOfficeLabel": "FL-04",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T20:11:13.688330+00:00"
   },
   {
     "id": "abe-hamadeh-az-08",
@@ -29,8 +34,13 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $55,970 for Abe Hamadeh in U.S. House, AZ-08. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing shows Israel Lobby Total: $55,970."
+      }
+    ],
     "sourceIds": [
       "trackaipac-congress"
     ],
@@ -39,7 +49,7 @@
     "trackAipacOfficeLabel": "AZ-08",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T20:11:13.688330+00:00"
   },
   {
     "id": "adam-gray-ca-13",
@@ -50,8 +60,13 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $470,328 for Adam Gray in U.S. House, CA-13. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing shows Israel Lobby Total: $470,328."
+      }
+    ],
     "sourceIds": [
       "trackaipac-congress"
     ],
@@ -60,7 +75,7 @@
     "trackAipacOfficeLabel": "CA-13",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T20:11:13.688330+00:00"
   },
   {
     "id": "adam-schiff-ca-sen",
@@ -71,8 +86,13 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $9,550,120 for Adam Schiff in U.S. Senate, CA. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing shows Israel Lobby Total: $9,550,120."
+      }
+    ],
     "sourceIds": [
       "trackaipac-congress"
     ],
@@ -81,7 +101,7 @@
     "trackAipacOfficeLabel": "CA-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T20:11:13.688330+00:00"
   },
   {
     "id": "adam-smith-wa-09",
@@ -92,8 +112,13 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,335,151 for Adam Smith in U.S. House, WA-09. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing shows Israel Lobby Total: $1,335,151."
+      }
+    ],
     "sourceIds": [
       "trackaipac-congress"
     ],
@@ -102,7 +127,7 @@
     "trackAipacOfficeLabel": "WA-09",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T20:11:13.688330+00:00"
   },
   {
     "id": "addison-mcdowell-nc-06",
