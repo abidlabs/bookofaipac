@@ -8,11 +8,16 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-  "timeline": [],
+  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $780,675 for Adriano Espaillat in U.S. House, NY-13. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+  "timeline": [
+    {
+      "date": "2026-03-03",
+      "event": "Track AIPAC congressional listing shows Israel Lobby Total: $780,675."
+    }
+  ],
   "sourceIds": [
     "trackaipac-congress"
   ],
-  "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00",
+  "profileLastUpdatedAt": "2026-03-03T20:13:36.201593+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }
