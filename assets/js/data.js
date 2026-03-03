@@ -19,16 +19,24 @@ export function displayStanceLabel(stanceLabel) {
   return stanceLabel || "Unknown";
 }
 
+export function formatIsraelLobbyTotal(value) {
+  if (typeof value !== "number" || Number.isNaN(value)) return "";
+  return `$${value.toLocaleString()}`;
+}
+
 export function normalizeForSearch(value) {
   return (value || "").toLowerCase().trim();
 }
 
 export function makeCandidateIndex(profiled, federal) {
   const profiledMap = new Map(profiled.map((item) => [item.id, item]));
+  const seenCanonical = new Set();
   const combined = [];
+  const canonicalKey = (candidate) =>
+    `${normalizeForSearch(candidate.name)}|${candidate.state || ""}|${normalizeForSearch(candidate.districtOrOffice || candidate.office || "")}`;
 
   profiled.forEach((candidate) => {
-    combined.push({
+    const enriched = {
       id: candidate.id,
       name: candidate.name,
       imageUrl: candidate.imageUrl || DEFAULT_IMAGE,
@@ -36,13 +44,18 @@ export function makeCandidateIndex(profiled, federal) {
       state: candidate.state || "",
       districtOrOffice: candidate.districtOrOffice || candidate.office || "",
       stanceLabel: candidate.stanceLabel || "Unknown",
+      israelLobbyTotal:
+        typeof candidate.israelLobbyTotal === "number" ? candidate.israelLobbyTotal : null,
+      israelLobbyTotalDisplay: candidate.israelLobbyTotalDisplay || "",
       sourceType: "profiled",
-    });
+    };
+    seenCanonical.add(canonicalKey(enriched));
+    combined.push(enriched);
   });
 
   federal.forEach((candidate) => {
     if (profiledMap.has(candidate.id)) return;
-    combined.push({
+    const enriched = {
       id: candidate.id,
       name: candidate.name,
       imageUrl: candidate.imageUrl || DEFAULT_IMAGE,
@@ -50,8 +63,13 @@ export function makeCandidateIndex(profiled, federal) {
       state: candidate.state || "",
       districtOrOffice: candidate.districtOrOffice || candidate.office || "",
       stanceLabel: candidate.stanceLabel || "Unknown",
+      israelLobbyTotal:
+        typeof candidate.israelLobbyTotal === "number" ? candidate.israelLobbyTotal : null,
+      israelLobbyTotalDisplay: candidate.israelLobbyTotalDisplay || "",
       sourceType: "federal",
-    });
+    };
+    if (seenCanonical.has(canonicalKey(enriched))) return;
+    combined.push(enriched);
   });
 
   combined.sort((a, b) => a.name.localeCompare(b.name));

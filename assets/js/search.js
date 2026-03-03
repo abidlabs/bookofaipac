@@ -1,7 +1,6 @@
 import {
   applyLocalImageMap,
-  displayStanceLabel,
-  getBadgeClass,
+  formatIsraelLobbyTotal,
   loadJson,
   makeCandidateIndex,
   normalizeForSearch,
@@ -44,13 +43,14 @@ function rowTemplate(candidate, isActive) {
   copyWrap.appendChild(name);
   copyWrap.appendChild(meta);
 
-  const badge = document.createElement("span");
-  badge.className = `badge ${getBadgeClass(candidate.stanceLabel)}`;
-  badge.textContent = displayStanceLabel(candidate.stanceLabel);
-
   button.appendChild(image);
   button.appendChild(copyWrap);
-  button.appendChild(badge);
+  if (typeof candidate.israelLobbyTotal === "number") {
+    const badge = document.createElement("span");
+    badge.className = "lobby-badge";
+    badge.textContent = formatIsraelLobbyTotal(candidate.israelLobbyTotal);
+    button.appendChild(badge);
+  }
 
   button.addEventListener("click", () => goToCandidate(candidate.id));
   return button;
@@ -153,6 +153,12 @@ function renderTicker(candidates) {
 
     card.appendChild(img);
     card.appendChild(info);
+    if (typeof candidate.israelLobbyTotal === "number") {
+      const badge = document.createElement("span");
+      badge.className = "lobby-badge";
+      badge.textContent = formatIsraelLobbyTotal(candidate.israelLobbyTotal);
+      card.appendChild(badge);
+    }
 
     card.addEventListener("click", () => goToCandidate(candidate.id));
     tickerEl.appendChild(card);

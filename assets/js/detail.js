@@ -1,12 +1,14 @@
 import {
   DEFAULT_IMAGE,
   displayStanceLabel,
+  formatIsraelLobbyTotal,
   getBadgeClass,
   getLocalImageForCandidate,
   loadJson,
 } from "./data.js";
 
 const headerRoot = document.getElementById("candidateHeader");
+const israelLobbyTotalRoot = document.getElementById("israelLobbyTotal");
 const stanceSummaryRoot = document.getElementById("stanceSummary");
 const timelineRoot = document.getElementById("timelineList");
 const sourceListRoot = document.getElementById("sourceList");
@@ -98,6 +100,10 @@ async function init() {
     DEFAULT_IMAGE;
 
   renderHeader(candidate);
+  israelLobbyTotalRoot.textContent =
+    typeof candidate.israelLobbyTotal === "number"
+      ? formatIsraelLobbyTotal(candidate.israelLobbyTotal)
+      : "Not available";
   stanceSummaryRoot.textContent = candidate.stanceSummary;
   renderTimeline(candidate);
   renderSources(candidate, sourceMap);
@@ -105,6 +111,7 @@ async function init() {
 
 init().catch((error) => {
   headerRoot.innerHTML = "<h1 class=\"detail-name\">Candidate not found</h1>";
+  israelLobbyTotalRoot.textContent = "Unavailable.";
   stanceSummaryRoot.textContent =
     "The profile could not be loaded. Return to search and select another entry.";
   timelineRoot.innerHTML = "<li>Unavailable.</li>";

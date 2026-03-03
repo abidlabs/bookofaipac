@@ -1,0 +1,4867 @@
+{
+  "generatedAt": "2026-03-03T18:40:14.970975+00:00",
+  "sourceUrl": "https://www.trackaipac.com/congress",
+  "count": 486,
+  "records": [
+    {
+      "name": "Dan Sullivan",
+      "officeLabel": "AK-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AK",
+      "israelLobbyTotal": 144598,
+      "israelLobbyTotalDisplay": "$144,598",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Lisa Murkowski",
+      "officeLabel": "AK-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AK",
+      "israelLobbyTotal": 1047757,
+      "israelLobbyTotalDisplay": "$1,047,757",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Barry Moore",
+      "officeLabel": "AL-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AL",
+      "israelLobbyTotal": 75849,
+      "israelLobbyTotalDisplay": "$75,849",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Dale Strong",
+      "officeLabel": "AL-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AL",
+      "israelLobbyTotal": 75745,
+      "israelLobbyTotalDisplay": "$75,745",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Gary Palmer",
+      "officeLabel": "AL-06",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AL",
+      "israelLobbyTotal": 257757,
+      "israelLobbyTotalDisplay": "$257,757",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Katie Britt",
+      "officeLabel": "AL-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AL",
+      "israelLobbyTotal": 408384,
+      "israelLobbyTotalDisplay": "$408,384",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Rogers",
+      "officeLabel": "AL-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AL",
+      "israelLobbyTotal": 1933918,
+      "israelLobbyTotalDisplay": "$1,933,918",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Robert Aderholt",
+      "officeLabel": "AL-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AL",
+      "israelLobbyTotal": 251955,
+      "israelLobbyTotalDisplay": "$251,955",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Shomari Figures",
+      "officeLabel": "AL-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "AL",
+      "israelLobbyTotal": 181458,
+      "israelLobbyTotalDisplay": "$181,458",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Terri Sewell",
+      "officeLabel": "AL-07",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "AL",
+      "israelLobbyTotal": 251301,
+      "israelLobbyTotalDisplay": "$251,301",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tommy Tuberville",
+      "officeLabel": "AL-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AL",
+      "israelLobbyTotal": 237976,
+      "israelLobbyTotalDisplay": "$237,976",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Bruce Westerman",
+      "officeLabel": "AR-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AR",
+      "israelLobbyTotal": 179638,
+      "israelLobbyTotalDisplay": "$179,638",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "French Hill",
+      "officeLabel": "AR-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AR",
+      "israelLobbyTotal": 451148,
+      "israelLobbyTotalDisplay": "$451,148",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Boozman",
+      "officeLabel": "AR-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AR",
+      "israelLobbyTotal": 712913,
+      "israelLobbyTotalDisplay": "$712,913",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Rick Crawford",
+      "officeLabel": "AR-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AR",
+      "israelLobbyTotal": 97153,
+      "israelLobbyTotalDisplay": "$97,153",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Steve Womack",
+      "officeLabel": "AR-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AR",
+      "israelLobbyTotal": 327686,
+      "israelLobbyTotalDisplay": "$327,686",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tom Cotton",
+      "officeLabel": "AR-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AR",
+      "israelLobbyTotal": 2963774,
+      "israelLobbyTotalDisplay": "$2,963,774",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Abe Hamadeh",
+      "officeLabel": "AZ-08",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AZ",
+      "israelLobbyTotal": 55970,
+      "israelLobbyTotalDisplay": "$55,970",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Andy Biggs",
+      "officeLabel": "AZ-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AZ",
+      "israelLobbyTotal": 162057,
+      "israelLobbyTotalDisplay": "$162,057",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "David Schweikert",
+      "officeLabel": "AZ-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AZ",
+      "israelLobbyTotal": 752634,
+      "israelLobbyTotalDisplay": "$752,634",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Eli Crane",
+      "officeLabel": "AZ-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AZ",
+      "israelLobbyTotal": 108978,
+      "israelLobbyTotalDisplay": "$108,978",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Greg Stanton",
+      "officeLabel": "AZ-04",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "AZ",
+      "israelLobbyTotal": 748256,
+      "israelLobbyTotalDisplay": "$748,256",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Juan Ciscomani",
+      "officeLabel": "AZ-06",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AZ",
+      "israelLobbyTotal": 2198703,
+      "israelLobbyTotalDisplay": "$2,198,703",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mark Kelly",
+      "officeLabel": "AZ-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "AZ",
+      "israelLobbyTotal": 4461823,
+      "israelLobbyTotalDisplay": "$4,461,823",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Paul Gosar",
+      "officeLabel": "AZ-09",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "AZ",
+      "israelLobbyTotal": 116561,
+      "israelLobbyTotalDisplay": "$116,561",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ruben Gallego",
+      "officeLabel": "AZ-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "AZ",
+      "israelLobbyTotal": 1769097,
+      "israelLobbyTotalDisplay": "$1,769,097",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Yassamin Ansari",
+      "officeLabel": "AZ-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "AZ",
+      "israelLobbyTotal": 806788,
+      "israelLobbyTotalDisplay": "$806,788",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Adam Gray",
+      "officeLabel": "CA-13",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 470328,
+      "israelLobbyTotalDisplay": "$470,328",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Adam Schiff",
+      "officeLabel": "CA-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 9550120,
+      "israelLobbyTotalDisplay": "$9,550,120",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Alex Padilla",
+      "officeLabel": "CA-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 856179,
+      "israelLobbyTotalDisplay": "$856,179",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ami Bera",
+      "officeLabel": "CA-06",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 1096013,
+      "israelLobbyTotalDisplay": "$1,096,013",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Brad Sherman",
+      "officeLabel": "CA-32",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 4139278,
+      "israelLobbyTotalDisplay": "$4,139,278",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Darrell Issa",
+      "officeLabel": "CA-48",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "CA",
+      "israelLobbyTotal": 238853,
+      "israelLobbyTotalDisplay": "$238,853",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Dave Min",
+      "officeLabel": "CA-47",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 414326,
+      "israelLobbyTotalDisplay": "$414,326",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "David Valadao",
+      "officeLabel": "CA-22",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "CA",
+      "israelLobbyTotal": 724428,
+      "israelLobbyTotalDisplay": "$724,428",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Derek Tran",
+      "officeLabel": "CA-45",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 619779,
+      "israelLobbyTotalDisplay": "$619,779",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Doris Matsui",
+      "officeLabel": "CA-07",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 232127,
+      "israelLobbyTotalDisplay": "$232,127",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Eric Swalwell",
+      "officeLabel": "CA-14",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 1051237,
+      "israelLobbyTotalDisplay": "$1,051,237",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "George Whitesides",
+      "officeLabel": "CA-27",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 611825,
+      "israelLobbyTotalDisplay": "$611,825",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Gil Cisneros",
+      "officeLabel": "CA-31",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 121553,
+      "israelLobbyTotalDisplay": "$121,553",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jared Huffman",
+      "officeLabel": "CA-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 122968,
+      "israelLobbyTotalDisplay": "$122,968",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jay Obernolte",
+      "officeLabel": "CA-23",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "CA",
+      "israelLobbyTotal": 64376,
+      "israelLobbyTotalDisplay": "$64,376",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jim Costa",
+      "officeLabel": "CA-21",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 919414,
+      "israelLobbyTotalDisplay": "$919,414",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jimmy Gomez",
+      "officeLabel": "CA-34",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 3399391,
+      "israelLobbyTotalDisplay": "$3,399,391",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jimmy Panetta",
+      "officeLabel": "CA-19",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 1024567,
+      "israelLobbyTotalDisplay": "$1,024,567",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Garamendi",
+      "officeLabel": "CA-08",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 321027,
+      "israelLobbyTotalDisplay": "$321,027",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Josh Harder",
+      "officeLabel": "CA-09",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 1777395,
+      "israelLobbyTotalDisplay": "$1,777,395",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Juan Vargas",
+      "officeLabel": "CA-52",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 949493,
+      "israelLobbyTotalDisplay": "$949,493",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Judy Chu",
+      "officeLabel": "CA-28",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 165193,
+      "israelLobbyTotalDisplay": "$165,193",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Julia Brownley",
+      "officeLabel": "CA-26",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 842456,
+      "israelLobbyTotalDisplay": "$842,456",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ken Calvert",
+      "officeLabel": "CA-41",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "CA",
+      "israelLobbyTotal": 2496416,
+      "israelLobbyTotalDisplay": "$2,496,416",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Kevin Kiley",
+      "officeLabel": "CA-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "CA",
+      "israelLobbyTotal": 279667,
+      "israelLobbyTotalDisplay": "$279,667",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Kevin Mullin",
+      "officeLabel": "CA-15",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 862323,
+      "israelLobbyTotalDisplay": "$862,323",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Laura Friedman",
+      "officeLabel": "CA-30",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 118670,
+      "israelLobbyTotalDisplay": "$118,670",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Linda Sanchez",
+      "officeLabel": "CA-38",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 418609,
+      "israelLobbyTotalDisplay": "$418,609",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Lou Correa",
+      "officeLabel": "CA-46",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 237311,
+      "israelLobbyTotalDisplay": "$237,311",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Luz Rivas",
+      "officeLabel": "CA-29",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 205187,
+      "israelLobbyTotalDisplay": "$205,187",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mark DeSaulnier",
+      "officeLabel": "CA-10",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 64545,
+      "israelLobbyTotalDisplay": "$64,545",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mark Takano",
+      "officeLabel": "CA-39",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 392030,
+      "israelLobbyTotalDisplay": "$392,030",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Maxine Waters",
+      "officeLabel": "CA-43",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 110534,
+      "israelLobbyTotalDisplay": "$110,534",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Levin",
+      "officeLabel": "CA-49",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 1962671,
+      "israelLobbyTotalDisplay": "$1,962,671",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Thompson",
+      "officeLabel": "CA-04",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 129865,
+      "israelLobbyTotalDisplay": "$129,865",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "officeLabel": "CA-11",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 2374025,
+      "israelLobbyTotalDisplay": "$2,374,025",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Nanette Barragan",
+      "officeLabel": "CA-44",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 509303,
+      "israelLobbyTotalDisplay": "$509,303",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Norma Torres",
+      "officeLabel": "CA-35",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 835569,
+      "israelLobbyTotalDisplay": "$835,569",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Pete Aguilar",
+      "officeLabel": "CA-33",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 3095438,
+      "israelLobbyTotalDisplay": "$3,095,438",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Raul Ruiz",
+      "officeLabel": "CA-25",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 889935,
+      "israelLobbyTotalDisplay": "$889,935",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ro Khanna",
+      "officeLabel": "CA-17",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 1523736,
+      "israelLobbyTotalDisplay": "$1,523,736",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Robert Garcia",
+      "officeLabel": "CA-42",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 227339,
+      "israelLobbyTotalDisplay": "$227,339",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Salud Carbajal",
+      "officeLabel": "CA-24",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 337476,
+      "israelLobbyTotalDisplay": "$337,476",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Sam Liccardo",
+      "officeLabel": "CA-16",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 333790,
+      "israelLobbyTotalDisplay": "$333,790",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Sara Jacobs",
+      "officeLabel": "CA-51",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 289190,
+      "israelLobbyTotalDisplay": "$289,190",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Scott Peters",
+      "officeLabel": "CA-50",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 825171,
+      "israelLobbyTotalDisplay": "$825,171",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Sydney Kamlager-Dove",
+      "officeLabel": "CA-37",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 316155,
+      "israelLobbyTotalDisplay": "$316,155",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ted Lieu",
+      "officeLabel": "CA-36",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 2236782,
+      "israelLobbyTotalDisplay": "$2,236,782",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tom McClintock",
+      "officeLabel": "CA-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "CA",
+      "israelLobbyTotal": 278611,
+      "israelLobbyTotalDisplay": "$278,611",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Vince Fong",
+      "officeLabel": "CA-20",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "CA",
+      "israelLobbyTotal": 78514,
+      "israelLobbyTotalDisplay": "$78,514",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Young Kim",
+      "officeLabel": "CA-40",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "CA",
+      "israelLobbyTotal": 1582322,
+      "israelLobbyTotalDisplay": "$1,582,322",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Zoe Lofgren",
+      "officeLabel": "CA-18",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CA",
+      "israelLobbyTotal": 344466,
+      "israelLobbyTotalDisplay": "$344,466",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Brittany Pettersen",
+      "officeLabel": "CO-07",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CO",
+      "israelLobbyTotal": 508376,
+      "israelLobbyTotalDisplay": "$508,376",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Diana DeGette",
+      "officeLabel": "CO-01",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CO",
+      "israelLobbyTotal": 457637,
+      "israelLobbyTotalDisplay": "$457,637",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Gabe Evans",
+      "officeLabel": "CO-08",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "CO",
+      "israelLobbyTotal": 910177,
+      "israelLobbyTotalDisplay": "$910,177",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jason Crow",
+      "officeLabel": "CO-06",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CO",
+      "israelLobbyTotal": 1254627,
+      "israelLobbyTotalDisplay": "$1,254,627",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jeff Crank",
+      "officeLabel": "CO-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "CO",
+      "israelLobbyTotal": 57238,
+      "israelLobbyTotalDisplay": "$57,238",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jeff Hurd",
+      "officeLabel": "CO-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "CO",
+      "israelLobbyTotal": 267170,
+      "israelLobbyTotalDisplay": "$267,170",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Joe Neguse",
+      "officeLabel": "CO-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CO",
+      "israelLobbyTotal": 1105324,
+      "israelLobbyTotalDisplay": "$1,105,324",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Hickenlooper",
+      "officeLabel": "CO-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CO",
+      "israelLobbyTotal": 2491132,
+      "israelLobbyTotalDisplay": "$2,491,132",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Lauren Boebert",
+      "officeLabel": "CO-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "CO",
+      "israelLobbyTotal": 149802,
+      "israelLobbyTotalDisplay": "$149,802",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Michael Bennet",
+      "officeLabel": "CO-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CO",
+      "israelLobbyTotal": 3176314,
+      "israelLobbyTotalDisplay": "$3,176,314",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Chris Murphy",
+      "officeLabel": "CT-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CT",
+      "israelLobbyTotal": 1247085,
+      "israelLobbyTotalDisplay": "$1,247,085",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jahana Hayes",
+      "officeLabel": "CT-05",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CT",
+      "israelLobbyTotal": 670414,
+      "israelLobbyTotalDisplay": "$670,414",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jim Himes",
+      "officeLabel": "CT-04",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CT",
+      "israelLobbyTotal": 508763,
+      "israelLobbyTotalDisplay": "$508,763",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Joe Courtney",
+      "officeLabel": "CT-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CT",
+      "israelLobbyTotal": 418598,
+      "israelLobbyTotalDisplay": "$418,598",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Larson",
+      "officeLabel": "CT-01",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CT",
+      "israelLobbyTotal": 152378,
+      "israelLobbyTotalDisplay": "$152,378",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Richard Blumenthal",
+      "officeLabel": "CT-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CT",
+      "israelLobbyTotal": 1673548,
+      "israelLobbyTotalDisplay": "$1,673,548",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Rosa DeLauro",
+      "officeLabel": "CT-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "CT",
+      "israelLobbyTotal": 573343,
+      "israelLobbyTotalDisplay": "$573,343",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Chris Coons",
+      "officeLabel": "DE-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "DE",
+      "israelLobbyTotal": 1722613,
+      "israelLobbyTotalDisplay": "$1,722,613",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Lisa Blunt Rochester",
+      "officeLabel": "DE-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "DE",
+      "israelLobbyTotal": 332491,
+      "israelLobbyTotalDisplay": "$332,491",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Aaron Bean",
+      "officeLabel": "FL-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 132953,
+      "israelLobbyTotalDisplay": "$132,953",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Anna Paulina Luna",
+      "officeLabel": "FL-13",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 244182,
+      "israelLobbyTotalDisplay": "$244,182",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ashley Moody",
+      "officeLabel": "FL-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 172593,
+      "israelLobbyTotalDisplay": "$172,593",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Brian Mast",
+      "officeLabel": "FL-21",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 2246400,
+      "israelLobbyTotalDisplay": "$2,246,400",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Byron Donalds",
+      "officeLabel": "FL-19",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 368726,
+      "israelLobbyTotalDisplay": "$368,726",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Carlos A. Gimenez",
+      "officeLabel": "FL-28",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 467245,
+      "israelLobbyTotalDisplay": "$467,245",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Cory Mills",
+      "officeLabel": "FL-07",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 106732,
+      "israelLobbyTotalDisplay": "$106,732",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Daniel Webster",
+      "officeLabel": "FL-11",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 193215,
+      "israelLobbyTotalDisplay": "$193,215",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Darren Soto",
+      "officeLabel": "FL-09",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "FL",
+      "israelLobbyTotal": 874118,
+      "israelLobbyTotalDisplay": "$874,118",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Debbie Wasserman-Schultz",
+      "officeLabel": "FL-25",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "FL",
+      "israelLobbyTotal": 3459067,
+      "israelLobbyTotalDisplay": "$3,459,067",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Frederica Wilson",
+      "officeLabel": "FL-24",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "FL",
+      "israelLobbyTotal": 97967,
+      "israelLobbyTotalDisplay": "$97,967",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Greg Steube",
+      "officeLabel": "FL-17",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 239470,
+      "israelLobbyTotalDisplay": "$239,470",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Gus Bilirakis",
+      "officeLabel": "FL-12",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 280369,
+      "israelLobbyTotalDisplay": "$280,369",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jared Moskowitz",
+      "officeLabel": "FL-23",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "FL",
+      "israelLobbyTotal": 1546752,
+      "israelLobbyTotalDisplay": "$1,546,752",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jimmy Patronis",
+      "officeLabel": "FL-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 61163,
+      "israelLobbyTotalDisplay": "$61,163",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Rutherford",
+      "officeLabel": "FL-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 115173,
+      "israelLobbyTotalDisplay": "$115,173",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Kat Cammack",
+      "officeLabel": "FL-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 170049,
+      "israelLobbyTotalDisplay": "$170,049",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Kathy Castor",
+      "officeLabel": "FL-14",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "FL",
+      "israelLobbyTotal": 279346,
+      "israelLobbyTotalDisplay": "$279,346",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Laurel Lee",
+      "officeLabel": "FL-15",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 161530,
+      "israelLobbyTotalDisplay": "$161,530",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Lois Frankel",
+      "officeLabel": "FL-22",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "FL",
+      "israelLobbyTotal": 2093531,
+      "israelLobbyTotalDisplay": "$2,093,531",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Maria Salazar",
+      "officeLabel": "FL-27",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 783549,
+      "israelLobbyTotalDisplay": "$783,549",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mario Diaz-Balart",
+      "officeLabel": "FL-26",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 2053572,
+      "israelLobbyTotalDisplay": "$2,053,572",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Haridopolos",
+      "officeLabel": "FL-08",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 101846,
+      "israelLobbyTotalDisplay": "$101,846",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Neal Dunn",
+      "officeLabel": "FL-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 89420,
+      "israelLobbyTotalDisplay": "$89,420",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Randy Fine",
+      "officeLabel": "FL-06",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 1041401,
+      "israelLobbyTotalDisplay": "$1,041,401",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Rick Scott",
+      "officeLabel": "FL-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 2047002,
+      "israelLobbyTotalDisplay": "$2,047,002",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Scott Franklin",
+      "officeLabel": "FL-18",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 106305,
+      "israelLobbyTotalDisplay": "$106,305",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Sheila Cherfilus-McCormick",
+      "officeLabel": "FL-20",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "FL",
+      "israelLobbyTotal": 555603,
+      "israelLobbyTotalDisplay": "$555,603",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Vern Buchanan",
+      "officeLabel": "FL-16",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "FL",
+      "israelLobbyTotal": 368633,
+      "israelLobbyTotalDisplay": "$368,633",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Andrew Clyde",
+      "officeLabel": "GA-09",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "GA",
+      "israelLobbyTotal": 10900,
+      "israelLobbyTotalDisplay": "$10,900",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Austin Scott",
+      "officeLabel": "GA-08",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "GA",
+      "israelLobbyTotal": 149839,
+      "israelLobbyTotalDisplay": "$149,839",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Barry Loudermilk",
+      "officeLabel": "GA-11",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "GA",
+      "israelLobbyTotal": 238832,
+      "israelLobbyTotalDisplay": "$238,832",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Brian Jack",
+      "officeLabel": "GA-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "GA",
+      "israelLobbyTotal": 505916,
+      "israelLobbyTotalDisplay": "$505,916",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Buddy Carter",
+      "officeLabel": "GA-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "GA",
+      "israelLobbyTotal": 216590,
+      "israelLobbyTotalDisplay": "$216,590",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "David Scott",
+      "officeLabel": "GA-13",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "GA",
+      "israelLobbyTotal": 327786,
+      "israelLobbyTotalDisplay": "$327,786",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Hank Johnson",
+      "officeLabel": "GA-04",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "GA",
+      "israelLobbyTotal": 147730,
+      "israelLobbyTotalDisplay": "$147,730",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jon Ossoff",
+      "officeLabel": "GA-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "GA",
+      "israelLobbyTotal": 5280917,
+      "israelLobbyTotalDisplay": "$5,280,917",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Lucy McBath",
+      "officeLabel": "GA-07",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "GA",
+      "israelLobbyTotal": 1974629,
+      "israelLobbyTotalDisplay": "$1,974,629",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Collins",
+      "officeLabel": "GA-10",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "GA",
+      "israelLobbyTotal": 63706,
+      "israelLobbyTotalDisplay": "$63,706",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Nikema Williams",
+      "officeLabel": "GA-05",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "GA",
+      "israelLobbyTotal": 343447,
+      "israelLobbyTotalDisplay": "$343,447",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Raphael Warnock",
+      "officeLabel": "GA-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "GA",
+      "israelLobbyTotal": 6121706,
+      "israelLobbyTotalDisplay": "$6,121,706",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Rich McCormick",
+      "officeLabel": "GA-06",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "GA",
+      "israelLobbyTotal": 364606,
+      "israelLobbyTotalDisplay": "$364,606",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Rick Allen",
+      "officeLabel": "GA-12",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "GA",
+      "israelLobbyTotal": 161621,
+      "israelLobbyTotalDisplay": "$161,621",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Sanford Bishop",
+      "officeLabel": "GA-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "GA",
+      "israelLobbyTotal": 290306,
+      "israelLobbyTotalDisplay": "$290,306",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Brian Schatz",
+      "officeLabel": "HI-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "HI",
+      "israelLobbyTotal": 716215,
+      "israelLobbyTotalDisplay": "$716,215",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ed Case",
+      "officeLabel": "HI-01",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "HI",
+      "israelLobbyTotal": 138401,
+      "israelLobbyTotalDisplay": "$138,401",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jill Tokuda",
+      "officeLabel": "HI-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "HI",
+      "israelLobbyTotal": 62883,
+      "israelLobbyTotalDisplay": "$62,883",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mazie Hirono",
+      "officeLabel": "HI-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "HI",
+      "israelLobbyTotal": 231363,
+      "israelLobbyTotalDisplay": "$231,363",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ashley Hinson",
+      "officeLabel": "IA-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IA",
+      "israelLobbyTotal": 670799,
+      "israelLobbyTotalDisplay": "$670,799",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Chuck Grassley",
+      "officeLabel": "IA-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IA",
+      "israelLobbyTotal": 1310549,
+      "israelLobbyTotalDisplay": "$1,310,549",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Joni Ernst",
+      "officeLabel": "IA-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IA",
+      "israelLobbyTotal": 2446900,
+      "israelLobbyTotalDisplay": "$2,446,900",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Marianette Miller-Meeks",
+      "officeLabel": "IA-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IA",
+      "israelLobbyTotal": 603108,
+      "israelLobbyTotalDisplay": "$603,108",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Randy Feenstra",
+      "officeLabel": "IA-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IA",
+      "israelLobbyTotal": 288565,
+      "israelLobbyTotalDisplay": "$288,565",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Zach Nunn",
+      "officeLabel": "IA-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IA",
+      "israelLobbyTotal": 479727,
+      "israelLobbyTotalDisplay": "$479,727",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jim Risch",
+      "officeLabel": "ID-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "ID",
+      "israelLobbyTotal": 1549867,
+      "israelLobbyTotalDisplay": "$1,549,867",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Crapo",
+      "officeLabel": "ID-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "ID",
+      "israelLobbyTotal": 807474,
+      "israelLobbyTotalDisplay": "$807,474",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Simpson",
+      "officeLabel": "ID-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "ID",
+      "israelLobbyTotal": 124660,
+      "israelLobbyTotalDisplay": "$124,660",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Russ Fulcher",
+      "officeLabel": "ID-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "ID",
+      "israelLobbyTotal": 42059,
+      "israelLobbyTotalDisplay": "$42,059",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Bill Foster",
+      "officeLabel": "IL-11",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "IL",
+      "israelLobbyTotal": 2054410,
+      "israelLobbyTotalDisplay": "$2,054,410",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Brad Schneider",
+      "officeLabel": "IL-10",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "IL",
+      "israelLobbyTotal": 6670540,
+      "israelLobbyTotalDisplay": "$6,670,540",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Danny Davis",
+      "officeLabel": "IL-07",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "IL",
+      "israelLobbyTotal": 110160,
+      "israelLobbyTotalDisplay": "$110,160",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Darin LaHood",
+      "officeLabel": "IL-16",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IL",
+      "israelLobbyTotal": 420511,
+      "israelLobbyTotalDisplay": "$420,511",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Dick Durbin",
+      "officeLabel": "IL-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "IL",
+      "israelLobbyTotal": 2737130,
+      "israelLobbyTotalDisplay": "$2,737,130",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Eric Sorensen",
+      "officeLabel": "IL-17",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "IL",
+      "israelLobbyTotal": 1030989,
+      "israelLobbyTotalDisplay": "$1,030,989",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jan Schakowsky",
+      "officeLabel": "IL-09",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "IL",
+      "israelLobbyTotal": 2516441,
+      "israelLobbyTotalDisplay": "$2,516,441",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jonathan Jackson",
+      "officeLabel": "IL-01",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "IL",
+      "israelLobbyTotal": 27983,
+      "israelLobbyTotalDisplay": "$27,983",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Lauren Underwood",
+      "officeLabel": "IL-14",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "IL",
+      "israelLobbyTotal": 1370152,
+      "israelLobbyTotalDisplay": "$1,370,152",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mary Miller",
+      "officeLabel": "IL-15",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IL",
+      "israelLobbyTotal": 32030,
+      "israelLobbyTotalDisplay": "$32,030",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Bost",
+      "officeLabel": "IL-12",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IL",
+      "israelLobbyTotal": 425247,
+      "israelLobbyTotalDisplay": "$425,247",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Quigley",
+      "officeLabel": "IL-05",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "IL",
+      "israelLobbyTotal": 634873,
+      "israelLobbyTotalDisplay": "$634,873",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Nikki Budzinski",
+      "officeLabel": "IL-13",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "IL",
+      "israelLobbyTotal": 879942,
+      "israelLobbyTotalDisplay": "$879,942",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Raja Krishnamoorthi",
+      "officeLabel": "IL-08",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "IL",
+      "israelLobbyTotal": 1739283,
+      "israelLobbyTotalDisplay": "$1,739,283",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Robin Kelly",
+      "officeLabel": "IL-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "IL",
+      "israelLobbyTotal": 368860,
+      "israelLobbyTotalDisplay": "$368,860",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Sean Casten",
+      "officeLabel": "IL-06",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "IL",
+      "israelLobbyTotal": 1493042,
+      "israelLobbyTotalDisplay": "$1,493,042",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tammy Duckworth",
+      "officeLabel": "IL-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "IL",
+      "israelLobbyTotal": 2639142,
+      "israelLobbyTotalDisplay": "$2,639,142",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Erin Houchin",
+      "officeLabel": "IN-09",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IN",
+      "israelLobbyTotal": 71232,
+      "israelLobbyTotalDisplay": "$71,232",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Frank Mrvan",
+      "officeLabel": "IN-01",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "IN",
+      "israelLobbyTotal": 395275,
+      "israelLobbyTotalDisplay": "$395,275",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jefferson Shreve",
+      "officeLabel": "IN-06",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IN",
+      "israelLobbyTotal": 34127,
+      "israelLobbyTotalDisplay": "$34,127",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jim Baird",
+      "officeLabel": "IN-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IN",
+      "israelLobbyTotal": 38265,
+      "israelLobbyTotalDisplay": "$38,265",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jim Banks",
+      "officeLabel": "IN-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IN",
+      "israelLobbyTotal": 926321,
+      "israelLobbyTotalDisplay": "$926,321",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mark Messmer",
+      "officeLabel": "IN-08",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IN",
+      "israelLobbyTotal": 3291220,
+      "israelLobbyTotalDisplay": "$3,291,220",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Marlin Stutzman",
+      "officeLabel": "IN-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IN",
+      "israelLobbyTotal": 180720,
+      "israelLobbyTotalDisplay": "$180,720",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Rudy Yakym",
+      "officeLabel": "IN-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IN",
+      "israelLobbyTotal": 356500,
+      "israelLobbyTotalDisplay": "$356,500",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Todd Young",
+      "officeLabel": "IN-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IN",
+      "israelLobbyTotal": 1701904,
+      "israelLobbyTotalDisplay": "$1,701,904",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Victoria Spartz",
+      "officeLabel": "IN-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "IN",
+      "israelLobbyTotal": 255765,
+      "israelLobbyTotalDisplay": "$255,765",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Derek Schmidt",
+      "officeLabel": "KS-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "KS",
+      "israelLobbyTotal": 104414,
+      "israelLobbyTotalDisplay": "$104,414",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jerry Moran",
+      "officeLabel": "KS-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "KS",
+      "israelLobbyTotal": 732374,
+      "israelLobbyTotalDisplay": "$732,374",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Roger Marshall",
+      "officeLabel": "KS-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "KS",
+      "israelLobbyTotal": 691149,
+      "israelLobbyTotalDisplay": "$691,149",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ron Estes",
+      "officeLabel": "KS-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "KS",
+      "israelLobbyTotal": 239682,
+      "israelLobbyTotalDisplay": "$239,682",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Sharice Davids",
+      "officeLabel": "KS-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "KS",
+      "israelLobbyTotal": 1158888,
+      "israelLobbyTotalDisplay": "$1,158,888",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tracey Mann",
+      "officeLabel": "KS-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "KS",
+      "israelLobbyTotal": 129615,
+      "israelLobbyTotalDisplay": "$129,615",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Andy Barr",
+      "officeLabel": "KY-06",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "KY",
+      "israelLobbyTotal": 1320117,
+      "israelLobbyTotalDisplay": "$1,320,117",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Brett Guthrie",
+      "officeLabel": "KY-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "KY",
+      "israelLobbyTotal": 108156,
+      "israelLobbyTotalDisplay": "$108,156",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Hal Rogers",
+      "officeLabel": "KY-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "KY",
+      "israelLobbyTotal": 143585,
+      "israelLobbyTotalDisplay": "$143,585",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "James Comer",
+      "officeLabel": "KY-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "KY",
+      "israelLobbyTotal": 201003,
+      "israelLobbyTotalDisplay": "$201,003",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mitch McConnell",
+      "officeLabel": "KY-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "KY",
+      "israelLobbyTotal": 3888598,
+      "israelLobbyTotalDisplay": "$3,888,598",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Morgan McGarvey",
+      "officeLabel": "KY-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "KY",
+      "israelLobbyTotal": 362036,
+      "israelLobbyTotalDisplay": "$362,036",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Rand Paul",
+      "officeLabel": "KY-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "KY",
+      "israelLobbyTotal": 201753,
+      "israelLobbyTotalDisplay": "$201,753",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Thomas Massie",
+      "officeLabel": "KY-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "KY",
+      "israelLobbyTotal": 14650,
+      "israelLobbyTotalDisplay": "$14,650",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Bill Cassidy",
+      "officeLabel": "LA-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "LA",
+      "israelLobbyTotal": 2037247,
+      "israelLobbyTotalDisplay": "$2,037,247",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Clay Higgins",
+      "officeLabel": "LA-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "LA",
+      "israelLobbyTotal": 26846,
+      "israelLobbyTotalDisplay": "$26,846",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Cleo Fields",
+      "officeLabel": "LA-06",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "LA",
+      "israelLobbyTotal": 13167,
+      "israelLobbyTotalDisplay": "$13,167",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Kennedy",
+      "officeLabel": "LA-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "LA",
+      "israelLobbyTotal": 896118,
+      "israelLobbyTotalDisplay": "$896,118",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Julia Letlow",
+      "officeLabel": "LA-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "LA",
+      "israelLobbyTotal": 212146,
+      "israelLobbyTotalDisplay": "$212,146",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Johnson",
+      "officeLabel": "LA-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "LA",
+      "israelLobbyTotal": 3110639,
+      "israelLobbyTotalDisplay": "$3,110,639",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Steve Scalise",
+      "officeLabel": "LA-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "LA",
+      "israelLobbyTotal": 2675542,
+      "israelLobbyTotalDisplay": "$2,675,542",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Troy Carter",
+      "officeLabel": "LA-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "LA",
+      "israelLobbyTotal": 181387,
+      "israelLobbyTotalDisplay": "$181,387",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Bill Keating",
+      "officeLabel": "MA-09",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MA",
+      "israelLobbyTotal": 367128,
+      "israelLobbyTotalDisplay": "$367,128",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ed Markey",
+      "officeLabel": "MA-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MA",
+      "israelLobbyTotal": 1897285,
+      "israelLobbyTotalDisplay": "$1,897,285",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Elizabeth Warren",
+      "officeLabel": "MA-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MA",
+      "israelLobbyTotal": 1385014,
+      "israelLobbyTotalDisplay": "$1,385,014",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jake Auchincloss",
+      "officeLabel": "MA-04",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MA",
+      "israelLobbyTotal": 2671386,
+      "israelLobbyTotalDisplay": "$2,671,386",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jim McGovern",
+      "officeLabel": "MA-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MA",
+      "israelLobbyTotal": 297633,
+      "israelLobbyTotalDisplay": "$297,633",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Katherine Clark",
+      "officeLabel": "MA-05",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MA",
+      "israelLobbyTotal": 2249598,
+      "israelLobbyTotalDisplay": "$2,249,598",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Lori Trahan",
+      "officeLabel": "MA-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MA",
+      "israelLobbyTotal": 374119,
+      "israelLobbyTotalDisplay": "$374,119",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Richard Neal",
+      "officeLabel": "MA-01",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MA",
+      "israelLobbyTotal": 358386,
+      "israelLobbyTotalDisplay": "$358,386",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Seth Moulton",
+      "officeLabel": "MA-06",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MA",
+      "israelLobbyTotal": 784934,
+      "israelLobbyTotalDisplay": "$784,934",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Stephen Lynch",
+      "officeLabel": "MA-08",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MA",
+      "israelLobbyTotal": 85550,
+      "israelLobbyTotalDisplay": "$85,550",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Andy Harris",
+      "officeLabel": "MD-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MD",
+      "israelLobbyTotal": 332193,
+      "israelLobbyTotalDisplay": "$332,193",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Angela Alsobrooks",
+      "officeLabel": "MD-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MD",
+      "israelLobbyTotal": 1509536,
+      "israelLobbyTotalDisplay": "$1,509,536",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "April McClain Delaney",
+      "officeLabel": "MD-06",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MD",
+      "israelLobbyTotal": 259182,
+      "israelLobbyTotalDisplay": "$259,182",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Glenn Ivey",
+      "officeLabel": "MD-04",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MD",
+      "israelLobbyTotal": 8186424,
+      "israelLobbyTotalDisplay": "$8,186,424",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jamie Raskin",
+      "officeLabel": "MD-08",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MD",
+      "israelLobbyTotal": 1238058,
+      "israelLobbyTotalDisplay": "$1,238,058",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Olszewski",
+      "officeLabel": "MD-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MD",
+      "israelLobbyTotal": 199025,
+      "israelLobbyTotalDisplay": "$199,025",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Kweisi Mfume",
+      "officeLabel": "MD-07",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MD",
+      "israelLobbyTotal": 391677,
+      "israelLobbyTotalDisplay": "$391,677",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Sarah Elfreth",
+      "officeLabel": "MD-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MD",
+      "israelLobbyTotal": 4980286,
+      "israelLobbyTotalDisplay": "$4,980,286",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Steny Hoyer",
+      "officeLabel": "MD-05",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MD",
+      "israelLobbyTotal": 3546127,
+      "israelLobbyTotalDisplay": "$3,546,127",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Angus King",
+      "officeLabel": "ME-SEN",
+      "partyCode": "I",
+      "party": "Independent",
+      "state": "ME",
+      "israelLobbyTotal": 608694,
+      "israelLobbyTotalDisplay": "$608,694",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Chellie Pingree",
+      "officeLabel": "ME-01",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "ME",
+      "israelLobbyTotal": 288291,
+      "israelLobbyTotalDisplay": "$288,291",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jared Golden",
+      "officeLabel": "ME-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "ME",
+      "israelLobbyTotal": 3449465,
+      "israelLobbyTotalDisplay": "$3,449,465",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Susan Collins",
+      "officeLabel": "ME-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "ME",
+      "israelLobbyTotal": 3941019,
+      "israelLobbyTotalDisplay": "$3,941,019",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Bill Huizenga",
+      "officeLabel": "MI-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MI",
+      "israelLobbyTotal": 264585,
+      "israelLobbyTotalDisplay": "$264,585",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Debbie Dingell",
+      "officeLabel": "MI-06",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MI",
+      "israelLobbyTotal": 265158,
+      "israelLobbyTotalDisplay": "$265,158",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Elissa Slotkin",
+      "officeLabel": "MI-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MI",
+      "israelLobbyTotal": 4517023,
+      "israelLobbyTotalDisplay": "$4,517,023",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Gary Peters",
+      "officeLabel": "MI-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MI",
+      "israelLobbyTotal": 3386784,
+      "israelLobbyTotalDisplay": "$3,386,784",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Haley Stevens",
+      "officeLabel": "MI-11",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MI",
+      "israelLobbyTotal": 9094690,
+      "israelLobbyTotalDisplay": "$9,094,690",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Hillary Scholten",
+      "officeLabel": "MI-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MI",
+      "israelLobbyTotal": 1324019,
+      "israelLobbyTotalDisplay": "$1,324,019",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jack Bergman",
+      "officeLabel": "MI-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MI",
+      "israelLobbyTotal": 310988,
+      "israelLobbyTotalDisplay": "$310,988",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John James",
+      "officeLabel": "MI-10",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MI",
+      "israelLobbyTotal": 1592822,
+      "israelLobbyTotalDisplay": "$1,592,822",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Moolenaar",
+      "officeLabel": "MI-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MI",
+      "israelLobbyTotal": 207981,
+      "israelLobbyTotalDisplay": "$207,981",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Kristen McDonald Rivet",
+      "officeLabel": "MI-08",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MI",
+      "israelLobbyTotal": 894731,
+      "israelLobbyTotalDisplay": "$894,731",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Lisa McClain",
+      "officeLabel": "MI-09",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MI",
+      "israelLobbyTotal": 271330,
+      "israelLobbyTotalDisplay": "$271,330",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Shri Thanedar",
+      "officeLabel": "MI-13",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MI",
+      "israelLobbyTotal": 740370,
+      "israelLobbyTotalDisplay": "$740,370",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tim Walberg",
+      "officeLabel": "MI-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MI",
+      "israelLobbyTotal": 585914,
+      "israelLobbyTotalDisplay": "$585,914",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tom Barrett",
+      "officeLabel": "MI-07",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MI",
+      "israelLobbyTotal": 305198,
+      "israelLobbyTotalDisplay": "$305,198",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Amy Klobuchar",
+      "officeLabel": "MN-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MN",
+      "israelLobbyTotal": 3074868,
+      "israelLobbyTotalDisplay": "$3,074,868",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Angie Craig",
+      "officeLabel": "MN-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MN",
+      "israelLobbyTotal": 3270151,
+      "israelLobbyTotalDisplay": "$3,270,151",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Brad Finstad",
+      "officeLabel": "MN-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MN",
+      "israelLobbyTotal": 94913,
+      "israelLobbyTotalDisplay": "$94,913",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Michelle Fischbach",
+      "officeLabel": "MN-07",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MN",
+      "israelLobbyTotal": 221288,
+      "israelLobbyTotalDisplay": "$221,288",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Pete Stauber",
+      "officeLabel": "MN-08",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MN",
+      "israelLobbyTotal": 254846,
+      "israelLobbyTotalDisplay": "$254,846",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tina Smith",
+      "officeLabel": "MN-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MN",
+      "israelLobbyTotal": 923735,
+      "israelLobbyTotalDisplay": "$923,735",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tom Emmer",
+      "officeLabel": "MN-06",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MN",
+      "israelLobbyTotal": 1984488,
+      "israelLobbyTotalDisplay": "$1,984,488",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ann Wagner",
+      "officeLabel": "MO-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MO",
+      "israelLobbyTotal": 766417,
+      "israelLobbyTotalDisplay": "$766,417",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Bob Onder",
+      "officeLabel": "MO-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MO",
+      "israelLobbyTotal": 35263,
+      "israelLobbyTotalDisplay": "$35,263",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Emanuel Cleaver",
+      "officeLabel": "MO-05",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MO",
+      "israelLobbyTotal": 268566,
+      "israelLobbyTotalDisplay": "$268,566",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Eric Burlison",
+      "officeLabel": "MO-07",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MO",
+      "israelLobbyTotal": 62811,
+      "israelLobbyTotalDisplay": "$62,811",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Eric Schmitt",
+      "officeLabel": "MO-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MO",
+      "israelLobbyTotal": 16931015,
+      "israelLobbyTotalDisplay": "$16,931,015",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jason Smith",
+      "officeLabel": "MO-08",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MO",
+      "israelLobbyTotal": 379737,
+      "israelLobbyTotalDisplay": "$379,737",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Josh Hawley",
+      "officeLabel": "MO-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MO",
+      "israelLobbyTotal": 983446,
+      "israelLobbyTotalDisplay": "$983,446",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mark Alford",
+      "officeLabel": "MO-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MO",
+      "israelLobbyTotal": 131728,
+      "israelLobbyTotalDisplay": "$131,728",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Sam Graves",
+      "officeLabel": "MO-06",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MO",
+      "israelLobbyTotal": 164296,
+      "israelLobbyTotalDisplay": "$164,296",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Bennie Thompson",
+      "officeLabel": "MS-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "MS",
+      "israelLobbyTotal": 55468,
+      "israelLobbyTotalDisplay": "$55,468",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Cindy Hyde-Smith",
+      "officeLabel": "MS-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MS",
+      "israelLobbyTotal": 814281,
+      "israelLobbyTotalDisplay": "$814,281",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Michael Guest",
+      "officeLabel": "MS-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MS",
+      "israelLobbyTotal": 66755,
+      "israelLobbyTotalDisplay": "$66,755",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Ezell",
+      "officeLabel": "MS-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MS",
+      "israelLobbyTotal": 78922,
+      "israelLobbyTotalDisplay": "$78,922",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Roger Wicker",
+      "officeLabel": "MS-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MS",
+      "israelLobbyTotal": 1463291,
+      "israelLobbyTotalDisplay": "$1,463,291",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Trent Kelly",
+      "officeLabel": "MS-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MS",
+      "israelLobbyTotal": 87033,
+      "israelLobbyTotalDisplay": "$87,033",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ryan Zinke",
+      "officeLabel": "MT-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MT",
+      "israelLobbyTotal": 292838,
+      "israelLobbyTotalDisplay": "$292,838",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Steve Daines",
+      "officeLabel": "MT-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MT",
+      "israelLobbyTotal": 1829026,
+      "israelLobbyTotalDisplay": "$1,829,026",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tim Sheehy",
+      "officeLabel": "MT-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MT",
+      "israelLobbyTotal": 641337,
+      "israelLobbyTotalDisplay": "$641,337",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Troy Downing",
+      "officeLabel": "MT-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "MT",
+      "israelLobbyTotal": 30825,
+      "israelLobbyTotalDisplay": "$30,825",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Addison McDowell",
+      "officeLabel": "NC-06",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NC",
+      "israelLobbyTotal": 54527,
+      "israelLobbyTotalDisplay": "$54,527",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Alma Adams",
+      "officeLabel": "NC-12",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NC",
+      "israelLobbyTotal": 97437,
+      "israelLobbyTotalDisplay": "$97,437",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Brad Knott",
+      "officeLabel": "NC-13",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NC",
+      "israelLobbyTotal": 25050,
+      "israelLobbyTotalDisplay": "$25,050",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Chuck Edwards",
+      "officeLabel": "NC-11",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NC",
+      "israelLobbyTotal": 155538,
+      "israelLobbyTotalDisplay": "$155,538",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "David Rouzer",
+      "officeLabel": "NC-07",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NC",
+      "israelLobbyTotal": 147300,
+      "israelLobbyTotalDisplay": "$147,300",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Deborah Ross",
+      "officeLabel": "NC-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NC",
+      "israelLobbyTotal": 1203265,
+      "israelLobbyTotalDisplay": "$1,203,265",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Don Davis",
+      "officeLabel": "NC-01",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NC",
+      "israelLobbyTotal": 5596890,
+      "israelLobbyTotalDisplay": "$5,596,890",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Greg Murphy",
+      "officeLabel": "NC-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NC",
+      "israelLobbyTotal": 218267,
+      "israelLobbyTotalDisplay": "$218,267",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mark Harris",
+      "officeLabel": "NC-08",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NC",
+      "israelLobbyTotal": 35753,
+      "israelLobbyTotalDisplay": "$35,753",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Pat Harrigan",
+      "officeLabel": "NC-10",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NC",
+      "israelLobbyTotal": 126511,
+      "israelLobbyTotalDisplay": "$126,511",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Richard Hudson",
+      "officeLabel": "NC-09",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NC",
+      "israelLobbyTotal": 550362,
+      "israelLobbyTotalDisplay": "$550,362",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ted Budd",
+      "officeLabel": "NC-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NC",
+      "israelLobbyTotal": 689546,
+      "israelLobbyTotalDisplay": "$689,546",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Thom Tillis",
+      "officeLabel": "NC-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NC",
+      "israelLobbyTotal": 1682234,
+      "israelLobbyTotalDisplay": "$1,682,234",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tim Moore",
+      "officeLabel": "NC-14",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NC",
+      "israelLobbyTotal": 69057,
+      "israelLobbyTotalDisplay": "$69,057",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Valerie Foushee",
+      "officeLabel": "NC-04",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NC",
+      "israelLobbyTotal": 3362373,
+      "israelLobbyTotalDisplay": "$3,362,373",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Virginia Foxx",
+      "officeLabel": "NC-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NC",
+      "israelLobbyTotal": 798513,
+      "israelLobbyTotalDisplay": "$798,513",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Hoeven",
+      "officeLabel": "ND-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "ND",
+      "israelLobbyTotal": 164685,
+      "israelLobbyTotalDisplay": "$164,685",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Kevin Cramer",
+      "officeLabel": "ND-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "ND",
+      "israelLobbyTotal": 969170,
+      "israelLobbyTotalDisplay": "$969,170",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Adrian Smith",
+      "officeLabel": "NE-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NE",
+      "israelLobbyTotal": 70575,
+      "israelLobbyTotalDisplay": "$70,575",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Deb Fischer",
+      "officeLabel": "NE-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NE",
+      "israelLobbyTotal": 1594052,
+      "israelLobbyTotalDisplay": "$1,594,052",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Don Bacon",
+      "officeLabel": "NE-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NE",
+      "israelLobbyTotal": 2967090,
+      "israelLobbyTotalDisplay": "$2,967,090",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Flood",
+      "officeLabel": "NE-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NE",
+      "israelLobbyTotal": 92736,
+      "israelLobbyTotalDisplay": "$92,736",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Pete Ricketts",
+      "officeLabel": "NE-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NE",
+      "israelLobbyTotal": 860783,
+      "israelLobbyTotalDisplay": "$860,783",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Chris Pappas",
+      "officeLabel": "NH-01",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NH",
+      "israelLobbyTotal": 2709473,
+      "israelLobbyTotalDisplay": "$2,709,473",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "officeLabel": "NH-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NH",
+      "israelLobbyTotal": 1781761,
+      "israelLobbyTotalDisplay": "$1,781,761",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Maggie Goodlander",
+      "officeLabel": "NH-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NH",
+      "israelLobbyTotal": 754504,
+      "israelLobbyTotalDisplay": "$754,504",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Maggie Hassan",
+      "officeLabel": "NH-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NH",
+      "israelLobbyTotal": 3363137,
+      "israelLobbyTotalDisplay": "$3,363,137",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Andy Kim",
+      "officeLabel": "NJ-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NJ",
+      "israelLobbyTotal": 2098021,
+      "israelLobbyTotalDisplay": "$2,098,021",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Chris Smith",
+      "officeLabel": "NJ-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NJ",
+      "israelLobbyTotal": 571918,
+      "israelLobbyTotalDisplay": "$571,918",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Cory Booker",
+      "officeLabel": "NJ-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NJ",
+      "israelLobbyTotal": 5818073,
+      "israelLobbyTotalDisplay": "$5,818,073",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Donald Norcross",
+      "officeLabel": "NJ-01",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NJ",
+      "israelLobbyTotal": 804333,
+      "israelLobbyTotalDisplay": "$804,333",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Frank Pallone",
+      "officeLabel": "NJ-06",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NJ",
+      "israelLobbyTotal": 845023,
+      "israelLobbyTotalDisplay": "$845,023",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Herb Conaway",
+      "officeLabel": "NJ-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NJ",
+      "israelLobbyTotal": 74550,
+      "israelLobbyTotalDisplay": "$74,550",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jeff Van Drew",
+      "officeLabel": "NJ-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NJ",
+      "israelLobbyTotal": 429267,
+      "israelLobbyTotalDisplay": "$429,267",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Josh Gottheimer",
+      "officeLabel": "NJ-05",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NJ",
+      "israelLobbyTotal": 6745156,
+      "israelLobbyTotalDisplay": "$6,745,156",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Nellie Pou",
+      "officeLabel": "NJ-09",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NJ",
+      "israelLobbyTotal": 25197,
+      "israelLobbyTotalDisplay": "$25,197",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Rob Menendez",
+      "officeLabel": "NJ-08",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NJ",
+      "israelLobbyTotal": 1035064,
+      "israelLobbyTotalDisplay": "$1,035,064",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tom Kean",
+      "officeLabel": "NJ-07",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NJ",
+      "israelLobbyTotal": 2489504,
+      "israelLobbyTotalDisplay": "$2,489,504",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ben Ray Lujan",
+      "officeLabel": "NM-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NM",
+      "israelLobbyTotal": 639893,
+      "israelLobbyTotalDisplay": "$639,893",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Gabe Vasquez",
+      "officeLabel": "NM-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NM",
+      "israelLobbyTotal": 754125,
+      "israelLobbyTotalDisplay": "$754,125",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Martin Heinrich",
+      "officeLabel": "NM-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NM",
+      "israelLobbyTotal": 901358,
+      "israelLobbyTotalDisplay": "$901,358",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Melanie Stansbury",
+      "officeLabel": "NM-01",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NM",
+      "israelLobbyTotal": 171723,
+      "israelLobbyTotalDisplay": "$171,723",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Teresa Leger Fernandez",
+      "officeLabel": "NM-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NM",
+      "israelLobbyTotal": 421271,
+      "israelLobbyTotalDisplay": "$421,271",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Catherine Cortez-Masto",
+      "officeLabel": "NV-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NV",
+      "israelLobbyTotal": 3180044,
+      "israelLobbyTotalDisplay": "$3,180,044",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Dina Titus",
+      "officeLabel": "NV-01",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NV",
+      "israelLobbyTotal": 630114,
+      "israelLobbyTotalDisplay": "$630,114",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jacky Rosen",
+      "officeLabel": "NV-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NV",
+      "israelLobbyTotal": 7602864,
+      "israelLobbyTotalDisplay": "$7,602,864",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mark Amodei",
+      "officeLabel": "NV-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NV",
+      "israelLobbyTotal": 149389,
+      "israelLobbyTotalDisplay": "$149,389",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Steven Horsford",
+      "officeLabel": "NV-04",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NV",
+      "israelLobbyTotal": 939139,
+      "israelLobbyTotalDisplay": "$939,139",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Susie Lee",
+      "officeLabel": "NV-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NV",
+      "israelLobbyTotal": 2506290,
+      "israelLobbyTotalDisplay": "$2,506,290",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Adriano Espaillat",
+      "officeLabel": "NY-13",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 780675,
+      "israelLobbyTotalDisplay": "$780,675",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Andrew Garbarino",
+      "officeLabel": "NY-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NY",
+      "israelLobbyTotal": 679627,
+      "israelLobbyTotalDisplay": "$679,627",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Chuck Schumer",
+      "officeLabel": "NY-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 6534797,
+      "israelLobbyTotalDisplay": "$6,534,797",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Claudia Tenney",
+      "officeLabel": "NY-24",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NY",
+      "israelLobbyTotal": 784341,
+      "israelLobbyTotalDisplay": "$784,341",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Dan Goldman",
+      "officeLabel": "NY-10",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 1764818,
+      "israelLobbyTotalDisplay": "$1,764,818",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Elise Stefanik",
+      "officeLabel": "NY-21",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NY",
+      "israelLobbyTotal": 2985287,
+      "israelLobbyTotalDisplay": "$2,985,287",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "George Latimer",
+      "officeLabel": "NY-16",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 22673131,
+      "israelLobbyTotalDisplay": "$22,673,131",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Gregory Meeks",
+      "officeLabel": "NY-05",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 2239471,
+      "israelLobbyTotalDisplay": "$2,239,471",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "officeLabel": "NY-08",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 5524449,
+      "israelLobbyTotalDisplay": "$5,524,449",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jerry Nadler",
+      "officeLabel": "NY-12",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 1787185,
+      "israelLobbyTotalDisplay": "$1,787,185",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Joe Morelle",
+      "officeLabel": "NY-25",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 550763,
+      "israelLobbyTotalDisplay": "$550,763",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Mannion",
+      "officeLabel": "NY-22",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 400907,
+      "israelLobbyTotalDisplay": "$400,907",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Josh Riley",
+      "officeLabel": "NY-19",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 882674,
+      "israelLobbyTotalDisplay": "$882,674",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "officeLabel": "NY-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 3290289,
+      "israelLobbyTotalDisplay": "$3,290,289",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Laura Gillen",
+      "officeLabel": "NY-04",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 962453,
+      "israelLobbyTotalDisplay": "$962,453",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Lawler",
+      "officeLabel": "NY-17",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NY",
+      "israelLobbyTotal": 2679471,
+      "israelLobbyTotalDisplay": "$2,679,471",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Nick LaLota",
+      "officeLabel": "NY-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NY",
+      "israelLobbyTotal": 638058,
+      "israelLobbyTotalDisplay": "$638,058",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Nick Langworthy",
+      "officeLabel": "NY-23",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NY",
+      "israelLobbyTotal": 289432,
+      "israelLobbyTotalDisplay": "$289,432",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Nicole Malliotakis",
+      "officeLabel": "NY-11",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "NY",
+      "israelLobbyTotal": 976214,
+      "israelLobbyTotalDisplay": "$976,214",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Pat Ryan",
+      "officeLabel": "NY-18",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 1617773,
+      "israelLobbyTotalDisplay": "$1,617,773",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Paul Tonko",
+      "officeLabel": "NY-20",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 155239,
+      "israelLobbyTotalDisplay": "$155,239",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ritchie Torres",
+      "officeLabel": "NY-15",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 6776001,
+      "israelLobbyTotalDisplay": "$6,776,001",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tim Kennedy",
+      "officeLabel": "NY-26",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 201935,
+      "israelLobbyTotalDisplay": "$201,935",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tom Suozzi",
+      "officeLabel": "NY-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 1908212,
+      "israelLobbyTotalDisplay": "$1,908,212",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Yvette Clarke",
+      "officeLabel": "NY-09",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "NY",
+      "israelLobbyTotal": 322673,
+      "israelLobbyTotalDisplay": "$322,673",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Bernie Moreno",
+      "officeLabel": "OH-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OH",
+      "israelLobbyTotal": 1137218,
+      "israelLobbyTotalDisplay": "$1,137,218",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Bob Latta",
+      "officeLabel": "OH-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OH",
+      "israelLobbyTotal": 247788,
+      "israelLobbyTotalDisplay": "$247,788",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Dave Joyce",
+      "officeLabel": "OH-14",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OH",
+      "israelLobbyTotal": 438057,
+      "israelLobbyTotalDisplay": "$438,057",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "David Taylor",
+      "officeLabel": "OH-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OH",
+      "israelLobbyTotal": 68121,
+      "israelLobbyTotalDisplay": "$68,121",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Emilia Sykes",
+      "officeLabel": "OH-13",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "OH",
+      "israelLobbyTotal": 1061993,
+      "israelLobbyTotalDisplay": "$1,061,993",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Greg Landsman",
+      "officeLabel": "OH-01",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "OH",
+      "israelLobbyTotal": 1733305,
+      "israelLobbyTotalDisplay": "$1,733,305",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jim Jordan",
+      "officeLabel": "OH-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OH",
+      "israelLobbyTotal": 711711,
+      "israelLobbyTotalDisplay": "$711,711",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jon Husted",
+      "officeLabel": "OH-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OH",
+      "israelLobbyTotal": 194627,
+      "israelLobbyTotalDisplay": "$194,627",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Joyce Beatty",
+      "officeLabel": "OH-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "OH",
+      "israelLobbyTotal": 431314,
+      "israelLobbyTotalDisplay": "$431,314",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Marcy Kaptur",
+      "officeLabel": "OH-09",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "OH",
+      "israelLobbyTotal": 857037,
+      "israelLobbyTotalDisplay": "$857,037",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Max Miller",
+      "officeLabel": "OH-07",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OH",
+      "israelLobbyTotal": 964930,
+      "israelLobbyTotalDisplay": "$964,930",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Michael Rulli",
+      "officeLabel": "OH-06",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OH",
+      "israelLobbyTotal": 75405,
+      "israelLobbyTotalDisplay": "$75,405",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Carey",
+      "officeLabel": "OH-15",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OH",
+      "israelLobbyTotal": 181351,
+      "israelLobbyTotalDisplay": "$181,351",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Turner",
+      "officeLabel": "OH-10",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OH",
+      "israelLobbyTotal": 611931,
+      "israelLobbyTotalDisplay": "$611,931",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Shontel Brown",
+      "officeLabel": "OH-11",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "OH",
+      "israelLobbyTotal": 6639385,
+      "israelLobbyTotalDisplay": "$6,639,385",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Troy Balderson",
+      "officeLabel": "OH-12",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OH",
+      "israelLobbyTotal": 264697,
+      "israelLobbyTotalDisplay": "$264,697",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Warren Davidson",
+      "officeLabel": "OH-08",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OH",
+      "israelLobbyTotal": 62078,
+      "israelLobbyTotalDisplay": "$62,078",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Frank Lucas",
+      "officeLabel": "OK-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OK",
+      "israelLobbyTotal": 19594,
+      "israelLobbyTotalDisplay": "$19,594",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "James Lankford",
+      "officeLabel": "OK-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OK",
+      "israelLobbyTotal": 880737,
+      "israelLobbyTotalDisplay": "$880,737",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Josh Brecheen",
+      "officeLabel": "OK-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OK",
+      "israelLobbyTotal": 49630,
+      "israelLobbyTotalDisplay": "$49,630",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Kevin Hern",
+      "officeLabel": "OK-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OK",
+      "israelLobbyTotal": 204904,
+      "israelLobbyTotalDisplay": "$204,904",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "officeLabel": "OK-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OK",
+      "israelLobbyTotal": 410140,
+      "israelLobbyTotalDisplay": "$410,140",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Stephanie Bice",
+      "officeLabel": "OK-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OK",
+      "israelLobbyTotal": 230159,
+      "israelLobbyTotalDisplay": "$230,159",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tom Cole",
+      "officeLabel": "OK-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OK",
+      "israelLobbyTotal": 1191029,
+      "israelLobbyTotalDisplay": "$1,191,029",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Andrea Salinas",
+      "officeLabel": "OR-06",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "OR",
+      "israelLobbyTotal": 776642,
+      "israelLobbyTotalDisplay": "$776,642",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Cliff Bentz",
+      "officeLabel": "OR-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "OR",
+      "israelLobbyTotal": 27236,
+      "israelLobbyTotalDisplay": "$27,236",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Janelle Bynum",
+      "officeLabel": "OR-05",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "OR",
+      "israelLobbyTotal": 3932786,
+      "israelLobbyTotalDisplay": "$3,932,786",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Maxine Dexter",
+      "officeLabel": "OR-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "OR",
+      "israelLobbyTotal": 1366218,
+      "israelLobbyTotalDisplay": "$1,366,218",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ron Wyden",
+      "officeLabel": "OR-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "OR",
+      "israelLobbyTotal": 3240227,
+      "israelLobbyTotalDisplay": "$3,240,227",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Suzanne Bonamici",
+      "officeLabel": "OR-01",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "OR",
+      "israelLobbyTotal": 302305,
+      "israelLobbyTotalDisplay": "$302,305",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Val Hoyle",
+      "officeLabel": "OR-04",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "OR",
+      "israelLobbyTotal": 246499,
+      "israelLobbyTotalDisplay": "$246,499",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Brendan Boyle",
+      "officeLabel": "PA-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "PA",
+      "israelLobbyTotal": 1318299,
+      "israelLobbyTotalDisplay": "$1,318,299",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Brian Fitzpatrick",
+      "officeLabel": "PA-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "PA",
+      "israelLobbyTotal": 2412780,
+      "israelLobbyTotalDisplay": "$2,412,780",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Chris DeLuzio",
+      "officeLabel": "PA-17",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "PA",
+      "israelLobbyTotal": 1092933,
+      "israelLobbyTotalDisplay": "$1,092,933",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Chrissy Houlahan",
+      "officeLabel": "PA-06",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "PA",
+      "israelLobbyTotal": 846553,
+      "israelLobbyTotalDisplay": "$846,553",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Dan Meuser",
+      "officeLabel": "PA-09",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "PA",
+      "israelLobbyTotal": 132289,
+      "israelLobbyTotalDisplay": "$132,289",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Dave McCormick",
+      "officeLabel": "PA-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "PA",
+      "israelLobbyTotal": 1054468,
+      "israelLobbyTotalDisplay": "$1,054,468",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Dwight Evans",
+      "officeLabel": "PA-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "PA",
+      "israelLobbyTotal": 157219,
+      "israelLobbyTotalDisplay": "$157,219",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Glenn \"G.T.\" Thompson",
+      "officeLabel": "PA-15",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "PA",
+      "israelLobbyTotal": 32372,
+      "israelLobbyTotalDisplay": "$32,372",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Guy Reschenthaler",
+      "officeLabel": "PA-14",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "PA",
+      "israelLobbyTotal": 872522,
+      "israelLobbyTotalDisplay": "$872,522",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Fetterman",
+      "officeLabel": "PA-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "PA",
+      "israelLobbyTotal": 1898963,
+      "israelLobbyTotalDisplay": "$1,898,963",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Joyce",
+      "officeLabel": "PA-13",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "PA",
+      "israelLobbyTotal": 21181,
+      "israelLobbyTotalDisplay": "$21,181",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Lloyd Smucker",
+      "officeLabel": "PA-11",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "PA",
+      "israelLobbyTotal": 231758,
+      "israelLobbyTotalDisplay": "$231,758",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Madeleine Dean",
+      "officeLabel": "PA-04",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "PA",
+      "israelLobbyTotal": 354947,
+      "israelLobbyTotalDisplay": "$354,947",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mary Gay Scanlon",
+      "officeLabel": "PA-05",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "PA",
+      "israelLobbyTotal": 359861,
+      "israelLobbyTotalDisplay": "$359,861",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Kelly",
+      "officeLabel": "PA-16",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "PA",
+      "israelLobbyTotal": 154591,
+      "israelLobbyTotalDisplay": "$154,591",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Rob Bresnahan",
+      "officeLabel": "PA-08",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "PA",
+      "israelLobbyTotal": 251022,
+      "israelLobbyTotalDisplay": "$251,022",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ryan Mackenzie",
+      "officeLabel": "PA-07",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "PA",
+      "israelLobbyTotal": 201577,
+      "israelLobbyTotalDisplay": "$201,577",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Scott Perry",
+      "officeLabel": "PA-10",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "PA",
+      "israelLobbyTotal": 544344,
+      "israelLobbyTotalDisplay": "$544,344",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Thune",
+      "officeLabel": "SD-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "SD",
+      "israelLobbyTotal": 1081083,
+      "israelLobbyTotalDisplay": "$1,081,083",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Rounds",
+      "officeLabel": "SD-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "SD",
+      "israelLobbyTotal": 323198,
+      "israelLobbyTotalDisplay": "$323,198",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Andy Ogles",
+      "officeLabel": "TN-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TN",
+      "israelLobbyTotal": 74629,
+      "israelLobbyTotalDisplay": "$74,629",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Bill Hagerty",
+      "officeLabel": "TN-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TN",
+      "israelLobbyTotal": 666725,
+      "israelLobbyTotalDisplay": "$666,725",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "David Kustoff",
+      "officeLabel": "TN-08",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TN",
+      "israelLobbyTotal": 657518,
+      "israelLobbyTotalDisplay": "$657,518",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Diana Harshbarger",
+      "officeLabel": "TN-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TN",
+      "israelLobbyTotal": 95474,
+      "israelLobbyTotalDisplay": "$95,474",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Rose",
+      "officeLabel": "TN-06",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TN",
+      "israelLobbyTotal": 98125,
+      "israelLobbyTotalDisplay": "$98,125",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Marsha Blackburn",
+      "officeLabel": "TN-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TN",
+      "israelLobbyTotal": 1430020,
+      "israelLobbyTotalDisplay": "$1,430,020",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Matt Van Epps",
+      "officeLabel": "TN-07",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TN",
+      "israelLobbyTotal": 46033,
+      "israelLobbyTotalDisplay": "$46,033",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Scott DesJarlais",
+      "officeLabel": "TN-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TN",
+      "israelLobbyTotal": 78085,
+      "israelLobbyTotalDisplay": "$78,085",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Steve Cohen",
+      "officeLabel": "TN-09",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "TN",
+      "israelLobbyTotal": 312346,
+      "israelLobbyTotalDisplay": "$312,346",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tim Burchett",
+      "officeLabel": "TN-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TN",
+      "israelLobbyTotal": 155858,
+      "israelLobbyTotalDisplay": "$155,858",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Al Green",
+      "officeLabel": "TX-09",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "TX",
+      "israelLobbyTotal": 56055,
+      "israelLobbyTotalDisplay": "$56,055",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "August Pfluger",
+      "officeLabel": "TX-11",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 401275,
+      "israelLobbyTotalDisplay": "$401,275",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Beth Van Duyne",
+      "officeLabel": "TX-24",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 484616,
+      "israelLobbyTotalDisplay": "$484,616",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Brandon Gill",
+      "officeLabel": "TX-26",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 73578,
+      "israelLobbyTotalDisplay": "$73,578",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Brian Babin",
+      "officeLabel": "TX-36",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 154742,
+      "israelLobbyTotalDisplay": "$154,742",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Chip Roy",
+      "officeLabel": "TX-21",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 312912,
+      "israelLobbyTotalDisplay": "$312,912",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Christian Menefee",
+      "officeLabel": "TX-18",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "TX",
+      "israelLobbyTotal": 63500,
+      "israelLobbyTotalDisplay": "$63,500",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Craig Goldman",
+      "officeLabel": "TX-12",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 321707,
+      "israelLobbyTotalDisplay": "$321,707",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Dan Crenshaw",
+      "officeLabel": "TX-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 871815,
+      "israelLobbyTotalDisplay": "$871,815",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Henry Cuellar",
+      "officeLabel": "TX-28",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "TX",
+      "israelLobbyTotal": 3239485,
+      "israelLobbyTotalDisplay": "$3,239,485",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jake Ellzey",
+      "officeLabel": "TX-06",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 365649,
+      "israelLobbyTotalDisplay": "$365,649",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jasmine Crockett",
+      "officeLabel": "TX-30",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "TX",
+      "israelLobbyTotal": 86112,
+      "israelLobbyTotalDisplay": "$86,112",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Joaquin Castro",
+      "officeLabel": "TX-20",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "TX",
+      "israelLobbyTotal": 115638,
+      "israelLobbyTotalDisplay": "$115,638",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jodey Arrington",
+      "officeLabel": "TX-19",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 129731,
+      "israelLobbyTotalDisplay": "$129,731",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Carter",
+      "officeLabel": "TX-31",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 309810,
+      "israelLobbyTotalDisplay": "$309,810",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Cornyn",
+      "officeLabel": "TX-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 2086416,
+      "israelLobbyTotalDisplay": "$2,086,416",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Julie Johnson",
+      "officeLabel": "TX-32",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "TX",
+      "israelLobbyTotal": 189665,
+      "israelLobbyTotalDisplay": "$189,665",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Keith Self",
+      "officeLabel": "TX-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 87500,
+      "israelLobbyTotalDisplay": "$87,500",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Lance Gooden",
+      "officeLabel": "TX-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 188685,
+      "israelLobbyTotalDisplay": "$188,685",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Lizzie Fletcher",
+      "officeLabel": "TX-07",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "TX",
+      "israelLobbyTotal": 1037331,
+      "israelLobbyTotalDisplay": "$1,037,331",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Lloyd Doggett",
+      "officeLabel": "TX-37",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "TX",
+      "israelLobbyTotal": 254582,
+      "israelLobbyTotalDisplay": "$254,582",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Marc Veasey",
+      "officeLabel": "TX-33",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "TX",
+      "israelLobbyTotal": 413271,
+      "israelLobbyTotalDisplay": "$413,271",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Michael Cloud",
+      "officeLabel": "TX-27",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 76248,
+      "israelLobbyTotalDisplay": "$76,248",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Michael McCaul",
+      "officeLabel": "TX-10",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 2468040,
+      "israelLobbyTotalDisplay": "$2,468,040",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Monica De La Cruz",
+      "officeLabel": "TX-15",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 431016,
+      "israelLobbyTotalDisplay": "$431,016",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Morgan Luttrell",
+      "officeLabel": "TX-08",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 104886,
+      "israelLobbyTotalDisplay": "$104,886",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Nathaniel Moran",
+      "officeLabel": "TX-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 111319,
+      "israelLobbyTotalDisplay": "$111,319",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Pat Fallon",
+      "officeLabel": "TX-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 138288,
+      "israelLobbyTotalDisplay": "$138,288",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Pete Sessions",
+      "officeLabel": "TX-17",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 485444,
+      "israelLobbyTotalDisplay": "$485,444",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Randy Weber",
+      "officeLabel": "TX-14",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 296177,
+      "israelLobbyTotalDisplay": "$296,177",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Roger Williams",
+      "officeLabel": "TX-25",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 195452,
+      "israelLobbyTotalDisplay": "$195,452",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ronny Jackson",
+      "officeLabel": "TX-13",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 307005,
+      "israelLobbyTotalDisplay": "$307,005",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Sylvia Garcia",
+      "officeLabel": "TX-29",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "TX",
+      "israelLobbyTotal": 224407,
+      "israelLobbyTotalDisplay": "$224,407",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ted Cruz",
+      "officeLabel": "TX-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 6117698,
+      "israelLobbyTotalDisplay": "$6,117,698",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Troy Nehls",
+      "officeLabel": "TX-22",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 3030108,
+      "israelLobbyTotalDisplay": "$3,030,108",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Veronica Escobar",
+      "officeLabel": "TX-16",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "TX",
+      "israelLobbyTotal": 200234,
+      "israelLobbyTotalDisplay": "$200,234",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Vicente Gonzalez",
+      "officeLabel": "TX-34",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "TX",
+      "israelLobbyTotal": 857702,
+      "israelLobbyTotalDisplay": "$857,702",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Wesley Hunt",
+      "officeLabel": "TX-38",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "TX",
+      "israelLobbyTotal": 502870,
+      "israelLobbyTotalDisplay": "$502,870",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Blake Moore",
+      "officeLabel": "UT-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "UT",
+      "israelLobbyTotal": 210688,
+      "israelLobbyTotalDisplay": "$210,688",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Burgess Owens",
+      "officeLabel": "UT-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "UT",
+      "israelLobbyTotal": 335518,
+      "israelLobbyTotalDisplay": "$335,518",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Celeste Maloy",
+      "officeLabel": "UT-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "UT",
+      "israelLobbyTotal": 165181,
+      "israelLobbyTotalDisplay": "$165,181",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Curtis",
+      "officeLabel": "UT-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "UT",
+      "israelLobbyTotal": 434091,
+      "israelLobbyTotalDisplay": "$434,091",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Kennedy",
+      "officeLabel": "UT-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "UT",
+      "israelLobbyTotal": 24291,
+      "israelLobbyTotalDisplay": "$24,291",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mike Lee",
+      "officeLabel": "UT-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "UT",
+      "israelLobbyTotal": 1419745,
+      "israelLobbyTotalDisplay": "$1,419,745",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ben Cline",
+      "officeLabel": "VA-06",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "VA",
+      "israelLobbyTotal": 85291,
+      "israelLobbyTotalDisplay": "$85,291",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Bobby Scott",
+      "officeLabel": "VA-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "VA",
+      "israelLobbyTotal": 111925,
+      "israelLobbyTotalDisplay": "$111,925",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Don Beyer",
+      "officeLabel": "VA-08",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "VA",
+      "israelLobbyTotal": 447047,
+      "israelLobbyTotalDisplay": "$447,047",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Eugene Vindman",
+      "officeLabel": "VA-07",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "VA",
+      "israelLobbyTotal": 514560,
+      "israelLobbyTotalDisplay": "$514,560",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "James Walkinshaw",
+      "officeLabel": "VA-11",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "VA",
+      "israelLobbyTotal": 61940,
+      "israelLobbyTotalDisplay": "$61,940",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jen Kiggans",
+      "officeLabel": "VA-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "VA",
+      "israelLobbyTotal": 439777,
+      "israelLobbyTotalDisplay": "$439,777",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jennifer McClellan",
+      "officeLabel": "VA-04",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "VA",
+      "israelLobbyTotal": 210086,
+      "israelLobbyTotalDisplay": "$210,086",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John McGuire",
+      "officeLabel": "VA-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "VA",
+      "israelLobbyTotal": 576037,
+      "israelLobbyTotalDisplay": "$576,037",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Mark Warner",
+      "officeLabel": "VA-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "VA",
+      "israelLobbyTotal": 3050177,
+      "israelLobbyTotalDisplay": "$3,050,177",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Morgan Griffith",
+      "officeLabel": "VA-09",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "VA",
+      "israelLobbyTotal": 84405,
+      "israelLobbyTotalDisplay": "$84,405",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Rob Wittman",
+      "officeLabel": "VA-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "VA",
+      "israelLobbyTotal": 408035,
+      "israelLobbyTotalDisplay": "$408,035",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Suhas Subramanyam",
+      "officeLabel": "VA-10",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "VA",
+      "israelLobbyTotal": 112035,
+      "israelLobbyTotalDisplay": "$112,035",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tim Kaine",
+      "officeLabel": "VA-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "VA",
+      "israelLobbyTotal": 2068098,
+      "israelLobbyTotalDisplay": "$2,068,098",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Adam Smith",
+      "officeLabel": "WA-09",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "WA",
+      "israelLobbyTotal": 1335151,
+      "israelLobbyTotalDisplay": "$1,335,151",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Dan Newhouse",
+      "officeLabel": "WA-04",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "WA",
+      "israelLobbyTotal": 380825,
+      "israelLobbyTotalDisplay": "$380,825",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Emily Randall",
+      "officeLabel": "WA-06",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "WA",
+      "israelLobbyTotal": 99841,
+      "israelLobbyTotalDisplay": "$99,841",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Kim Schrier",
+      "officeLabel": "WA-08",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "WA",
+      "israelLobbyTotal": 1402935,
+      "israelLobbyTotalDisplay": "$1,402,935",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Maria Cantwell",
+      "officeLabel": "WA-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "WA",
+      "israelLobbyTotal": 2165780,
+      "israelLobbyTotalDisplay": "$2,165,780",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Marie Gluesenkamp Perez",
+      "officeLabel": "WA-03",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "WA",
+      "israelLobbyTotal": 1250848,
+      "israelLobbyTotalDisplay": "$1,250,848",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Marilyn Strickland",
+      "officeLabel": "WA-10",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "WA",
+      "israelLobbyTotal": 761436,
+      "israelLobbyTotalDisplay": "$761,436",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Michael Baumgartner",
+      "officeLabel": "WA-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "WA",
+      "israelLobbyTotal": 91926,
+      "israelLobbyTotalDisplay": "$91,926",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Patty Murray",
+      "officeLabel": "WA-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "WA",
+      "israelLobbyTotal": 2242581,
+      "israelLobbyTotalDisplay": "$2,242,581",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Rick Larsen",
+      "officeLabel": "WA-02",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "WA",
+      "israelLobbyTotal": 344485,
+      "israelLobbyTotalDisplay": "$344,485",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Suzan DelBene",
+      "officeLabel": "WA-01",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "WA",
+      "israelLobbyTotal": 686855,
+      "israelLobbyTotalDisplay": "$686,855",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Bryan Steil",
+      "officeLabel": "WI-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "WI",
+      "israelLobbyTotal": 611837,
+      "israelLobbyTotalDisplay": "$611,837",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Derrick Van Orden",
+      "officeLabel": "WI-03",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "WI",
+      "israelLobbyTotal": 483718,
+      "israelLobbyTotalDisplay": "$483,718",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Glenn Grothman",
+      "officeLabel": "WI-06",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "WI",
+      "israelLobbyTotal": 348728,
+      "israelLobbyTotalDisplay": "$348,728",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Gwen Moore",
+      "officeLabel": "WI-04",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "WI",
+      "israelLobbyTotal": 196423,
+      "israelLobbyTotalDisplay": "$196,423",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Ron Johnson",
+      "officeLabel": "WI-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "WI",
+      "israelLobbyTotal": 1611834,
+      "israelLobbyTotalDisplay": "$1,611,834",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Scott Fitzgerald",
+      "officeLabel": "WI-05",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "WI",
+      "israelLobbyTotal": 108213,
+      "israelLobbyTotalDisplay": "$108,213",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tammy Baldwin",
+      "officeLabel": "WI-SEN",
+      "partyCode": "D",
+      "party": "Democratic",
+      "state": "WI",
+      "israelLobbyTotal": 2907105,
+      "israelLobbyTotalDisplay": "$2,907,105",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tom Tiffany",
+      "officeLabel": "WI-07",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "WI",
+      "israelLobbyTotal": 161245,
+      "israelLobbyTotalDisplay": "$161,245",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Tony Wied",
+      "officeLabel": "WI-08",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "WI",
+      "israelLobbyTotal": 29371,
+      "israelLobbyTotalDisplay": "$29,371",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Carol Miller",
+      "officeLabel": "WV-01",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "WV",
+      "israelLobbyTotal": 128758,
+      "israelLobbyTotalDisplay": "$128,758",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Jim Justice",
+      "officeLabel": "WV-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "WV",
+      "israelLobbyTotal": 229000,
+      "israelLobbyTotalDisplay": "$229,000",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Riley Moore",
+      "officeLabel": "WV-02",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "WV",
+      "israelLobbyTotal": 103130,
+      "israelLobbyTotalDisplay": "$103,130",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Shelley Moore Capito",
+      "officeLabel": "WV-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "WV",
+      "israelLobbyTotal": 1059420,
+      "israelLobbyTotalDisplay": "$1,059,420",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "Cynthia Lummis",
+      "officeLabel": "WY-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "WY",
+      "israelLobbyTotal": 145981,
+      "israelLobbyTotalDisplay": "$145,981",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    },
+    {
+      "name": "John Barrasso",
+      "officeLabel": "WY-SEN",
+      "partyCode": "R",
+      "party": "Republican",
+      "state": "WY",
+      "israelLobbyTotal": 1891392,
+      "israelLobbyTotalDisplay": "$1,891,392",
+      "sourceUrl": "https://www.trackaipac.com/congress"
+    }
+  ]
+}

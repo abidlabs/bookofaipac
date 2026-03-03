@@ -58,5 +58,11 @@
     "publisher": "Congress.gov",
     "url": "https://www.congress.gov/search",
     "accessedAt": "2026-03-02"
+  },
+  "trackaipac-congress": {
+    "title": "The Israel Lobby in US Congress",
+    "publisher": "Track AIPAC",
+    "url": "https://www.trackaipac.com/congress",
+    "accessedAt": "2026-03-03"
   }
 }

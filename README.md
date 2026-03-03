@@ -34,10 +34,13 @@ Static GitHub Pages website for searching U.S. federal candidates and viewing st
 - `data/2026-federal-candidates.json`: Best-effort federal candidate list for 2026
 - `data/candidate-images.json`: Local portrait manifest with provenance/license fields
 - `data/candidate-images-missing.json`: Candidates without downloaded open-license portrait
+- `data/trackaipac-congress.json`: Parsed Track AIPAC congress records
+- `data/trackaipac-unmatched.json`: Ambiguous records needing manual review
 - `scripts/build_federal_candidates.py`: Dataset generation script
 - `scripts/build_api_routes.py`: API endpoint generation script
 - `scripts/image_sources.py`: Open-license source resolution helpers
 - `scripts/build_candidate_images.py`: Portrait download + resize pipeline
+- `scripts/build_trackaipac_data.py`: Track AIPAC parser + dataset merger
 
 ## Dataset notes
 
@@ -58,6 +61,31 @@ Then regenerate API endpoints:
 ```bash
 python3 scripts/build_api_routes.py
 ```
+
+## Sync Track AIPAC totals
+
+Fetch and merge `https://www.trackaipac.com/congress` into both datasets:
+
+```bash
+python3 scripts/build_trackaipac_data.py
+```
+
+This sync updates/creates these fields:
+
+- `israelLobbyTotal`
+- `israelLobbyTotalDisplay`
+- `trackAipacOfficeLabel`
+- `trackAipacLastSyncedAt`
+- `trackAipacSourceUrl`
+
+Behavior:
+
+- Adds missing people from Track AIPAC into:
+  - `data/2026-federal-candidates.json`
+  - `data/politicians.json`
+- Writes parsed raw rows to `data/trackaipac-congress.json`
+- Writes ambiguous matches to `data/trackaipac-unmatched.json`
+- Adds a `trackaipac-congress` source entry in `data/sources.json`
 
 ## Build candidate portraits
 
@@ -86,6 +114,7 @@ Recommended refresh order:
 
 ```bash
 python3 scripts/build_federal_candidates.py
+python3 scripts/build_trackaipac_data.py
 python3 scripts/build_candidate_images.py
 python3 scripts/build_api_routes.py
 ```
