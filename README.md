@@ -28,11 +28,16 @@ Static GitHub Pages website for searching U.S. federal candidates and viewing st
 - `api/index.json`: API route index
 - `api/stances.json`: Stance list endpoint
 - `api/candidates/*.json`: Candidate stance endpoints
+- `assets/images/candidates/*.webp`: Local portrait assets normalized to 160px height
 - `data/politicians.json`: Curated stance profiles
 - `data/sources.json`: Source catalog
 - `data/2026-federal-candidates.json`: Best-effort federal candidate list for 2026
+- `data/candidate-images.json`: Local portrait manifest with provenance/license fields
+- `data/candidate-images-missing.json`: Candidates without downloaded open-license portrait
 - `scripts/build_federal_candidates.py`: Dataset generation script
 - `scripts/build_api_routes.py`: API endpoint generation script
+- `scripts/image_sources.py`: Open-license source resolution helpers
+- `scripts/build_candidate_images.py`: Portrait download + resize pipeline
 
 ## Dataset notes
 
@@ -51,6 +56,37 @@ python3 scripts/build_federal_candidates.py
 Then regenerate API endpoints:
 
 ```bash
+python3 scripts/build_api_routes.py
+```
+
+## Build candidate portraits
+
+Generate local portrait files and manifests:
+
+```bash
+python3 scripts/build_candidate_images.py
+```
+
+Generate portraits only for currently profiled entries (fast path):
+
+```bash
+python3 scripts/build_candidate_images.py --profiled-only
+```
+
+Portrait pipeline behavior:
+
+- Open-license/public-domain sources only
+- Normalized image height: `160px`
+- Saved format: `webp`
+- Local file destination: `assets/images/candidates/`
+- Missing candidates are written to `data/candidate-images-missing.json`
+- UI prefers local portrait paths from `data/candidate-images.json` and falls back safely
+
+Recommended refresh order:
+
+```bash
+python3 scripts/build_federal_candidates.py
+python3 scripts/build_candidate_images.py
 python3 scripts/build_api_routes.py
 ```
 

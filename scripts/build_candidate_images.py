@@ -5,10 +5,12 @@ import json
 import shutil
 import time
 import argparse
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
+import yaml
 from PIL import Image, ImageOps
 
 from image_sources import USER_AGENT, resolve_candidate_image_source
@@ -21,6 +23,9 @@ MANIFEST_PATH = ROOT / "data" / "candidate-images.json"
 MISSING_PATH = ROOT / "data" / "candidate-images-missing.json"
 TARGET_HEIGHT = 160
 WEBP_QUALITY = 74
+LEGISLATORS_CURRENT_URL = (
+  "https://raw.githubusercontent.com/unitedstates/congress-legislators/main/legislators-current.yaml"
+)
 
 
 def load_json(path: Path):
@@ -51,6 +56,52 @@ def profiled_ids() -> set[str]:
 def write_json(path: Path, payload) -> None:
   path.parent.mkdir(parents=True, exist_ok=True)
   path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+
+
+def normalize_name_key(value: str) -> str:
+  value = value.lower().strip()
+  value = re.sub(r"[^a-z0-9\\s]", " ", value)
+  value = re.sub(r"\\s+", " ", value).strip()
+  return value
+
+
+def candidate_name_keys(name: str) -> list[str]:
+  canonical = normalize_name_key(name)
+  tokens = canonical.split()
+  keys = []
+  if canonical:
+    keys.append(canonical)
+  if len(tokens) >= 2:
+    keys.append(f"{tokens[0]} {tokens[-1]}")
+  return list(dict.fromkeys(keys))
+
+
+def load_legislator_portrait_map(session: requests.Session) -> dict[str, str]:
+  response = session.get(LEGISLATORS_CURRENT_URL, timeout=35)
+  response.raise_for_status()
+  payload = yaml.safe_load(response.text)
+  portrait_map: dict[str, str] = {}
+  for row in payload:
+    bioguide = row.get("id", {}).get("bioguide")
+    if not bioguide:
+      continue
+    official = row.get("name", {}).get("official_full") or ""
+    first = row.get("name", {}).get("first") or ""
+    last = row.get("name", {}).get("last") or ""
+    terms = row.get("terms", [])
+    if not terms:
+      continue
+    state = terms[-1].get("state")
+    if not state:
+      continue
+    keys = set()
+    for candidate_name in [official, f"{first} {last}".strip()]:
+      for key in candidate_name_keys(candidate_name):
+        keys.add(f"{key}|{state}")
+    portrait_url = f"https://unitedstates.github.io/images/congress/450x550/{bioguide}.jpg"
+    for key in keys:
+      portrait_map[key] = portrait_url
+  return portrait_map
 
 
 def resize_to_webp(raw: bytes, output_path: Path) -> tuple[int, int]:
@@ -99,6 +150,7 @@ def main() -> None:
 
   session = requests.Session()
   session.headers.update({"User-Agent": USER_AGENT})
+  legislator_map = load_legislator_portrait_map(session)
   candidates = combined_candidates()
   if args.profiled_only:
     ids = profiled_ids()
@@ -121,6 +173,19 @@ def main() -> None:
     if not candidate_id:
       continue
     source = resolve_candidate_image_source(session, candidate)
+    if not source:
+      name = candidate.get("name") or ""
+      state = candidate.get("state") or ""
+      for key in candidate_name_keys(name):
+        lookup = legislator_map.get(f"{key}|{state}")
+        if lookup:
+          source = {
+            "source_url": lookup,
+            "source_page_url": "https://github.com/unitedstates/congress-legislators",
+            "match_method": "congress_legislators_bioguide",
+            "license": "us_government_public_domain_or_open",
+          }
+          break
     if not source:
       missing_by_id[candidate_id] = {
         "id": candidate_id,
