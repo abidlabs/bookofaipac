@@ -37,6 +37,12 @@ function renderHeader(candidate) {
       <p class="detail-meta">${[candidate.party, candidate.state, candidate.districtOrOffice || candidate.office].filter(Boolean).join(" • ")}</p>
     </div>
   `;
+  const avatar = headerRoot.querySelector(".detail-avatar");
+  if (avatar) {
+    avatar.addEventListener("error", () => {
+      avatar.src = DEFAULT_IMAGE;
+    });
+  }
 }
 
 function parseDateValue(value) {
@@ -117,6 +123,7 @@ async function init() {
   candidate.imageUrl =
     getLocalImageForCandidate(candidate.id, imageManifest, "../") ||
     candidate.imageUrl ||
+    `../assets/images/candidates/${candidate.id}.webp` ||
     DEFAULT_IMAGE;
 
   renderHeader(candidate);

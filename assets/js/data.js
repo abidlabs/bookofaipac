@@ -86,9 +86,12 @@ export function getLocalImageForCandidate(candidateId, imageManifest, prefix = "
 export function applyLocalImageMap(candidates, imageManifest, prefix = "") {
   return candidates.map((candidate) => {
     const local = getLocalImageForCandidate(candidate.id, imageManifest, prefix);
+    const deterministicLocal = `${prefix}assets/images/candidates/${candidate.id}.webp`;
+    const candidateImage =
+      candidate.imageUrl && candidate.imageUrl !== DEFAULT_IMAGE ? candidate.imageUrl : "";
     return {
       ...candidate,
-      imageUrl: local || candidate.imageUrl || DEFAULT_IMAGE,
+      imageUrl: local || deterministicLocal || candidateImage || DEFAULT_IMAGE,
     };
   });
 }

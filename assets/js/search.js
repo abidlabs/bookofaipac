@@ -1,4 +1,5 @@
 import {
+  DEFAULT_IMAGE,
   applyLocalImageMap,
   formatIsraelLobbyTotal,
   loadJson,
@@ -41,6 +42,9 @@ function rowTemplate(candidate, isActive) {
   image.src = candidate.imageUrl;
   image.alt = candidate.name;
   image.loading = "lazy";
+  image.addEventListener("error", () => {
+    image.src = DEFAULT_IMAGE;
+  });
 
   const copyWrap = document.createElement("div");
   copyWrap.className = "result-copy";
@@ -148,6 +152,9 @@ function renderTicker(candidates) {
     img.src = candidate.imageUrl;
     img.alt = candidate.name;
     img.loading = "lazy";
+    img.addEventListener("error", () => {
+      img.src = DEFAULT_IMAGE;
+    });
 
     const info = document.createElement("div");
     info.className = "ticker-info";
