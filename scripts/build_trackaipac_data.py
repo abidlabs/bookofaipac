@@ -200,6 +200,8 @@ def apply_track_fields(row: dict, record: dict, timestamp: str) -> None:
   row["trackAipacOfficeLabel"] = record["officeLabel"]
   row["trackAipacLastSyncedAt"] = timestamp
   row["trackAipacSourceUrl"] = TRACK_AIPAC_URL
+  if record["israelLobbyTotal"] > 0:
+    row["stanceLabel"] = "Pro-Israel"
 
 
 def create_new_federal(record: dict, timestamp: str) -> dict:

@@ -6,8 +6,8 @@
   "office": "U.S. House",
   "districtOrOffice": "U.S. House, WI-03",
   "imageUrl": "",
-  "stanceLabel": "Unknown",
-  "stanceColor": "neutral",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
   "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
   "timeline": [],
   "sourceIds": [

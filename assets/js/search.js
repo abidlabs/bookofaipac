@@ -24,6 +24,15 @@ function rowTemplate(candidate, isActive) {
   const button = document.createElement("button");
   button.type = "button";
   button.className = `result-row${isActive ? " active" : ""}`;
+  if (candidate.stanceLabel === "Pro-Israel") {
+    button.classList.add("result-row-red");
+  } else if (candidate.stanceLabel === "Pro-Palestine") {
+    button.classList.add("result-row-green");
+  } else if (candidate.stanceLabel === "Mixed-unclear") {
+    button.classList.add("result-row-gray");
+  } else {
+    button.classList.add("result-row-neutral");
+  }
   button.setAttribute("role", "option");
   button.dataset.id = candidate.id;
 
@@ -46,12 +55,14 @@ function rowTemplate(candidate, isActive) {
 
   button.appendChild(image);
   button.appendChild(copyWrap);
-  if (typeof candidate.israelLobbyTotal === "number") {
-    const badge = document.createElement("span");
-    badge.className = "lobby-badge";
-    badge.textContent = formatIsraelLobbyTotal(candidate.israelLobbyTotal);
-    button.appendChild(badge);
-  }
+  const amount =
+    typeof candidate.israelLobbyTotal === "number" && !Number.isNaN(candidate.israelLobbyTotal)
+      ? candidate.israelLobbyTotal
+      : 0;
+  const badge = document.createElement("span");
+  badge.className = `lobby-badge ${amount > 0 ? "lobby-badge-positive" : "lobby-badge-zero"}`;
+  badge.textContent = formatIsraelLobbyTotal(amount);
+  button.appendChild(badge);
 
   button.addEventListener("click", () => goToCandidate(candidate.id));
   return button;
@@ -154,12 +165,14 @@ function renderTicker(candidates) {
 
     card.appendChild(img);
     card.appendChild(info);
-    if (typeof candidate.israelLobbyTotal === "number") {
-      const badge = document.createElement("span");
-      badge.className = "lobby-badge";
-      badge.textContent = formatIsraelLobbyTotal(candidate.israelLobbyTotal);
-      card.appendChild(badge);
-    }
+    const amount =
+      typeof candidate.israelLobbyTotal === "number" && !Number.isNaN(candidate.israelLobbyTotal)
+        ? candidate.israelLobbyTotal
+        : 0;
+    const badge = document.createElement("span");
+    badge.className = `lobby-badge ${amount > 0 ? "lobby-badge-positive" : "lobby-badge-zero"}`;
+    badge.textContent = formatIsraelLobbyTotal(amount);
+    card.appendChild(badge);
 
     card.addEventListener("click", () => goToCandidate(candidate.id));
     tickerEl.appendChild(card);
