@@ -1,0 +1,62 @@
+{
+  "rep-tlaib-statements": {
+    "title": "Official statements archive",
+    "publisher": "Office of Rep. Rashida Tlaib",
+    "url": "https://tlaib.house.gov/media/press-releases",
+    "accessedAt": "2026-03-02"
+  },
+  "rep-bush-releases": {
+    "title": "Press releases",
+    "publisher": "Office of Rep. Cori Bush",
+    "url": "https://bush.house.gov/media/press-releases",
+    "accessedAt": "2026-03-02"
+  },
+  "rep-omar-statements": {
+    "title": "Press releases and statements",
+    "publisher": "Office of Rep. Ilhan Omar",
+    "url": "https://omar.house.gov/media/press-releases",
+    "accessedAt": "2026-03-02"
+  },
+  "rep-jeffries-releases": {
+    "title": "News and press",
+    "publisher": "Office of Rep. Hakeem Jeffries",
+    "url": "https://jeffries.house.gov/media",
+    "accessedAt": "2026-03-02"
+  },
+  "sen-sanders-press": {
+    "title": "Press releases",
+    "publisher": "Office of Sen. Bernie Sanders",
+    "url": "https://www.sanders.senate.gov/press-releases/",
+    "accessedAt": "2026-03-02"
+  },
+  "sen-schumer-press": {
+    "title": "Press center",
+    "publisher": "Office of Sen. Chuck Schumer",
+    "url": "https://www.schumer.senate.gov/newsroom/press-releases",
+    "accessedAt": "2026-03-02"
+  },
+  "senate-roll-call": {
+    "title": "U.S. Senate roll call votes",
+    "publisher": "U.S. Senate",
+    "url": "https://www.senate.gov/legislative/votes.htm",
+    "accessedAt": "2026-03-02"
+  },
+  "senate-floor-transcripts": {
+    "title": "Congressional Record",
+    "publisher": "Congress.gov",
+    "url": "https://www.congress.gov/congressional-record",
+    "accessedAt": "2026-03-02"
+  },
+  "congress-floor-records": {
+    "title": "Congressional floor proceedings",
+    "publisher": "Congress.gov",
+    "url": "https://www.congress.gov/",
+    "accessedAt": "2026-03-02"
+  },
+  "house-resolution-tracker": {
+    "title": "Legislation and resolutions search",
+    "publisher": "Congress.gov",
+    "url": "https://www.congress.gov/search",
+    "accessedAt": "2026-03-02"
+  }
+}

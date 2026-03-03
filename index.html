@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book of AIPAC</title>
+    <link rel="stylesheet" href="./assets/css/main.css" />
+  </head>
+  <body>
+    <main class="page">
+      <header class="hero">
+        <p class="eyebrow">Book of AIPAC</p>
+        <h1>Search candidates and elected officials</h1>
+        <p class="subtext">
+          Look up federal candidates and see stance labels, timeline entries, and
+          source-backed references.
+        </p>
+      </header>
+
+      <section class="search-section">
+        <div class="search-wrap">
+          <label for="candidateSearch" class="sr-only">Search by name</label>
+          <input
+            id="candidateSearch"
+            type="text"
+            placeholder="Type a candidate name..."
+            autocomplete="off"
+            aria-controls="searchResults"
+            aria-expanded="false"
+          />
+          <div id="searchResults" class="results" role="listbox"></div>
+        </div>
+      </section>
+
+      <section class="legend-section">
+        <h2>Stance legend</h2>
+        <div class="legend-row">
+          <span class="badge badge-green">Pro-Palestine</span>
+          <span class="badge badge-red">Pro-Israel</span>
+          <span class="badge badge-gray">Mixed-unclear</span>
+          <span class="badge badge-neutral">Unknown</span>
+        </div>
+      </section>
+
+      <section class="info-grid">
+        <article class="info-card">
+          <h3>How this works</h3>
+          <p>
+            Search supports autocomplete and keyboard navigation. Select a name
+            to view timeline evidence and references.
+          </p>
+        </article>
+        <article class="info-card">
+          <h3>Dataset status</h3>
+          <p id="datasetMeta">Loading federal candidate dataset...</p>
+        </article>
+      </section>
+    </main>
+
+    <script type="module" src="./assets/js/search.js"></script>
+  </body>
+</html>
