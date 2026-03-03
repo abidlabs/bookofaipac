@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-03T15:45:02.364294+00:00",
+  "generatedAt": "2026-03-03T16:30:45.065963+00:00",
   "targetHeight": 160,
   "format": "webp",
-  "count": 67,
+  "count": 73,
   "images": {
     "adelita-grijalva-az-h-07": {
       "id": "adelita-grijalva-az-h-07",
@@ -109,6 +109,21 @@
       "matchMethod": "wikipedia_pageimages_free",
       "retrievedAt": "2026-03-03T15:45:02.364294+00:00"
     },
+    "bernie-sanders-vt-sen": {
+      "id": "bernie-sanders-vt-sen",
+      "name": "Bernie Sanders",
+      "imagePath": "assets/images/candidates/bernie-sanders-vt-sen.webp",
+      "width": 120,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bernie_Sanders_2023.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attributionRequired": "true",
+      "usageTerms": "Creative Commons Attribution 2.0",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-03T16:30:45.065963+00:00"
+    },
     "brad-finstad-mn-h-01": {
       "id": "brad-finstad-mn-h-01",
       "name": "Brad Finstad",
@@ -214,6 +229,21 @@
       "matchMethod": "wikipedia_pageimages_free",
       "retrievedAt": "2026-03-03T15:45:02.364294+00:00"
     },
+    "chuck-schumer-ny-sen": {
+      "id": "chuck-schumer-ny-sen",
+      "name": "Chuck Schumer",
+      "imagePath": "assets/images/candidates/chuck-schumer-ny-sen.webp",
+      "width": 128,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Chuck_Schumer_official_photo.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Chuck_Schumer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-03T16:30:45.065963+00:00"
+    },
     "cleo-fields-la-h-06": {
       "id": "cleo-fields-la-h-06",
       "name": "Cleo Fields",
@@ -228,6 +258,21 @@
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
       "retrievedAt": "2026-03-03T15:45:02.364294+00:00"
+    },
+    "cori-bush-mo-01": {
+      "id": "cori-bush-mo-01",
+      "name": "Cori Bush",
+      "imagePath": "assets/images/candidates/cori-bush-mo-01.webp",
+      "width": 128,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cori_Bush_117th_U.S_Congress.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Cori_Bush",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-03T16:30:45.065963+00:00"
     },
     "daniel-crenshaw-tx-h-02": {
       "id": "daniel-crenshaw-tx-h-02",
@@ -379,6 +424,21 @@
       "matchMethod": "wikipedia_pageimages_free",
       "retrievedAt": "2026-03-03T15:45:02.364294+00:00"
     },
+    "hakeem-jeffries-ny-08": {
+      "id": "hakeem-jeffries-ny-08",
+      "name": "Hakeem Jeffries",
+      "imagePath": "assets/images/candidates/hakeem-jeffries-ny-08.webp",
+      "width": 106,
+      "height": 160,
+      "sourceUrl": "https://jeffries.house.gov/wp-content/uploads/2022/11/Official-Photo-Rep.-Hakeem-Jeffries-NY-8-scaled.jpg",
+      "sourcePageUrl": null,
+      "license": "us_government_public_domain_or_open",
+      "licenseUrl": null,
+      "attributionRequired": null,
+      "usageTerms": null,
+      "matchMethod": "existing_us_government_url",
+      "retrievedAt": "2026-03-03T16:30:45.065963+00:00"
+    },
     "harold-dallas-rogers-ky-h-05": {
       "id": "harold-dallas-rogers-ky-h-05",
       "name": "Harold Dallas Rogers",
@@ -423,6 +483,21 @@
       "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
       "matchMethod": "wikipedia_pageimages_free",
       "retrievedAt": "2026-03-03T15:45:02.364294+00:00"
+    },
+    "ilhan-omar-mn-05": {
+      "id": "ilhan-omar-mn-05",
+      "name": "Ilhan Omar",
+      "imagePath": "assets/images/candidates/ilhan-omar-mn-05.webp",
+      "width": 128,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ilhan_Omar%2C_official_portrait%2C_116th_Congress.jpg",
+      "sourcePageUrl": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "existing_wikimedia_url",
+      "retrievedAt": "2026-03-03T16:24:25.869365+00:00"
     },
     "jacob-lawrence-nc-h-11": {
       "id": "jacob-lawrence-nc-h-11",
@@ -783,6 +858,21 @@
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
       "retrievedAt": "2026-03-03T15:45:02.364294+00:00"
+    },
+    "rashida-tlaib-mi-12": {
+      "id": "rashida-tlaib-mi-12",
+      "name": "Rashida Tlaib",
+      "imagePath": "assets/images/candidates/rashida-tlaib-mi-12.webp",
+      "width": 128,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Rashida_Tlaib%2C_official_portrait%2C_116th_Congress.jpg",
+      "sourcePageUrl": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "existing_wikimedia_url",
+      "retrievedAt": "2026-03-03T16:24:25.869365+00:00"
     },
     "roy-cooper-nc-s-00": {
       "id": "roy-cooper-nc-s-00",

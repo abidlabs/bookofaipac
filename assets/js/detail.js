@@ -1,4 +1,10 @@
-import { displayStanceLabel, getBadgeClass, loadJson } from "./data.js";
+import {
+  DEFAULT_IMAGE,
+  displayStanceLabel,
+  getBadgeClass,
+  getLocalImageForCandidate,
+  loadJson,
+} from "./data.js";
 
 const headerRoot = document.getElementById("candidateHeader");
 const stanceSummaryRoot = document.getElementById("stanceSummary");
@@ -71,10 +77,11 @@ async function init() {
     throw new Error("Missing candidate ID");
   }
 
-  const [profiledCandidates, federalCandidates, sourceMap] = await Promise.all([
+  const [profiledCandidates, federalCandidates, sourceMap, imageManifest] = await Promise.all([
     loadJson("../data/politicians.json"),
     loadJson("../data/2026-federal-candidates.json"),
     loadJson("../data/sources.json"),
+    loadJson("../data/candidate-images.json"),
   ]);
 
   const fromProfiles = profiledCandidates.find((candidate) => candidate.id === candidateId);
@@ -84,6 +91,11 @@ async function init() {
   if (!candidate) {
     throw new Error("Candidate not found");
   }
+
+  candidate.imageUrl =
+    getLocalImageForCandidate(candidate.id, imageManifest, "../") ||
+    candidate.imageUrl ||
+    DEFAULT_IMAGE;
 
   renderHeader(candidate);
   stanceSummaryRoot.textContent = candidate.stanceSummary;

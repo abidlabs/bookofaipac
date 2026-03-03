@@ -4,6 +4,7 @@ import io
 import json
 import shutil
 import time
+import argparse
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -42,6 +43,11 @@ def combined_candidates() -> list[dict]:
   return sorted(by_id.values(), key=lambda value: value.get("id", ""))
 
 
+def profiled_ids() -> set[str]:
+  profiled = load_json(POLITICIANS_PATH)
+  return {item["id"] for item in profiled if item.get("id")}
+
+
 def write_json(path: Path, payload) -> None:
   path.parent.mkdir(parents=True, exist_ok=True)
   path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
@@ -60,6 +66,23 @@ def resize_to_webp(raw: bytes, output_path: Path) -> tuple[int, int]:
   return target_width, TARGET_HEIGHT
 
 
+def fetch_binary_with_retry(session: requests.Session, url: str, attempts: int = 3) -> bytes:
+  delay = 0.5
+  last_error = None
+  for _ in range(attempts):
+    try:
+      response = session.get(url, timeout=40)
+      if response.status_code in {429, 500, 502, 503, 504}:
+        raise requests.HTTPError(response=response)
+      response.raise_for_status()
+      return response.content
+    except Exception as exc:
+      last_error = exc
+      time.sleep(delay)
+      delay = min(delay * 2, 3.0)
+  raise last_error if last_error else RuntimeError("download failed")
+
+
 def cleanup_stale_images(valid_paths: set[str]) -> None:
   if not IMAGE_DIR.exists():
     return
@@ -70,13 +93,26 @@ def cleanup_stale_images(valid_paths: set[str]) -> None:
 
 
 def main() -> None:
+  parser = argparse.ArgumentParser()
+  parser.add_argument("--profiled-only", action="store_true")
+  args = parser.parse_args()
+
   session = requests.Session()
   session.headers.update({"User-Agent": USER_AGENT})
   candidates = combined_candidates()
+  if args.profiled_only:
+    ids = profiled_ids()
+    candidates = [candidate for candidate in candidates if candidate.get("id") in ids]
   generated_at = datetime.now(timezone.utc).isoformat()
 
-  images: dict[str, dict] = {}
-  missing: list[dict] = []
+  existing_manifest = load_json(MANIFEST_PATH) if MANIFEST_PATH.exists() else {}
+  existing_images = existing_manifest.get("images", {}) if isinstance(existing_manifest, dict) else {}
+  images: dict[str, dict] = dict(existing_images)
+
+  existing_missing_payload = load_json(MISSING_PATH) if MISSING_PATH.exists() else {}
+  existing_missing = existing_missing_payload.get("items", []) if isinstance(existing_missing_payload, dict) else []
+  missing_by_id: dict[str, dict] = {item["id"]: item for item in existing_missing if item.get("id")}
+
   valid_paths: set[str] = set()
   cache: dict[str, tuple[int, int, str]] = {}
 
@@ -86,14 +122,12 @@ def main() -> None:
       continue
     source = resolve_candidate_image_source(session, candidate)
     if not source:
-      missing.append(
-        {
-          "id": candidate_id,
-          "name": candidate.get("name"),
-          "reason": "no_open_license_source_found",
-          "externalUrl": candidate.get("imageUrl") or None,
-        }
-      )
+      missing_by_id[candidate_id] = {
+        "id": candidate_id,
+        "name": candidate.get("name"),
+        "reason": "no_open_license_source_found",
+        "externalUrl": candidate.get("imageUrl") or None,
+      }
       continue
     source_url = source["source_url"]
     output_rel = f"assets/images/candidates/{candidate_id}.webp"
@@ -105,9 +139,8 @@ def main() -> None:
         if cached_rel != output_rel:
           shutil.copyfile(ROOT / cached_rel, output_path)
       else:
-        response = session.get(source_url, timeout=40)
-        response.raise_for_status()
-        width, height = resize_to_webp(response.content, output_path)
+        raw = fetch_binary_with_retry(session, source_url)
+        width, height = resize_to_webp(raw, output_path)
         cache[source_url] = (width, height, output_rel)
       valid_paths.add(output_rel)
       images[candidate_id] = {
@@ -125,20 +158,21 @@ def main() -> None:
         "matchMethod": source.get("match_method"),
         "retrievedAt": generated_at,
       }
+      missing_by_id.pop(candidate_id, None)
     except Exception as exc:
-      missing.append(
-        {
-          "id": candidate_id,
-          "name": candidate.get("name"),
-          "reason": f"download_or_resize_failed: {exc.__class__.__name__}",
-          "externalUrl": source_url,
-        }
-      )
+      missing_by_id[candidate_id] = {
+        "id": candidate_id,
+        "name": candidate.get("name"),
+        "reason": f"download_or_resize_failed: {exc.__class__.__name__}",
+        "externalUrl": source_url,
+      }
     if idx % 50 == 0:
       print(f"Processed {idx}/{len(candidates)} candidates...", flush=True)
     time.sleep(0.02)
 
-  cleanup_stale_images(valid_paths)
+  if not args.profiled_only:
+    valid_paths.update({entry.get("imagePath") for entry in images.values() if entry.get("imagePath")})
+    cleanup_stale_images({path for path in valid_paths if path})
   manifest_payload = {
     "generatedAt": generated_at,
     "targetHeight": TARGET_HEIGHT,
@@ -146,6 +180,8 @@ def main() -> None:
     "count": len(images),
     "images": dict(sorted(images.items(), key=lambda item: item[0])),
   }
+  missing = sorted(missing_by_id.values(), key=lambda item: item["id"])
+  missing = [item for item in missing if item["id"] not in images]
   missing_payload = {
     "generatedAt": generated_at,
     "count": len(missing),

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-03T15:45:02.364294+00:00",
-  "count": 1728,
+  "generatedAt": "2026-03-03T16:30:45.065963+00:00",
+  "count": 1722,
   "items": [
     {
       "id": "aaron-b-rowden-ca-h-08",
@@ -865,12 +865,6 @@
       "name": "Bernard Taylor",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "bernie-sanders-vt-sen",
-      "name": "Bernie Sanders",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bernie_Sanders%2C_official_portrait%2C_113th_Congress.jpg/440px-Bernie_Sanders%2C_official_portrait%2C_113th_Congress.jpg"
     },
     {
       "id": "beth-andres-beck-ma-h-06",
@@ -1815,12 +1809,6 @@
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Seal_of_North_Carolina.svg"
     },
     {
-      "id": "chuck-schumer-ny-sen",
-      "name": "Chuck Schumer",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Chuck_Schumer%2C_official_photo%2C_113th_Congress.jpg/440px-Chuck_Schumer%2C_official_photo%2C_113th_Congress.jpg"
-    },
-    {
       "id": "chuong-vo-ca-h-45",
       "name": "Chuong Vo",
       "reason": "no_open_license_source_found",
@@ -1945,12 +1933,6 @@
       "name": "Conrad Roberts Cable",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "cori-bush-mo-01",
-      "name": "Cori Bush",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Rep._Cori_Bush%2C_117th_Congress.jpg/440px-Rep._Cori_Bush%2C_117th_Congress.jpg"
     },
     {
       "id": "cori-bush-mo-h-01",
@@ -3567,12 +3549,6 @@
       "externalUrl": null
     },
     {
-      "id": "hakeem-jeffries-ny-08",
-      "name": "Hakeem Jeffries",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hakeem_Jeffries%2C_official_portrait%2C_118th_Congress.jpg/440px-Hakeem_Jeffries%2C_official_portrait%2C_118th_Congress.jpg"
-    },
-    {
       "id": "hakeem-jeffries-ny-h-08",
       "name": "Hakeem Jeffries",
       "reason": "download_or_resize_failed: HTTPError",
@@ -3757,12 +3733,6 @@
       "name": "Huy-Yen Cam Ms. Bailey",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "ilhan-omar-mn-05",
-      "name": "Ilhan Omar",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ilhan_Omar%2C_official_portrait%2C_116th_Congress.jpg/440px-Ilhan_Omar%2C_official_portrait%2C_116th_Congress.jpg"
     },
     {
       "id": "ilhan-omar-mn-h-05",
@@ -8089,12 +8059,6 @@
       "name": "Randy Weber",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Randy_Weber_118th_cong.jpeg"
-    },
-    {
-      "id": "rashida-tlaib-mi-12",
-      "name": "Rashida Tlaib",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rashida_Tlaib%2C_official_portrait%2C_116th_Congress.jpg/440px-Rashida_Tlaib%2C_official_portrait%2C_116th_Congress.jpg"
     },
     {
       "id": "rashida-tlaib-mi-h-12",

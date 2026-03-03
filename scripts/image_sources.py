@@ -37,9 +37,9 @@ def extract_commons_file_title(image_url: str) -> str | None:
   if "/thumb/" in path:
     path = path.split("/thumb/", 1)[1]
     parts = path.split("/")
-    if len(parts) < 2:
+    if len(parts) < 3:
       return None
-    return parts[1]
+    return parts[2]
   filename = path.rsplit("/", 1)[-1]
   return filename if filename else None
 
@@ -127,6 +127,7 @@ def commons_license_metadata(session: requests.Session, image_url: str) -> dict:
     return {}
   ext = imageinfo[0].get("extmetadata", {})
   return {
+    "file_url": imageinfo[0].get("url"),
     "license": ext.get("LicenseShortName", {}).get("value"),
     "license_url": ext.get("LicenseUrl", {}).get("value"),
     "attribution_required": ext.get("AttributionRequired", {}).get("value"),
@@ -136,14 +137,23 @@ def commons_license_metadata(session: requests.Session, image_url: str) -> dict:
 
 def resolve_candidate_image_source(session: requests.Session, candidate: dict) -> dict | None:
   existing = candidate.get("imageUrl") or ""
+  name = candidate.get("name") or ""
   if is_wikimedia_upload(existing):
+    commons_meta = commons_license_metadata(session, existing)
+    if not commons_meta.get("file_url") and name:
+      fallback = wikipedia_page_image(session, name)
+      if fallback:
+        fallback.update(
+          {k: v for k, v in commons_license_metadata(session, fallback["source_url"]).items() if v}
+        )
+        return fallback
     source = {
-      "source_url": existing,
+      "source_url": commons_meta.get("file_url") or existing,
       "source_page_url": None,
       "match_method": "existing_wikimedia_url",
       "license": "wikimedia_free_or_open",
     }
-    source.update({k: v for k, v in commons_license_metadata(session, existing).items() if v})
+    source.update({k: v for k, v in commons_meta.items() if v})
     return source
   if is_us_government_portrait_host(existing):
     return {
@@ -152,7 +162,6 @@ def resolve_candidate_image_source(session: requests.Session, candidate: dict) -
       "match_method": "existing_us_government_url",
       "license": "us_government_public_domain_or_open",
     }
-  name = candidate.get("name") or ""
   if not name:
     return None
   wikipedia_source = wikipedia_page_image(session, name)

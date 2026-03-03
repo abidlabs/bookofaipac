@@ -1,4 +1,5 @@
 import {
+  applyLocalImageMap,
   displayStanceLabel,
   getBadgeClass,
   loadJson,
@@ -209,12 +210,14 @@ document.addEventListener("click", (event) => {
 });
 
 async function init() {
-  const [profiledCandidates, federalCandidates] = await Promise.all([
+  const [profiledCandidates, federalCandidates, imageManifest] = await Promise.all([
     loadJson("./data/politicians.json"),
     loadJson("./data/2026-federal-candidates.json"),
+    loadJson("./data/candidate-images.json"),
   ]);
 
-  candidateIndex = makeCandidateIndex(profiledCandidates, federalCandidates);
+  const mergedCandidates = makeCandidateIndex(profiledCandidates, federalCandidates);
+  candidateIndex = applyLocalImageMap(mergedCandidates, imageManifest, "./");
 
   if (datasetMeta) {
     datasetMeta.textContent = `${federalCandidates.length.toLocaleString()} federal candidates`;

@@ -1,4 +1,4 @@
-const DEFAULT_IMAGE = "https://placehold.co/120x120?text=Candidate";
+export const DEFAULT_IMAGE = "https://placehold.co/120x120?text=Candidate";
 
 export async function loadJson(relativePath) {
   const response = await fetch(relativePath);
@@ -56,4 +56,21 @@ export function makeCandidateIndex(profiled, federal) {
 
   combined.sort((a, b) => a.name.localeCompare(b.name));
   return combined;
+}
+
+export function getLocalImageForCandidate(candidateId, imageManifest, prefix = "") {
+  const images = imageManifest?.images;
+  const entry = images?.[candidateId];
+  if (!entry?.imagePath) return null;
+  return `${prefix}${entry.imagePath}`;
+}
+
+export function applyLocalImageMap(candidates, imageManifest, prefix = "") {
+  return candidates.map((candidate) => {
+    const local = getLocalImageForCandidate(candidate.id, imageManifest, prefix);
+    return {
+      ...candidate,
+      imageUrl: local || candidate.imageUrl || DEFAULT_IMAGE,
+    };
+  });
 }
