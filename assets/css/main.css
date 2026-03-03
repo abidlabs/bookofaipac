@@ -243,7 +243,7 @@ body {
   object-fit: cover;
   background: var(--bg-elevated);
   border: 1px solid var(--border);
-  filter: grayscale(100%);
+  filter: grayscale(35%) contrast(1.28) saturate(1.22) brightness(0.9);
 }
 
 .result-copy { min-width: 0; }
@@ -411,7 +411,7 @@ body {
   background: var(--bg-elevated);
   border: 1px solid var(--border);
   flex-shrink: 0;
-  filter: grayscale(100%);
+  filter: grayscale(35%) contrast(1.28) saturate(1.22) brightness(0.9);
 }
 
 .ticker-info {
@@ -517,7 +517,7 @@ body {
   object-fit: cover;
   background: var(--bg-elevated);
   border: 2px solid var(--border);
-  filter: grayscale(100%);
+  filter: grayscale(35%) contrast(1.28) saturate(1.22) brightness(0.9);
 }
 
 .detail-name {
