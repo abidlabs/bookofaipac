@@ -138,8 +138,13 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $54,527 for Addison McDowell in U.S. House, NC-06. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing shows Israel Lobby Total: $54,527."
+      }
+    ],
     "sourceIds": [
       "trackaipac-congress"
     ],
@@ -148,7 +153,7 @@
     "trackAipacOfficeLabel": "NC-06",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T20:13:36.201593+00:00"
   },
   {
     "id": "adrian-smith-ne-03",
@@ -159,8 +164,13 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $70,575 for Adrian Smith in U.S. House, NE-03. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing shows Israel Lobby Total: $70,575."
+      }
+    ],
     "sourceIds": [
       "trackaipac-congress"
     ],
@@ -169,7 +179,7 @@
     "trackAipacOfficeLabel": "NE-03",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T20:13:36.201593+00:00"
   },
   {
     "id": "adriano-espaillat-ny-13",
@@ -180,8 +190,13 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $780,675 for Adriano Espaillat in U.S. House, NY-13. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing shows Israel Lobby Total: $780,675."
+      }
+    ],
     "sourceIds": [
       "trackaipac-congress"
     ],
@@ -190,7 +205,7 @@
     "trackAipacOfficeLabel": "NY-13",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T20:13:36.201593+00:00"
   },
   {
     "id": "al-green-tx-09",
@@ -201,8 +216,13 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $56,055 for Al Green in U.S. House, TX-09. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing shows Israel Lobby Total: $56,055."
+      }
+    ],
     "sourceIds": [
       "trackaipac-congress"
     ],
@@ -211,7 +231,7 @@
     "trackAipacOfficeLabel": "TX-09",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T20:13:36.201593+00:00"
   },
   {
     "id": "alex-padilla-ca-sen",
@@ -222,8 +242,13 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $856,179 for Alex Padilla in U.S. Senate, CA. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing shows Israel Lobby Total: $856,179."
+      }
+    ],
     "sourceIds": [
       "trackaipac-congress"
     ],
@@ -232,7 +257,7 @@
     "trackAipacOfficeLabel": "CA-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T20:13:36.201593+00:00"
   },
   {
     "id": "alma-adams-nc-12",
