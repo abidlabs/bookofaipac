@@ -110,6 +110,7 @@ function renderTicker(candidates) {
   const tickerEl = document.getElementById("candidateTicker");
   const tickerSection = document.getElementById("tickerSection");
   if (!tickerEl || !tickerSection) return;
+  tickerEl.innerHTML = "";
 
   const featured = candidates
     .filter((c) => c.stanceLabel && c.stanceLabel !== "Unknown" && c.sourceType === "profiled")
@@ -123,6 +124,11 @@ function renderTicker(candidates) {
   allItems.forEach((candidate) => {
     const card = document.createElement("div");
     card.className = "ticker-card";
+    if (candidate.stanceLabel === "Pro-Palestine") {
+      card.classList.add("ticker-card-green");
+    } else if (candidate.stanceLabel === "Pro-Israel") {
+      card.classList.add("ticker-card-red");
+    }
 
     const img = document.createElement("img");
     img.className = "ticker-avatar";
@@ -139,18 +145,13 @@ function renderTicker(candidates) {
 
     const metaEl = document.createElement("span");
     metaEl.className = "ticker-meta";
-    metaEl.textContent = [candidate.party, candidate.state].filter(Boolean).join(" · ");
+    metaEl.textContent = candidate.districtOrOffice || candidate.state || "";
 
     info.appendChild(nameEl);
     info.appendChild(metaEl);
 
-    const badge = document.createElement("span");
-    badge.className = `badge ${getBadgeClass(candidate.stanceLabel)}`;
-    badge.textContent = displayStanceLabel(candidate.stanceLabel);
-
     card.appendChild(img);
     card.appendChild(info);
-    card.appendChild(badge);
 
     card.addEventListener("click", () => goToCandidate(candidate.id));
     tickerEl.appendChild(card);

@@ -377,9 +377,29 @@ body {
   min-width: 0;
 }
 
+.ticker-card-green {
+  background: var(--c-green-bg);
+  border-color: var(--c-green-border);
+}
+
+.ticker-card-red {
+  background: var(--c-red-bg);
+  border-color: var(--c-red-border);
+}
+
 .ticker-card:hover {
   background: var(--card-hover);
   border-color: rgba(125, 160, 255, 0.3);
+}
+
+.ticker-card-green:hover {
+  background: rgba(22, 163, 74, 0.2);
+  border-color: rgba(22, 163, 74, 0.5);
+}
+
+.ticker-card-red:hover {
+  background: rgba(220, 38, 38, 0.2);
+  border-color: rgba(220, 38, 38, 0.5);
 }
 
 .ticker-avatar {
