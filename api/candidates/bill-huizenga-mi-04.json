@@ -8,11 +8,16 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-  "timeline": [],
+  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $264,585 for Bill Huizenga in U.S. House, MI-04. This supports a Pro-Israel classification in this dataset's stance model.",
+  "timeline": [
+    {
+      "date": "2026-03-03",
+      "event": "Track AIPAC congressional listing records Israel Lobby Total: $264,585."
+    }
+  ],
   "sourceIds": [
     "trackaipac-congress"
   ],
-  "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00",
+  "profileLastUpdatedAt": "2026-03-03T21:12:45.473071+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }
