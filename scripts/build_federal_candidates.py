@@ -64,6 +64,15 @@ def party_name(code: str) -> str:
   return mapping.get(code, code or "Unknown")
 
 
+def incumbency_label(code: str) -> str:
+  mapping = {
+    "I": "Incumbent",
+    "C": "Challenger",
+    "O": "Open-seat",
+  }
+  return mapping.get(code, "Unknown")
+
+
 def build_rows(lines: list[str]) -> list[dict]:
   rows = []
   seen = set()
@@ -79,7 +88,7 @@ def build_rows(lines: list[str]) -> list[dict]:
     state = values[4].strip()
     office = values[5].strip()
     district = values[6].strip()
-    status = values[7].strip()
+    incumbency_code = values[7].strip()
     active = values[8].strip()
     if election_year != "2026":
       continue
@@ -92,11 +101,6 @@ def build_rows(lines: list[str]) -> list[dict]:
     seen.add(candidate_id)
     name = normalize_name(raw_name)
     scope = office_scope(office, district, state)
-    status_value = "filed"
-    if status == "P":
-      status_value = "primary"
-    elif status == "G":
-      status_value = "general"
     row = {
       "id": slugify(f"{name}-{state}-{office}-{district or 'atlarge'}"),
       "candidateKey": slugify(candidate_id),
@@ -110,7 +114,9 @@ def build_rows(lines: list[str]) -> list[dict]:
       "districtOrOffice": district_or_office(office, district, state),
       "officeScope": scope,
       "electionType": "regular",
-      "status": status_value,
+      "status": "filed",
+      "incumbencyCode": incumbency_code or None,
+      "incumbency": incumbency_label(incumbency_code),
       "statusAuthority": "FEC",
       "stanceLabel": "Unknown",
       "stanceSummary": "No profile summary yet.",

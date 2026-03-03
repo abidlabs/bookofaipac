@@ -220,7 +220,14 @@ async function init() {
   candidateIndex = applyLocalImageMap(mergedCandidates, imageManifest, "./");
 
   if (datasetMeta) {
-    datasetMeta.textContent = `${federalCandidates.length.toLocaleString()} federal candidates`;
+    const electedOfficials = federalCandidates.filter(
+      (candidate) => candidate.incumbency === "Incumbent"
+    ).length;
+    const nonIncumbentCandidates = federalCandidates.length - electedOfficials;
+    datasetMeta.textContent =
+      `${federalCandidates.length.toLocaleString()} total • ` +
+      `${electedOfficials.toLocaleString()} elected officials • ` +
+      `${nonIncumbentCandidates.toLocaleString()} candidates`;
   }
 
   renderTicker(candidateIndex);
