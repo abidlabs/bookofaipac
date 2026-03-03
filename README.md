@@ -124,3 +124,27 @@ python3 scripts/build_api_routes.py
 - Push this repository to GitHub
 - Enable Pages in repo settings using the main branch root
 - Site will serve as static HTML/CSS/JS with JSON data files
+
+## Candidate research agent prompt
+
+A reusable system prompt is available at:
+
+- `candidate-research-agent.md`
+
+Use that file as the system prompt for your coding agent when you want automated profile refresh work focused on stale or incomplete candidates.
+
+Expected behavior from that prompt:
+
+- Prioritizes missing fields first, then least-recently-updated profiles.
+- Updates `stanceLabel`, `israelLobbyTotal`, `israelLobbyTotalDisplay`, `stanceSummary`, `timeline`, and `sourceIds`.
+- Updates `imageUrl` only when missing.
+- Opens one PR per batch of 3-5 candidates.
+
+The prompt also requires this validation workflow:
+
+```bash
+python3 scripts/build_trackaipac_data.py
+python3 scripts/build_candidate_images.py --profiled-only
+python3 scripts/build_api_routes.py
+pytest -q tests/test_api_routes.py
+```

@@ -200,6 +200,7 @@ def apply_track_fields(row: dict, record: dict, timestamp: str) -> None:
   row["trackAipacOfficeLabel"] = record["officeLabel"]
   row["trackAipacLastSyncedAt"] = timestamp
   row["trackAipacSourceUrl"] = TRACK_AIPAC_URL
+  row["profileLastUpdatedAt"] = timestamp
   if record["israelLobbyTotal"] > 0:
     row["stanceLabel"] = "Pro-Israel"
 

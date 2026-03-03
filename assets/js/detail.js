@@ -1,14 +1,13 @@
 import {
   DEFAULT_IMAGE,
-  displayStanceLabel,
   formatIsraelLobbyTotal,
-  getBadgeClass,
   getLocalImageForCandidate,
   loadJson,
 } from "./data.js";
 
 const headerRoot = document.getElementById("candidateHeader");
 const israelLobbyTotalRoot = document.getElementById("israelLobbyTotal");
+const lastUpdatedRoot = document.getElementById("lastUpdated");
 const stanceSummaryRoot = document.getElementById("stanceSummary");
 const timelineRoot = document.getElementById("timelineList");
 const sourceListRoot = document.getElementById("sourceList");
@@ -26,19 +25,40 @@ function makeFallbackRecord(candidate) {
       "This profile is in progress. We currently have candidate identity data and will add stance evidence and timeline entries as verification is completed.",
     timeline: [],
     sourceIds: [],
+    profileLastUpdatedAt: candidate.profileLastUpdatedAt || candidate.trackAipacLastSyncedAt || candidate.lastConfirmedAt || "",
   };
 }
 
 function renderHeader(candidate) {
-  const badgeClass = getBadgeClass(candidate.stanceLabel);
   headerRoot.innerHTML = `
     <img class="detail-avatar" src="${candidate.imageUrl}" alt="${candidate.name}" />
     <div>
       <h1 class="detail-name">${candidate.name}</h1>
       <p class="detail-meta">${[candidate.party, candidate.state, candidate.districtOrOffice || candidate.office].filter(Boolean).join(" • ")}</p>
-      <span class="badge ${badgeClass}">${displayStanceLabel(candidate.stanceLabel)}</span>
     </div>
   `;
+}
+
+function parseDateValue(value) {
+  if (!value) return null;
+  const parsed = new Date(value);
+  if (Number.isNaN(parsed.getTime())) return null;
+  return parsed;
+}
+
+function formatLastUpdated(candidate) {
+  const dateValue =
+    parseDateValue(candidate.profileLastUpdatedAt) ||
+    parseDateValue(candidate.trackAipacLastSyncedAt) ||
+    parseDateValue(candidate.lastConfirmedAt);
+  if (!dateValue) return "Unknown";
+  return dateValue.toLocaleString(undefined, {
+    year: "numeric",
+    month: "short",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+  });
 }
 
 function renderTimeline(candidate) {
@@ -106,6 +126,7 @@ async function init() {
       : 0;
   israelLobbyTotalRoot.className = `lobby-badge ${amount > 0 ? "lobby-badge-positive" : "lobby-badge-zero"}`;
   israelLobbyTotalRoot.textContent = formatIsraelLobbyTotal(amount);
+  lastUpdatedRoot.textContent = formatLastUpdated(candidate);
   stanceSummaryRoot.textContent = candidate.stanceSummary;
   renderTimeline(candidate);
   renderSources(candidate, sourceMap);
@@ -115,6 +136,7 @@ init().catch((error) => {
   headerRoot.innerHTML = "<h1 class=\"detail-name\">Candidate not found</h1>";
   israelLobbyTotalRoot.className = "lobby-badge lobby-badge-zero";
   israelLobbyTotalRoot.textContent = "$0";
+  lastUpdatedRoot.textContent = "Unknown";
   stanceSummaryRoot.textContent =
     "The profile could not be loaded. Return to search and select another entry.";
   timelineRoot.innerHTML = "<li>Unavailable.</li>";
