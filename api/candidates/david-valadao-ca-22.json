@@ -8,11 +8,17 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-  "timeline": [],
-  "sourceIds": [
-    "trackaipac-congress"
+  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $724,428 for David Valadao in U.S. House, CA-22. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+  "timeline": [
+    {
+      "date": "2026-03-03",
+      "event": "Track AIPAC congressional listing records Israel Lobby Total: $724,428."
+    }
   ],
-  "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00",
+  "sourceIds": [
+    "trackaipac-congress",
+    "house-resolution-tracker"
+  ],
+  "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }
