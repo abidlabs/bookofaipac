@@ -545,6 +545,25 @@ body {
 .footer-links a:hover { color: var(--text); }
 .sep { opacity: 0.4; }
 
+.footer-disclaimer {
+  margin: 0;
+  max-width: 520px;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text-dim);
+  text-align: right;
+}
+
+.footer-disclaimer a {
+  color: var(--text);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.footer-disclaimer a:hover {
+  color: var(--accent);
+}
+
 /* ============================================================
    DETAIL PAGE
    ============================================================ */
@@ -687,6 +706,11 @@ pre {
     align-items: flex-start;
     gap: 12px;
     padding: 16px 20px 24px;
+  }
+
+  .footer-disclaimer {
+    text-align: left;
+    max-width: 100%;
   }
 
   .top-nav { padding: 18px 20px; }
