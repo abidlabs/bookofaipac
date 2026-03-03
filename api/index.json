@@ -1,0 +1,13 @@
+{
+  "service": "Book of AIPAC static API",
+  "version": "v1",
+  "routes": {
+    "apiIndex": "/api/index.json",
+    "candidateStances": "/api/stances.json",
+    "candidateByIdTemplate": "/api/candidates/{id}.json",
+    "sources": "/data/sources.json",
+    "federalCandidates2026": "/data/2026-federal-candidates.json"
+  },
+  "profiledCandidatesCount": 6,
+  "federalCandidatesCount": 1799
+}

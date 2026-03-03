@@ -1,0 +1,27 @@
+{
+  "id": "bernie-sanders-vt-sen",
+  "name": "Bernie Sanders",
+  "party": "Independent",
+  "state": "VT",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, Vermont",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bernie_Sanders%2C_official_portrait%2C_113th_Congress.jpg/440px-Bernie_Sanders%2C_official_portrait%2C_113th_Congress.jpg",
+  "stanceLabel": "Mixed-unclear",
+  "stanceColor": "gray",
+  "stanceSummary": "Sanders has been critical of Israeli military conduct in Gaza while also affirming Israel's right to security, placing him in a mixed position in this framework.",
+  "timeline": [
+    {
+      "date": "2023-12-12",
+      "event": "Introduced efforts focused on oversight and conditions tied to military aid."
+    },
+    {
+      "date": "2024-03-20",
+      "event": "Repeated calls for humanitarian protections and policy recalibration."
+    }
+  ],
+  "sourceIds": [
+    "sen-sanders-press",
+    "senate-roll-call"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

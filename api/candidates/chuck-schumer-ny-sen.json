@@ -1,0 +1,27 @@
+{
+  "id": "chuck-schumer-ny-sen",
+  "name": "Chuck Schumer",
+  "party": "Democratic",
+  "state": "NY",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, New York",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Chuck_Schumer%2C_official_photo%2C_113th_Congress.jpg/440px-Chuck_Schumer%2C_official_photo%2C_113th_Congress.jpg",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "Schumer has expressed strong alignment with Israel's security position while also calling for pathways to regional de-escalation.",
+  "timeline": [
+    {
+      "date": "2023-10-09",
+      "event": "Published statements supporting Israel and condemning Hamas attacks."
+    },
+    {
+      "date": "2024-03-14",
+      "event": "Delivered Senate floor remarks on Israeli government policy and long-term peace options."
+    }
+  ],
+  "sourceIds": [
+    "sen-schumer-press",
+    "senate-floor-transcripts"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

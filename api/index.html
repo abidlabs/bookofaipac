@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book of AIPAC API docs</title>
+    <link rel="stylesheet" href="../assets/css/main.css" />
+  </head>
+  <body>
+    <main class="page">
+      <nav class="top-links">
+        <a href="../index.html">Search UI</a>
+        <a href="./index.json">API index JSON</a>
+      </nav>
+
+      <header class="hero">
+        <p class="eyebrow">Book of AIPAC</p>
+        <h1>Static API routes</h1>
+        <p class="subtext">
+          These endpoints are static JSON files served by GitHub Pages.
+        </p>
+      </header>
+
+      <section class="detail-card">
+        <h2>Base URL</h2>
+        <pre><code>https://abidlabs.github.io/bookofaipac</code></pre>
+      </section>
+
+      <section class="detail-card">
+        <h2>Endpoints</h2>
+        <ul class="timeline">
+          <li>
+            <strong>API index</strong><br />
+            <code>/api/index.json</code>
+          </li>
+          <li>
+            <strong>Stance list</strong><br />
+            <code>/api/stances.json</code>
+          </li>
+          <li>
+            <strong>Candidate by id</strong><br />
+            <code>/api/candidates/{id}.json</code>
+          </li>
+          <li>
+            <strong>Sources map</strong><br />
+            <code>/data/sources.json</code>
+          </li>
+          <li>
+            <strong>2026 federal candidates</strong><br />
+            <code>/data/2026-federal-candidates.json</code>
+          </li>
+        </ul>
+      </section>
+
+      <section class="detail-card">
+        <h2>Example requests</h2>
+        <pre><code>curl https://abidlabs.github.io/bookofaipac/api/stances.json</code></pre>
+        <pre><code>curl https://abidlabs.github.io/bookofaipac/api/candidates/rashida-tlaib-mi-12.json</code></pre>
+      </section>
+
+      <section class="detail-card">
+        <h2>Response shape for candidate endpoint</h2>
+        <pre><code>{
+  "id": "rashida-tlaib-mi-12",
+  "name": "Rashida Tlaib",
+  "stanceLabel": "Pro-Palestine",
+  "stanceColor": "green",
+  "stanceSummary": "..."
+}</code></pre>
+      </section>
+    </main>
+  </body>
+</html>

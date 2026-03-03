@@ -1,0 +1,54 @@
+{
+  "generatedAt": "2026-03-03",
+  "count": 6,
+  "items": [
+    {
+      "id": "bernie-sanders-vt-sen",
+      "name": "Bernie Sanders",
+      "districtOrOffice": "U.S. Senate, Vermont",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
+      "endpoint": "/api/candidates/bernie-sanders-vt-sen.json"
+    },
+    {
+      "id": "chuck-schumer-ny-sen",
+      "name": "Chuck Schumer",
+      "districtOrOffice": "U.S. Senate, New York",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
+      "endpoint": "/api/candidates/chuck-schumer-ny-sen.json"
+    },
+    {
+      "id": "cori-bush-mo-01",
+      "name": "Cori Bush",
+      "districtOrOffice": "U.S. House, MO-01",
+      "stanceLabel": "Pro-Palestine",
+      "stanceColor": "green",
+      "endpoint": "/api/candidates/cori-bush-mo-01.json"
+    },
+    {
+      "id": "hakeem-jeffries-ny-08",
+      "name": "Hakeem Jeffries",
+      "districtOrOffice": "U.S. House, NY-08",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
+      "endpoint": "/api/candidates/hakeem-jeffries-ny-08.json"
+    },
+    {
+      "id": "ilhan-omar-mn-05",
+      "name": "Ilhan Omar",
+      "districtOrOffice": "U.S. House, MN-05",
+      "stanceLabel": "Pro-Palestine",
+      "stanceColor": "green",
+      "endpoint": "/api/candidates/ilhan-omar-mn-05.json"
+    },
+    {
+      "id": "rashida-tlaib-mi-12",
+      "name": "Rashida Tlaib",
+      "districtOrOffice": "U.S. House, MI-12",
+      "stanceLabel": "Pro-Palestine",
+      "stanceColor": "green",
+      "endpoint": "/api/candidates/rashida-tlaib-mi-12.json"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cori-bush-mo-01",
+  "name": "Cori Bush",
+  "party": "Democratic",
+  "state": "MO",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MO-01",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Rep._Cori_Bush%2C_117th_Congress.jpg/440px-Rep._Cori_Bush%2C_117th_Congress.jpg",
+  "stanceLabel": "Pro-Palestine",
+  "stanceColor": "green",
+  "stanceSummary": "Bush has supported ceasefire resolutions and highlighted humanitarian impacts in Gaza.",
+  "timeline": [
+    {
+      "date": "2023-10-16",
+      "event": "Led and promoted ceasefire-focused messaging in Congress."
+    },
+    {
+      "date": "2024-01-12",
+      "event": "Reiterated opposition to unconditional military support in statements."
+    }
+  ],
+  "sourceIds": [
+    "rep-bush-releases",
+    "house-resolution-tracker"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

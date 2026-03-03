@@ -7,54 +7,67 @@
     <link rel="stylesheet" href="./assets/css/main.css" />
   </head>
   <body>
-    <main class="page">
-      <header class="hero">
-        <p class="eyebrow">Book of AIPAC</p>
-        <h1>Search candidates and elected officials</h1>
-        <p class="subtext">
-          Look up federal candidates and see stance labels, timeline entries, and
-          source-backed references.
-        </p>
-      </header>
+    <div class="stars" aria-hidden="true" id="stars"></div>
 
-      <section class="search-section">
+    <main class="landing">
+      <nav class="top-nav">
+        <a href="./api/index.html" class="nav-link">API docs</a>
+        <a href="./api/index.json" class="nav-link">JSON</a>
+      </nav>
+
+      <section class="hero">
+        <p class="eyebrow">Accountability database</p>
+        <h1 class="site-title">Book of <em>AIPAC</em></h1>
+        <p class="site-tagline">
+          Search federal candidates — see stances, timelines, and source-backed references.
+        </p>
+
         <div class="search-wrap">
-          <label for="candidateSearch" class="sr-only">Search by name</label>
-          <input
-            id="candidateSearch"
-            type="text"
-            placeholder="Type a candidate name..."
-            autocomplete="off"
-            aria-controls="searchResults"
-            aria-expanded="false"
-          />
+          <div class="search-box">
+            <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+              <circle cx="9" cy="9" r="5.5"/>
+              <path d="M14 14L17.5 17.5"/>
+            </svg>
+            <label for="candidateSearch" class="sr-only">Search by name</label>
+            <input
+              id="candidateSearch"
+              type="text"
+              placeholder="Search a candidate or official…"
+              autocomplete="off"
+              spellcheck="false"
+              aria-controls="searchResults"
+              aria-expanded="false"
+            />
+          </div>
           <div id="searchResults" class="results" role="listbox"></div>
         </div>
-      </section>
 
-      <section class="legend-section">
-        <h2>Stance legend</h2>
         <div class="legend-row">
           <span class="badge badge-green">Pro-Palestine</span>
           <span class="badge badge-red">Pro-Israel</span>
-          <span class="badge badge-gray">Mixed-unclear</span>
+          <span class="badge badge-gray">Mixed / Unclear</span>
           <span class="badge badge-neutral">Unknown</span>
         </div>
       </section>
 
-      <section class="info-grid">
-        <article class="info-card">
-          <h3>How this works</h3>
-          <p>
-            Search supports autocomplete and keyboard navigation. Select a name
-            to view timeline evidence and references.
-          </p>
-        </article>
-        <article class="info-card">
-          <h3>Dataset status</h3>
-          <p id="datasetMeta">Loading federal candidate dataset...</p>
-        </article>
+      <section class="ticker-section" id="tickerSection" hidden>
+        <p class="ticker-label">Recently profiled</p>
+        <div class="ticker-outer">
+          <div class="ticker-track" id="candidateTicker"></div>
+        </div>
       </section>
+
+      <footer class="site-footer">
+        <div class="footer-stat">
+          <span class="stat-label">Candidates in dataset</span>
+          <span class="stat-value" id="datasetMeta">Loading…</span>
+        </div>
+        <nav class="footer-links">
+          <a href="./api/index.html">API docs</a>
+          <span class="sep">·</span>
+          <a href="./api/index.json">Data JSON</a>
+        </nav>
+      </footer>
     </main>
 
     <script type="module" src="./assets/js/search.js"></script>

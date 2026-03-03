@@ -24,10 +24,15 @@ Static GitHub Pages website for searching U.S. federal candidates and viewing st
 - `assets/js/search.js`: Search and autocomplete behavior
 - `assets/js/detail.js`: Detail rendering behavior
 - `assets/js/data.js`: Shared data helpers
+- `api/index.html`: API documentation page
+- `api/index.json`: API route index
+- `api/stances.json`: Stance list endpoint
+- `api/candidates/*.json`: Candidate stance endpoints
 - `data/politicians.json`: Curated stance profiles
 - `data/sources.json`: Source catalog
 - `data/2026-federal-candidates.json`: Best-effort federal candidate list for 2026
 - `scripts/build_federal_candidates.py`: Dataset generation script
+- `scripts/build_api_routes.py`: API endpoint generation script
 
 ## Dataset notes
 
@@ -41,6 +46,12 @@ Run:
 
 ```bash
 python3 scripts/build_federal_candidates.py
+```
+
+Then regenerate API endpoints:
+
+```bash
+python3 scripts/build_api_routes.py
 ```
 
 ## Deploy on GitHub Pages

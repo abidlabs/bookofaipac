@@ -26,6 +26,12 @@ function rowTemplate(candidate, isActive) {
   button.setAttribute("role", "option");
   button.dataset.id = candidate.id;
 
+  const image = document.createElement("img");
+  image.className = "avatar";
+  image.src = candidate.imageUrl;
+  image.alt = candidate.name;
+  image.loading = "lazy";
+
   const copyWrap = document.createElement("div");
   copyWrap.className = "result-copy";
   const name = document.createElement("p");
@@ -36,12 +42,6 @@ function rowTemplate(candidate, isActive) {
   meta.textContent = formatMeta(candidate);
   copyWrap.appendChild(name);
   copyWrap.appendChild(meta);
-
-  const image = document.createElement("img");
-  image.className = "avatar";
-  image.src = candidate.imageUrl;
-  image.alt = candidate.name;
-  image.loading = "lazy";
 
   const badge = document.createElement("span");
   badge.className = `badge ${getBadgeClass(candidate.stanceLabel)}`;
@@ -81,13 +81,11 @@ function renderResults() {
 function runSearch(query) {
   const normalized = normalizeForSearch(query);
   if (!normalized) {
-    visibleResults = candidateIndex.slice(0, 12);
-    activeIndex = -1;
-    renderResults();
+    closeResults();
     return;
   }
   visibleResults = candidateIndex
-    .filter((candidate) => normalizeForSearch(candidate.name).includes(normalized))
+    .filter((c) => normalizeForSearch(c.name).includes(normalized))
     .slice(0, 20);
   activeIndex = -1;
   renderResults();
@@ -108,18 +106,81 @@ function handleArrowNavigation(direction) {
   renderResults();
 }
 
-async function init() {
-  const [profiledCandidates, federalCandidates] = await Promise.all([
-    loadJson("./data/politicians.json"),
-    loadJson("./data/2026-federal-candidates.json"),
-  ]);
+function renderTicker(candidates) {
+  const tickerEl = document.getElementById("candidateTicker");
+  const tickerSection = document.getElementById("tickerSection");
+  if (!tickerEl || !tickerSection) return;
 
-  candidateIndex = makeCandidateIndex(profiledCandidates, federalCandidates);
-  datasetMeta.textContent = `Loaded ${federalCandidates.length.toLocaleString()} federal candidates for 2026 (best-effort, source-backed).`;
-  visibleResults = candidateIndex.slice(0, 12);
-  renderResults();
-  searchInput.focus();
+  const featured = candidates
+    .filter((c) => c.stanceLabel && c.stanceLabel !== "Unknown" && c.sourceType === "profiled")
+    .slice(0, 24);
+
+  if (featured.length < 2) return;
+
+  // Duplicate for a seamless infinite scroll
+  const allItems = [...featured, ...featured];
+
+  allItems.forEach((candidate) => {
+    const card = document.createElement("div");
+    card.className = "ticker-card";
+
+    const img = document.createElement("img");
+    img.className = "ticker-avatar";
+    img.src = candidate.imageUrl;
+    img.alt = candidate.name;
+    img.loading = "lazy";
+
+    const info = document.createElement("div");
+    info.className = "ticker-info";
+
+    const nameEl = document.createElement("span");
+    nameEl.className = "ticker-name";
+    nameEl.textContent = candidate.name;
+
+    const metaEl = document.createElement("span");
+    metaEl.className = "ticker-meta";
+    metaEl.textContent = [candidate.party, candidate.state].filter(Boolean).join(" · ");
+
+    info.appendChild(nameEl);
+    info.appendChild(metaEl);
+
+    const badge = document.createElement("span");
+    badge.className = `badge ${getBadgeClass(candidate.stanceLabel)}`;
+    badge.textContent = displayStanceLabel(candidate.stanceLabel);
+
+    card.appendChild(img);
+    card.appendChild(info);
+    card.appendChild(badge);
+
+    card.addEventListener("click", () => goToCandidate(candidate.id));
+    tickerEl.appendChild(card);
+  });
+
+  // Scale animation speed by number of cards for consistent pace
+  const duration = Math.min(60, Math.max(18, Math.round(featured.length * 2.8)));
+  tickerEl.style.animationDuration = `${duration}s`;
+
+  tickerSection.hidden = false;
 }
+
+function spawnStars() {
+  const container = document.getElementById("stars");
+  if (!container) return;
+  const glyphs = ["+", "·", "+", "·", "·"];
+  for (let i = 0; i < 26; i++) {
+    const s = document.createElement("span");
+    s.className = "star";
+    s.textContent = glyphs[Math.floor(Math.random() * glyphs.length)];
+    s.style.left = `${(Math.random() * 98).toFixed(1)}%`;
+    s.style.top = `${(Math.random() * 98).toFixed(1)}%`;
+    s.style.opacity = `${(0.08 + Math.random() * 0.18).toFixed(2)}`;
+    s.style.fontSize = `${8 + Math.floor(Math.random() * 8)}px`;
+    container.appendChild(s);
+  }
+}
+
+// Spawn stars immediately (DOM is ready because this is a deferred module)
+spawnStars();
 
 searchInput.addEventListener("input", (event) => {
   runSearch(event.target.value);
@@ -146,7 +207,22 @@ document.addEventListener("click", (event) => {
   }
 });
 
+async function init() {
+  const [profiledCandidates, federalCandidates] = await Promise.all([
+    loadJson("./data/politicians.json"),
+    loadJson("./data/2026-federal-candidates.json"),
+  ]);
+
+  candidateIndex = makeCandidateIndex(profiledCandidates, federalCandidates);
+
+  if (datasetMeta) {
+    datasetMeta.textContent = `${federalCandidates.length.toLocaleString()} federal candidates`;
+  }
+
+  renderTicker(candidateIndex);
+}
+
 init().catch((error) => {
-  datasetMeta.textContent = "Failed to load dataset files.";
+  if (datasetMeta) datasetMeta.textContent = "Failed to load dataset.";
   console.error(error);
 });

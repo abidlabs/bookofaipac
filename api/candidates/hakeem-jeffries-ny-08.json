@@ -1,0 +1,27 @@
+{
+  "id": "hakeem-jeffries-ny-08",
+  "name": "Hakeem Jeffries",
+  "party": "Democratic",
+  "state": "NY",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, NY-08",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hakeem_Jeffries%2C_official_portrait%2C_118th_Congress.jpg/440px-Hakeem_Jeffries%2C_official_portrait%2C_118th_Congress.jpg",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "Jeffries has strongly supported Israel and emphasized security cooperation while also discussing humanitarian concerns for civilians in Gaza.",
+  "timeline": [
+    {
+      "date": "2023-10-12",
+      "event": "Released statement affirming strong support for Israel following attacks."
+    },
+    {
+      "date": "2024-01-30",
+      "event": "Backed continued U.S.-Israel security assistance in leadership remarks."
+    }
+  ],
+  "sourceIds": [
+    "rep-jeffries-releases",
+    "congress-floor-records"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}
