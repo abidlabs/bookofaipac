@@ -243,6 +243,7 @@ body {
   object-fit: cover;
   background: var(--bg-elevated);
   border: 1px solid var(--border);
+  filter: grayscale(100%);
 }
 
 .result-copy { min-width: 0; }
@@ -410,6 +411,7 @@ body {
   background: var(--bg-elevated);
   border: 1px solid var(--border);
   flex-shrink: 0;
+  filter: grayscale(100%);
 }
 
 .ticker-info {
@@ -515,6 +517,7 @@ body {
   object-fit: cover;
   background: var(--bg-elevated);
   border: 2px solid var(--border);
+  filter: grayscale(100%);
 }
 
 .detail-name {
