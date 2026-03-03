@@ -56,6 +56,12 @@ def stance_color(label: str) -> str:
 def build_candidate_endpoints(profiled: list[dict]) -> list[dict]:
   rows = []
   for candidate in profiled:
+    profile_last_updated_at = (
+      candidate.get("profileLastUpdatedAt")
+      or candidate.get("trackAipacLastSyncedAt")
+      or candidate.get("lastConfirmedAt")
+      or ""
+    )
     payload = {
       "id": candidate["id"],
       "name": candidate["name"],
@@ -69,6 +75,7 @@ def build_candidate_endpoints(profiled: list[dict]) -> list[dict]:
       "stanceSummary": candidate.get("stanceSummary", ""),
       "timeline": candidate.get("timeline", []),
       "sourceIds": candidate.get("sourceIds", []),
+      "profileLastUpdatedAt": profile_last_updated_at,
       "sourcesEndpoint": "/data/sources.json",
     }
     endpoint_path = API_CANDIDATES / f"{candidate['id']}.json"

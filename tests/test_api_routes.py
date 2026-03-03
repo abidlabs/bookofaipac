@@ -23,6 +23,7 @@ REQUIRED_CANDIDATE_KEYS = {
   "stanceSummary",
   "timeline",
   "sourceIds",
+  "profileLastUpdatedAt",
   "sourcesEndpoint",
 }
 VALID_STANCE_COLORS = {"green", "red", "gray", "neutral"}
