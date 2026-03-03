@@ -100,10 +100,12 @@ async function init() {
     DEFAULT_IMAGE;
 
   renderHeader(candidate);
-  israelLobbyTotalRoot.textContent =
-    typeof candidate.israelLobbyTotal === "number"
-      ? formatIsraelLobbyTotal(candidate.israelLobbyTotal)
-      : "Not available";
+  const amount =
+    typeof candidate.israelLobbyTotal === "number" && !Number.isNaN(candidate.israelLobbyTotal)
+      ? candidate.israelLobbyTotal
+      : 0;
+  israelLobbyTotalRoot.className = `lobby-badge ${amount > 0 ? "lobby-badge-positive" : "lobby-badge-zero"}`;
+  israelLobbyTotalRoot.textContent = formatIsraelLobbyTotal(amount);
   stanceSummaryRoot.textContent = candidate.stanceSummary;
   renderTimeline(candidate);
   renderSources(candidate, sourceMap);
@@ -111,7 +113,8 @@ async function init() {
 
 init().catch((error) => {
   headerRoot.innerHTML = "<h1 class=\"detail-name\">Candidate not found</h1>";
-  israelLobbyTotalRoot.textContent = "Unavailable.";
+  israelLobbyTotalRoot.className = "lobby-badge lobby-badge-zero";
+  israelLobbyTotalRoot.textContent = "$0";
   stanceSummaryRoot.textContent =
     "The profile could not be loaded. Return to search and select another entry.";
   timelineRoot.innerHTML = "<li>Unavailable.</li>";
