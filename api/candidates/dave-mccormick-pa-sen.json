@@ -1,0 +1,17 @@
+{
+  "id": "dave-mccormick-pa-sen",
+  "name": "Dave McCormick",
+  "party": "Republican",
+  "state": "PA",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, PA",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "john-mcguire-va-05",
+  "name": "John McGuire",
+  "party": "Republican",
+  "state": "VA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, VA-05",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

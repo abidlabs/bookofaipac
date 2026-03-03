@@ -1,0 +1,17 @@
+{
+  "id": "scott-fitzgerald-wi-05",
+  "name": "Scott Fitzgerald",
+  "party": "Republican",
+  "state": "WI",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, WI-05",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

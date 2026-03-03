@@ -1,0 +1,17 @@
+{
+  "id": "chellie-pingree-me-01",
+  "name": "Chellie Pingree",
+  "party": "Democratic",
+  "state": "ME",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, ME-01",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

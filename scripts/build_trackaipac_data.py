@@ -127,6 +127,18 @@ def office_from_label(label: str) -> tuple[str, str, str]:
   return "U.S. House", f"U.S. House, {state}-{suffix}", "HOUSE"
 
 
+def profile_id_from_record(record: dict) -> str:
+  suffix = record["officeLabel"].split("-", 1)[1].lower()
+  return slugify(f"{record['name']}-{record['state']}-{suffix}")
+
+
+def federal_id_from_record(record: dict) -> str:
+  suffix = record["officeLabel"].split("-", 1)[1]
+  if suffix == "SEN":
+    return slugify(f"{record['name']}-{record['state']}-s-00")
+  return slugify(f"{record['name']}-{record['state']}-h-{suffix}")
+
+
 def find_matches(record: dict, rows: list[dict]) -> list[dict]:
   target_name = normalized_name_key(record["name"])
   state = record["state"]
@@ -151,6 +163,37 @@ def find_matches(record: dict, rows: list[dict]) -> list[dict]:
   return matches
 
 
+def pick_better_row(current: dict | None, candidate: dict) -> dict:
+  if current is None:
+    return candidate
+  current_score = 0
+  candidate_score = 0
+  for key in ["israelLobbyTotal", "imageUrl", "timeline", "sourceIds", "stanceSummary"]:
+    current_value = current.get(key)
+    candidate_value = candidate.get(key)
+    if current_value not in (None, "", [], {}):
+      current_score += 1
+    if candidate_value not in (None, "", [], {}):
+      candidate_score += 1
+  if candidate_score > current_score:
+    merged = dict(current)
+    merged.update(candidate)
+    return merged
+  merged = dict(candidate)
+  merged.update(current)
+  return merged
+
+
+def dedupe_rows_by_id(rows: list[dict]) -> list[dict]:
+  by_id: dict[str, dict] = {}
+  for row in rows:
+    row_id = row.get("id")
+    if not row_id:
+      continue
+    by_id[row_id] = pick_better_row(by_id.get(row_id), row)
+  return list(by_id.values())
+
+
 def apply_track_fields(row: dict, record: dict, timestamp: str) -> None:
   row["israelLobbyTotal"] = record["israelLobbyTotal"]
   row["israelLobbyTotalDisplay"] = record["israelLobbyTotalDisplay"]
@@ -165,7 +208,7 @@ def create_new_federal(record: dict, timestamp: str) -> dict:
   if scope == "HOUSE":
     district = record["officeLabel"].split("-", 1)[1]
   row = {
-    "id": slugify(f"{record['name']}-{record['state']}-{record['officeLabel'].split('-', 1)[1].lower()}"),
+    "id": federal_id_from_record(record),
     "candidateKey": slugify(f"trackaipac-{record['name']}-{record['officeLabel']}"),
     "fecCandidateId": None,
     "name": record["name"],
@@ -197,7 +240,7 @@ def create_new_federal(record: dict, timestamp: str) -> dict:
 def create_new_profile(record: dict, timestamp: str) -> dict:
   office, district_or_office, _scope = office_from_label(record["officeLabel"])
   row = {
-    "id": slugify(f"{record['name']}-{record['state']}-{record['officeLabel'].split('-', 1)[1].lower()}"),
+    "id": profile_id_from_record(record),
     "name": record["name"],
     "party": record["party"],
     "state": record["state"],
@@ -231,28 +274,48 @@ def main() -> None:
   records = parse_track_records(cleaned)
   timestamp = datetime.now(timezone.utc).isoformat()
 
-  federal = load_json(FEDERAL_PATH)
-  profiles = load_json(POLITICIANS_PATH)
+  federal = dedupe_rows_by_id(load_json(FEDERAL_PATH))
+  profiles = dedupe_rows_by_id(load_json(POLITICIANS_PATH))
+  federal_by_id = {row["id"]: row for row in federal if row.get("id")}
+  profiles_by_id = {row["id"]: row for row in profiles if row.get("id")}
   unmatched = []
 
   for record in records:
-    federal_matches = find_matches(record, federal)
-    profile_matches = find_matches(record, profiles)
+    federal_matches = []
+    profile_matches = []
+
+    direct_federal = federal_by_id.get(federal_id_from_record(record))
+    if direct_federal:
+      federal_matches = [direct_federal]
+    else:
+      federal_matches = find_matches(record, federal)
+
+    direct_profile = profiles_by_id.get(profile_id_from_record(record))
+    if direct_profile:
+      profile_matches = [direct_profile]
+    else:
+      profile_matches = find_matches(record, profiles)
 
     if len(federal_matches) > 1:
       unmatched.append({**record, "reason": "ambiguous_federal_match"})
     elif len(federal_matches) == 1:
       apply_track_fields(federal_matches[0], record, timestamp)
     else:
-      federal.append(create_new_federal(record, timestamp))
+      created = create_new_federal(record, timestamp)
+      federal.append(created)
+      federal_by_id[created["id"]] = created
 
     if len(profile_matches) > 1:
       unmatched.append({**record, "reason": "ambiguous_profile_match"})
     elif len(profile_matches) == 1:
       apply_track_fields(profile_matches[0], record, timestamp)
     else:
-      profiles.append(create_new_profile(record, timestamp))
+      created = create_new_profile(record, timestamp)
+      profiles.append(created)
+      profiles_by_id[created["id"]] = created
 
+  federal = dedupe_rows_by_id(federal)
+  profiles = dedupe_rows_by_id(profiles)
   federal.sort(key=lambda item: (item.get("state", ""), item.get("name", "")))
   profiles.sort(key=lambda item: item.get("name", ""))
 

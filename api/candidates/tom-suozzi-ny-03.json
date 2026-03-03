@@ -1,0 +1,17 @@
+{
+  "id": "tom-suozzi-ny-03",
+  "name": "Tom Suozzi",
+  "party": "Democratic",
+  "state": "NY",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, NY-03",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

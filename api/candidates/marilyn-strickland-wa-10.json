@@ -1,0 +1,17 @@
+{
+  "id": "marilyn-strickland-wa-10",
+  "name": "Marilyn Strickland",
+  "party": "Democratic",
+  "state": "WA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, WA-10",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bennie-thompson-ms-02",
+  "name": "Bennie Thompson",
+  "party": "Democratic",
+  "state": "MS",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MS-02",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

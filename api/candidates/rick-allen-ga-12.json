@@ -1,0 +1,17 @@
+{
+  "id": "rick-allen-ga-12",
+  "name": "Rick Allen",
+  "party": "Democratic",
+  "state": "GA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, GA-12",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

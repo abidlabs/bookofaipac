@@ -1,0 +1,17 @@
+{
+  "id": "mario-diaz-balart-fl-26",
+  "name": "Mario Diaz-Balart",
+  "party": "Republican",
+  "state": "FL",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, FL-26",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gus-bilirakis-fl-12",
+  "name": "Gus Bilirakis",
+  "party": "Republican",
+  "state": "FL",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, FL-12",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

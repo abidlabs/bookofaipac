@@ -1,0 +1,17 @@
+{
+  "id": "troy-carter-la-02",
+  "name": "Troy Carter",
+  "party": "Democratic",
+  "state": "LA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, LA-02",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

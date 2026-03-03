@@ -1,0 +1,17 @@
+{
+  "id": "nellie-pou-nj-09",
+  "name": "Nellie Pou",
+  "party": "Democratic",
+  "state": "NJ",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, NJ-09",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

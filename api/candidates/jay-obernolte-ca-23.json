@@ -1,0 +1,17 @@
+{
+  "id": "jay-obernolte-ca-23",
+  "name": "Jay Obernolte",
+  "party": "Republican",
+  "state": "CA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, CA-23",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

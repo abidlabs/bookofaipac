@@ -1,0 +1,17 @@
+{
+  "id": "april-mcclain-delaney-md-06",
+  "name": "April McClain Delaney",
+  "party": "Democratic",
+  "state": "MD",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MD-06",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

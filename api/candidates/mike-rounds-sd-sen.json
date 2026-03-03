@@ -1,0 +1,17 @@
+{
+  "id": "mike-rounds-sd-sen",
+  "name": "Mike Rounds",
+  "party": "Republican",
+  "state": "SD",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, SD",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

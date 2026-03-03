@@ -1,0 +1,17 @@
+{
+  "id": "joni-ernst-ia-sen",
+  "name": "Joni Ernst",
+  "party": "Republican",
+  "state": "IA",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, IA",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

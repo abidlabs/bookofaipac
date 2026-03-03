@@ -1,0 +1,17 @@
+{
+  "id": "bill-keating-ma-09",
+  "name": "Bill Keating",
+  "party": "Democratic",
+  "state": "MA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MA-09",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

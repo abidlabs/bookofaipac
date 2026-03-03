@@ -1,0 +1,17 @@
+{
+  "id": "debbie-wasserman-schultz-fl-25",
+  "name": "Debbie Wasserman-Schultz",
+  "party": "Democratic",
+  "state": "FL",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, FL-25",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

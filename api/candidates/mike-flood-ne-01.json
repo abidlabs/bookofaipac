@@ -1,0 +1,17 @@
+{
+  "id": "mike-flood-ne-01",
+  "name": "Mike Flood",
+  "party": "Republican",
+  "state": "NE",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, NE-01",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

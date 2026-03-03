@@ -1,0 +1,17 @@
+{
+  "id": "david-schweikert-az-01",
+  "name": "David Schweikert",
+  "party": "Republican",
+  "state": "AZ",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, AZ-01",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

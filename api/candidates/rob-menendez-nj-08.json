@@ -1,0 +1,17 @@
+{
+  "id": "rob-menendez-nj-08",
+  "name": "Rob Menendez",
+  "party": "Democratic",
+  "state": "NJ",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, NJ-08",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

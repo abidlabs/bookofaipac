@@ -1,0 +1,17 @@
+{
+  "id": "danny-davis-il-07",
+  "name": "Danny Davis",
+  "party": "Democratic",
+  "state": "IL",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, IL-07",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

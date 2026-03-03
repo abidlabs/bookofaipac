@@ -1,0 +1,17 @@
+{
+  "id": "mazie-hirono-hi-sen",
+  "name": "Mazie Hirono",
+  "party": "Democratic",
+  "state": "HI",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, HI",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

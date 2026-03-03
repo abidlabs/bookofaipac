@@ -1,0 +1,17 @@
+{
+  "id": "chris-coons-de-sen",
+  "name": "Chris Coons",
+  "party": "Democratic",
+  "state": "DE",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, DE",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

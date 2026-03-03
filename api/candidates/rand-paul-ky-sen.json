@@ -1,0 +1,17 @@
+{
+  "id": "rand-paul-ky-sen",
+  "name": "Rand Paul",
+  "party": "Republican",
+  "state": "KY",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, KY",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

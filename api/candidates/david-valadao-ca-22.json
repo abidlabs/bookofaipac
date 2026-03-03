@@ -1,0 +1,17 @@
+{
+  "id": "david-valadao-ca-22",
+  "name": "David Valadao",
+  "party": "Republican",
+  "state": "CA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, CA-22",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

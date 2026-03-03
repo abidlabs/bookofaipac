@@ -1,0 +1,17 @@
+{
+  "id": "terri-sewell-al-07",
+  "name": "Terri Sewell",
+  "party": "Democratic",
+  "state": "AL",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, AL-07",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

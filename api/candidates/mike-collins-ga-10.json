@@ -1,0 +1,17 @@
+{
+  "id": "mike-collins-ga-10",
+  "name": "Mike Collins",
+  "party": "Republican",
+  "state": "GA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, GA-10",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

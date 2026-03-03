@@ -1,0 +1,17 @@
+{
+  "id": "don-davis-nc-01",
+  "name": "Don Davis",
+  "party": "Democratic",
+  "state": "NC",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, NC-01",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rudy-yakym-in-02",
+  "name": "Rudy Yakym",
+  "party": "Republican",
+  "state": "IN",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, IN-02",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

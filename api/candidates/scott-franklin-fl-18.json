@@ -1,0 +1,17 @@
+{
+  "id": "scott-franklin-fl-18",
+  "name": "Scott Franklin",
+  "party": "Republican",
+  "state": "FL",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, FL-18",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

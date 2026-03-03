@@ -1,0 +1,17 @@
+{
+  "id": "michael-baumgartner-wa-05",
+  "name": "Michael Baumgartner",
+  "party": "Republican",
+  "state": "WA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, WA-05",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

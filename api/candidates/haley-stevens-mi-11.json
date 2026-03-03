@@ -1,0 +1,17 @@
+{
+  "id": "haley-stevens-mi-11",
+  "name": "Haley Stevens",
+  "party": "Democratic",
+  "state": "MI",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MI-11",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

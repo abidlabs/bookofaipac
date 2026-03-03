@@ -475,6 +475,11 @@ body {
   color: var(--text);
 }
 
+.stat-subvalue {
+  font-size: 13px;
+  color: var(--text-dim);
+}
+
 .footer-links {
   display: flex;
   align-items: center;

@@ -1,0 +1,17 @@
+{
+  "id": "mark-amodei-nv-02",
+  "name": "Mark Amodei",
+  "party": "Republican",
+  "state": "NV",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, NV-02",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

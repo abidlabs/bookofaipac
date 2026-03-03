@@ -1,0 +1,17 @@
+{
+  "id": "bob-latta-oh-05",
+  "name": "Bob Latta",
+  "party": "Republican",
+  "state": "OH",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, OH-05",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

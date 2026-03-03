@@ -1,0 +1,17 @@
+{
+  "id": "young-kim-ca-40",
+  "name": "Young Kim",
+  "party": "Republican",
+  "state": "CA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, CA-40",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rick-crawford-ar-01",
+  "name": "Rick Crawford",
+  "party": "Republican",
+  "state": "AR",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, AR-01",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sydney-kamlager-dove-ca-37",
+  "name": "Sydney Kamlager-Dove",
+  "party": "Democratic",
+  "state": "CA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, CA-37",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

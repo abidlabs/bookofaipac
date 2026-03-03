@@ -1,0 +1,17 @@
+{
+  "id": "mark-warner-va-sen",
+  "name": "Mark Warner",
+  "party": "Democratic",
+  "state": "VA",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, VA",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

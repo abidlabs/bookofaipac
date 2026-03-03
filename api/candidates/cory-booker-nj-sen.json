@@ -1,0 +1,17 @@
+{
+  "id": "cory-booker-nj-sen",
+  "name": "Cory Booker",
+  "party": "Democratic",
+  "state": "NJ",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, NJ",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

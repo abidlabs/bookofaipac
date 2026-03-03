@@ -1,0 +1,17 @@
+{
+  "id": "joaquin-castro-tx-20",
+  "name": "Joaquin Castro",
+  "party": "Democratic",
+  "state": "TX",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, TX-20",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

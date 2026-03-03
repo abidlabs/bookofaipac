@@ -1,0 +1,17 @@
+{
+  "id": "brian-jack-ga-03",
+  "name": "Brian Jack",
+  "party": "Republican",
+  "state": "GA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, GA-03",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

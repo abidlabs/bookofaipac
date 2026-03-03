@@ -1,0 +1,17 @@
+{
+  "id": "josh-riley-ny-19",
+  "name": "Josh Riley",
+  "party": "Democratic",
+  "state": "NY",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, NY-19",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

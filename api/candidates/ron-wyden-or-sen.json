@@ -1,0 +1,17 @@
+{
+  "id": "ron-wyden-or-sen",
+  "name": "Ron Wyden",
+  "party": "Democratic",
+  "state": "OR",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, OR",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "derrick-van-orden-wi-03",
+  "name": "Derrick Van Orden",
+  "party": "Republican",
+  "state": "WI",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, WI-03",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

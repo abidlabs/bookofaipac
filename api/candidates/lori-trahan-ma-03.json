@@ -1,0 +1,17 @@
+{
+  "id": "lori-trahan-ma-03",
+  "name": "Lori Trahan",
+  "party": "Democratic",
+  "state": "MA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MA-03",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

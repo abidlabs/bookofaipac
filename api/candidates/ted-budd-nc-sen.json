@@ -1,0 +1,17 @@
+{
+  "id": "ted-budd-nc-sen",
+  "name": "Ted Budd",
+  "party": "Republican",
+  "state": "NC",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, NC",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

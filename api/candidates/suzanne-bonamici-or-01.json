@@ -1,0 +1,17 @@
+{
+  "id": "suzanne-bonamici-or-01",
+  "name": "Suzanne Bonamici",
+  "party": "Democratic",
+  "state": "OR",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, OR-01",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

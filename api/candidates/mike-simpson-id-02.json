@@ -1,0 +1,17 @@
+{
+  "id": "mike-simpson-id-02",
+  "name": "Mike Simpson",
+  "party": "Republican",
+  "state": "ID",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, ID-02",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

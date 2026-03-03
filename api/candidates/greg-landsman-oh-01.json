@@ -1,0 +1,17 @@
+{
+  "id": "greg-landsman-oh-01",
+  "name": "Greg Landsman",
+  "party": "Democratic",
+  "state": "OH",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, OH-01",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

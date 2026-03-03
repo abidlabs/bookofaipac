@@ -1,0 +1,17 @@
+{
+  "id": "lois-frankel-fl-22",
+  "name": "Lois Frankel",
+  "party": "Democratic",
+  "state": "FL",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, FL-22",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

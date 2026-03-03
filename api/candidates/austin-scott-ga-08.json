@@ -1,0 +1,17 @@
+{
+  "id": "austin-scott-ga-08",
+  "name": "Austin Scott",
+  "party": "Republican",
+  "state": "GA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, GA-08",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

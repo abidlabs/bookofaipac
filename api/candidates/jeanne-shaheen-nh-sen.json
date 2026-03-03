@@ -1,0 +1,17 @@
+{
+  "id": "jeanne-shaheen-nh-sen",
+  "name": "Jeanne Shaheen",
+  "party": "Democratic",
+  "state": "NH",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, NH",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

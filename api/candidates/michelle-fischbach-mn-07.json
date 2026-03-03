@@ -1,0 +1,17 @@
+{
+  "id": "michelle-fischbach-mn-07",
+  "name": "Michelle Fischbach",
+  "party": "Republican",
+  "state": "MN",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MN-07",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

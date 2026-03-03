@@ -9,6 +9,7 @@ import {
 const searchInput = document.getElementById("candidateSearch");
 const resultsRoot = document.getElementById("searchResults");
 const datasetMeta = document.getElementById("datasetMeta");
+const datasetTotal = document.getElementById("datasetTotal");
 
 let candidateIndex = [];
 let visibleResults = [];
@@ -225,13 +226,13 @@ async function init() {
   const mergedCandidates = makeCandidateIndex(profiledCandidates, federalCandidates);
   candidateIndex = applyLocalImageMap(mergedCandidates, imageManifest, "./");
 
-  if (datasetMeta) {
+  if (datasetTotal && datasetMeta) {
     const electedOfficials = federalCandidates.filter(
       (candidate) => candidate.incumbency === "Incumbent"
     ).length;
     const nonIncumbentCandidates = federalCandidates.length - electedOfficials;
+    datasetTotal.textContent = `${federalCandidates.length.toLocaleString()} Candidates in dataset`;
     datasetMeta.textContent =
-      `${federalCandidates.length.toLocaleString()} total • ` +
       `${electedOfficials.toLocaleString()} elected officials • ` +
       `${nonIncumbentCandidates.toLocaleString()} candidates`;
   }
@@ -240,6 +241,9 @@ async function init() {
 }
 
 init().catch((error) => {
-  if (datasetMeta) datasetMeta.textContent = "Failed to load dataset.";
+  if (datasetTotal && datasetMeta) {
+    datasetTotal.textContent = "Failed to load dataset.";
+    datasetMeta.textContent = "";
+  }
   console.error(error);
 });

@@ -1,0 +1,17 @@
+{
+  "id": "josh-brecheen-ok-02",
+  "name": "Josh Brecheen",
+  "party": "Republican",
+  "state": "OK",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, OK-02",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

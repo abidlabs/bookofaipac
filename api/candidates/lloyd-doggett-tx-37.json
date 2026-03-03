@@ -1,0 +1,17 @@
+{
+  "id": "lloyd-doggett-tx-37",
+  "name": "Lloyd Doggett",
+  "party": "Democratic",
+  "state": "TX",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, TX-37",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

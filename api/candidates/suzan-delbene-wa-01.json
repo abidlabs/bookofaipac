@@ -1,0 +1,17 @@
+{
+  "id": "suzan-delbene-wa-01",
+  "name": "Suzan DelBene",
+  "party": "Democratic",
+  "state": "WA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, WA-01",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

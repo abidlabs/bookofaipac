@@ -1,0 +1,17 @@
+{
+  "id": "alex-padilla-ca-sen",
+  "name": "Alex Padilla",
+  "party": "Democratic",
+  "state": "CA",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, CA",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kevin-mullin-ca-15",
+  "name": "Kevin Mullin",
+  "party": "Democratic",
+  "state": "CA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, CA-15",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

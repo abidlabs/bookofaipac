@@ -1,0 +1,17 @@
+{
+  "id": "greg-stanton-az-04",
+  "name": "Greg Stanton",
+  "party": "Democratic",
+  "state": "AZ",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, AZ-04",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

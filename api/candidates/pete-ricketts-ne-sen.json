@@ -1,0 +1,17 @@
+{
+  "id": "pete-ricketts-ne-sen",
+  "name": "Pete Ricketts",
+  "party": "Republican",
+  "state": "NE",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, NE",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

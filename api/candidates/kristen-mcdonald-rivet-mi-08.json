@@ -1,0 +1,17 @@
+{
+  "id": "kristen-mcdonald-rivet-mi-08",
+  "name": "Kristen McDonald Rivet",
+  "party": "Democratic",
+  "state": "MI",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MI-08",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

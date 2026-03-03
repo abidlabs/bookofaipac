@@ -1,0 +1,17 @@
+{
+  "id": "james-walkinshaw-va-11",
+  "name": "James Walkinshaw",
+  "party": "Democratic",
+  "state": "VA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, VA-11",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

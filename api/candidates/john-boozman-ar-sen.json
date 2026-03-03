@@ -1,0 +1,17 @@
+{
+  "id": "john-boozman-ar-sen",
+  "name": "John Boozman",
+  "party": "Republican",
+  "state": "AR",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, AR",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

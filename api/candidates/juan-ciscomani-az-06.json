@@ -1,0 +1,17 @@
+{
+  "id": "juan-ciscomani-az-06",
+  "name": "Juan Ciscomani",
+  "party": "Republican",
+  "state": "AZ",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, AZ-06",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "jacky-rosen-nv-sen",
+  "name": "Jacky Rosen",
+  "party": "Democratic",
+  "state": "NV",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, NV",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

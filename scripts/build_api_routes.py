@@ -14,6 +14,30 @@ def load_json(path: Path):
   return json.loads(path.read_text(encoding="utf-8"))
 
 
+def dedupe_profiled_by_id(rows: list[dict]) -> list[dict]:
+  by_id = {}
+  for row in rows:
+    row_id = row.get("id")
+    if not row_id:
+      continue
+    if row_id not in by_id:
+      by_id[row_id] = row
+      continue
+    existing = by_id[row_id]
+    existing_score = 0
+    row_score = 0
+    for key in ["israelLobbyTotal", "imageUrl", "stanceSummary", "timeline", "sourceIds"]:
+      if existing.get(key) not in (None, "", [], {}):
+        existing_score += 1
+      if row.get(key) not in (None, "", [], {}):
+        row_score += 1
+    if row_score > existing_score:
+      merged = dict(existing)
+      merged.update(row)
+      by_id[row_id] = merged
+  return sorted(by_id.values(), key=lambda item: item.get("name", ""))
+
+
 def ensure_dirs() -> None:
   API_ROOT.mkdir(parents=True, exist_ok=True)
   API_CANDIDATES.mkdir(parents=True, exist_ok=True)
@@ -65,7 +89,7 @@ def build_candidate_endpoints(profiled: list[dict]) -> list[dict]:
 
 def main() -> None:
   ensure_dirs()
-  profiled = load_json(POLITICIANS_PATH)
+  profiled = dedupe_profiled_by_id(load_json(POLITICIANS_PATH))
   federal = load_json(FEDERAL_PATH)
   candidate_rows = build_candidate_endpoints(profiled)
 

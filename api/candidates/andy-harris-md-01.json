@@ -1,0 +1,17 @@
+{
+  "id": "andy-harris-md-01",
+  "name": "Andy Harris",
+  "party": "Republican",
+  "state": "MD",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MD-01",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

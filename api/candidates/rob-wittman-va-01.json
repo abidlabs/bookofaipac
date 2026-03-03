@@ -1,0 +1,17 @@
+{
+  "id": "rob-wittman-va-01",
+  "name": "Rob Wittman",
+  "party": "Republican",
+  "state": "VA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, VA-01",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

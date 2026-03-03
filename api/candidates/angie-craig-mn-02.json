@@ -1,0 +1,17 @@
+{
+  "id": "angie-craig-mn-02",
+  "name": "Angie Craig",
+  "party": "Democratic",
+  "state": "MN",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MN-02",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

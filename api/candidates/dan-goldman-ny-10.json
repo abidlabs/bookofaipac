@@ -1,0 +1,17 @@
+{
+  "id": "dan-goldman-ny-10",
+  "name": "Dan Goldman",
+  "party": "Democratic",
+  "state": "NY",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, NY-10",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

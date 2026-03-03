@@ -1,0 +1,17 @@
+{
+  "id": "mike-kennedy-ut-03",
+  "name": "Mike Kennedy",
+  "party": "Republican",
+  "state": "UT",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, UT-03",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

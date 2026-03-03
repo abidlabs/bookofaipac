@@ -1,0 +1,17 @@
+{
+  "id": "barry-moore-al-01",
+  "name": "Barry Moore",
+  "party": "Republican",
+  "state": "AL",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, AL-01",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

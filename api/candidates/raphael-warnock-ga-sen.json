@@ -1,0 +1,17 @@
+{
+  "id": "raphael-warnock-ga-sen",
+  "name": "Raphael Warnock",
+  "party": "Democratic",
+  "state": "GA",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, GA",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

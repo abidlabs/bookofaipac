@@ -1,0 +1,17 @@
+{
+  "id": "susie-lee-nv-03",
+  "name": "Susie Lee",
+  "party": "Democratic",
+  "state": "NV",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, NV-03",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

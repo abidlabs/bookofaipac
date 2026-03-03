@@ -1,0 +1,17 @@
+{
+  "id": "don-bacon-ne-02",
+  "name": "Don Bacon",
+  "party": "Republican",
+  "state": "NE",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, NE-02",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

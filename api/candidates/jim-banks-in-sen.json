@@ -1,0 +1,17 @@
+{
+  "id": "jim-banks-in-sen",
+  "name": "Jim Banks",
+  "party": "Republican",
+  "state": "IN",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, IN",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

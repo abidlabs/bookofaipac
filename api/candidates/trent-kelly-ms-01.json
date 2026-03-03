@@ -1,0 +1,17 @@
+{
+  "id": "trent-kelly-ms-01",
+  "name": "Trent Kelly",
+  "party": "Republican",
+  "state": "MS",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MS-01",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

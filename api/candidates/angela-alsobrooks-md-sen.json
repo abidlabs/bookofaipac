@@ -1,0 +1,17 @@
+{
+  "id": "angela-alsobrooks-md-sen",
+  "name": "Angela Alsobrooks",
+  "party": "Democratic",
+  "state": "MD",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, MD",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

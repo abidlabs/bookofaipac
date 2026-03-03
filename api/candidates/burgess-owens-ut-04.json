@@ -1,0 +1,17 @@
+{
+  "id": "burgess-owens-ut-04",
+  "name": "Burgess Owens",
+  "party": "Republican",
+  "state": "UT",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, UT-04",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "brian-babin-tx-36",
+  "name": "Brian Babin",
+  "party": "Republican",
+  "state": "TX",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, TX-36",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

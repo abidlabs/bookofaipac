@@ -1,0 +1,17 @@
+{
+  "id": "jason-crow-co-06",
+  "name": "Jason Crow",
+  "party": "Democratic",
+  "state": "CO",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, CO-06",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

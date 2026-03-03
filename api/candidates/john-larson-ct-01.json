@@ -1,0 +1,17 @@
+{
+  "id": "john-larson-ct-01",
+  "name": "John Larson",
+  "party": "Democratic",
+  "state": "CT",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, CT-01",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "julia-letlow-la-05",
+  "name": "Julia Letlow",
+  "party": "Republican",
+  "state": "LA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, LA-05",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

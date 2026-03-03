@@ -1,0 +1,17 @@
+{
+  "id": "ann-wagner-mo-02",
+  "name": "Ann Wagner",
+  "party": "Republican",
+  "state": "MO",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MO-02",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

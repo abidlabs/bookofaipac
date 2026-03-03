@@ -1,0 +1,17 @@
+{
+  "id": "marianette-miller-meeks-ia-01",
+  "name": "Marianette Miller-Meeks",
+  "party": "Republican",
+  "state": "IA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, IA-01",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

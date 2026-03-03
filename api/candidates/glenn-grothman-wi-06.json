@@ -1,0 +1,17 @@
+{
+  "id": "glenn-grothman-wi-06",
+  "name": "Glenn Grothman",
+  "party": "Republican",
+  "state": "WI",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, WI-06",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

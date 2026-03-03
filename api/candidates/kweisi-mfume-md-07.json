@@ -1,0 +1,17 @@
+{
+  "id": "kweisi-mfume-md-07",
+  "name": "Kweisi Mfume",
+  "party": "Democratic",
+  "state": "MD",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MD-07",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

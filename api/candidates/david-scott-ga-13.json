@@ -1,0 +1,17 @@
+{
+  "id": "david-scott-ga-13",
+  "name": "David Scott",
+  "party": "Democratic",
+  "state": "GA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, GA-13",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}

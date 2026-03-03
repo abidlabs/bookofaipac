@@ -1,0 +1,17 @@
+{
+  "id": "john-moolenaar-mi-02",
+  "name": "John Moolenaar",
+  "party": "Republican",
+  "state": "MI",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MI-02",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
+  "timeline": [],
+  "sourceIds": [
+    "trackaipac-congress"
+  ],
+  "sourcesEndpoint": "/data/sources.json"
+}
