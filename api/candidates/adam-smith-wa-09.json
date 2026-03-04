@@ -8,16 +8,22 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,335,151 for Adam Smith in U.S. House, WA-09. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+  "stanceSummary": "Adam Smith has supported Israel's security response after October 7 while also calling for humanitarian aid expansion and a political path including ceasefire and long-term two-state diplomacy. Under this dataset's funding rule, he remains classified as Pro-Israel.",
   "timeline": [
     {
-      "date": "2026-03-03",
-      "event": "Track AIPAC congressional listing shows Israel Lobby Total: $1,335,151."
+      "date": "2023-10-16",
+      "event": "Smith stated Israel has a right to defend itself after Hamas attacks and emphasized long-term political solutions."
+    },
+    {
+      "date": "2024-03-08",
+      "event": "Smith called for immediate humanitarian aid scaling and ceasefire-linked strategy shifts in Gaza."
     }
   ],
   "sourceIds": [
-    "trackaipac-congress"
+    "trackaipac-congress",
+    "rep-adam-smith-israel-gaza",
+    "house-resolution-tracker"
   ],
-  "profileLastUpdatedAt": "2026-03-03T20:11:13.688330+00:00",
+  "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

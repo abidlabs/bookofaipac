@@ -8,16 +8,22 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $9,550,120 for Adam Schiff in U.S. Senate, CA. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+  "stanceSummary": "Schiff publicly supports emergency U.S. security assistance to Israel and has also called for including humanitarian aid for civilians in Gaza, reflecting a security-first but aid-inclusive position. Under this dataset's rules, his funding total keeps the stance classified as Pro-Israel.",
   "timeline": [
     {
-      "date": "2026-03-03",
-      "event": "Track AIPAC congressional listing shows Israel Lobby Total: $9,550,120."
+      "date": "2024-02-06",
+      "event": "Schiff said the U.S. must continue supporting Israel and criticized excluding humanitarian support for Gaza from House legislation."
+    },
+    {
+      "date": "2024-02-13",
+      "event": "Schiff urged House leadership to advance a supplemental package including aid for Israel and humanitarian funding for Palestinians in Gaza."
     }
   ],
   "sourceIds": [
-    "trackaipac-congress"
+    "trackaipac-congress",
+    "rep-schiff-israel-aid-2024",
+    "congress-floor-records"
   ],
-  "profileLastUpdatedAt": "2026-03-03T20:11:13.688330+00:00",
+  "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

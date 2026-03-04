@@ -8,11 +8,22 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-  "timeline": [],
-  "sourceIds": [
-    "trackaipac-congress"
+  "stanceSummary": "King has moved from supporting humanitarian-access measures to openly criticizing severe hunger conditions in Gaza and urging major policy change, while still participating in broader Senate debates on Israel-related security support. Funding-based project rules classify him as Pro-Israel.",
+  "timeline": [
+    {
+      "date": "2024-03-08",
+      "event": "King urged expanded humanitarian corridors and distribution capacity for aid entering Gaza."
+    },
+    {
+      "date": "2025-07-01",
+      "event": "King said growing nutrition and starvation conditions in Gaza were unacceptable and called for changes in policy direction."
+    }
   ],
-  "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00",
+  "sourceIds": [
+    "trackaipac-congress",
+    "sen-king-gaza-nutrition-2025",
+    "senate-roll-call"
+  ],
+  "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

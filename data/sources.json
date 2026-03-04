@@ -64,5 +64,65 @@
     "publisher": "Track AIPAC",
     "url": "https://www.trackaipac.com/congress",
     "accessedAt": "2026-03-03"
+  },
+  "rep-schiff-israel-aid-2024": {
+    "title": "Rep. Schiff votes for emergency assistance to Israel",
+    "publisher": "Office of Rep. Adam Schiff",
+    "url": "https://schiff.house.gov/news/press-releases/rep-schiff-votes-for-emergency-assistance-to-israel",
+    "accessedAt": "2026-03-03"
+  },
+  "sen-padilla-gaza-aid-2024": {
+    "title": "Padilla calls for expanded humanitarian aid and ceasefire diplomacy in Gaza",
+    "publisher": "Office of Sen. Alex Padilla",
+    "url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-joins-senate-democrats-in-calling-for-large-scale-expansion-of-humanitarian-aid-in-gaza-and-resumption-of-diplomatic-efforts-to-secure-a-ceasefire-and-end-the-war/",
+    "accessedAt": "2026-03-03"
+  },
+  "sen-klobuchar-israel-attacks-2023": {
+    "title": "Klobuchar statement on the attacks against Israel",
+    "publisher": "Office of Sen. Amy Klobuchar",
+    "url": "https://www.klobuchar.senate.gov/public/index.cfm/2023/10/klobuchar-statement-on-the-attacks-against-israel",
+    "accessedAt": "2026-03-03"
+  },
+  "sen-grassley-israel-aid-2024": {
+    "title": "Grassley slams restrictions on military aid to Israel",
+    "publisher": "Office of Sen. Chuck Grassley",
+    "url": "https://www.grassley.senate.gov/news/news-releases/grassley-slams-bidens-back-pedaling-on-israel",
+    "accessedAt": "2026-03-03"
+  },
+  "sen-booker-gaza-aid-2024": {
+    "title": "Booker joins resolution for urgently needed humanitarian aid in Gaza",
+    "publisher": "Office of Sen. Cory Booker",
+    "url": "https://www.booker.senate.gov/news/press/booker-joins-resolution-calling-for-delivery-of-urgently-needed-humanitarian-aid-to-civilians-in-gaza",
+    "accessedAt": "2026-03-03"
+  },
+  "sen-schatz-gaza-starvation-2025": {
+    "title": "Schatz denounces starvation in Gaza and criticizes conduct of war",
+    "publisher": "Office of Sen. Brian Schatz",
+    "url": "https://www.schatz.senate.gov/news/press-releases/schatz-denounces-starvation-in-gaza-criticizes-israeli-governments-conduct-of-war",
+    "accessedAt": "2026-03-03"
+  },
+  "sen-coons-gaza-ops-2025": {
+    "title": "Coons and colleagues statement on Israeli military operations in Gaza",
+    "publisher": "Office of Sen. Chris Coons",
+    "url": "https://www.coons.senate.gov/news/press-releases/coons-shaheen-reed-warner-schatz-statement-on-israeli-military-operations-in-gaza/",
+    "accessedAt": "2026-03-03"
+  },
+  "sen-king-gaza-nutrition-2025": {
+    "title": "King statement amid growing nutrition crisis in Gaza",
+    "publisher": "Office of Sen. Angus King",
+    "url": "https://www.king.senate.gov/newsroom/press-releases/king-releases-statement-amid-growing-nutrition-crisis-in-gaza",
+    "accessedAt": "2026-03-03"
+  },
+  "rep-adam-smith-israel-gaza": {
+    "title": "Rep. Adam Smith statement on Israel and Gaza",
+    "publisher": "Office of Rep. Adam Smith",
+    "url": "https://adamsmith.house.gov/news/press-releases/rep-smith-statement-israel-and-gaza-0",
+    "accessedAt": "2026-03-03"
+  },
+  "rep-biggs-israel-attacks": {
+    "title": "Congressman Biggs condemns attacks on the people of Israel",
+    "publisher": "Office of Rep. Andy Biggs",
+    "url": "https://biggs.house.gov/media/press-releases/congressman-biggs-condemns-recent-attacks-people-israel",
+    "accessedAt": "2026-03-03"
   }
 }

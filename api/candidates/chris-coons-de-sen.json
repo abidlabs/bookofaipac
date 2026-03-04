@@ -8,17 +8,22 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,722,613 for Chris Coons in U.S. Senate, DE. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+  "stanceSummary": "Coons has consistently affirmed Israel's right to self-defense while also pushing for ceasefire negotiations and expanded humanitarian assistance in Gaza through diplomatic channels. The funding rule in this project keeps his classification Pro-Israel.",
   "timeline": [
     {
-      "date": "2026-03-03",
-      "event": "Track AIPAC congressional listing records Israel Lobby Total: $1,722,613."
+      "date": "2024-01-18",
+      "event": "After meeting humanitarian NGOs, Coons highlighted urgency of aid delivery and civilian-protection concerns in Gaza."
+    },
+    {
+      "date": "2025-08-08",
+      "event": "Coons joined a statement warning that military escalation in Gaza would not end violence and calling for renewed ceasefire negotiations."
     }
   ],
   "sourceIds": [
     "trackaipac-congress",
+    "sen-coons-gaza-ops-2025",
     "senate-roll-call"
   ],
-  "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00",
+  "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

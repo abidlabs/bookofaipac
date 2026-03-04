@@ -8,16 +8,22 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $856,179 for Alex Padilla in U.S. Senate, CA. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+  "stanceSummary": "Padilla has supported security packages that include Israel assistance while also advocating expanded humanitarian aid and renewed ceasefire diplomacy for Gaza. In this dataset, positive Israel-lobby funding keeps the stance label Pro-Israel.",
   "timeline": [
     {
-      "date": "2026-03-03",
-      "event": "Track AIPAC congressional listing shows Israel Lobby Total: $856,179."
+      "date": "2024-02-13",
+      "event": "Padilla backed large-scale humanitarian aid expansion for Gaza and renewed diplomatic efforts toward ceasefire."
+    },
+    {
+      "date": "2024-04-23",
+      "event": "Padilla said Senate passage of the national security package would deliver urgent humanitarian assistance to civilians in Gaza."
     }
   ],
   "sourceIds": [
-    "trackaipac-congress"
+    "trackaipac-congress",
+    "sen-padilla-gaza-aid-2024",
+    "senate-roll-call"
   ],
-  "profileLastUpdatedAt": "2026-03-03T20:13:36.201593+00:00",
+  "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

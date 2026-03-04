@@ -86,22 +86,28 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $9,550,120 for Adam Schiff in U.S. Senate, CA. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+    "stanceSummary": "Schiff publicly supports emergency U.S. security assistance to Israel and has also called for including humanitarian aid for civilians in Gaza, reflecting a security-first but aid-inclusive position. Under this dataset's rules, his funding total keeps the stance classified as Pro-Israel.",
     "timeline": [
       {
-        "date": "2026-03-03",
-        "event": "Track AIPAC congressional listing shows Israel Lobby Total: $9,550,120."
+        "date": "2024-02-06",
+        "event": "Schiff said the U.S. must continue supporting Israel and criticized excluding humanitarian support for Gaza from House legislation."
+      },
+      {
+        "date": "2024-02-13",
+        "event": "Schiff urged House leadership to advance a supplemental package including aid for Israel and humanitarian funding for Palestinians in Gaza."
       }
     ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "rep-schiff-israel-aid-2024",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 9550120,
     "israelLobbyTotalDisplay": "$9,550,120",
     "trackAipacOfficeLabel": "CA-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:11:13.688330+00:00"
+    "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00"
   },
   {
     "id": "adam-smith-wa-09",
@@ -112,22 +118,28 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,335,151 for Adam Smith in U.S. House, WA-09. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+    "stanceSummary": "Adam Smith has supported Israel's security response after October 7 while also calling for humanitarian aid expansion and a political path including ceasefire and long-term two-state diplomacy. Under this dataset's funding rule, he remains classified as Pro-Israel.",
     "timeline": [
       {
-        "date": "2026-03-03",
-        "event": "Track AIPAC congressional listing shows Israel Lobby Total: $1,335,151."
+        "date": "2023-10-16",
+        "event": "Smith stated Israel has a right to defend itself after Hamas attacks and emphasized long-term political solutions."
+      },
+      {
+        "date": "2024-03-08",
+        "event": "Smith called for immediate humanitarian aid scaling and ceasefire-linked strategy shifts in Gaza."
       }
     ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "rep-adam-smith-israel-gaza",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 1335151,
     "israelLobbyTotalDisplay": "$1,335,151",
     "trackAipacOfficeLabel": "WA-09",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:11:13.688330+00:00"
+    "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00"
   },
   {
     "id": "addison-mcdowell-nc-06",
@@ -242,22 +254,28 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $856,179 for Alex Padilla in U.S. Senate, CA. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+    "stanceSummary": "Padilla has supported security packages that include Israel assistance while also advocating expanded humanitarian aid and renewed ceasefire diplomacy for Gaza. In this dataset, positive Israel-lobby funding keeps the stance label Pro-Israel.",
     "timeline": [
       {
-        "date": "2026-03-03",
-        "event": "Track AIPAC congressional listing shows Israel Lobby Total: $856,179."
+        "date": "2024-02-13",
+        "event": "Padilla backed large-scale humanitarian aid expansion for Gaza and renewed diplomatic efforts toward ceasefire."
+      },
+      {
+        "date": "2024-04-23",
+        "event": "Padilla said Senate passage of the national security package would deliver urgent humanitarian assistance to civilians in Gaza."
       }
     ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "sen-padilla-gaza-aid-2024",
+      "senate-roll-call"
     ],
     "israelLobbyTotal": 856179,
     "israelLobbyTotalDisplay": "$856,179",
     "trackAipacOfficeLabel": "CA-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:13:36.201593+00:00"
+    "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00"
   },
   {
     "id": "alma-adams-nc-12",
@@ -310,17 +328,28 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Klobuchar condemned Hamas's October 7 attacks and emphasized U.S. support for Israel, while later backing broader aid legislation that also referenced humanitarian support for Palestinians. Funding-based rules in this project classify her as Pro-Israel.",
+    "timeline": [
+      {
+        "date": "2023-10-07",
+        "event": "Klobuchar condemned Hamas attacks and said the United States stands with Israel."
+      },
+      {
+        "date": "2024-02-04",
+        "event": "Klobuchar described a bipartisan foreign-aid package as supporting key allies and humanitarian assistance, including aid for Palestinians."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "sen-klobuchar-israel-attacks-2023",
+      "senate-roll-call"
     ],
     "israelLobbyTotal": 3074868,
     "israelLobbyTotalDisplay": "$3,074,868",
     "trackAipacOfficeLabel": "MN-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00"
   },
   {
     "id": "andrea-salinas-or-06",
@@ -415,17 +444,28 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Biggs has taken a strongly pro-Israel security stance, repeatedly backing Israel's right to military self-defense and criticizing U.S. moves viewed as constraining Israeli operations. Combined with positive Israel-lobby funding totals, this dataset classifies him as Pro-Israel.",
+    "timeline": [
+      {
+        "date": "2019-05-06",
+        "event": "Biggs condemned rocket attacks on Israel and said he supports Israel's right to defend itself."
+      },
+      {
+        "date": "2021-02-08",
+        "event": "Biggs supported maintaining the U.S. embassy in Jerusalem and aligned with pro-Israel congressional efforts."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "rep-biggs-israel-attacks",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 162057,
     "israelLobbyTotalDisplay": "$162,057",
     "trackAipacOfficeLabel": "AZ-05",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00"
   },
   {
     "id": "andy-harris-md-01",
@@ -541,17 +581,28 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "King has moved from supporting humanitarian-access measures to openly criticizing severe hunger conditions in Gaza and urging major policy change, while still participating in broader Senate debates on Israel-related security support. Funding-based project rules classify him as Pro-Israel.",
+    "timeline": [
+      {
+        "date": "2024-03-08",
+        "event": "King urged expanded humanitarian corridors and distribution capacity for aid entering Gaza."
+      },
+      {
+        "date": "2025-07-01",
+        "event": "King said growing nutrition and starvation conditions in Gaza were unacceptable and called for changes in policy direction."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "sen-king-gaza-nutrition-2025",
+      "senate-roll-call"
     ],
     "israelLobbyTotal": 608694,
     "israelLobbyTotalDisplay": "$608,694",
     "trackAipacOfficeLabel": "ME-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00"
   },
   {
     "id": "ann-wagner-mo-02",
@@ -1302,17 +1353,28 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Schatz has increasingly criticized Israeli war conduct in Gaza, including public warnings about starvation and civilian harm, while also participating in Senate discussions over U.S. policy leverage. Despite this rhetoric, the project's funding rule sets stance to Pro-Israel.",
+    "timeline": [
+      {
+        "date": "2024-07-19",
+        "event": "Schatz criticized Prime Minister Netanyahu's congressional address as partisan amid unresolved ceasefire and hostage issues."
+      },
+      {
+        "date": "2025-07-01",
+        "event": "Schatz denounced starvation in Gaza and criticized Israeli government war conduct and aid restrictions."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "sen-schatz-gaza-starvation-2025",
+      "senate-roll-call"
     ],
     "israelLobbyTotal": 716215,
     "israelLobbyTotalDisplay": "$716,215",
     "trackAipacOfficeLabel": "HI-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00"
   },
   {
     "id": "brittany-pettersen-co-07",
@@ -1641,15 +1703,20 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,722,613 for Chris Coons in U.S. Senate, DE. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Coons has consistently affirmed Israel's right to self-defense while also pushing for ceasefire negotiations and expanded humanitarian assistance in Gaza through diplomatic channels. The funding rule in this project keeps his classification Pro-Israel.",
     "timeline": [
       {
-        "date": "2026-03-03",
-        "event": "Track AIPAC congressional listing records Israel Lobby Total: $1,722,613."
+        "date": "2024-01-18",
+        "event": "After meeting humanitarian NGOs, Coons highlighted urgency of aid delivery and civilian-protection concerns in Gaza."
+      },
+      {
+        "date": "2025-08-08",
+        "event": "Coons joined a statement warning that military escalation in Gaza would not end violence and calling for renewed ceasefire negotiations."
       }
     ],
     "sourceIds": [
       "trackaipac-congress",
+      "sen-coons-gaza-ops-2025",
       "senate-roll-call"
     ],
     "israelLobbyTotal": 1722613,
@@ -1657,7 +1724,7 @@
     "trackAipacOfficeLabel": "DE-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
+    "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00"
   },
   {
     "id": "chris-deluzio-pa-17",
@@ -1857,15 +1924,20 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,310,549 for Chuck Grassley in U.S. Senate, IA. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Grassley has argued for strong, unconditional military support to Israel and criticized U.S. restrictions on weapons transfers during the Gaza war. Under project rules, his positive funding total and stated posture are classified as Pro-Israel.",
     "timeline": [
       {
-        "date": "2026-03-03",
-        "event": "Track AIPAC congressional listing records Israel Lobby Total: $1,310,549."
+        "date": "2024-05-08",
+        "event": "Grassley criticized proposed restrictions on U.S. military aid to Israel and called for unwavering support."
+      },
+      {
+        "date": "2024-05-09",
+        "event": "Grassley joined a Senate resolution condemning efforts to block or condition U.S. weapons transfers to Israel."
       }
     ],
     "sourceIds": [
       "trackaipac-congress",
+      "sen-grassley-israel-aid-2024",
       "senate-roll-call"
     ],
     "israelLobbyTotal": 1310549,
@@ -1873,7 +1945,7 @@
     "trackAipacOfficeLabel": "IA-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
+    "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00"
   },
   {
     "id": "chuck-schumer-ny-sen",
@@ -2076,15 +2148,20 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $5,818,073 for Cory Booker in U.S. Senate, NJ. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Booker condemned Hamas attacks and later supported large-scale humanitarian aid and ceasefire-linked diplomatic efforts for Gaza. This is a mixed policy profile, but the dataset's funding rule still classifies him as Pro-Israel.",
     "timeline": [
       {
-        "date": "2026-03-03",
-        "event": "Track AIPAC congressional listing records Israel Lobby Total: $5,818,073."
+        "date": "2023-10-09",
+        "event": "Booker condemned Hamas violence and stated support for Israel after the October 7 attacks."
+      },
+      {
+        "date": "2024-02-13",
+        "event": "Booker joined a Senate resolution pressing for urgently needed humanitarian aid delivery to civilians in Gaza."
       }
     ],
     "sourceIds": [
       "trackaipac-congress",
+      "sen-booker-gaza-aid-2024",
       "senate-roll-call"
     ],
     "israelLobbyTotal": 5818073,
@@ -2092,7 +2169,7 @@
     "trackAipacOfficeLabel": "NJ-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
+    "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00"
   },
   {
     "id": "cory-mills-fl-07",

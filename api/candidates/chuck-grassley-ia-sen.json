@@ -8,17 +8,22 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,310,549 for Chuck Grassley in U.S. Senate, IA. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+  "stanceSummary": "Grassley has argued for strong, unconditional military support to Israel and criticized U.S. restrictions on weapons transfers during the Gaza war. Under project rules, his positive funding total and stated posture are classified as Pro-Israel.",
   "timeline": [
     {
-      "date": "2026-03-03",
-      "event": "Track AIPAC congressional listing records Israel Lobby Total: $1,310,549."
+      "date": "2024-05-08",
+      "event": "Grassley criticized proposed restrictions on U.S. military aid to Israel and called for unwavering support."
+    },
+    {
+      "date": "2024-05-09",
+      "event": "Grassley joined a Senate resolution condemning efforts to block or condition U.S. weapons transfers to Israel."
     }
   ],
   "sourceIds": [
     "trackaipac-congress",
+    "sen-grassley-israel-aid-2024",
     "senate-roll-call"
   ],
-  "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00",
+  "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }
