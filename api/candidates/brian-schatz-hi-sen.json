@@ -8,11 +8,22 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-  "timeline": [],
-  "sourceIds": [
-    "trackaipac-congress"
+  "stanceSummary": "Schatz has increasingly criticized Israeli war conduct in Gaza, including public warnings about starvation and civilian harm, while also participating in Senate discussions over U.S. policy leverage. Despite this rhetoric, the project's funding rule sets stance to Pro-Israel.",
+  "timeline": [
+    {
+      "date": "2024-07-19",
+      "event": "Schatz criticized Prime Minister Netanyahu's congressional address as partisan amid unresolved ceasefire and hostage issues."
+    },
+    {
+      "date": "2025-07-01",
+      "event": "Schatz denounced starvation in Gaza and criticized Israeli government war conduct and aid restrictions."
+    }
   ],
-  "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00",
+  "sourceIds": [
+    "trackaipac-congress",
+    "sen-schatz-gaza-starvation-2025",
+    "senate-roll-call"
+  ],
+  "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

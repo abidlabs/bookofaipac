@@ -8,11 +8,22 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-  "timeline": [],
-  "sourceIds": [
-    "trackaipac-congress"
+  "stanceSummary": "Biggs has taken a strongly pro-Israel security stance, repeatedly backing Israel's right to military self-defense and criticizing U.S. moves viewed as constraining Israeli operations. Combined with positive Israel-lobby funding totals, this dataset classifies him as Pro-Israel.",
+  "timeline": [
+    {
+      "date": "2019-05-06",
+      "event": "Biggs condemned rocket attacks on Israel and said he supports Israel's right to defend itself."
+    },
+    {
+      "date": "2021-02-08",
+      "event": "Biggs supported maintaining the U.S. embassy in Jerusalem and aligned with pro-Israel congressional efforts."
+    }
   ],
-  "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00",
+  "sourceIds": [
+    "trackaipac-congress",
+    "rep-biggs-israel-attacks",
+    "house-resolution-tracker"
+  ],
+  "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

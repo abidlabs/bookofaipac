@@ -8,11 +8,22 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-  "timeline": [],
-  "sourceIds": [
-    "trackaipac-congress"
+  "stanceSummary": "Klobuchar condemned Hamas's October 7 attacks and emphasized U.S. support for Israel, while later backing broader aid legislation that also referenced humanitarian support for Palestinians. Funding-based rules in this project classify her as Pro-Israel.",
+  "timeline": [
+    {
+      "date": "2023-10-07",
+      "event": "Klobuchar condemned Hamas attacks and said the United States stands with Israel."
+    },
+    {
+      "date": "2024-02-04",
+      "event": "Klobuchar described a bipartisan foreign-aid package as supporting key allies and humanitarian assistance, including aid for Palestinians."
+    }
   ],
-  "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00",
+  "sourceIds": [
+    "trackaipac-congress",
+    "sen-klobuchar-israel-attacks-2023",
+    "senate-roll-call"
+  ],
+  "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }
