@@ -15,7 +15,7 @@ async function initFooter() {
       (candidate) => candidate.incumbency === "Incumbent"
     ).length;
     const nonIncumbentCandidates = federalCandidates.length - electedOfficials;
-    datasetTotal.textContent = `${federalCandidates.length.toLocaleString()} Candidates in dataset`;
+    datasetTotal.textContent = `${federalCandidates.length.toLocaleString()} Politicians in dataset`;
     datasetMeta.textContent =
       `${electedOfficials.toLocaleString()} elected officials • ` +
       `${nonIncumbentCandidates.toLocaleString()} candidates`;
