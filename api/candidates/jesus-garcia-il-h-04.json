@@ -6,9 +6,9 @@
   "office": "U.S. House",
   "districtOrOffice": "U.S. House, IL-04",
   "imageUrl": "",
-  "stanceLabel": "Unknown",
-  "stanceColor": "neutral",
-  "stanceSummary": "No public Track AIPAC congressional total is currently linked for Jesus Garcia in U.S. House, IL-04. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+  "stanceLabel": "Pro-Palestine",
+  "stanceColor": "green",
+  "stanceSummary": "Official congressional statements call for sustained ceasefire implementation, Palestinian self-determination, humanitarian reconstruction in Gaza, and accountability for the war's conduct. These positions align with a pro-Palestine classification in this dataset.",
   "timeline": [
     {
       "date": "2026-03-04",
@@ -18,13 +18,21 @@
         "house-resolution-tracker",
         "congress-floor-records"
       ]
+    },
+    {
+      "date": "2026-03-04",
+      "event": "Official statement welcomed Gaza ceasefire progress and called for Palestinian self-determination, humanitarian rebuilding, and accountability.",
+      "sourceIds": [
+        "rep-jesus-garcia-gaza-ceasefire-deal"
+      ]
     }
   ],
   "sourceIds": [
     "fec-candidate-master-2026",
     "house-resolution-tracker",
-    "congress-floor-records"
+    "congress-floor-records",
+    "rep-jesus-garcia-gaza-ceasefire-deal"
   ],
-  "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
+  "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

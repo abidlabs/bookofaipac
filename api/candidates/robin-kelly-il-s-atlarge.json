@@ -6,9 +6,9 @@
   "office": "U.S. Senate",
   "districtOrOffice": "U.S. Senate, IL",
   "imageUrl": "",
-  "stanceLabel": "Unknown",
-  "stanceColor": "neutral",
-  "stanceSummary": "No public Track AIPAC congressional total is currently linked for Robin Kelly in U.S. Senate, IL. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+  "stanceLabel": "Mixed-unclear",
+  "stanceColor": "gray",
+  "stanceSummary": "Public statements call for a bilateral ceasefire, humanitarian aid expansion, and a two-state solution while also affirming Israel's right to self-defense. The available evidence supports a mixed classification pending clearer policy commitments.",
   "timeline": [
     {
       "date": "2026-03-04",
@@ -18,13 +18,21 @@
         "senate-roll-call",
         "senate-floor-transcripts"
       ]
+    },
+    {
+      "date": "2026-03-04",
+      "event": "Public statement called for bilateral ceasefire and humanitarian access while pairing this with support for Israeli self-defense.",
+      "sourceIds": [
+        "rep-robin-kelly-bilateral-ceasefire-2024"
+      ]
     }
   ],
   "sourceIds": [
     "fec-candidate-master-2026",
     "senate-roll-call",
-    "senate-floor-transcripts"
+    "senate-floor-transcripts",
+    "rep-robin-kelly-bilateral-ceasefire-2024"
   ],
-  "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
+  "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

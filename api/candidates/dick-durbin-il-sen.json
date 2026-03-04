@@ -8,7 +8,7 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $2,737,130 for Dick Durbin in U.S. Senate, IL. Public statements and congressional records indicate this candidate has taken a stance aligned with Israel-focused security policy framing. This candidate has taken funding from the Israel lobby.",
+  "stanceSummary": "Durbin has called for expanded humanitarian aid access and ceasefire-linked diplomacy in Gaza while maintaining support for Israel's long-term security framework. Track AIPAC also reports Israel Lobby funding for this candidacy.",
   "timeline": [
     {
       "date": "2026-03-03",
@@ -23,12 +23,20 @@
       "sourceIds": [
         "senate-roll-call"
       ]
+    },
+    {
+      "date": "2026-03-04",
+      "event": "Senate statements criticized Gaza aid restrictions and urged immediate humanitarian access while backing ceasefire diplomacy and a longer-term political settlement.",
+      "sourceIds": [
+        "sen-durbin-gaza-humanitarian-crisis-2025"
+      ]
     }
   ],
   "sourceIds": [
     "trackaipac-congress",
-    "senate-roll-call"
+    "senate-roll-call",
+    "sen-durbin-gaza-humanitarian-crisis-2025"
   ],
-  "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00",
+  "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

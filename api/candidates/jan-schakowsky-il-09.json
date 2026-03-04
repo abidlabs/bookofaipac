@@ -8,7 +8,7 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $2,516,441 for Jan Schakowsky in U.S. House, IL-09. Public statements and congressional records indicate this candidate has taken a stance aligned with Israel-focused security policy framing. This candidate has taken funding from the Israel lobby.",
+  "stanceSummary": "Schakowsky has publicly pushed for ceasefire extension, humanitarian access, and a two-state pathway while also affirming Israeli security concerns. Track AIPAC reports Israel Lobby funding for this candidacy.",
   "timeline": [
     {
       "date": "2026-03-03",
@@ -23,12 +23,20 @@
       "sourceIds": [
         "house-resolution-tracker"
       ]
+    },
+    {
+      "date": "2026-03-04",
+      "event": "House statement called for extending ceasefire to secure hostage release and move toward a durable peace framework.",
+      "sourceIds": [
+        "rep-schakowsky-ceasefire-extension"
+      ]
     }
   ],
   "sourceIds": [
     "trackaipac-congress",
-    "house-resolution-tracker"
+    "house-resolution-tracker",
+    "rep-schakowsky-ceasefire-extension"
   ],
-  "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00",
+  "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

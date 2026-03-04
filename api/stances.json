@@ -6966,8 +6966,8 @@
       "id": "jesus-garcia-il-h-04",
       "name": "Jesus Garcia",
       "districtOrOffice": "U.S. House, IL-04",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
+      "stanceLabel": "Pro-Palestine",
+      "stanceColor": "green",
       "endpoint": "/api/candidates/jesus-garcia-il-h-04.json"
     },
     {
@@ -12926,8 +12926,8 @@
       "id": "robin-kelly-il-s-atlarge",
       "name": "Robin Kelly",
       "districtOrOffice": "U.S. Senate, IL",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
       "endpoint": "/api/candidates/robin-kelly-il-s-atlarge.json"
     },
     {

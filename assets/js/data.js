@@ -1,4 +1,6 @@
 export const DEFAULT_IMAGE = "https://placehold.co/120x120?text=Candidate";
+const FLAG_BASE = "https://flagcdn.com/w80";
+const TERRITORY_CODES = new Set(["AS", "GU", "MP", "PR", "VI"]);
 
 export async function loadJson(relativePath) {
   const response = await fetch(relativePath);
@@ -24,6 +26,19 @@ export function formatIsraelLobbyTotal(value) {
   return `$${value.toLocaleString()}`;
 }
 
+export function getStateFlagImage(stateCode) {
+  const code = (stateCode || "").toUpperCase();
+  if (!code) return "";
+  if (TERRITORY_CODES.has(code)) {
+    return `${FLAG_BASE}/${code.toLowerCase()}.png`;
+  }
+  return `${FLAG_BASE}/us-${code.toLowerCase()}.png`;
+}
+
+export function getCandidateFallbackImage(candidate) {
+  return getStateFlagImage(candidate?.state) || DEFAULT_IMAGE;
+}
+
 export function normalizeForSearch(value) {
   return (value || "").toLowerCase().trim();
 }
@@ -47,7 +62,7 @@ export function makeCandidateIndex(profiled, federal) {
     const enriched = {
       id: candidate.id,
       name: candidate.name,
-      imageUrl: candidate.imageUrl || DEFAULT_IMAGE,
+      imageUrl: candidate.imageUrl || "",
       party: candidate.party || "",
       state: candidate.state || "",
       districtOrOffice,
@@ -68,7 +83,7 @@ export function makeCandidateIndex(profiled, federal) {
     const enriched = {
       id: candidate.id,
       name: candidate.name,
-      imageUrl: candidate.imageUrl || DEFAULT_IMAGE,
+      imageUrl: candidate.imageUrl || "",
       party: candidate.party || "",
       state: candidate.state || "",
       districtOrOffice,
@@ -102,7 +117,7 @@ export function applyLocalImageMap(candidates, imageManifest, prefix = "") {
       candidate.imageUrl && candidate.imageUrl !== DEFAULT_IMAGE ? candidate.imageUrl : "";
     return {
       ...candidate,
-      imageUrl: local || deterministicLocal || candidateImage || DEFAULT_IMAGE,
+      imageUrl: local || deterministicLocal || candidateImage || getCandidateFallbackImage(candidate),
     };
   });
 }

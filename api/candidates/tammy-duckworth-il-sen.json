@@ -8,7 +8,7 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $2,639,142 for Tammy Duckworth in U.S. Senate, IL. Public statements and congressional records indicate an Israel-focused security policy posture in recent conflict framing. This candidate has taken funding from the Israel lobby.",
+  "stanceSummary": "Duckworth has supported diplomacy to restore a mutual ceasefire and expand humanitarian aid, while explicitly pairing this with Israel security and hostage-release goals. Track AIPAC reports Israel Lobby funding for this candidacy.",
   "timeline": [
     {
       "date": "2026-03-03",
@@ -24,13 +24,21 @@
         "senate-roll-call",
         "senate-floor-transcripts"
       ]
+    },
+    {
+      "date": "2026-03-04",
+      "event": "Senate statement backed diplomacy for hostage release and ceasefire restoration alongside expanded humanitarian aid to Gaza.",
+      "sourceIds": [
+        "sen-duckworth-ceasefire-diplomacy-2025"
+      ]
     }
   ],
   "sourceIds": [
     "trackaipac-congress",
     "senate-roll-call",
-    "senate-floor-transcripts"
+    "senate-floor-transcripts",
+    "sen-duckworth-ceasefire-diplomacy-2025"
   ],
-  "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+  "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

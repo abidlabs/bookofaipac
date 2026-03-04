@@ -18455,11 +18455,12 @@
     "incumbency": "Unknown",
     "statusAuthority": "TrackAIPAC",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
+    "stanceSummary": "Durbin has called for expanded humanitarian aid access and ceasefire-linked diplomacy in Gaza while maintaining support for Israel's long-term security framework. Track AIPAC also reports Israel Lobby funding for this candidacy.",
     "sourceSet": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "sen-durbin-gaza-humanitarian-crisis-2025"
     ],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.8,
     "requiresManualReview": true,
@@ -18469,7 +18470,20 @@
     "trackAipacOfficeLabel": "IL-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00",
+    "sourceIds": [
+      "sen-durbin-gaza-humanitarian-crisis-2025",
+      "trackaipac-congress"
+    ],
+    "timeline": [
+      {
+        "date": "2026-03-04",
+        "event": "Senate statements criticized Gaza aid restrictions and urged immediate humanitarian access while backing ceasefire diplomacy and a longer-term political settlement.",
+        "sourceIds": [
+          "sen-durbin-gaza-humanitarian-crisis-2025"
+        ]
+      }
+    ]
   },
   {
     "id": "dillan-vancil-il-h-17",
@@ -18859,11 +18873,12 @@
     "incumbency": "Unknown",
     "statusAuthority": "TrackAIPAC",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
+    "stanceSummary": "Schakowsky has publicly pushed for ceasefire extension, humanitarian access, and a two-state pathway while also affirming Israeli security concerns. Track AIPAC reports Israel Lobby funding for this candidacy.",
     "sourceSet": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "rep-schakowsky-ceasefire-extension"
     ],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.8,
     "requiresManualReview": true,
@@ -18873,7 +18888,20 @@
     "trackAipacOfficeLabel": "IL-09",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00",
+    "sourceIds": [
+      "rep-schakowsky-ceasefire-extension",
+      "trackaipac-congress"
+    ],
+    "timeline": [
+      {
+        "date": "2026-03-04",
+        "event": "House statement called for extending ceasefire to secure hostage release and move toward a durable peace framework.",
+        "sourceIds": [
+          "rep-schakowsky-ceasefire-extension"
+        ]
+      }
+    ]
   },
   {
     "id": "janice-d-schakowsky-il-h-09",
@@ -19200,16 +19228,30 @@
     "incumbencyCode": "I",
     "incumbency": "Incumbent",
     "statusAuthority": "FEC",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No profile summary yet.",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Official congressional statements call for sustained ceasefire implementation, Palestinian self-determination, humanitarian reconstruction in Gaza, and accountability for the war's conduct. These positions align with a pro-Palestine classification in this dataset.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "rep-jesus-garcia-gaza-ceasefire-deal"
     ],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "sourceIds": [
+      "rep-jesus-garcia-gaza-ceasefire-deal"
+    ],
+    "timeline": [
+      {
+        "date": "2026-03-04",
+        "event": "Official statement welcomed Gaza ceasefire progress and called for Palestinian self-determination, humanitarian rebuilding, and accountability.",
+        "sourceIds": [
+          "rep-jesus-garcia-gaza-ceasefire-deal"
+        ]
+      }
+    ],
+    "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00"
   },
   {
     "id": "jill-manrique-il-h-09",
@@ -20732,16 +20774,30 @@
     "incumbencyCode": "O",
     "incumbency": "Open-seat",
     "statusAuthority": "FEC",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No profile summary yet.",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "Public statements call for a bilateral ceasefire, humanitarian aid expansion, and a two-state solution while also affirming Israel's right to self-defense. The available evidence supports a mixed classification pending clearer policy commitments.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "rep-robin-kelly-bilateral-ceasefire-2024"
     ],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "sourceIds": [
+      "rep-robin-kelly-bilateral-ceasefire-2024"
+    ],
+    "timeline": [
+      {
+        "date": "2026-03-04",
+        "event": "Public statement called for bilateral ceasefire and humanitarian access while pairing this with support for Israeli self-defense.",
+        "sourceIds": [
+          "rep-robin-kelly-bilateral-ceasefire-2024"
+        ]
+      }
+    ],
+    "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00"
   },
   {
     "id": "rory-e-hoskins-il-h-07",
@@ -21019,11 +21075,12 @@
     "incumbency": "Unknown",
     "statusAuthority": "TrackAIPAC",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
+    "stanceSummary": "Duckworth has supported diplomacy to restore a mutual ceasefire and expand humanitarian aid, while explicitly pairing this with Israel security and hostage-release goals. Track AIPAC reports Israel Lobby funding for this candidacy.",
     "sourceSet": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "sen-duckworth-ceasefire-diplomacy-2025"
     ],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.8,
     "requiresManualReview": true,
@@ -21033,7 +21090,20 @@
     "trackAipacOfficeLabel": "IL-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00",
+    "sourceIds": [
+      "sen-duckworth-ceasefire-diplomacy-2025",
+      "trackaipac-congress"
+    ],
+    "timeline": [
+      {
+        "date": "2026-03-04",
+        "event": "Senate statement backed diplomacy for hostage release and ceasefire restoration alongside expanded humanitarian aid to Gaza.",
+        "sourceIds": [
+          "sen-duckworth-ceasefire-diplomacy-2025"
+        ]
+      }
+    ]
   },
   {
     "id": "thomas-dr-fisher-il-h-07",

@@ -166,5 +166,35 @@
     "publisher": "Ty Pinkins for U.S. Senate",
     "url": "https://www.typinkins.com/press-releases",
     "accessedAt": "2026-03-04"
+  },
+  "rep-jesus-garcia-gaza-ceasefire-deal": {
+    "title": "Congressman Garcia statement on Gaza ceasefire deal",
+    "publisher": "Office of Rep. Jesus Garcia",
+    "url": "https://chuygarcia.house.gov/media/press-releases/congressman-garcia-s-statement-on-the-gaza-ceasefire-deal",
+    "accessedAt": "2026-03-04"
+  },
+  "rep-robin-kelly-bilateral-ceasefire-2024": {
+    "title": "Congresswoman Robin Kelly calls for a bilateral ceasefire in Gaza and Israel",
+    "publisher": "Office of Rep. Robin Kelly",
+    "url": "https://robinkelly.house.gov/media-center/press-releases/congresswoman-robin-kelly-calls-bilateral-ceasefire-gaza-and-israel",
+    "accessedAt": "2026-03-04"
+  },
+  "sen-durbin-gaza-humanitarian-crisis-2025": {
+    "title": "Durbin speaks out on humanitarian crisis in Gaza and calls for aid access",
+    "publisher": "Office of Sen. Dick Durbin",
+    "url": "https://www.durbin.senate.gov/newsroom/press-releases/durbin-speaks-out-on-humanitarian-crisis-in-gaza-calls-on-netanyahu-to-allow-aid-into-gaza",
+    "accessedAt": "2026-03-04"
+  },
+  "sen-duckworth-ceasefire-diplomacy-2025": {
+    "title": "Duckworth and Durbin support diplomacy to restore mutual ceasefire agreement in Gaza",
+    "publisher": "Office of Sen. Tammy Duckworth",
+    "url": "https://www.duckworth.senate.gov/news/press-releases/duckworth-durbin-join-ossoff-colleagues-in-support-of-ongoing-us-diplomacy-to-free-hostages-restore-mutual-ceasefire-agreement-in-gaza",
+    "accessedAt": "2026-03-04"
+  },
+  "rep-schakowsky-ceasefire-extension": {
+    "title": "Schakowsky calls for extension of ceasefire in Israel-Hamas war",
+    "publisher": "Office of Rep. Jan Schakowsky",
+    "url": "http://schakowsky.house.gov/media/press-releases/schakowsky-calls-extension-ceasefire-israel-hamas-war-secure-release-all",
+    "accessedAt": "2026-03-04"
   }
 }

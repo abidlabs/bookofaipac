@@ -19211,7 +19211,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $2,737,130 for Dick Durbin in U.S. Senate, IL. Public statements and congressional records indicate this candidate has taken a stance aligned with Israel-focused security policy framing. This candidate has taken funding from the Israel lobby.",
+    "stanceSummary": "Durbin has called for expanded humanitarian aid access and ceasefire-linked diplomacy in Gaza while maintaining support for Israel's long-term security framework. Track AIPAC also reports Israel Lobby funding for this candidacy.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -19226,18 +19226,26 @@
         "sourceIds": [
           "senate-roll-call"
         ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Senate statements criticized Gaza aid restrictions and urged immediate humanitarian access while backing ceasefire diplomacy and a longer-term political settlement.",
+        "sourceIds": [
+          "sen-durbin-gaza-humanitarian-crisis-2025"
+        ]
       }
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "senate-roll-call"
+      "senate-roll-call",
+      "sen-durbin-gaza-humanitarian-crisis-2025"
     ],
     "israelLobbyTotal": 2737130,
     "israelLobbyTotalDisplay": "$2,737,130",
     "trackAipacOfficeLabel": "IL-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00"
   },
   {
     "id": "dillan-vancil-il-h-17",
@@ -19625,7 +19633,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $2,516,441 for Jan Schakowsky in U.S. House, IL-09. Public statements and congressional records indicate this candidate has taken a stance aligned with Israel-focused security policy framing. This candidate has taken funding from the Israel lobby.",
+    "stanceSummary": "Schakowsky has publicly pushed for ceasefire extension, humanitarian access, and a two-state pathway while also affirming Israeli security concerns. Track AIPAC reports Israel Lobby funding for this candidacy.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -19640,18 +19648,26 @@
         "sourceIds": [
           "house-resolution-tracker"
         ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "House statement called for extending ceasefire to secure hostage release and move toward a durable peace framework.",
+        "sourceIds": [
+          "rep-schakowsky-ceasefire-extension"
+        ]
       }
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "rep-schakowsky-ceasefire-extension"
     ],
     "israelLobbyTotal": 2516441,
     "israelLobbyTotalDisplay": "$2,516,441",
     "trackAipacOfficeLabel": "IL-09",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00"
   },
   {
     "id": "janice-d-schakowsky-il-h-09",
@@ -19969,8 +19985,8 @@
     "districtOrOffice": "U.S. House, IL-04",
     "office": "U.S. House",
     "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Jesus Garcia in U.S. House, IL-04. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Official congressional statements call for sustained ceasefire implementation, Palestinian self-determination, humanitarian reconstruction in Gaza, and accountability for the war's conduct. These positions align with a pro-Palestine classification in this dataset.",
     "timeline": [
       {
         "date": "2026-03-04",
@@ -19980,14 +19996,22 @@
           "house-resolution-tracker",
           "congress-floor-records"
         ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Official statement welcomed Gaza ceasefire progress and called for Palestinian self-determination, humanitarian rebuilding, and accountability.",
+        "sourceIds": [
+          "rep-jesus-garcia-gaza-ceasefire-deal"
+        ]
       }
     ],
     "sourceIds": [
       "fec-candidate-master-2026",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "rep-jesus-garcia-gaza-ceasefire-deal"
     ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00"
   },
   {
     "id": "jill-manrique-il-h-09",
@@ -21553,8 +21577,8 @@
     "districtOrOffice": "U.S. Senate, IL",
     "office": "U.S. Senate",
     "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Robin Kelly in U.S. Senate, IL. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "Public statements call for a bilateral ceasefire, humanitarian aid expansion, and a two-state solution while also affirming Israel's right to self-defense. The available evidence supports a mixed classification pending clearer policy commitments.",
     "timeline": [
       {
         "date": "2026-03-04",
@@ -21564,14 +21588,22 @@
           "senate-roll-call",
           "senate-floor-transcripts"
         ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Public statement called for bilateral ceasefire and humanitarian access while pairing this with support for Israeli self-defense.",
+        "sourceIds": [
+          "rep-robin-kelly-bilateral-ceasefire-2024"
+        ]
       }
     ],
     "sourceIds": [
       "fec-candidate-master-2026",
       "senate-roll-call",
-      "senate-floor-transcripts"
+      "senate-floor-transcripts",
+      "rep-robin-kelly-bilateral-ceasefire-2024"
     ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00"
   },
   {
     "id": "rory-e-hoskins-il-h-07",
@@ -21847,7 +21879,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $2,639,142 for Tammy Duckworth in U.S. Senate, IL. Public statements and congressional records indicate an Israel-focused security policy posture in recent conflict framing. This candidate has taken funding from the Israel lobby.",
+    "stanceSummary": "Duckworth has supported diplomacy to restore a mutual ceasefire and expand humanitarian aid, while explicitly pairing this with Israel security and hostage-release goals. Track AIPAC reports Israel Lobby funding for this candidacy.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -21863,19 +21895,27 @@
           "senate-roll-call",
           "senate-floor-transcripts"
         ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Senate statement backed diplomacy for hostage release and ceasefire restoration alongside expanded humanitarian aid to Gaza.",
+        "sourceIds": [
+          "sen-duckworth-ceasefire-diplomacy-2025"
+        ]
       }
     ],
     "sourceIds": [
       "trackaipac-congress",
       "senate-roll-call",
-      "senate-floor-transcripts"
+      "senate-floor-transcripts",
+      "sen-duckworth-ceasefire-diplomacy-2025"
     ],
     "israelLobbyTotal": 2639142,
     "israelLobbyTotalDisplay": "$2,639,142",
     "trackAipacOfficeLabel": "IL-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00"
   },
   {
     "id": "thomas-dr-fisher-il-h-07",
