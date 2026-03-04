@@ -19,7 +19,7 @@ let visibleResults = [];
 let activeIndex = -1;
 
 function formatMeta(candidate) {
-  const parts = [candidate.party, candidate.state, candidate.districtOrOffice].filter(Boolean);
+  const parts = [candidate.party, candidate.districtOrOffice, candidate.state].filter(Boolean);
   return parts.join(" • ");
 }
 
@@ -169,7 +169,7 @@ function runSearch(query) {
       resultType: "candidate",
     }));
 
-  visibleResults = [...matchingStates, ...matchingCandidates].slice(0, 20);
+  visibleResults = [...matchingCandidates, ...matchingStates].slice(0, 20);
   activeIndex = -1;
   renderResults();
 }
