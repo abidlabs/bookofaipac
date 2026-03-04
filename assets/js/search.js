@@ -67,6 +67,11 @@ function rowTemplate(candidate, isActive) {
     badge.className = `lobby-badge ${amount > 0 ? "lobby-badge-positive" : "lobby-badge-zero"}`;
     badge.textContent = formatIsraelLobbyTotal(amount);
     button.appendChild(badge);
+  } else if (candidate.stanceLabel === "Pro-Israel") {
+    const stanceBadge = document.createElement("span");
+    stanceBadge.className = "badge badge-red";
+    stanceBadge.textContent = "Pro-Israel";
+    button.appendChild(stanceBadge);
   }
 
   button.addEventListener("click", () => goToCandidate(candidate.id));
@@ -181,6 +186,11 @@ function renderTicker(candidates) {
       badge.className = `lobby-badge ${amount > 0 ? "lobby-badge-positive" : "lobby-badge-zero"}`;
       badge.textContent = formatIsraelLobbyTotal(amount);
       card.appendChild(badge);
+    } else if (candidate.stanceLabel === "Pro-Israel") {
+      const stanceBadge = document.createElement("span");
+      stanceBadge.className = "badge badge-red";
+      stanceBadge.textContent = "Pro-Israel";
+      card.appendChild(stanceBadge);
     }
 
     card.addEventListener("click", () => goToCandidate(candidate.id));
