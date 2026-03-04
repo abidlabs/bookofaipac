@@ -407,42 +407,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 75745,
     "israelLobbyTotalDisplay": "$75,745",
     "trackAipacOfficeLabel": "AL-05",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
-  },
-  {
-    "id": "dale-whitney-strong-al-h-05",
-    "name": "Dale Whitney Strong",
-    "party": "Republican",
-    "state": "AL",
-    "districtOrOffice": "U.S. House, AL-05",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Dale Whitney Strong in U.S. House, AL-05. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00",
+    "officeScope": "HOUSE",
+    "district": "05"
   },
   {
     "id": "elizabeth-anderson-al-h-06",
@@ -929,42 +905,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 251955,
     "israelLobbyTotalDisplay": "$251,955",
     "trackAipacOfficeLabel": "AL-04",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
-  },
-  {
-    "id": "robert-b-rep-aderholt-al-h-04",
-    "name": "Robert B. Rep. Aderholt",
-    "party": "Republican",
-    "state": "AL",
-    "districtOrOffice": "U.S. House, AL-04",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Robert B. Rep. Aderholt in U.S. House, AL-04. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "04"
   },
   {
     "id": "rodney-walker-al-s-00",
@@ -2957,34 +2908,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "paul-dr-gosar-az-h-09",
-    "name": "Paul Dr. Gosar",
-    "party": "Republican",
-    "state": "AZ",
-    "districtOrOffice": "U.S. House, AZ-09",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Paul Dr. Gosar in U.S. House, AZ-09. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "paul-gosar-az-09",
     "name": "Paul Gosar",
     "party": "Republican",
@@ -3014,14 +2937,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 116561,
     "israelLobbyTotalDisplay": "$116,561",
     "trackAipacOfficeLabel": "AZ-09",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "09"
   },
   {
     "id": "rick-mccartney-az-h-01",
@@ -4511,34 +4437,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "eric-michael-swalwell-ca-h-14",
-    "name": "Eric Michael Swalwell",
-    "party": "Democratic",
-    "state": "CA",
-    "districtOrOffice": "U.S. House, CA-14",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Eric Michael Swalwell in U.S. House, CA-14. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "eric-swalwell-ca-14",
     "name": "Eric Swalwell",
     "party": "Democratic",
@@ -4566,14 +4464,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 1051237,
     "israelLobbyTotalDisplay": "$1,051,237",
     "trackAipacOfficeLabel": "CA-14",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00",
+    "officeScope": "HOUSE",
+    "district": "14"
   },
   {
     "id": "erica-lee-ca-h-07",
@@ -6718,34 +6620,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "maxine-ms-waters-ca-h-43",
-    "name": "Maxine Ms Waters",
-    "party": "Democratic",
-    "state": "CA",
-    "districtOrOffice": "U.S. House, CA-43",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Maxine Ms Waters in U.S. House, CA-43. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "maxine-waters-ca-43",
     "name": "Maxine Waters",
     "party": "Democratic",
@@ -6775,14 +6649,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 110534,
     "israelLobbyTotalDisplay": "$110,534",
     "trackAipacOfficeLabel": "CA-43",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "43"
   },
   {
     "id": "michael-masuda-ca-h-05",
@@ -6966,34 +6843,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "mike-mr-thompson-ca-h-04",
-    "name": "Mike Mr. Thompson",
-    "party": "Democratic",
-    "state": "CA",
-    "districtOrOffice": "U.S. House, CA-04",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Mike Mr. Thompson in U.S. House, CA-04. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "mike-thompson-ca-04",
     "name": "Mike Thompson",
     "party": "Democratic",
@@ -7023,14 +6872,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 129865,
     "israelLobbyTotalDisplay": "$129,865",
     "trackAipacOfficeLabel": "CA-04",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "04"
   },
   {
     "id": "monica-dr-sanchez-ca-h-38",
@@ -7477,34 +7329,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "raul-dr-ruiz-ca-h-25",
-    "name": "Raul Dr. Ruiz",
-    "party": "Democratic",
-    "state": "CA",
-    "districtOrOffice": "U.S. House, CA-25",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Raul Dr. Ruiz in U.S. House, CA-25. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "raul-ruiz-ca-25",
     "name": "Raul Ruiz",
     "party": "Democratic",
@@ -7534,14 +7358,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 889935,
     "israelLobbyTotalDisplay": "$889,935",
     "trackAipacOfficeLabel": "CA-25",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "25"
   },
   {
     "id": "raymond-riehle-ca-h-06",
@@ -8846,34 +8673,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "brittany-louise-pettersen-co-h-07",
-    "name": "Brittany Louise Pettersen",
-    "party": "Democratic",
-    "state": "CO",
-    "districtOrOffice": "U.S. House, CO-07",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Brittany Louise Pettersen in U.S. House, CO-07. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "brittany-pettersen-co-07",
     "name": "Brittany Pettersen",
     "party": "Democratic",
@@ -8894,14 +8693,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 508376,
     "israelLobbyTotalDisplay": "$508,376",
     "trackAipacOfficeLabel": "CO-07",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:22:25.221675+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:22:25.221675+00:00",
+    "officeScope": "HOUSE",
+    "district": "07"
   },
   {
     "id": "david-l-young-co-h-08",
@@ -13005,34 +12808,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "maria-elvira-salazar-fl-h-27",
-    "name": "Maria Elvira Salazar",
-    "party": "Republican",
-    "state": "FL",
-    "districtOrOffice": "U.S. House, FL-27",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Maria Elvira Salazar in U.S. House, FL-27. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "maria-salazar-fl-27",
     "name": "Maria Salazar",
     "party": "Republican",
@@ -13062,14 +12837,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 783549,
     "israelLobbyTotalDisplay": "$783,549",
     "trackAipacOfficeLabel": "FL-27",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "27"
   },
   {
     "id": "marialana-kinter-fl-h-07",
@@ -13491,42 +13269,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 89420,
     "israelLobbyTotalDisplay": "$89,420",
     "trackAipacOfficeLabel": "FL-02",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
-  },
-  {
-    "id": "neal-patrick-md-dunn-fl-h-02",
-    "name": "Neal Patrick Md Dunn",
-    "party": "Republican",
-    "state": "FL",
-    "districtOrOffice": "U.S. House, FL-02",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Neal Patrick Md Dunn in U.S. House, FL-02. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "02"
   },
   {
     "id": "nicholas-zateslo-fl-h-02",
@@ -14056,42 +13809,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 106305,
     "israelLobbyTotalDisplay": "$106,305",
     "trackAipacOfficeLabel": "FL-18",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
-  },
-  {
-    "id": "scott-mr-franklin-fl-h-18",
-    "name": "Scott Mr. Franklin",
-    "party": "Republican",
-    "state": "FL",
-    "districtOrOffice": "U.S. House, FL-18",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Scott Mr. Franklin in U.S. House, FL-18. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "18"
   },
   {
     "id": "sendra-dorce-fl-h-20",
@@ -14998,34 +14726,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "david-albert-scott-ga-h-13",
-    "name": "David Albert Scott",
-    "party": "Democratic",
-    "state": "GA",
-    "districtOrOffice": "U.S. House, GA-13",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for David Albert Scott in U.S. House, GA-13. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "david-scott-ga-13",
     "name": "David Scott",
     "party": "Democratic",
@@ -15043,14 +14743,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 327786,
     "israelLobbyTotalDisplay": "$327,786",
     "trackAipacOfficeLabel": "GA-13",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00",
+    "officeScope": "HOUSE",
+    "district": "13"
   },
   {
     "id": "derek-dooley-ga-s-00",
@@ -17128,34 +16832,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "jill-naomi-tokuda-hi-h-02",
-    "name": "Jill Naomi Tokuda",
-    "party": "Democratic",
-    "state": "HI",
-    "districtOrOffice": "U.S. House, HI-02",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Jill Naomi Tokuda in U.S. House, HI-02. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "jill-tokuda-hi-02",
     "name": "Jill Tokuda",
     "party": "Democratic",
@@ -17183,14 +16859,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 62883,
     "israelLobbyTotalDisplay": "$62,883",
     "trackAipacOfficeLabel": "HI-02",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00",
+    "officeScope": "HOUSE",
+    "district": "02"
   },
   {
     "id": "mazie-hirono-hi-sen",
@@ -19422,42 +19102,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 110160,
     "israelLobbyTotalDisplay": "$110,160",
     "trackAipacOfficeLabel": "IL-07",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
-  },
-  {
-    "id": "danny-k-mr-davis-il-h-07",
-    "name": "Danny K. Mr. Davis",
-    "party": "Democratic",
-    "state": "IL",
-    "districtOrOffice": "U.S. House, IL-07",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Danny K. Mr. Davis in U.S. House, IL-07. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00",
+    "officeScope": "HOUSE",
+    "district": "07"
   },
   {
     "id": "darin-lahood-il-16",
@@ -19477,42 +19133,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 420511,
     "israelLobbyTotalDisplay": "$420,511",
     "trackAipacOfficeLabel": "IL-16",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
-  },
-  {
-    "id": "darin-mckay-lahood-il-h-16",
-    "name": "Darin Mckay Lahood",
-    "party": "Republican",
-    "state": "IL",
-    "districtOrOffice": "U.S. House, IL-16",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Darin Mckay Lahood in U.S. House, IL-16. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00",
+    "officeScope": "HOUSE",
+    "district": "16"
   },
   {
     "id": "david-ehrlich-il-h-07",
@@ -23004,42 +22636,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 3291220,
     "israelLobbyTotalDisplay": "$3,291,220",
     "trackAipacOfficeLabel": "IN-08",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
-  },
-  {
-    "id": "mark-mr-messmer-in-h-08",
-    "name": "Mark Mr. Messmer",
-    "party": "Republican",
-    "state": "IN",
-    "districtOrOffice": "U.S. House, IN-08",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Mark Mr. Messmer in U.S. House, IN-08. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "08"
   },
   {
     "id": "marlin-stutzman-in-03",
@@ -23689,42 +23296,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 129615,
     "israelLobbyTotalDisplay": "$129,615",
     "trackAipacOfficeLabel": "KS-01",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
-  },
-  {
-    "id": "tracey-robert-mann-ks-h-01",
-    "name": "Tracey Robert Mann",
-    "party": "Republican",
-    "state": "KS",
-    "districtOrOffice": "U.S. House, KS-01",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Tracey Robert Mann in U.S. House, KS-01. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "01"
   },
   {
     "id": "adam-perez-arquette-ky-h-06",
@@ -24422,35 +24004,9 @@
       "senate-roll-call",
       "senate-floor-transcripts"
     ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
-    "id": "michael-james-faris-ky-s-00",
-    "name": "Michael James Faris",
-    "party": "Republican",
-    "state": "KY",
-    "districtOrOffice": "U.S. Senate, KY",
-    "office": "U.S. Senate",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Michael James Faris in U.S. Senate, KY. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "senate-roll-call",
-          "senate-floor-transcripts"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "senate-roll-call",
-      "senate-floor-transcripts"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
+    "officeScope": "SENATE",
+    "district": "00"
   },
   {
     "id": "mitch-mcconnell-ky-s-00",
@@ -25010,34 +24566,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "clay-captain-higgins-la-h-03",
-    "name": "Clay Captain Higgins",
-    "party": "Republican",
-    "state": "LA",
-    "districtOrOffice": "U.S. House, LA-03",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Clay Captain Higgins in U.S. House, LA-03. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "clay-higgins-la-03",
     "name": "Clay Higgins",
     "party": "Republican",
@@ -25055,14 +24583,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 26846,
     "israelLobbyTotalDisplay": "$26,846",
     "trackAipacOfficeLabel": "LA-03",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00",
+    "officeScope": "HOUSE",
+    "district": "03"
   },
   {
     "id": "cleo-fields-la-h-06",
@@ -25505,34 +25037,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "steve-mr-scalise-la-h-01",
-    "name": "Steve Mr Scalise",
-    "party": "Republican",
-    "state": "LA",
-    "districtOrOffice": "U.S. House, LA-01",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Steve Mr Scalise in U.S. House, LA-01. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "steve-scalise-la-01",
     "name": "Steve Scalise",
     "party": "Republican",
@@ -25562,14 +25066,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 2675542,
     "israelLobbyTotalDisplay": "$2,675,542",
     "trackAipacOfficeLabel": "LA-01",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "01"
   },
   {
     "id": "troy-carter-la-02",
@@ -26887,34 +26394,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "glenn-frederick-ivey-md-h-04",
-    "name": "Glenn Frederick Ivey",
-    "party": "Democratic",
-    "state": "MD",
-    "districtOrOffice": "U.S. House, MD-04",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Glenn Frederick Ivey in U.S. House, MD-04. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "glenn-ivey-md-04",
     "name": "Glenn Ivey",
     "party": "Democratic",
@@ -26942,14 +26421,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 8186424,
     "israelLobbyTotalDisplay": "$8,186,424",
     "trackAipacOfficeLabel": "MD-04",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00",
+    "officeScope": "HOUSE",
+    "district": "04"
   },
   {
     "id": "harry-jarin-md-h-05",
@@ -27077,34 +26560,6 @@
     "district": "08"
   },
   {
-    "id": "john-anthony-jr-olszewski-md-h-02",
-    "name": "John Anthony Jr. Olszewski",
-    "party": "Democratic",
-    "state": "MD",
-    "districtOrOffice": "U.S. House, MD-02",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for John Anthony Jr. Olszewski in U.S. House, MD-02. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "john-olszewski-md-02",
     "name": "John Olszewski",
     "party": "Democratic",
@@ -27134,14 +26589,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 199025,
     "israelLobbyTotalDisplay": "$199,025",
     "trackAipacOfficeLabel": "MD-02",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "02"
   },
   {
     "id": "jonathan-white-md-h-04",
@@ -27382,42 +26840,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 4980286,
     "israelLobbyTotalDisplay": "$4,980,286",
     "trackAipacOfficeLabel": "MD-03",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
-  },
-  {
-    "id": "sarah-kelly-elfreth-md-h-03",
-    "name": "Sarah Kelly Elfreth",
-    "party": "Democratic",
-    "state": "MD",
-    "districtOrOffice": "U.S. House, MD-03",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Sarah Kelly Elfreth in U.S. House, MD-03. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "03"
   },
   {
     "id": "steny-hoyer-md-h-05",
@@ -29093,42 +28526,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 207981,
     "israelLobbyTotalDisplay": "$207,981",
     "trackAipacOfficeLabel": "MI-02",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
-  },
-  {
-    "id": "john-mr-moolenaar-mi-h-02",
-    "name": "John Mr. Moolenaar",
-    "party": "Republican",
-    "state": "MI",
-    "districtOrOffice": "U.S. House, MI-02",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for John Mr. Moolenaar in U.S. House, MI-02. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "02"
   },
   {
     "id": "john-paul-torres-mi-h-11",
@@ -32159,37 +31567,12 @@
       "congress-floor-records",
       "house-resolution-tracker",
       "ms-sos-qualifying-2026",
-      "ms-sos-us-house-senate-deadline-press-2026"
+      "ms-sos-us-house-senate-deadline-press-2026",
+      "fec-candidate-master-2026"
     ],
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
-  },
-  {
-    "id": "evan-turnage-ms-h-02",
-    "name": "Evan Turnage",
-    "party": "Democratic",
-    "state": "MS",
-    "districtOrOffice": "U.S. House, MS-02",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Evan Turnage in U.S. House, MS-02. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00",
+    "officeScope": "HOUSE",
+    "district": "02"
   },
   {
     "id": "jeffrey-hulum-iii-ms-h-04",
@@ -32326,37 +31709,12 @@
       "congress-floor-records",
       "house-resolution-tracker",
       "ms-sos-qualifying-2026",
-      "ms-sos-us-house-senate-deadline-press-2026"
+      "ms-sos-us-house-senate-deadline-press-2026",
+      "fec-candidate-master-2026"
     ],
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
-  },
-  {
-    "id": "kelvin-oneal-mr-buck-ms-h-01",
-    "name": "Kelvin Oneal Mr Buck",
-    "party": "Democratic",
-    "state": "MS",
-    "districtOrOffice": "U.S. House, MS-01",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Kelvin Oneal Mr Buck in U.S. House, MS-01. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00",
+    "officeScope": "HOUSE",
+    "district": "01"
   },
   {
     "id": "kevin-wilson-ms-h-02",
@@ -32429,37 +31787,12 @@
       "congress-floor-records",
       "house-resolution-tracker",
       "ms-sos-qualifying-2026",
-      "ms-sos-us-house-senate-deadline-press-2026"
+      "ms-sos-us-house-senate-deadline-press-2026",
+      "fec-candidate-master-2026"
     ],
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
-  },
-  {
-    "id": "michael-alexis-chiaradio-ms-h-03",
-    "name": "Michael Alexis Chiaradio",
-    "party": "Democratic",
-    "state": "MS",
-    "districtOrOffice": "U.S. House, MS-03",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Michael Alexis Chiaradio in U.S. House, MS-03. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00",
+    "officeScope": "HOUSE",
+    "district": "03"
   },
   {
     "id": "michael-guest-ms-03",
@@ -32502,42 +31835,17 @@
       "house-resolution-tracker",
       "ms-sos-qualifying-2026",
       "ms-sos-us-house-senate-deadline-press-2026",
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 66755,
     "israelLobbyTotalDisplay": "$66,755",
     "trackAipacOfficeLabel": "MS-03",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
-  },
-  {
-    "id": "michael-patrick-guest-ms-h-03",
-    "name": "Michael Patrick Guest",
-    "party": "Republican",
-    "state": "MS",
-    "districtOrOffice": "U.S. House, MS-03",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Michael Patrick Guest in U.S. House, MS-03. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00",
+    "officeScope": "HOUSE",
+    "district": "03"
   },
   {
     "id": "mike-ezell-ms-04",
@@ -32696,37 +32004,14 @@
       "congress-floor-records",
       "house-resolution-tracker",
       "ms-sos-qualifying-2026",
-      "ms-sos-us-house-senate-deadline-press-2026"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
-  },
-  {
-    "id": "priscilla-williams-till-ms-s-00",
-    "name": "Priscilla Williams Till",
-    "party": "Democratic",
-    "state": "MS",
-    "districtOrOffice": "U.S. Senate, MS",
-    "office": "U.S. Senate",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Priscilla Williams Till in U.S. Senate, MS. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "senate-roll-call",
-          "senate-floor-transcripts"
-        ]
-      }
-    ],
-    "sourceIds": [
+      "ms-sos-us-house-senate-deadline-press-2026",
       "fec-candidate-master-2026",
       "senate-roll-call",
       "senate-floor-transcripts"
     ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00",
+    "officeScope": "SENATE",
+    "district": "00"
   },
   {
     "id": "roger-wicker-ms-sen",
@@ -32838,37 +32123,14 @@
       "congress-floor-records",
       "house-resolution-tracker",
       "ms-sos-qualifying-2026",
-      "ms-sos-us-house-senate-deadline-press-2026"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
-  },
-  {
-    "id": "sarah-anne-dr-adlakha-ms-s-00",
-    "name": "Sarah Anne Dr Adlakha",
-    "party": "Republican",
-    "state": "MS",
-    "districtOrOffice": "U.S. Senate, MS",
-    "office": "U.S. Senate",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Sarah Anne Dr Adlakha in U.S. Senate, MS. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "senate-roll-call",
-          "senate-floor-transcripts"
-        ]
-      }
-    ],
-    "sourceIds": [
+      "ms-sos-us-house-senate-deadline-press-2026",
       "fec-candidate-master-2026",
       "senate-roll-call",
       "senate-floor-transcripts"
     ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00",
+    "officeScope": "SENATE",
+    "district": "00"
   },
   {
     "id": "sawyer-walters-ms-h-04",
@@ -33626,42 +32888,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 97437,
     "israelLobbyTotalDisplay": "$97,437",
     "trackAipacOfficeLabel": "NC-12",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:22:25.221675+00:00"
-  },
-  {
-    "id": "alma-shealey-adams-nc-h-12",
-    "name": "Alma Shealey Adams",
-    "party": "Democratic",
-    "state": "NC",
-    "districtOrOffice": "U.S. House, NC-12",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Alma Shealey Adams in U.S. House, NC-12. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:22:25.221675+00:00",
+    "officeScope": "HOUSE",
+    "district": "12"
   },
   {
     "id": "alysa-kassay-nc-h-06",
@@ -35274,34 +34512,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
   },
   {
-    "id": "thom-r-sen-tillis-nc-s-00",
-    "name": "Thom R Sen Tillis",
-    "party": "Republican",
-    "state": "NC",
-    "districtOrOffice": "U.S. Senate, NC",
-    "office": "U.S. Senate",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Thom R Sen Tillis in U.S. Senate, NC. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "senate-roll-call",
-          "senate-floor-transcripts"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "senate-roll-call",
-      "senate-floor-transcripts"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "thom-tillis-nc-sen",
     "name": "Thom Tillis",
     "party": "Republican",
@@ -35331,14 +34541,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "senate-roll-call",
-      "senate-floor-transcripts"
+      "senate-floor-transcripts",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 1682234,
     "israelLobbyTotalDisplay": "$1,682,234",
     "trackAipacOfficeLabel": "NC-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "SENATE",
+    "district": "00"
   },
   {
     "id": "thomas-lee-johnson-nc-s-00",
@@ -35451,34 +34664,6 @@
     "district": "04"
   },
   {
-    "id": "virginia-ann-foxx-nc-h-05",
-    "name": "Virginia Ann Foxx",
-    "party": "Republican",
-    "state": "NC",
-    "districtOrOffice": "U.S. House, NC-05",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Virginia Ann Foxx in U.S. House, NC-05. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "virginia-foxx-nc-05",
     "name": "Virginia Foxx",
     "party": "Republican",
@@ -35508,14 +34693,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 798513,
     "israelLobbyTotalDisplay": "$798,513",
     "trackAipacOfficeLabel": "NC-05",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "05"
   },
   {
     "id": "west-caudle-nc-h-10",
@@ -37687,42 +36875,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 74550,
     "israelLobbyTotalDisplay": "$74,550",
     "trackAipacOfficeLabel": "NJ-03",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00"
-  },
-  {
-    "id": "herb-md-conaway-nj-h-03",
-    "name": "Herb Md Conaway",
-    "party": "Democratic",
-    "state": "NJ",
-    "districtOrOffice": "U.S. House, NJ-03",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Herb Md Conaway in U.S. House, NJ-03. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00",
+    "officeScope": "HOUSE",
+    "district": "03"
   },
   {
     "id": "jason-cullen-nj-h-03",
@@ -37837,34 +37001,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "jeff-mr-van-drew-nj-h-02",
-    "name": "Jeff Mr Van Drew",
-    "party": "Republican",
-    "state": "NJ",
-    "districtOrOffice": "U.S. House, NJ-02",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Jeff Mr Van Drew in U.S. House, NJ-02. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "jeff-van-drew-nj-02",
     "name": "Jeff Van Drew",
     "party": "Republican",
@@ -37892,14 +37028,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 429267,
     "israelLobbyTotalDisplay": "$429,267",
     "trackAipacOfficeLabel": "NJ-02",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00",
+    "officeScope": "HOUSE",
+    "district": "02"
   },
   {
     "id": "joe-hathaway-nj-h-11",
@@ -39933,42 +39073,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 149389,
     "israelLobbyTotalDisplay": "$149,389",
     "trackAipacOfficeLabel": "NV-02",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
-  },
-  {
-    "id": "mark-eugene-amodei-nv-h-02",
-    "name": "Mark Eugene Amodei",
-    "party": "Republican",
-    "state": "NV",
-    "districtOrOffice": "U.S. House, NV-02",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Mark Eugene Amodei in U.S. House, NV-02. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "02"
   },
   {
     "id": "marty-o-donnell-nv-h-03",
@@ -40055,34 +39170,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "steven-alexzander-horsford-nv-h-04",
-    "name": "Steven Alexzander Horsford",
-    "party": "Democratic",
-    "state": "NV",
-    "districtOrOffice": "U.S. House, NV-04",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Steven Alexzander Horsford in U.S. House, NV-04. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "steven-horsford-nv-04",
     "name": "Steven Horsford",
     "party": "Democratic",
@@ -40112,14 +39199,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 939139,
     "israelLobbyTotalDisplay": "$939,139",
     "trackAipacOfficeLabel": "NV-04",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "04"
   },
   {
     "id": "steven-london-nv-h-03",
@@ -42597,34 +41687,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "paul-david-tonko-ny-h-20",
-    "name": "Paul David Tonko",
-    "party": "Democratic",
-    "state": "NY",
-    "districtOrOffice": "U.S. House, NY-20",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Paul David Tonko in U.S. House, NY-20. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "paul-tonko-ny-20",
     "name": "Paul Tonko",
     "party": "Democratic",
@@ -42654,14 +41716,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 155239,
     "israelLobbyTotalDisplay": "$155,239",
     "trackAipacOfficeLabel": "NY-20",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "20"
   },
   {
     "id": "paula-collins-ny-h-21",
@@ -42748,34 +41813,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "ritchie-john-torres-ny-h-15",
-    "name": "Ritchie John Torres",
-    "party": "Democratic",
-    "state": "NY",
-    "districtOrOffice": "U.S. House, NY-15",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Ritchie John Torres in U.S. House, NY-15. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "ritchie-torres-ny-15",
     "name": "Ritchie Torres",
     "party": "Democratic",
@@ -42805,14 +41842,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 6776001,
     "israelLobbyTotalDisplay": "$6,776,001",
     "trackAipacOfficeLabel": "NY-15",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "15"
   },
   {
     "id": "robert-smullen-ny-h-21",
@@ -43964,34 +43004,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "marcy-hon-m-c-kaptur-oh-h-09",
-    "name": "Marcy Hon. M.C. Kaptur",
-    "party": "Democratic",
-    "state": "OH",
-    "districtOrOffice": "U.S. House, OH-09",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Marcy Hon. M.C. Kaptur in U.S. House, OH-09. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "marcy-kaptur-oh-09",
     "name": "Marcy Kaptur",
     "party": "Democratic",
@@ -44021,14 +43033,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 857037,
     "israelLobbyTotalDisplay": "$857,037",
     "trackAipacOfficeLabel": "OH-09",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "09"
   },
   {
     "id": "max-miller-oh-h-07",
@@ -45639,42 +44654,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 302305,
     "israelLobbyTotalDisplay": "$302,305",
     "trackAipacOfficeLabel": "OR-01",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
-  },
-  {
-    "id": "suzanne-ms-bonamici-or-h-01",
-    "name": "Suzanne Ms. Bonamici",
-    "party": "Democratic",
-    "state": "OR",
-    "districtOrOffice": "U.S. House, OR-01",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Suzanne Ms. Bonamici in U.S. House, OR-01. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "01"
   },
   {
     "id": "val-hoyle-or-04",
@@ -46345,70 +45335,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 32372,
     "israelLobbyTotalDisplay": "$32,372",
     "trackAipacOfficeLabel": "PA-15",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00"
-  },
-  {
-    "id": "glenn-mr-thompson-pa-h-15",
-    "name": "Glenn Mr. Thompson",
-    "party": "Republican",
-    "state": "PA",
-    "districtOrOffice": "U.S. House, PA-15",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Glenn Mr. Thompson in U.S. House, PA-15. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
-    "id": "guy-mr-reschenthaler-pa-h-14",
-    "name": "Guy Mr. Reschenthaler",
-    "party": "Republican",
-    "state": "PA",
-    "districtOrOffice": "U.S. House, PA-14",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Guy Mr. Reschenthaler in U.S. House, PA-14. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00",
+    "officeScope": "HOUSE",
+    "district": "15"
   },
   {
     "id": "guy-reschenthaler-pa-14",
@@ -46438,14 +45376,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 872522,
     "israelLobbyTotalDisplay": "$872,522",
     "trackAipacOfficeLabel": "PA-14",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00",
+    "officeScope": "HOUSE",
+    "district": "14"
   },
   {
     "id": "isabelle-a-harman-pa-h-10",
@@ -47348,34 +46290,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "ryan-edward-mackenzie-pa-h-07",
-    "name": "Ryan Edward Mackenzie",
-    "party": "Republican",
-    "state": "PA",
-    "districtOrOffice": "U.S. House, PA-07",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Ryan Edward Mackenzie in U.S. House, PA-07. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "ryan-mackenzie-pa-07",
     "name": "Ryan Mackenzie",
     "party": "Republican",
@@ -47405,14 +46319,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 201577,
     "israelLobbyTotalDisplay": "$201,577",
     "trackAipacOfficeLabel": "PA-07",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "07"
   },
   {
     "id": "sarah-renee-klimm-pa-h-11",
@@ -49641,42 +48558,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 78085,
     "israelLobbyTotalDisplay": "$78,085",
     "trackAipacOfficeLabel": "TN-04",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
-  },
-  {
-    "id": "scott-hon-desjarlais-tn-h-04",
-    "name": "Scott Hon. Desjarlais",
-    "party": "Republican",
-    "state": "TN",
-    "districtOrOffice": "U.S. House, TN-04",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Scott Hon. Desjarlais in U.S. House, TN-04. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "04"
   },
   {
     "id": "steve-cohen-tn-09",
@@ -49708,42 +48600,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 312346,
     "israelLobbyTotalDisplay": "$312,346",
     "trackAipacOfficeLabel": "TN-09",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
-  },
-  {
-    "id": "steve-i-mr-cohen-tn-h-09",
-    "name": "Steve I Mr. Cohen",
-    "party": "Democratic",
-    "state": "TN",
-    "districtOrOffice": "U.S. House, TN-09",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Steve I Mr. Cohen in U.S. House, TN-09. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "09"
   },
   {
     "id": "thomas-eugene-davis-tn-h-04",
@@ -50261,34 +49128,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "august-lee-ii-pfluger-tx-h-11",
-    "name": "August Lee Ii Pfluger",
-    "party": "Republican",
-    "state": "TX",
-    "districtOrOffice": "U.S. House, TX-11",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for August Lee Ii Pfluger in U.S. House, TX-11. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "august-pfluger-tx-11",
     "name": "August Pfluger",
     "party": "Republican",
@@ -50309,14 +49148,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 401275,
     "israelLobbyTotalDisplay": "$401,275",
     "trackAipacOfficeLabel": "TX-11",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:22:25.221675+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:22:25.221675+00:00",
+    "officeScope": "HOUSE",
+    "district": "11"
   },
   {
     "id": "barbara-mallory-caraway-tx-h-30",
@@ -53051,14 +51894,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 309810,
     "israelLobbyTotalDisplay": "$309,810",
     "trackAipacOfficeLabel": "TX-31",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "31"
   },
   {
     "id": "john-cornyn-tx-sen",
@@ -53090,14 +51936,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "senate-roll-call",
-      "senate-floor-transcripts"
+      "senate-floor-transcripts",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 2086416,
     "israelLobbyTotalDisplay": "$2,086,416",
     "trackAipacOfficeLabel": "TX-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "SENATE",
+    "district": "00"
   },
   {
     "id": "john-kevin-sr-ellzey-tx-h-06",
@@ -53180,62 +52029,6 @@
       "fec-candidate-master-2026",
       "house-resolution-tracker",
       "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
-    "id": "john-r-rep-carter-tx-h-31",
-    "name": "John R Rep. Carter",
-    "party": "Republican",
-    "state": "TX",
-    "districtOrOffice": "U.S. House, TX-31",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for John R Rep. Carter in U.S. House, TX-31. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
-    "id": "john-sen-cornyn-tx-s-00",
-    "name": "John Sen Cornyn",
-    "party": "Republican",
-    "state": "TX",
-    "districtOrOffice": "U.S. Senate, TX",
-    "office": "U.S. Senate",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for John Sen Cornyn in U.S. Senate, TX. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "senate-roll-call",
-          "senate-floor-transcripts"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "senate-roll-call",
-      "senate-floor-transcripts"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
@@ -53559,34 +52352,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "keith-alan-mr-self-tx-h-03",
-    "name": "Keith Alan Mr Self",
-    "party": "Republican",
-    "state": "TX",
-    "districtOrOffice": "U.S. House, TX-03",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Keith Alan Mr Self in U.S. House, TX-03. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "keith-allen-tx-h-34",
     "name": "Keith Allen",
     "party": "Republican",
@@ -53672,14 +52437,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 87500,
     "israelLobbyTotalDisplay": "$87,500",
     "trackAipacOfficeLabel": "TX-03",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "03"
   },
   {
     "id": "kenneth-morgan-aguilera-tx-h-12",
@@ -54111,34 +52879,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "marc-allison-veasey-tx-h-33",
-    "name": "Marc Allison Veasey",
-    "party": "Democratic",
-    "state": "TX",
-    "districtOrOffice": "U.S. House, TX-33",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Marc Allison Veasey in U.S. House, TX-33. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "marc-veasey-tx-33",
     "name": "Marc Veasey",
     "party": "Democratic",
@@ -54168,14 +52908,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 413271,
     "israelLobbyTotalDisplay": "$413,271",
     "trackAipacOfficeLabel": "TX-33",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "33"
   },
   {
     "id": "mario-alberto-morales-tx-h-34",
@@ -54749,34 +53492,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "morgan-joe-luttrell-tx-h-08",
-    "name": "Morgan Joe Luttrell",
-    "party": "Republican",
-    "state": "TX",
-    "districtOrOffice": "U.S. House, TX-08",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Morgan Joe Luttrell in U.S. House, TX-08. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "morgan-luttrell-tx-08",
     "name": "Morgan Luttrell",
     "party": "Republican",
@@ -54806,14 +53521,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 104886,
     "israelLobbyTotalDisplay": "$104,886",
     "trackAipacOfficeLabel": "TX-08",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "08"
   },
   {
     "id": "nathan-thomas-hawks-tx-h-24",
@@ -54873,42 +53591,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 111319,
     "israelLobbyTotalDisplay": "$111,319",
     "trackAipacOfficeLabel": "TX-01",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
-  },
-  {
-    "id": "nathaniel-quentin-moran-tx-h-01",
-    "name": "Nathaniel Quentin Moran",
-    "party": "Republican",
-    "state": "TX",
-    "districtOrOffice": "U.S. House, TX-01",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Nathaniel Quentin Moran in U.S. House, TX-01. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "01"
   },
   {
     "id": "nicholas-lee-mr-plumb-tx-h-02",
@@ -55634,42 +54327,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 307005,
     "israelLobbyTotalDisplay": "$307,005",
     "trackAipacOfficeLabel": "TX-13",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
-  },
-  {
-    "id": "ronny-lynn-jackson-tx-h-13",
-    "name": "Ronny Lynn Jackson",
-    "party": "Republican",
-    "state": "TX",
-    "districtOrOffice": "U.S. House, TX-13",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Ronny Lynn Jackson in U.S. House, TX-13. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "13"
   },
   {
     "id": "ruth-ms-torres-tx-h-05",
@@ -58777,34 +57445,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "mark-robert-warner-va-s-00",
-    "name": "Mark Robert Warner",
-    "party": "Democratic",
-    "state": "VA",
-    "districtOrOffice": "U.S. Senate, VA",
-    "office": "U.S. Senate",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Mark Robert Warner in U.S. Senate, VA. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "senate-roll-call",
-          "senate-floor-transcripts"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "senate-roll-call",
-      "senate-floor-transcripts"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "mark-warner-va-sen",
     "name": "Mark Warner",
     "party": "Democratic",
@@ -58834,14 +57474,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "senate-roll-call",
-      "senate-floor-transcripts"
+      "senate-floor-transcripts",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 3050177,
     "israelLobbyTotalDisplay": "$3,050,177",
     "trackAipacOfficeLabel": "VA-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "SENATE",
+    "district": "00"
   },
   {
     "id": "matt-strickler-va-h-02",
@@ -60122,34 +58765,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "kim-dr-schrier-wa-h-08",
-    "name": "Kim Dr. Schrier",
-    "party": "Democratic",
-    "state": "WA",
-    "districtOrOffice": "U.S. House, WA-08",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Kim Dr. Schrier in U.S. House, WA-08. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "kim-schrier-wa-08",
     "name": "Kim Schrier",
     "party": "Democratic",
@@ -60179,14 +58794,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 1402935,
     "israelLobbyTotalDisplay": "$1,402,935",
     "trackAipacOfficeLabel": "WA-08",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "08"
   },
   {
     "id": "kshama-sawant-wa-h-09",
@@ -60367,42 +58985,17 @@
     "sourceIds": [
       "trackaipac-congress",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "congress-floor-records",
+      "fec-candidate-master-2026"
     ],
     "israelLobbyTotal": 91926,
     "israelLobbyTotalDisplay": "$91,926",
     "trackAipacOfficeLabel": "WA-05",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
-  },
-  {
-    "id": "michael-james-baumgartner-wa-h-05",
-    "name": "Michael James Baumgartner",
-    "party": "Republican",
-    "state": "WA",
-    "districtOrOffice": "U.S. House, WA-05",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Michael James Baumgartner in U.S. House, WA-05. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+    "officeScope": "HOUSE",
+    "district": "05"
   },
   {
     "id": "patty-murray-wa-sen",
@@ -60667,34 +59260,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "bryan-george-steil-wi-h-01",
-    "name": "Bryan George Steil",
-    "party": "Republican",
-    "state": "WI",
-    "districtOrOffice": "U.S. House, WI-01",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Bryan George Steil in U.S. House, WI-01. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "bryan-steil-wi-01",
     "name": "Bryan Steil",
     "party": "Republican",
@@ -60712,14 +59277,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 611837,
     "israelLobbyTotalDisplay": "$611,837",
     "trackAipacOfficeLabel": "WI-01",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00",
+    "officeScope": "HOUSE",
+    "district": "01"
   },
   {
     "id": "christopher-campbell-armstrong-wi-h-07",
@@ -60731,34 +59300,6 @@
     "imageUrl": "",
     "stanceLabel": "Unknown",
     "stanceSummary": "No public Track AIPAC congressional total is currently linked for Christopher Campbell Armstrong in U.S. House, WI-07. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
-    "id": "derrick-f-mr-van-orden-wi-h-03",
-    "name": "Derrick F. Mr. Van Orden",
-    "party": "Republican",
-    "state": "WI",
-    "districtOrOffice": "U.S. House, WI-03",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Derrick F. Mr. Van Orden in U.S. House, WI-03. Official statements and congressional records were used as the primary basis for stance context in this profile.",
     "timeline": [
       {
         "date": "2026-03-04",
@@ -60805,14 +59346,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 483718,
     "israelLobbyTotalDisplay": "$483,718",
     "trackAipacOfficeLabel": "WI-03",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00"
+    "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00",
+    "officeScope": "HOUSE",
+    "district": "03"
   },
   {
     "id": "emily-berge-wi-h-03",
@@ -61518,34 +60063,6 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
-    "id": "carol-devine-miller-wv-h-01",
-    "name": "Carol Devine Miller",
-    "party": "Republican",
-    "state": "WV",
-    "districtOrOffice": "U.S. House, WV-01",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Carol Devine Miller in U.S. House, WV-01. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
     "id": "carol-miller-wv-01",
     "name": "Carol Miller",
     "party": "Republican",
@@ -61563,14 +60080,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "house-resolution-tracker"
+      "house-resolution-tracker",
+      "fec-candidate-master-2026",
+      "congress-floor-records"
     ],
     "israelLobbyTotal": 128758,
     "israelLobbyTotalDisplay": "$128,758",
     "trackAipacOfficeLabel": "WV-01",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00",
+    "officeScope": "HOUSE",
+    "district": "01"
   },
   {
     "id": "jim-justice-wv-sen",
@@ -61933,42 +60454,18 @@
     ],
     "sourceIds": [
       "trackaipac-congress",
-      "senate-roll-call"
+      "senate-roll-call",
+      "fec-candidate-master-2026",
+      "senate-floor-transcripts"
     ],
     "israelLobbyTotal": 145981,
     "israelLobbyTotalDisplay": "$145,981",
     "trackAipacOfficeLabel": "WY-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
-  },
-  {
-    "id": "cynthia-marie-mrs-lummis-wy-s-00",
-    "name": "Cynthia Marie Mrs. Lummis",
-    "party": "Republican",
-    "state": "WY",
-    "districtOrOffice": "U.S. Senate, WY",
-    "office": "U.S. Senate",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Cynthia Marie Mrs. Lummis in U.S. Senate, WY. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
-        "sourceIds": [
-          "fec-candidate-master-2026",
-          "senate-roll-call",
-          "senate-floor-transcripts"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "fec-candidate-master-2026",
-      "senate-roll-call",
-      "senate-floor-transcripts"
-    ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00",
+    "officeScope": "SENATE",
+    "district": "00"
   },
   {
     "id": "harriet-hageman-wy-h-00",

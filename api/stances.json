@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-03-03",
-  "count": 2024,
+  "count": 1963,
   "items": [
     {
       "id": "az-h-atlarge",
@@ -579,14 +579,6 @@
       "endpoint": "/api/candidates/alma-adams-nc-12.json"
     },
     {
-      "id": "alma-shealey-adams-nc-h-12",
-      "name": "Alma Shealey Adams",
-      "districtOrOffice": "U.S. House, NC-12",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/alma-shealey-adams-nc-h-12.json"
-    },
-    {
       "id": "alysa-kassay-nc-h-06",
       "name": "Alysa Kassay",
       "districtOrOffice": "U.S. House, NC-06",
@@ -1137,14 +1129,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/audrey-denney-ca-h-01.json"
-    },
-    {
-      "id": "august-lee-ii-pfluger-tx-h-11",
-      "name": "August Lee Ii Pfluger",
-      "districtOrOffice": "U.S. House, TX-11",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/august-lee-ii-pfluger-tx-h-11.json"
     },
     {
       "id": "august-pfluger-tx-11",
@@ -1955,14 +1939,6 @@
       "endpoint": "/api/candidates/britta-aguirre-wv-h-01.json"
     },
     {
-      "id": "brittany-louise-pettersen-co-h-07",
-      "name": "Brittany Louise Pettersen",
-      "districtOrOffice": "U.S. House, CO-07",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/brittany-louise-pettersen-co-h-07.json"
-    },
-    {
       "id": "brittany-pettersen-co-07",
       "name": "Brittany Pettersen",
       "districtOrOffice": "U.S. House, CO-07",
@@ -1993,14 +1969,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/bruce-westerman-ar-h-04.json"
-    },
-    {
-      "id": "bryan-george-steil-wi-h-01",
-      "name": "Bryan George Steil",
-      "districtOrOffice": "U.S. House, WI-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/bryan-george-steil-wi-h-01.json"
     },
     {
       "id": "bryan-maxwell-il-s-atlarge",
@@ -2193,14 +2161,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/carmen-vincent-mr-calabrese-me-s-00.json"
-    },
-    {
-      "id": "carol-devine-miller-wv-h-01",
-      "name": "Carol Devine Miller",
-      "districtOrOffice": "U.S. House, WV-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/carol-devine-miller-wv-h-01.json"
     },
     {
       "id": "carol-kristina-roper-ca-h-20",
@@ -2939,14 +2899,6 @@
       "endpoint": "/api/candidates/claudia-tenney-ny-h-24.json"
     },
     {
-      "id": "clay-captain-higgins-la-h-03",
-      "name": "Clay Captain Higgins",
-      "districtOrOffice": "U.S. House, LA-03",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/clay-captain-higgins-la-h-03.json"
-    },
-    {
       "id": "clay-fuller-ga-h-14",
       "name": "Clay Fuller",
       "districtOrOffice": "U.S. House, GA-14",
@@ -3155,14 +3107,6 @@
       "endpoint": "/api/candidates/cynthia-lummis-wy-sen.json"
     },
     {
-      "id": "cynthia-marie-mrs-lummis-wy-s-00",
-      "name": "Cynthia Marie Mrs. Lummis",
-      "districtOrOffice": "U.S. Senate, WY",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/cynthia-marie-mrs-lummis-wy-s-00.json"
-    },
-    {
       "id": "cyril-jefferson-nc-h-06",
       "name": "Cyril Jefferson",
       "districtOrOffice": "U.S. House, NC-06",
@@ -3225,14 +3169,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/dale-v-c-mr-holness-fl-h-20.json"
-    },
-    {
-      "id": "dale-whitney-strong-al-h-05",
-      "name": "Dale Whitney Strong",
-      "districtOrOffice": "U.S. House, AL-05",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/dale-whitney-strong-al-h-05.json"
     },
     {
       "id": "dalia-al-aqidi-mn-h-05",
@@ -3475,14 +3411,6 @@
       "endpoint": "/api/candidates/danny-davis-il-07.json"
     },
     {
-      "id": "danny-k-mr-davis-il-h-07",
-      "name": "Danny K. Mr. Davis",
-      "districtOrOffice": "U.S. House, IL-07",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/danny-k-mr-davis-il-h-07.json"
-    },
-    {
       "id": "danny-minton-tx-h-06",
       "name": "Danny Minton",
       "districtOrOffice": "U.S. House, TX-06",
@@ -3513,14 +3441,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/darin-lahood-il-16.json"
-    },
-    {
-      "id": "darin-mckay-lahood-il-h-16",
-      "name": "Darin Mckay Lahood",
-      "districtOrOffice": "U.S. House, IL-16",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/darin-mckay-lahood-il-h-16.json"
     },
     {
       "id": "darius-mayfield-va-h-07",
@@ -3633,14 +3553,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/david-alan-evans-me-s-00.json"
-    },
-    {
-      "id": "david-albert-scott-ga-h-13",
-      "name": "David Albert Scott",
-      "districtOrOffice": "U.S. House, GA-13",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/david-albert-scott-ga-h-13.json"
     },
     {
       "id": "david-alfred-mr-pautsch-ia-h-01",
@@ -4009,14 +3921,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/derek-tran-ca-h-45.json"
-    },
-    {
-      "id": "derrick-f-mr-van-orden-wi-h-03",
-      "name": "Derrick F. Mr. Van Orden",
-      "districtOrOffice": "U.S. House, WI-03",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/derrick-f-mr-van-orden-wi-h-03.json"
     },
     {
       "id": "derrick-van-orden-wi-03",
@@ -4675,14 +4579,6 @@
       "endpoint": "/api/candidates/eric-jones-ca-h-04.json"
     },
     {
-      "id": "eric-michael-swalwell-ca-h-14",
-      "name": "Eric Michael Swalwell",
-      "districtOrOffice": "U.S. House, CA-14",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/eric-michael-swalwell-ca-h-14.json"
-    },
-    {
       "id": "eric-niehaus-tx-h-32",
       "name": "Eric Niehaus",
       "districtOrOffice": "U.S. House, TX-32",
@@ -4913,14 +4809,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/evan-munsing-co-h-08.json"
-    },
-    {
-      "id": "evan-turnage-ms-h-02",
-      "name": "Evan Turnage",
-      "districtOrOffice": "U.S. House, MS-02",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/evan-turnage-ms-h-02.json"
     },
     {
       "id": "everett-honorable-jackson-tx-h-30",
@@ -5299,14 +5187,6 @@
       "endpoint": "/api/candidates/glenn-g-t-thompson-pa-15.json"
     },
     {
-      "id": "glenn-frederick-ivey-md-h-04",
-      "name": "Glenn Frederick Ivey",
-      "districtOrOffice": "U.S. House, MD-04",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/glenn-frederick-ivey-md-h-04.json"
-    },
-    {
       "id": "glenn-grothman-wi-06",
       "name": "Glenn Grothman",
       "districtOrOffice": "U.S. House, WI-06",
@@ -5329,14 +5209,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/glenn-keith-mr-pearson-fl-h-16.json"
-    },
-    {
-      "id": "glenn-mr-thompson-pa-h-15",
-      "name": "Glenn Mr. Thompson",
-      "districtOrOffice": "U.S. House, PA-15",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/glenn-mr-thompson-pa-h-15.json"
     },
     {
       "id": "gordon-chaffin-dc-h-00",
@@ -5537,14 +5409,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/gus-bilirakis-fl-12.json"
-    },
-    {
-      "id": "guy-mr-reschenthaler-pa-h-14",
-      "name": "Guy Mr. Reschenthaler",
-      "districtOrOffice": "U.S. House, PA-14",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/guy-mr-reschenthaler-pa-h-14.json"
     },
     {
       "id": "guy-reschenthaler-pa-14",
@@ -5769,14 +5633,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/herb-conaway-nj-03.json"
-    },
-    {
-      "id": "herb-md-conaway-nj-h-03",
-      "name": "Herb Md Conaway",
-      "districtOrOffice": "U.S. House, NJ-03",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/herb-md-conaway-nj-h-03.json"
     },
     {
       "id": "hilda-solis-ca-h-38",
@@ -6731,14 +6587,6 @@
       "endpoint": "/api/candidates/jeff-hurd-co-03.json"
     },
     {
-      "id": "jeff-mr-van-drew-nj-h-02",
-      "name": "Jeff Mr Van Drew",
-      "districtOrOffice": "U.S. House, NJ-02",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/jeff-mr-van-drew-nj-h-02.json"
-    },
-    {
       "id": "jeff-van-drew-nj-02",
       "name": "Jeff Van Drew",
       "districtOrOffice": "U.S. House, NJ-02",
@@ -7131,14 +6979,6 @@
       "endpoint": "/api/candidates/jill-manrique-il-h-09.json"
     },
     {
-      "id": "jill-naomi-tokuda-hi-h-02",
-      "name": "Jill Naomi Tokuda",
-      "districtOrOffice": "U.S. House, HI-02",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/jill-naomi-tokuda-hi-h-02.json"
-    },
-    {
       "id": "jill-tokuda-hi-02",
       "name": "Jill Tokuda",
       "districtOrOffice": "U.S. House, HI-02",
@@ -7417,14 +7257,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/john-andrew-williams-ky-h-01.json"
-    },
-    {
-      "id": "john-anthony-jr-olszewski-md-h-02",
-      "name": "John Anthony Jr. Olszewski",
-      "districtOrOffice": "U.S. House, MD-02",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/john-anthony-jr-olszewski-md-h-02.json"
     },
     {
       "id": "john-barrasso-wy-sen",
@@ -7763,14 +7595,6 @@
       "endpoint": "/api/candidates/john-moolenaar-mi-02.json"
     },
     {
-      "id": "john-mr-moolenaar-mi-h-02",
-      "name": "John Mr. Moolenaar",
-      "districtOrOffice": "U.S. House, MI-02",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/john-mr-moolenaar-mi-h-02.json"
-    },
-    {
       "id": "john-nagel-mn-h-05",
       "name": "John Nagel",
       "districtOrOffice": "U.S. House, MN-05",
@@ -7803,14 +7627,6 @@
       "endpoint": "/api/candidates/john-peters-fl-h-16.json"
     },
     {
-      "id": "john-r-rep-carter-tx-h-31",
-      "name": "John R Rep. Carter",
-      "districtOrOffice": "U.S. House, TX-31",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/john-r-rep-carter-tx-h-31.json"
-    },
-    {
       "id": "john-rose-tn-06",
       "name": "John Rose",
       "districtOrOffice": "U.S. House, TN-06",
@@ -7825,14 +7641,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/john-rutherford-fl-h-05.json"
-    },
-    {
-      "id": "john-sen-cornyn-tx-s-00",
-      "name": "John Sen Cornyn",
-      "districtOrOffice": "U.S. Senate, TX",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/john-sen-cornyn-tx-s-00.json"
     },
     {
       "id": "john-strand-fl-h-19",
@@ -8747,14 +8555,6 @@
       "endpoint": "/api/candidates/kaylee-jade-peterson-id-h-01.json"
     },
     {
-      "id": "keith-alan-mr-self-tx-h-03",
-      "name": "Keith Alan Mr Self",
-      "districtOrOffice": "U.S. House, TX-03",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/keith-alan-mr-self-tx-h-03.json"
-    },
-    {
       "id": "keith-allen-tx-h-34",
       "name": "Keith Allen",
       "districtOrOffice": "U.S. House, TX-34",
@@ -8825,14 +8625,6 @@
       "stanceLabel": "Mixed-unclear",
       "stanceColor": "gray",
       "endpoint": "/api/candidates/kelvin-buck-ms-h-01.json"
-    },
-    {
-      "id": "kelvin-oneal-mr-buck-ms-h-01",
-      "name": "Kelvin Oneal Mr Buck",
-      "districtOrOffice": "U.S. House, MS-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/kelvin-oneal-mr-buck-ms-h-01.json"
     },
     {
       "id": "ken-calvert-ca-41",
@@ -9001,14 +8793,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/khai-hoan-huynh-il-h-09.json"
-    },
-    {
-      "id": "kim-dr-schrier-wa-h-08",
-      "name": "Kim Dr. Schrier",
-      "districtOrOffice": "U.S. House, WA-08",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/kim-dr-schrier-wa-h-08.json"
     },
     {
       "id": "kim-farington-va-s-00",
@@ -9795,14 +9579,6 @@
       "endpoint": "/api/candidates/mantosh-kumar-ca-h-15.json"
     },
     {
-      "id": "marc-allison-veasey-tx-h-33",
-      "name": "Marc Allison Veasey",
-      "districtOrOffice": "U.S. House, TX-33",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/marc-allison-veasey-tx-h-33.json"
-    },
-    {
       "id": "marc-chaaban-nj-h-11",
       "name": "Marc Chaaban",
       "districtOrOffice": "U.S. House, NJ-11",
@@ -9827,14 +9603,6 @@
       "endpoint": "/api/candidates/marc-veasey-tx-33.json"
     },
     {
-      "id": "marcy-hon-m-c-kaptur-oh-h-09",
-      "name": "Marcy Hon. M.C. Kaptur",
-      "districtOrOffice": "U.S. House, OH-09",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/marcy-hon-m-c-kaptur-oh-h-09.json"
-    },
-    {
       "id": "marcy-kaptur-oh-09",
       "name": "Marcy Kaptur",
       "districtOrOffice": "U.S. House, OH-09",
@@ -9857,14 +9625,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/maria-cantwell-wa-sen.json"
-    },
-    {
-      "id": "maria-elvira-salazar-fl-h-27",
-      "name": "Maria Elvira Salazar",
-      "districtOrOffice": "U.S. House, FL-27",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/maria-elvira-salazar-fl-h-27.json"
     },
     {
       "id": "maria-salazar-fl-27",
@@ -10019,14 +9779,6 @@
       "endpoint": "/api/candidates/mark-edmund-johnston-ne-h-02.json"
     },
     {
-      "id": "mark-eugene-amodei-nv-h-02",
-      "name": "Mark Eugene Amodei",
-      "districtOrOffice": "U.S. House, NV-02",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/mark-eugene-amodei-nv-h-02.json"
-    },
-    {
       "id": "mark-harris-nc-08",
       "name": "Mark Harris",
       "districtOrOffice": "U.S. House, NC-08",
@@ -10073,14 +9825,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/mark-messmer-in-08.json"
-    },
-    {
-      "id": "mark-mr-messmer-in-h-08",
-      "name": "Mark Mr. Messmer",
-      "districtOrOffice": "U.S. House, IN-08",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/mark-mr-messmer-in-h-08.json"
     },
     {
       "id": "mark-nair-tx-h-13",
@@ -10137,14 +9881,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/mark-robert-gordon-az-h-01.json"
-    },
-    {
-      "id": "mark-robert-warner-va-s-00",
-      "name": "Mark Robert Warner",
-      "districtOrOffice": "U.S. Senate, VA",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/mark-robert-warner-va-s-00.json"
     },
     {
       "id": "mark-shannon-mr-ii-wheeler-al-s-00",
@@ -10563,14 +10299,6 @@
       "endpoint": "/api/candidates/maxine-dexter-or-h-03.json"
     },
     {
-      "id": "maxine-ms-waters-ca-h-43",
-      "name": "Maxine Ms Waters",
-      "districtOrOffice": "U.S. House, CA-43",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/maxine-ms-waters-ca-h-43.json"
-    },
-    {
       "id": "maxine-waters-ca-43",
       "name": "Maxine Waters",
       "districtOrOffice": "U.S. House, CA-43",
@@ -10755,14 +10483,6 @@
       "endpoint": "/api/candidates/michael-a-chiaradio-ms-h-03.json"
     },
     {
-      "id": "michael-alexis-chiaradio-ms-h-03",
-      "name": "Michael Alexis Chiaradio",
-      "districtOrOffice": "U.S. House, MS-03",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/michael-alexis-chiaradio-ms-h-03.json"
-    },
-    {
       "id": "michael-alfonso-wi-h-07",
       "name": "Michael Alfonso",
       "districtOrOffice": "U.S. House, WI-07",
@@ -10923,22 +10643,6 @@
       "endpoint": "/api/candidates/michael-j-rogers-mi-s-00.json"
     },
     {
-      "id": "michael-james-baumgartner-wa-h-05",
-      "name": "Michael James Baumgartner",
-      "districtOrOffice": "U.S. House, WA-05",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/michael-james-baumgartner-wa-h-05.json"
-    },
-    {
-      "id": "michael-james-faris-ky-s-00",
-      "name": "Michael James Faris",
-      "districtOrOffice": "U.S. Senate, KY",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/michael-james-faris-ky-s-00.json"
-    },
-    {
       "id": "michael-james-mr-blackwolf-mt-s-00",
       "name": "Michael James Mr. Blackwolf",
       "districtOrOffice": "U.S. Senate, MT",
@@ -11001,14 +10705,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/michael-mccord-ga-h-01.json"
-    },
-    {
-      "id": "michael-patrick-guest-ms-h-03",
-      "name": "Michael Patrick Guest",
-      "districtOrOffice": "U.S. House, MS-03",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/michael-patrick-guest-ms-h-03.json"
     },
     {
       "id": "michael-patrick-mcguire-nj-h-03",
@@ -11283,14 +10979,6 @@
       "endpoint": "/api/candidates/mike-mcguire-ca-h-01.json"
     },
     {
-      "id": "mike-mr-thompson-ca-h-04",
-      "name": "Mike Mr. Thompson",
-      "districtOrOffice": "U.S. House, CA-04",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/mike-mr-thompson-ca-h-04.json"
-    },
-    {
       "id": "mike-pedersen-fl-h-19",
       "name": "Mike Pedersen",
       "districtOrOffice": "U.S. House, FL-19",
@@ -11531,14 +11219,6 @@
       "endpoint": "/api/candidates/morgan-griffith-va-09.json"
     },
     {
-      "id": "morgan-joe-luttrell-tx-h-08",
-      "name": "Morgan Joe Luttrell",
-      "districtOrOffice": "U.S. House, TX-08",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/morgan-joe-luttrell-tx-h-08.json"
-    },
-    {
       "id": "morgan-luttrell-tx-08",
       "name": "Morgan Luttrell",
       "districtOrOffice": "U.S. House, TX-08",
@@ -11667,14 +11347,6 @@
       "endpoint": "/api/candidates/nathaniel-moran-tx-01.json"
     },
     {
-      "id": "nathaniel-quentin-moran-tx-h-01",
-      "name": "Nathaniel Quentin Moran",
-      "districtOrOffice": "U.S. House, TX-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/nathaniel-quentin-moran-tx-h-01.json"
-    },
-    {
       "id": "nazmul-hassan-mi-h-13",
       "name": "Nazmul Hassan",
       "districtOrOffice": "U.S. House, MI-13",
@@ -11697,14 +11369,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/neal-dunn-fl-02.json"
-    },
-    {
-      "id": "neal-patrick-md-dunn-fl-h-02",
-      "name": "Neal Patrick Md Dunn",
-      "districtOrOffice": "U.S. House, FL-02",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/neal-patrick-md-dunn-fl-h-02.json"
     },
     {
       "id": "ned-pillersdorf-ky-h-05",
@@ -12179,22 +11843,6 @@
       "endpoint": "/api/candidates/paul-dans-sc-s-00.json"
     },
     {
-      "id": "paul-david-tonko-ny-h-20",
-      "name": "Paul David Tonko",
-      "districtOrOffice": "U.S. House, NY-20",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/paul-david-tonko-ny-h-20.json"
-    },
-    {
-      "id": "paul-dr-gosar-az-h-09",
-      "name": "Paul Dr. Gosar",
-      "districtOrOffice": "U.S. House, AZ-09",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/paul-dr-gosar-az-h-09.json"
-    },
-    {
       "id": "paul-gosar-az-09",
       "name": "Paul Gosar",
       "districtOrOffice": "U.S. House, AZ-09",
@@ -12459,14 +12107,6 @@
       "endpoint": "/api/candidates/priscilla-w-till-ms-s-00.json"
     },
     {
-      "id": "priscilla-williams-till-ms-s-00",
-      "name": "Priscilla Williams Till",
-      "districtOrOffice": "U.S. Senate, MS",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/priscilla-williams-till-ms-s-00.json"
-    },
-    {
       "id": "quincy-bareebe-md-h-05",
       "name": "Quincy Bareebe",
       "districtOrOffice": "U.S. House, MD-05",
@@ -12625,14 +12265,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/rashida-tlaib-mi-h-12.json"
-    },
-    {
-      "id": "raul-dr-ruiz-ca-h-25",
-      "name": "Raul Dr. Ruiz",
-      "districtOrOffice": "U.S. House, CA-25",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/raul-dr-ruiz-ca-h-25.json"
     },
     {
       "id": "raul-ruiz-ca-25",
@@ -12987,14 +12619,6 @@
       "endpoint": "/api/candidates/rio-phillips-wv-s-00.json"
     },
     {
-      "id": "ritchie-john-torres-ny-h-15",
-      "name": "Ritchie John Torres",
-      "districtOrOffice": "U.S. House, NY-15",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/ritchie-john-torres-ny-h-15.json"
-    },
-    {
       "id": "ritchie-torres-ny-15",
       "name": "Ritchie Torres",
       "districtOrOffice": "U.S. House, NY-15",
@@ -13089,14 +12713,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/robert-anthony-rocky-capt-rochford-fl-h-14.json"
-    },
-    {
-      "id": "robert-b-rep-aderholt-al-h-04",
-      "name": "Robert B. Rep. Aderholt",
-      "districtOrOffice": "U.S. House, AL-04",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/robert-b-rep-aderholt-al-h-04.json"
     },
     {
       "id": "robert-bob-j-smith-ca-h-24",
@@ -13467,14 +13083,6 @@
       "endpoint": "/api/candidates/ronny-jackson-tx-13.json"
     },
     {
-      "id": "ronny-lynn-jackson-tx-h-13",
-      "name": "Ronny Lynn Jackson",
-      "districtOrOffice": "U.S. House, TX-13",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/ronny-lynn-jackson-tx-h-13.json"
-    },
-    {
       "id": "rory-e-hoskins-il-h-07",
       "name": "Rory E. Hoskins",
       "districtOrOffice": "U.S. House, IL-07",
@@ -13617,14 +13225,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/ryan-dotson-ky-h-06.json"
-    },
-    {
-      "id": "ryan-edward-mackenzie-pa-h-07",
-      "name": "Ryan Edward Mackenzie",
-      "districtOrOffice": "U.S. House, PA-07",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/ryan-edward-mackenzie-pa-h-07.json"
     },
     {
       "id": "ryan-mackenzie-pa-07",
@@ -13899,14 +13499,6 @@
       "endpoint": "/api/candidates/sarah-adlakha-ms-s-00.json"
     },
     {
-      "id": "sarah-anne-dr-adlakha-ms-s-00",
-      "name": "Sarah Anne Dr Adlakha",
-      "districtOrOffice": "U.S. Senate, MS",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/sarah-anne-dr-adlakha-ms-s-00.json"
-    },
-    {
       "id": "sarah-chadzynski-nh-h-01",
       "name": "Sarah Chadzynski",
       "districtOrOffice": "U.S. House, NH-01",
@@ -13937,14 +13529,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/sarah-elizabeth-mcbride-de-h-00.json"
-    },
-    {
-      "id": "sarah-kelly-elfreth-md-h-03",
-      "name": "Sarah Kelly Elfreth",
-      "districtOrOffice": "U.S. House, MD-03",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/sarah-kelly-elfreth-md-h-03.json"
     },
     {
       "id": "sarah-renee-klimm-pa-h-11",
@@ -14011,28 +13595,12 @@
       "endpoint": "/api/candidates/scott-franklin-fl-18.json"
     },
     {
-      "id": "scott-hon-desjarlais-tn-h-04",
-      "name": "Scott Hon. Desjarlais",
-      "districtOrOffice": "U.S. House, TN-04",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/scott-hon-desjarlais-tn-h-04.json"
-    },
-    {
       "id": "scott-macleod-tx-h-10",
       "name": "Scott Macleod",
       "districtOrOffice": "U.S. House, TX-10",
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/scott-macleod-tx-h-10.json"
-    },
-    {
-      "id": "scott-mr-franklin-fl-h-18",
-      "name": "Scott Mr. Franklin",
-      "districtOrOffice": "U.S. House, FL-18",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/scott-mr-franklin-fl-h-18.json"
     },
     {
       "id": "scott-p-brown-nh-s-00",
@@ -14435,28 +14003,12 @@
       "endpoint": "/api/candidates/steve-daines-mt-s-00.json"
     },
     {
-      "id": "steve-i-mr-cohen-tn-h-09",
-      "name": "Steve I Mr. Cohen",
-      "districtOrOffice": "U.S. House, TN-09",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/steve-i-mr-cohen-tn-h-09.json"
-    },
-    {
       "id": "steve-jones-nm-h-01",
       "name": "Steve Jones",
       "districtOrOffice": "U.S. House, NM-01",
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/steve-jones-nm-h-01.json"
-    },
-    {
-      "id": "steve-mr-scalise-la-h-01",
-      "name": "Steve Mr Scalise",
-      "districtOrOffice": "U.S. House, LA-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/steve-mr-scalise-la-h-01.json"
     },
     {
       "id": "steve-scalise-la-01",
@@ -14489,14 +14041,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/steve-womack-ar-03.json"
-    },
-    {
-      "id": "steven-alexzander-horsford-nv-h-04",
-      "name": "Steven Alexzander Horsford",
-      "districtOrOffice": "U.S. House, NV-04",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/steven-alexzander-horsford-nv-h-04.json"
     },
     {
       "id": "steven-burt-ut-h-04",
@@ -14689,14 +14233,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/suzanne-marie-dr-till-ca-h-48.json"
-    },
-    {
-      "id": "suzanne-ms-bonamici-or-h-01",
-      "name": "Suzanne Ms. Bonamici",
-      "districtOrOffice": "U.S. House, OR-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/suzanne-ms-bonamici-or-h-01.json"
     },
     {
       "id": "sydney-kamlager-dove-ca-h-37",
@@ -14961,14 +14497,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/thien-ho-ca-h-06.json"
-    },
-    {
-      "id": "thom-r-sen-tillis-nc-s-00",
-      "name": "Thom R Sen Tillis",
-      "districtOrOffice": "U.S. Senate, NC",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/thom-r-sen-tillis-nc-s-00.json"
     },
     {
       "id": "thom-tillis-nc-sen",
@@ -15459,14 +14987,6 @@
       "endpoint": "/api/candidates/tracey-mann-ks-01.json"
     },
     {
-      "id": "tracey-robert-mann-ks-h-01",
-      "name": "Tracey Robert Mann",
-      "districtOrOffice": "U.S. House, KS-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/tracey-robert-mann-ks-h-01.json"
-    },
-    {
       "id": "tracy-hunt-pa-h-01",
       "name": "Tracy Hunt",
       "districtOrOffice": "U.S. House, PA-01",
@@ -15785,14 +15305,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/virgil-bierschwale-tx-s-00.json"
-    },
-    {
-      "id": "virginia-ann-foxx-nc-h-05",
-      "name": "Virginia Ann Foxx",
-      "districtOrOffice": "U.S. House, NC-05",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/virginia-ann-foxx-nc-h-05.json"
     },
     {
       "id": "virginia-foxx-nc-05",

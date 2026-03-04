@@ -382,40 +382,6 @@
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
   },
   {
-    "id": "dale-strong-al-05",
-    "candidateKey": "trackaipac-dale-strong-al-05",
-    "fecCandidateId": null,
-    "name": "Dale Strong",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "AL",
-    "district": "05",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, AL-05",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 75745,
-    "israelLobbyTotalDisplay": "$75,745",
-    "trackAipacOfficeLabel": "AL-05",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "dale-whitney-strong-al-h-05",
     "candidateKey": "h2al05102",
     "fecCandidateId": "H2AL05102",
@@ -435,13 +401,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 75745,
+    "israelLobbyTotalDisplay": "$75,745",
+    "trackAipacOfficeLabel": "AL-05",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "elizabeth-anderson-al-h-06",
@@ -882,40 +855,6 @@
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
   },
   {
-    "id": "robert-aderholt-al-04",
-    "candidateKey": "trackaipac-robert-aderholt-al-04",
-    "fecCandidateId": null,
-    "name": "Robert Aderholt",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "AL",
-    "district": "04",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, AL-04",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 251955,
-    "israelLobbyTotalDisplay": "$251,955",
-    "trackAipacOfficeLabel": "AL-04",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "robert-b-rep-aderholt-al-h-04",
     "candidateKey": "h6al04098",
     "fecCandidateId": "H6AL04098",
@@ -935,13 +874,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 251955,
+    "israelLobbyTotalDisplay": "$251,955",
+    "trackAipacOfficeLabel": "AL-04",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "rodney-walker-al-s-00",
@@ -2882,41 +2828,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "paul-gosar-az-09",
-    "candidateKey": "trackaipac-paul-gosar-az-09",
-    "fecCandidateId": null,
-    "name": "Paul Gosar",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "AZ",
-    "district": "09",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, AZ-09",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 116561,
     "israelLobbyTotalDisplay": "$116,561",
     "trackAipacOfficeLabel": "AZ-09",
@@ -4389,41 +4308,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "eric-swalwell-ca-14",
-    "candidateKey": "trackaipac-eric-swalwell-ca-14",
-    "fecCandidateId": null,
-    "name": "Eric Swalwell",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "CA",
-    "district": "14",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, CA-14",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 1051237,
     "israelLobbyTotalDisplay": "$1,051,237",
     "trackAipacOfficeLabel": "CA-14",
@@ -6454,41 +6346,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "maxine-waters-ca-43",
-    "candidateKey": "trackaipac-maxine-waters-ca-43",
-    "fecCandidateId": null,
-    "name": "Maxine Waters",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "CA",
-    "district": "43",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, CA-43",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 110534,
     "israelLobbyTotalDisplay": "$110,534",
     "trackAipacOfficeLabel": "CA-43",
@@ -6690,41 +6555,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "mike-thompson-ca-04",
-    "candidateKey": "trackaipac-mike-thompson-ca-04",
-    "fecCandidateId": null,
-    "name": "Mike Thompson",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "CA",
-    "district": "04",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, CA-04",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 129865,
     "israelLobbyTotalDisplay": "$129,865",
     "trackAipacOfficeLabel": "CA-04",
@@ -7168,41 +7006,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "raul-ruiz-ca-25",
-    "candidateKey": "trackaipac-raul-ruiz-ca-25",
-    "fecCandidateId": null,
-    "name": "Raul Ruiz",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "CA",
-    "district": "25",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, CA-25",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 889935,
     "israelLobbyTotalDisplay": "$889,935",
     "trackAipacOfficeLabel": "CA-25",
@@ -8452,41 +8263,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "brittany-pettersen-co-07",
-    "candidateKey": "trackaipac-brittany-pettersen-co-07",
-    "fecCandidateId": null,
-    "name": "Brittany Pettersen",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "CO",
-    "district": "07",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, CO-07",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 508376,
     "israelLobbyTotalDisplay": "$508,376",
     "trackAipacOfficeLabel": "CO-07",
@@ -12420,41 +12204,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "maria-salazar-fl-27",
-    "candidateKey": "trackaipac-maria-salazar-fl-27",
-    "fecCandidateId": null,
-    "name": "Maria Salazar",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "FL",
-    "district": "27",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, FL-27",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 783549,
     "israelLobbyTotalDisplay": "$783,549",
     "trackAipacOfficeLabel": "FL-27",
@@ -12839,40 +12596,6 @@
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
   },
   {
-    "id": "neal-dunn-fl-02",
-    "candidateKey": "trackaipac-neal-dunn-fl-02",
-    "fecCandidateId": null,
-    "name": "Neal Dunn",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "FL",
-    "district": "02",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, FL-02",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 89420,
-    "israelLobbyTotalDisplay": "$89,420",
-    "trackAipacOfficeLabel": "FL-02",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "neal-patrick-md-dunn-fl-h-02",
     "candidateKey": "h6fl02208",
     "fecCandidateId": "H6FL02208",
@@ -12892,13 +12615,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 89420,
+    "israelLobbyTotalDisplay": "$89,420",
+    "trackAipacOfficeLabel": "FL-02",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "nicholas-zateslo-fl-h-02",
@@ -13389,40 +13119,6 @@
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
   },
   {
-    "id": "scott-franklin-fl-18",
-    "candidateKey": "trackaipac-scott-franklin-fl-18",
-    "fecCandidateId": null,
-    "name": "Scott Franklin",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "FL",
-    "district": "18",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, FL-18",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 106305,
-    "israelLobbyTotalDisplay": "$106,305",
-    "trackAipacOfficeLabel": "FL-18",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "scott-mr-franklin-fl-h-18",
     "candidateKey": "h0fl15104",
     "fecCandidateId": "H0FL15104",
@@ -13442,13 +13138,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 106305,
+    "israelLobbyTotalDisplay": "$106,305",
+    "trackAipacOfficeLabel": "FL-18",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "sendra-dorce-fl-h-20",
@@ -14352,41 +14055,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "david-scott-ga-13",
-    "candidateKey": "trackaipac-david-scott-ga-13",
-    "fecCandidateId": null,
-    "name": "David Scott",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "GA",
-    "district": "13",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, GA-13",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 327786,
     "israelLobbyTotalDisplay": "$327,786",
     "trackAipacOfficeLabel": "GA-13",
@@ -16441,41 +16117,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "jill-tokuda-hi-02",
-    "candidateKey": "trackaipac-jill-tokuda-hi-02",
-    "fecCandidateId": null,
-    "name": "Jill Tokuda",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "HI",
-    "district": "02",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, HI-02",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 62883,
     "israelLobbyTotalDisplay": "$62,883",
     "trackAipacOfficeLabel": "HI-02",
@@ -18663,40 +18312,6 @@
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
   },
   {
-    "id": "danny-davis-il-07",
-    "candidateKey": "trackaipac-danny-davis-il-07",
-    "fecCandidateId": null,
-    "name": "Danny Davis",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "IL",
-    "district": "07",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, IL-07",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 110160,
-    "israelLobbyTotalDisplay": "$110,160",
-    "trackAipacOfficeLabel": "IL-07",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "danny-k-mr-davis-il-h-07",
     "candidateKey": "h4il07037",
     "fecCandidateId": "H4IL07037",
@@ -18716,44 +18331,17 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "darin-lahood-il-16",
-    "candidateKey": "trackaipac-darin-lahood-il-16",
-    "fecCandidateId": null,
-    "name": "Darin LaHood",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "IL",
-    "district": "16",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, IL-16",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 420511,
-    "israelLobbyTotalDisplay": "$420,511",
-    "trackAipacOfficeLabel": "IL-16",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 110160,
+    "israelLobbyTotalDisplay": "$110,160",
+    "trackAipacOfficeLabel": "IL-07",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
     "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
@@ -18778,13 +18366,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 420511,
+    "israelLobbyTotalDisplay": "$420,511",
+    "trackAipacOfficeLabel": "IL-16",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "david-ehrlich-il-h-07",
@@ -22144,40 +21739,6 @@
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
   },
   {
-    "id": "mark-messmer-in-08",
-    "candidateKey": "trackaipac-mark-messmer-in-08",
-    "fecCandidateId": null,
-    "name": "Mark Messmer",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "IN",
-    "district": "08",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, IN-08",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 3291220,
-    "israelLobbyTotalDisplay": "$3,291,220",
-    "trackAipacOfficeLabel": "IN-08",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "mark-mr-messmer-in-h-08",
     "candidateKey": "h4in08249",
     "fecCandidateId": "H4IN08249",
@@ -22197,13 +21758,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 3291220,
+    "israelLobbyTotalDisplay": "$3,291,220",
+    "trackAipacOfficeLabel": "IN-08",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "marlin-a-stutzman-in-h-03",
@@ -22767,40 +22335,6 @@
     "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
-    "id": "tracey-mann-ks-01",
-    "candidateKey": "trackaipac-tracey-mann-ks-01",
-    "fecCandidateId": null,
-    "name": "Tracey Mann",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "KS",
-    "district": "01",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, KS-01",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 129615,
-    "israelLobbyTotalDisplay": "$129,615",
-    "trackAipacOfficeLabel": "KS-01",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "tracey-robert-mann-ks-h-01",
     "candidateKey": "h0ks01123",
     "fecCandidateId": "H0KS01123",
@@ -22820,13 +22354,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 129615,
+    "israelLobbyTotalDisplay": "$129,615",
+    "trackAipacOfficeLabel": "KS-01",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "adam-perez-arquette-ky-h-06",
@@ -23525,34 +23066,6 @@
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
   },
   {
-    "id": "michael-james-faris-ky-s-00",
-    "candidateKey": "s6ky00278",
-    "fecCandidateId": "S6KY00278",
-    "name": "Michael James Faris",
-    "party": "Republican",
-    "partyCode": "REP",
-    "state": "KY",
-    "district": "00",
-    "office": "U.S. Senate",
-    "districtOrOffice": "U.S. Senate, KY",
-    "officeScope": "SENATE",
-    "electionType": "regular",
-    "status": "filed",
-    "incumbencyCode": "O",
-    "incumbency": "Open-seat",
-    "statusAuthority": "FEC",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "FEC-candidate-master-cn26"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.72,
-    "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
     "id": "mitch-mcconnell-ky-s-00",
     "candidateKey": "s2ky00012",
     "fecCandidateId": "S2KY00012",
@@ -24107,41 +23620,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "clay-higgins-la-03",
-    "candidateKey": "trackaipac-clay-higgins-la-03",
-    "fecCandidateId": null,
-    "name": "Clay Higgins",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "LA",
-    "district": "03",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, LA-03",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 26846,
     "israelLobbyTotalDisplay": "$26,846",
     "trackAipacOfficeLabel": "LA-03",
@@ -24585,41 +24071,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "steve-scalise-la-01",
-    "candidateKey": "trackaipac-steve-scalise-la-01",
-    "fecCandidateId": null,
-    "name": "Steve Scalise",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "LA",
-    "district": "01",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, LA-01",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 2675542,
     "israelLobbyTotalDisplay": "$2,675,542",
     "trackAipacOfficeLabel": "LA-01",
@@ -25909,41 +25368,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "glenn-ivey-md-04",
-    "candidateKey": "trackaipac-glenn-ivey-md-04",
-    "fecCandidateId": null,
-    "name": "Glenn Ivey",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "MD",
-    "district": "04",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, MD-04",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 8186424,
     "israelLobbyTotalDisplay": "$8,186,424",
     "trackAipacOfficeLabel": "MD-04",
@@ -26089,41 +25521,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "john-olszewski-md-02",
-    "candidateKey": "trackaipac-john-olszewski-md-02",
-    "fecCandidateId": null,
-    "name": "John Olszewski",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "MD",
-    "district": "02",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, MD-02",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 199025,
     "israelLobbyTotalDisplay": "$199,025",
     "trackAipacOfficeLabel": "MD-02",
@@ -26334,40 +25739,6 @@
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
   },
   {
-    "id": "sarah-elfreth-md-03",
-    "candidateKey": "trackaipac-sarah-elfreth-md-03",
-    "fecCandidateId": null,
-    "name": "Sarah Elfreth",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "MD",
-    "district": "03",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, MD-03",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 4980286,
-    "israelLobbyTotalDisplay": "$4,980,286",
-    "trackAipacOfficeLabel": "MD-03",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "sarah-kelly-elfreth-md-h-03",
     "candidateKey": "h4md03156",
     "fecCandidateId": "H4MD03156",
@@ -26387,13 +25758,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 4980286,
+    "israelLobbyTotalDisplay": "$4,980,286",
+    "trackAipacOfficeLabel": "MD-03",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "steny-hoyer-md-h-05",
@@ -27988,40 +27366,6 @@
     "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
-    "id": "john-moolenaar-mi-02",
-    "candidateKey": "trackaipac-john-moolenaar-mi-02",
-    "fecCandidateId": null,
-    "name": "John Moolenaar",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "MI",
-    "district": "02",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, MI-02",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 207981,
-    "israelLobbyTotalDisplay": "$207,981",
-    "trackAipacOfficeLabel": "MI-02",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "john-mr-moolenaar-mi-h-02",
     "candidateKey": "h4mi04126",
     "fecCandidateId": "H4MI04126",
@@ -28041,13 +27385,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 207981,
+    "israelLobbyTotalDisplay": "$207,981",
+    "trackAipacOfficeLabel": "MI-02",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "john-paul-torres-mi-h-11",
@@ -30894,36 +30245,6 @@
     "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
-    "id": "evan-littleton-turnage-ms-h-02",
-    "candidateKey": "mssos-evan-littleton-turnage-house-02",
-    "fecCandidateId": null,
-    "name": "Evan Littleton Turnage",
-    "party": "Democratic",
-    "partyCode": "DEM",
-    "state": "MS",
-    "district": "02",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, MS-02",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "filed",
-    "incumbencyCode": "I",
-    "incumbency": "Unknown",
-    "statusAuthority": "MS Secretary of State",
-    "stanceLabel": "Mixed-unclear",
-    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
-    "sourceSet": [
-      "FEC-candidate-master-cn26",
-      "ms-sos-qualifying-2026"
-    ],
-    "sourceCount": 2,
-    "lastConfirmedAt": "2026-03-04",
-    "overallConfidence": 0.75,
-    "requiresManualReview": true,
-    "reviewReason": "Qualification status should be rechecked after primary election updates.",
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
-  },
-  {
     "id": "evan-turnage-ms-h-02",
     "candidateKey": "h6ms02220",
     "fecCandidateId": "H6MS02220",
@@ -30943,13 +30264,15 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "ms-sos-qualifying-2026"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "jeffrey-hulum-iii-ms-h-04",
@@ -31040,36 +30363,6 @@
     "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
-    "id": "kelvin-buck-ms-h-01",
-    "candidateKey": "mssos-kelvin-buck-house-01",
-    "fecCandidateId": null,
-    "name": "Kelvin Buck",
-    "party": "Democratic",
-    "partyCode": "DEM",
-    "state": "MS",
-    "district": "01",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, MS-01",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "filed",
-    "incumbencyCode": "I",
-    "incumbency": "Unknown",
-    "statusAuthority": "MS Secretary of State",
-    "stanceLabel": "Mixed-unclear",
-    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
-    "sourceSet": [
-      "FEC-candidate-master-cn26",
-      "ms-sos-qualifying-2026"
-    ],
-    "sourceCount": 2,
-    "lastConfirmedAt": "2026-03-04",
-    "overallConfidence": 0.75,
-    "requiresManualReview": true,
-    "reviewReason": "Qualification status should be rechecked after primary election updates.",
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
-  },
-  {
     "id": "kelvin-oneal-mr-buck-ms-h-01",
     "candidateKey": "h6ms01305",
     "fecCandidateId": "H6MS01305",
@@ -31089,13 +30382,15 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "ms-sos-qualifying-2026"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "kevin-wilson-ms-h-02",
@@ -31128,36 +30423,6 @@
     "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
-    "id": "michael-a-chiaradio-ms-h-03",
-    "candidateKey": "mssos-michael-a-chiaradio-house-03",
-    "fecCandidateId": null,
-    "name": "Michael A. Chiaradio",
-    "party": "Democratic",
-    "partyCode": "DEM",
-    "state": "MS",
-    "district": "03",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, MS-03",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "filed",
-    "incumbencyCode": "I",
-    "incumbency": "Unknown",
-    "statusAuthority": "MS Secretary of State",
-    "stanceLabel": "Mixed-unclear",
-    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
-    "sourceSet": [
-      "FEC-candidate-master-cn26",
-      "ms-sos-qualifying-2026"
-    ],
-    "sourceCount": 2,
-    "lastConfirmedAt": "2026-03-04",
-    "overallConfidence": 0.75,
-    "requiresManualReview": true,
-    "reviewReason": "Qualification status should be rechecked after primary election updates.",
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
-  },
-  {
     "id": "michael-alexis-chiaradio-ms-h-03",
     "candidateKey": "h6ms03228",
     "fecCandidateId": "H6MS03228",
@@ -31177,47 +30442,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "ms-sos-qualifying-2026"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "michael-guest-ms-03",
-    "candidateKey": "trackaipac-michael-guest-ms-03",
-    "fecCandidateId": null,
-    "name": "Michael Guest",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "MS",
-    "district": "03",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, MS-03",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $66,755 for Michael Guest in U.S. House, MS-03. This candidate has taken funding from the Israel lobby.",
-    "sourceSet": [
-      "trackaipac-congress",
-      "ms-sos-qualifying-2026"
-    ],
-    "sourceCount": 2,
-    "lastConfirmedAt": "2026-03-04",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 66755,
-    "israelLobbyTotalDisplay": "$66,755",
-    "trackAipacOfficeLabel": "MS-03",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
@@ -31240,13 +30472,21 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress",
+      "ms-sos-qualifying-2026"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 66755,
+    "israelLobbyTotalDisplay": "$66,755",
+    "trackAipacOfficeLabel": "MS-03",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "mike-ezell-ms-04",
@@ -31344,36 +30584,6 @@
     "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
-    "id": "priscilla-w-till-ms-s-00",
-    "candidateKey": "mssos-priscilla-w-till-senate-00",
-    "fecCandidateId": null,
-    "name": "Priscilla W. Till",
-    "party": "Democratic",
-    "partyCode": "DEM",
-    "state": "MS",
-    "district": "00",
-    "office": "U.S. Senate",
-    "districtOrOffice": "U.S. Senate, MS",
-    "officeScope": "SENATE",
-    "electionType": "regular",
-    "status": "filed",
-    "incumbencyCode": "C",
-    "incumbency": "Unknown",
-    "statusAuthority": "MS Secretary of State",
-    "stanceLabel": "Mixed-unclear",
-    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
-    "sourceSet": [
-      "FEC-candidate-master-cn26",
-      "ms-sos-qualifying-2026"
-    ],
-    "sourceCount": 2,
-    "lastConfirmedAt": "2026-03-04",
-    "overallConfidence": 0.75,
-    "requiresManualReview": true,
-    "reviewReason": "Qualification status should be rechecked after primary election updates.",
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
-  },
-  {
     "id": "priscilla-williams-till-ms-s-00",
     "candidateKey": "s6ms00141",
     "fecCandidateId": "S6MS00141",
@@ -31393,13 +30603,15 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "ms-sos-qualifying-2026"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "roger-wicker-ms-sen",
@@ -31466,36 +30678,6 @@
     "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
-    "id": "sarah-adlakha-ms-s-00",
-    "candidateKey": "mssos-sarah-adlakha-senate-00",
-    "fecCandidateId": null,
-    "name": "Sarah Adlakha",
-    "party": "Republican",
-    "partyCode": "REP",
-    "state": "MS",
-    "district": "00",
-    "office": "U.S. Senate",
-    "districtOrOffice": "U.S. Senate, MS",
-    "officeScope": "SENATE",
-    "electionType": "regular",
-    "status": "filed",
-    "incumbencyCode": "C",
-    "incumbency": "Unknown",
-    "statusAuthority": "MS Secretary of State",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Pro-Israel based on Republican alignment patterns in recent Mississippi federal races. This is low confidence and should be manually reviewed.",
-    "sourceSet": [
-      "FEC-candidate-master-cn26",
-      "ms-sos-qualifying-2026"
-    ],
-    "sourceCount": 2,
-    "lastConfirmedAt": "2026-03-04",
-    "overallConfidence": 0.75,
-    "requiresManualReview": true,
-    "reviewReason": "Qualification status should be rechecked after primary election updates.",
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
-  },
-  {
     "id": "sarah-anne-dr-adlakha-ms-s-00",
     "candidateKey": "s6ms00109",
     "fecCandidateId": "S6MS00109",
@@ -31515,13 +30697,15 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "ms-sos-qualifying-2026"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "sawyer-walters-ms-h-04",
@@ -32184,40 +31368,6 @@
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
   },
   {
-    "id": "alma-adams-nc-12",
-    "candidateKey": "trackaipac-alma-adams-nc-12",
-    "fecCandidateId": null,
-    "name": "Alma Adams",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "NC",
-    "district": "12",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, NC-12",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 97437,
-    "israelLobbyTotalDisplay": "$97,437",
-    "trackAipacOfficeLabel": "NC-12",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "alma-shealey-adams-nc-h-12",
     "candidateKey": "h4nc12100",
     "fecCandidateId": "H4NC12100",
@@ -32237,13 +31387,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 97437,
+    "israelLobbyTotalDisplay": "$97,437",
+    "trackAipacOfficeLabel": "NC-12",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "alysa-kassay-nc-h-06",
@@ -33811,41 +32968,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "thom-tillis-nc-sen",
-    "candidateKey": "trackaipac-thom-tillis-nc-sen",
-    "fecCandidateId": null,
-    "name": "Thom Tillis",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "NC",
-    "district": null,
-    "office": "U.S. Senate",
-    "districtOrOffice": "U.S. Senate, NC",
-    "officeScope": "SENATE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 1682234,
     "israelLobbyTotalDisplay": "$1,682,234",
     "trackAipacOfficeLabel": "NC-SEN",
@@ -33969,41 +33099,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "virginia-foxx-nc-05",
-    "candidateKey": "trackaipac-virginia-foxx-nc-05",
-    "fecCandidateId": null,
-    "name": "Virginia Foxx",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "NC",
-    "district": "05",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, NC-05",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 798513,
     "israelLobbyTotalDisplay": "$798,513",
     "trackAipacOfficeLabel": "NC-05",
@@ -36099,40 +35202,6 @@
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
   },
   {
-    "id": "herb-conaway-nj-03",
-    "candidateKey": "trackaipac-herb-conaway-nj-03",
-    "fecCandidateId": null,
-    "name": "Herb Conaway",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "NJ",
-    "district": "03",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, NJ-03",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 74550,
-    "israelLobbyTotalDisplay": "$74,550",
-    "trackAipacOfficeLabel": "NJ-03",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "herb-md-conaway-nj-h-03",
     "candidateKey": "h4nj03080",
     "fecCandidateId": "H4NJ03080",
@@ -36152,13 +35221,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 74550,
+    "israelLobbyTotalDisplay": "$74,550",
+    "trackAipacOfficeLabel": "NJ-03",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "jason-cullen-nj-h-03",
@@ -36292,41 +35368,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "jeff-van-drew-nj-02",
-    "candidateKey": "trackaipac-jeff-van-drew-nj-02",
-    "fecCandidateId": null,
-    "name": "Jeff Van Drew",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "NJ",
-    "district": "02",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, NJ-02",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 429267,
     "israelLobbyTotalDisplay": "$429,267",
     "trackAipacOfficeLabel": "NJ-02",
@@ -38283,40 +37332,6 @@
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
   },
   {
-    "id": "mark-amodei-nv-02",
-    "candidateKey": "trackaipac-mark-amodei-nv-02",
-    "fecCandidateId": null,
-    "name": "Mark Amodei",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "NV",
-    "district": "02",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, NV-02",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 149389,
-    "israelLobbyTotalDisplay": "$149,389",
-    "trackAipacOfficeLabel": "NV-02",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "mark-eugene-amodei-nv-h-02",
     "candidateKey": "h2nv02395",
     "fecCandidateId": "H2NV02395",
@@ -38336,13 +37351,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 149389,
+    "israelLobbyTotalDisplay": "$149,389",
+    "trackAipacOfficeLabel": "NV-02",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "marty-o-donnell-nv-h-03",
@@ -38448,41 +37470,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "steven-horsford-nv-04",
-    "candidateKey": "trackaipac-steven-horsford-nv-04",
-    "fecCandidateId": null,
-    "name": "Steven Horsford",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "NV",
-    "district": "04",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, NV-04",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 939139,
     "israelLobbyTotalDisplay": "$939,139",
     "trackAipacOfficeLabel": "NV-04",
@@ -40879,41 +39874,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "paul-tonko-ny-20",
-    "candidateKey": "trackaipac-paul-tonko-ny-20",
-    "fecCandidateId": null,
-    "name": "Paul Tonko",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "NY",
-    "district": "20",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, NY-20",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 155239,
     "israelLobbyTotalDisplay": "$155,239",
     "trackAipacOfficeLabel": "NY-20",
@@ -41025,41 +39993,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "ritchie-torres-ny-15",
-    "candidateKey": "trackaipac-ritchie-torres-ny-15",
-    "fecCandidateId": null,
-    "name": "Ritchie Torres",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "NY",
-    "district": "15",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, NY-15",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 6776001,
     "israelLobbyTotalDisplay": "$6,776,001",
     "trackAipacOfficeLabel": "NY-15",
@@ -42196,41 +41137,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "marcy-kaptur-oh-09",
-    "candidateKey": "trackaipac-marcy-kaptur-oh-09",
-    "fecCandidateId": null,
-    "name": "Marcy Kaptur",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "OH",
-    "district": "09",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, OH-09",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 857037,
     "israelLobbyTotalDisplay": "$857,037",
     "trackAipacOfficeLabel": "OH-09",
@@ -43698,40 +42612,6 @@
     "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
-    "id": "suzanne-bonamici-or-01",
-    "candidateKey": "trackaipac-suzanne-bonamici-or-01",
-    "fecCandidateId": null,
-    "name": "Suzanne Bonamici",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "OR",
-    "district": "01",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, OR-01",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 302305,
-    "israelLobbyTotalDisplay": "$302,305",
-    "trackAipacOfficeLabel": "OR-01",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "suzanne-ms-bonamici-or-h-01",
     "candidateKey": "h2or01133",
     "fecCandidateId": "H2OR01133",
@@ -43751,13 +42631,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 302305,
+    "israelLobbyTotalDisplay": "$302,305",
+    "trackAipacOfficeLabel": "OR-01",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "val-hoyle-or-04",
@@ -44397,40 +43284,6 @@
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
   },
   {
-    "id": "glenn-g-t-thompson-pa-15",
-    "candidateKey": "trackaipac-glenn-g-t-thompson-pa-15",
-    "fecCandidateId": null,
-    "name": "Glenn \"G.T.\" Thompson",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "PA",
-    "district": "15",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, PA-15",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 32372,
-    "israelLobbyTotalDisplay": "$32,372",
-    "trackAipacOfficeLabel": "PA-15",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "glenn-mr-thompson-pa-h-15",
     "candidateKey": "h8pa05071",
     "fecCandidateId": "H8PA05071",
@@ -44450,13 +43303,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 32372,
+    "israelLobbyTotalDisplay": "$32,372",
+    "trackAipacOfficeLabel": "PA-15",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "guy-mr-reschenthaler-pa-h-14",
@@ -44478,41 +43338,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "guy-reschenthaler-pa-14",
-    "candidateKey": "trackaipac-guy-reschenthaler-pa-14",
-    "fecCandidateId": null,
-    "name": "Guy Reschenthaler",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "PA",
-    "district": "14",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, PA-14",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 872522,
     "israelLobbyTotalDisplay": "$872,522",
     "trackAipacOfficeLabel": "PA-14",
@@ -45395,41 +44228,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "ryan-mackenzie-pa-07",
-    "candidateKey": "trackaipac-ryan-mackenzie-pa-07",
-    "fecCandidateId": null,
-    "name": "Ryan Mackenzie",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "PA",
-    "district": "07",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, PA-07",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 201577,
     "israelLobbyTotalDisplay": "$201,577",
     "trackAipacOfficeLabel": "PA-07",
@@ -47571,40 +46377,6 @@
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
   },
   {
-    "id": "scott-desjarlais-tn-04",
-    "candidateKey": "trackaipac-scott-desjarlais-tn-04",
-    "fecCandidateId": null,
-    "name": "Scott DesJarlais",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "TN",
-    "district": "04",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, TN-04",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 78085,
-    "israelLobbyTotalDisplay": "$78,085",
-    "trackAipacOfficeLabel": "TN-04",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "scott-hon-desjarlais-tn-h-04",
     "candidateKey": "h0tn04195",
     "fecCandidateId": "H0TN04195",
@@ -47624,44 +46396,17 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "steve-cohen-tn-09",
-    "candidateKey": "trackaipac-steve-cohen-tn-09",
-    "fecCandidateId": null,
-    "name": "Steve Cohen",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "TN",
-    "district": "09",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, TN-09",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 312346,
-    "israelLobbyTotalDisplay": "$312,346",
-    "trackAipacOfficeLabel": "TN-09",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 78085,
+    "israelLobbyTotalDisplay": "$78,085",
+    "trackAipacOfficeLabel": "TN-04",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
     "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
@@ -47686,13 +46431,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 312346,
+    "israelLobbyTotalDisplay": "$312,346",
+    "trackAipacOfficeLabel": "TN-09",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "thomas-eugene-davis-tn-h-04",
@@ -48230,41 +46982,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "august-pfluger-tx-11",
-    "candidateKey": "trackaipac-august-pfluger-tx-11",
-    "fecCandidateId": null,
-    "name": "August Pfluger",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "TX",
-    "district": "11",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, TX-11",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 401275,
     "israelLobbyTotalDisplay": "$401,275",
     "trackAipacOfficeLabel": "TX-11",
@@ -50922,74 +49647,6 @@
     "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
-    "id": "john-carter-tx-31",
-    "candidateKey": "trackaipac-john-carter-tx-31",
-    "fecCandidateId": null,
-    "name": "John Carter",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "TX",
-    "district": "31",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, TX-31",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 309810,
-    "israelLobbyTotalDisplay": "$309,810",
-    "trackAipacOfficeLabel": "TX-31",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
-    "id": "john-cornyn-tx-sen",
-    "candidateKey": "trackaipac-john-cornyn-tx-sen",
-    "fecCandidateId": null,
-    "name": "John Cornyn",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "TX",
-    "district": null,
-    "office": "U.S. Senate",
-    "districtOrOffice": "U.S. Senate, TX",
-    "officeScope": "SENATE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 2086416,
-    "israelLobbyTotalDisplay": "$2,086,416",
-    "trackAipacOfficeLabel": "TX-SEN",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "john-kevin-sr-ellzey-tx-h-06",
     "candidateKey": "h8tx06266",
     "fecCandidateId": "H8TX06266",
@@ -51093,13 +49750,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 309810,
+    "israelLobbyTotalDisplay": "$309,810",
+    "trackAipacOfficeLabel": "TX-31",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "john-sen-cornyn-tx-s-00",
@@ -51121,13 +49785,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 2086416,
+    "israelLobbyTotalDisplay": "$2,086,416",
+    "trackAipacOfficeLabel": "TX-SEN",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "johnny-garcia-tx-h-35",
@@ -51463,13 +50134,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 87500,
+    "israelLobbyTotalDisplay": "$87,500",
+    "trackAipacOfficeLabel": "TX-03",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "keith-allen-tx-h-34",
@@ -51526,40 +50204,6 @@
     "overallConfidence": 0.72,
     "requiresManualReview": true,
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "keith-self-tx-03",
-    "candidateKey": "trackaipac-keith-self-tx-03",
-    "fecCandidateId": null,
-    "name": "Keith Self",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "TX",
-    "district": "03",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, TX-03",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 87500,
-    "israelLobbyTotalDisplay": "$87,500",
-    "trackAipacOfficeLabel": "TX-03",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "kenneth-morgan-aguilera-tx-h-12",
@@ -51991,41 +50635,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "marc-veasey-tx-33",
-    "candidateKey": "trackaipac-marc-veasey-tx-33",
-    "fecCandidateId": null,
-    "name": "Marc Veasey",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "TX",
-    "district": "33",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, TX-33",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 413271,
     "israelLobbyTotalDisplay": "$413,271",
     "trackAipacOfficeLabel": "TX-33",
@@ -52603,41 +51220,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "morgan-luttrell-tx-08",
-    "candidateKey": "trackaipac-morgan-luttrell-tx-08",
-    "fecCandidateId": null,
-    "name": "Morgan Luttrell",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "TX",
-    "district": "08",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, TX-08",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 104886,
     "israelLobbyTotalDisplay": "$104,886",
     "trackAipacOfficeLabel": "TX-08",
@@ -52674,40 +51264,6 @@
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
   },
   {
-    "id": "nathaniel-moran-tx-01",
-    "candidateKey": "trackaipac-nathaniel-moran-tx-01",
-    "fecCandidateId": null,
-    "name": "Nathaniel Moran",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "TX",
-    "district": "01",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, TX-01",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 111319,
-    "israelLobbyTotalDisplay": "$111,319",
-    "trackAipacOfficeLabel": "TX-01",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "nathaniel-quentin-moran-tx-h-01",
     "candidateKey": "h2tx01112",
     "fecCandidateId": "H2TX01112",
@@ -52727,13 +51283,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 111319,
+    "israelLobbyTotalDisplay": "$111,319",
+    "trackAipacOfficeLabel": "TX-01",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "nicholas-lee-mr-plumb-tx-h-02",
@@ -53404,40 +51967,6 @@
     "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
-    "id": "ronny-jackson-tx-13",
-    "candidateKey": "trackaipac-ronny-jackson-tx-13",
-    "fecCandidateId": null,
-    "name": "Ronny Jackson",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "TX",
-    "district": "13",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, TX-13",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 307005,
-    "israelLobbyTotalDisplay": "$307,005",
-    "trackAipacOfficeLabel": "TX-13",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "ronny-lynn-jackson-tx-h-13",
     "candidateKey": "h0tx13228",
     "fecCandidateId": "H0TX13228",
@@ -53457,13 +51986,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 307005,
+    "israelLobbyTotalDisplay": "$307,005",
+    "trackAipacOfficeLabel": "TX-13",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "ruth-ms-torres-tx-h-05",
@@ -56490,41 +55026,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "mark-warner-va-sen",
-    "candidateKey": "trackaipac-mark-warner-va-sen",
-    "fecCandidateId": null,
-    "name": "Mark Warner",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "VA",
-    "district": null,
-    "office": "U.S. Senate",
-    "districtOrOffice": "U.S. Senate, VA",
-    "officeScope": "SENATE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 3050177,
     "israelLobbyTotalDisplay": "$3,050,177",
     "trackAipacOfficeLabel": "VA-SEN",
@@ -57770,41 +56279,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "kim-schrier-wa-08",
-    "candidateKey": "trackaipac-kim-schrier-wa-08",
-    "fecCandidateId": null,
-    "name": "Kim Schrier",
-    "party": "Democratic",
-    "partyCode": "D",
-    "state": "WA",
-    "district": "08",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, WA-08",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 1402935,
     "israelLobbyTotalDisplay": "$1,402,935",
     "trackAipacOfficeLabel": "WA-08",
@@ -57943,40 +56425,6 @@
     "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
-    "id": "michael-baumgartner-wa-05",
-    "candidateKey": "trackaipac-michael-baumgartner-wa-05",
-    "fecCandidateId": null,
-    "name": "Michael Baumgartner",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "WA",
-    "district": "05",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, WA-05",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 91926,
-    "israelLobbyTotalDisplay": "$91,926",
-    "trackAipacOfficeLabel": "WA-05",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "michael-james-baumgartner-wa-h-05",
     "candidateKey": "h4wa05234",
     "fecCandidateId": "H4WA05234",
@@ -57996,13 +56444,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 91926,
+    "israelLobbyTotalDisplay": "$91,926",
+    "trackAipacOfficeLabel": "WA-05",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "patty-murray-wa-sen",
@@ -58267,41 +56722,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "bryan-steil-wi-01",
-    "candidateKey": "trackaipac-bryan-steil-wi-01",
-    "fecCandidateId": null,
-    "name": "Bryan Steil",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "WI",
-    "district": "01",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, WI-01",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 611837,
     "israelLobbyTotalDisplay": "$611,837",
     "trackAipacOfficeLabel": "WI-01",
@@ -58357,41 +56785,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "derrick-van-orden-wi-03",
-    "candidateKey": "trackaipac-derrick-van-orden-wi-03",
-    "fecCandidateId": null,
-    "name": "Derrick Van Orden",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "WI",
-    "district": "03",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, WI-03",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 483718,
     "israelLobbyTotalDisplay": "$483,718",
     "trackAipacOfficeLabel": "WI-03",
@@ -59079,41 +57480,14 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
-  },
-  {
-    "id": "carol-miller-wv-01",
-    "candidateKey": "trackaipac-carol-miller-wv-01",
-    "fecCandidateId": null,
-    "name": "Carol Miller",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "WV",
-    "district": "01",
-    "office": "U.S. House",
-    "districtOrOffice": "U.S. House, WV-01",
-    "officeScope": "HOUSE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
     "israelLobbyTotal": 128758,
     "israelLobbyTotalDisplay": "$128,758",
     "trackAipacOfficeLabel": "WV-01",
@@ -59448,40 +57822,6 @@
     "reviewReason": "Status and ballot qualification require state election authority confirmation."
   },
   {
-    "id": "cynthia-lummis-wy-sen",
-    "candidateKey": "trackaipac-cynthia-lummis-wy-sen",
-    "fecCandidateId": null,
-    "name": "Cynthia Lummis",
-    "party": "Republican",
-    "partyCode": "R",
-    "state": "WY",
-    "district": null,
-    "office": "U.S. Senate",
-    "districtOrOffice": "U.S. Senate, WY",
-    "officeScope": "SENATE",
-    "electionType": "regular",
-    "status": "tracked",
-    "incumbencyCode": null,
-    "incumbency": "Unknown",
-    "statusAuthority": "TrackAIPAC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
-    "sourceSet": [
-      "trackaipac-congress"
-    ],
-    "sourceCount": 1,
-    "lastConfirmedAt": "2026-03-03",
-    "overallConfidence": 0.8,
-    "requiresManualReview": true,
-    "reviewReason": "Added from Track AIPAC congressional list.",
-    "israelLobbyTotal": 145981,
-    "israelLobbyTotalDisplay": "$145,981",
-    "trackAipacOfficeLabel": "WY-SEN",
-    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
-  },
-  {
     "id": "cynthia-marie-mrs-lummis-wy-s-00",
     "candidateKey": "s0wy00137",
     "fecCandidateId": "S0WY00137",
@@ -59501,13 +57841,20 @@
     "stanceLabel": "Unknown",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
-      "FEC-candidate-master-cn26"
+      "FEC-candidate-master-cn26",
+      "trackaipac-congress"
     ],
     "sourceCount": 1,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
-    "reviewReason": "Status and ballot qualification require state election authority confirmation."
+    "reviewReason": "Status and ballot qualification require state election authority confirmation.",
+    "israelLobbyTotal": 145981,
+    "israelLobbyTotalDisplay": "$145,981",
+    "trackAipacOfficeLabel": "WY-SEN",
+    "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
+    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
   },
   {
     "id": "harriet-hageman-wy-h-00",
