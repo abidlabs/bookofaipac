@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book of AIPAC | State</title>
+    <link rel="stylesheet" href="../../assets/css/main.css" />
+  </head>
+  <body>
+    <main class="page state-detail-page">
+      <div class="detail-top-row">
+        <a href="../index.html" class="back-link">← Back to states</a>
+        <p id="stateCount" class="page-last-updated">Loading…</p>
+      </div>
+
+      <section class="detail-header state-header">
+        <img id="stateFlag" class="state-header-flag" src="https://flagcdn.com/w80/us.png" alt="State flag" />
+        <div>
+          <h1 id="stateTitle" class="detail-name">Loading state…</h1>
+          <p id="stateSubtitle" class="detail-meta">Loading records…</p>
+        </div>
+      </section>
+
+      <section class="detail-card">
+        <h2>U.S. Senate</h2>
+        <div class="state-table-wrap">
+          <table class="state-table">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Party</th>
+                <th>Office</th>
+                <th>Stance</th>
+                <th>Lobby</th>
+              </tr>
+            </thead>
+            <tbody id="senateTableBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="detail-card">
+        <h2>U.S. House</h2>
+        <div class="state-table-wrap">
+          <table class="state-table">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Party</th>
+                <th>Office</th>
+                <th>Stance</th>
+                <th>Lobby</th>
+              </tr>
+            </thead>
+            <tbody id="houseTableBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <footer class="site-footer page-footer">
+        <div class="footer-stat">
+          <span class="stat-value" id="datasetTotal">Loading…</span>
+          <span class="stat-subvalue" id="datasetMeta">Loading breakdown…</span>
+        </div>
+        <p class="footer-disclaimer">
+          AI was used to extract information and some entries may be outdated or incorrect.
+          <a href="https://github.com/abidlabs/bookofaipac/compare" target="_blank" rel="noreferrer noopener">Open a PR to update information.</a>
+        </p>
+      </footer>
+    </main>
+    <script type="module" src="../../assets/js/footer.js"></script>
+    <script type="module" src="../../assets/js/state-page.js"></script>
+  </body>
+</html>

@@ -6,6 +6,7 @@ import {
   makeCandidateIndex,
   normalizeForSearch,
 } from "./data.js";
+import { getStateFlagUrl, getStateName } from "./states-data.js";
 
 const searchInput = document.getElementById("candidateSearch");
 const resultsRoot = document.getElementById("searchResults");
@@ -13,6 +14,7 @@ const datasetMeta = document.getElementById("datasetMeta");
 const datasetTotal = document.getElementById("datasetTotal");
 
 let candidateIndex = [];
+let stateIndex = [];
 let visibleResults = [];
 let activeIndex = -1;
 
@@ -21,7 +23,46 @@ function formatMeta(candidate) {
   return parts.join(" • ");
 }
 
-function rowTemplate(candidate, isActive) {
+function stateRowTemplate(stateRecord, isActive) {
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = `result-row result-row-neutral${isActive ? " active" : ""}`;
+  button.setAttribute("role", "option");
+  button.dataset.state = stateRecord.code;
+  button.dataset.resultType = "state";
+
+  const image = document.createElement("img");
+  image.className = "avatar";
+  image.src = getStateFlagUrl(stateRecord.code);
+  image.alt = `${stateRecord.name} flag`;
+  image.loading = "lazy";
+  image.addEventListener("error", () => {
+    image.src = "https://flagcdn.com/w80/us.png";
+  });
+
+  const copyWrap = document.createElement("div");
+  copyWrap.className = "result-copy";
+  const name = document.createElement("p");
+  name.className = "result-name";
+  name.textContent = stateRecord.name;
+  const meta = document.createElement("p");
+  meta.className = "result-meta";
+  meta.textContent = `State • ${stateRecord.code}`;
+  copyWrap.appendChild(name);
+  copyWrap.appendChild(meta);
+
+  const badge = document.createElement("span");
+  badge.className = "result-count-badge";
+  badge.textContent = `${stateRecord.count.toLocaleString()} politicians`;
+
+  button.appendChild(image);
+  button.appendChild(copyWrap);
+  button.appendChild(badge);
+  button.addEventListener("click", () => goToState(stateRecord.code));
+  return button;
+}
+
+function candidateRowTemplate(candidate, isActive) {
   const button = document.createElement("button");
   button.type = "button";
   button.className = `result-row${isActive ? " active" : ""}`;
@@ -36,6 +77,7 @@ function rowTemplate(candidate, isActive) {
   }
   button.setAttribute("role", "option");
   button.dataset.id = candidate.id;
+  button.dataset.resultType = "candidate";
 
   const image = document.createElement("img");
   image.className = "avatar";
@@ -90,8 +132,13 @@ function renderResults() {
     closeResults();
     return;
   }
-  visibleResults.forEach((candidate, index) => {
-    resultsRoot.appendChild(rowTemplate(candidate, index === activeIndex));
+  visibleResults.forEach((entry, index) => {
+    const isActive = index === activeIndex;
+    if (entry.resultType === "state") {
+      resultsRoot.appendChild(stateRowTemplate(entry, isActive));
+      return;
+    }
+    resultsRoot.appendChild(candidateRowTemplate(entry, isActive));
   });
   openResults();
 }
@@ -102,15 +149,37 @@ function runSearch(query) {
     closeResults();
     return;
   }
-  visibleResults = candidateIndex
-    .filter((c) => normalizeForSearch(c.name).includes(normalized))
-    .slice(0, 20);
+  const matchingStates = stateIndex
+    .filter(
+      (stateRecord) =>
+        normalizeForSearch(stateRecord.name).includes(normalized) ||
+        normalizeForSearch(stateRecord.code).includes(normalized)
+    )
+    .slice(0, 8)
+    .map((stateRecord) => ({
+      ...stateRecord,
+      resultType: "state",
+    }));
+
+  const matchingCandidates = candidateIndex
+    .filter((candidate) => normalizeForSearch(candidate.name).includes(normalized))
+    .slice(0, 20)
+    .map((candidate) => ({
+      ...candidate,
+      resultType: "candidate",
+    }));
+
+  visibleResults = [...matchingStates, ...matchingCandidates].slice(0, 20);
   activeIndex = -1;
   renderResults();
 }
 
 function goToCandidate(id) {
   window.location.href = `./detail/index.html?id=${encodeURIComponent(id)}`;
+}
+
+function goToState(code) {
+  window.location.href = `./states/${code.toLowerCase()}/index.html`;
 }
 
 function handleArrowNavigation(direction) {
@@ -226,7 +295,12 @@ searchInput.addEventListener("keydown", (event) => {
     handleArrowNavigation("up");
   } else if (event.key === "Enter" && activeIndex >= 0) {
     event.preventDefault();
-    goToCandidate(visibleResults[activeIndex].id);
+    const selected = visibleResults[activeIndex];
+    if (selected.resultType === "state") {
+      goToState(selected.code);
+      return;
+    }
+    goToCandidate(selected.id);
   } else if (event.key === "Escape") {
     closeResults();
   }
@@ -247,6 +321,18 @@ async function init() {
 
   const mergedCandidates = makeCandidateIndex(profiledCandidates, federalCandidates);
   candidateIndex = applyLocalImageMap(mergedCandidates, imageManifest, "./");
+  const byState = federalCandidates.reduce((acc, candidate) => {
+    if (!candidate.state) return acc;
+    acc.set(candidate.state, (acc.get(candidate.state) || 0) + 1);
+    return acc;
+  }, new Map());
+  stateIndex = Array.from(byState.entries())
+    .map(([code, count]) => ({
+      code,
+      count,
+      name: getStateName(code),
+    }))
+    .sort((a, b) => a.name.localeCompare(b.name));
 
   if (datasetTotal && datasetMeta) {
     const electedOfficials = federalCandidates.filter(

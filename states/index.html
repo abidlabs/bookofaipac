@@ -3,30 +3,25 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Book of AIPAC | Candidate</title>
+    <title>Book of AIPAC | States</title>
     <link rel="stylesheet" href="../assets/css/main.css" />
   </head>
   <body>
-    <main class="page">
+    <main class="page states-page">
       <nav class="top-nav">
         <a href="../index.html" class="nav-link">Search UI</a>
         <a href="../api/index.html" class="nav-link">API docs</a>
+        <a href="../api/index.json" class="nav-link">JSON</a>
       </nav>
-      <div class="detail-top-row">
-        <a href="../index.html" class="back-link">← Back to search</a>
-        <p id="pageLastUpdated" class="page-last-updated">Last updated: Unknown</p>
-      </div>
 
-      <section id="candidateHeader" class="detail-header"></section>
-      <section class="detail-card">
-        <h2>Stance summary</h2>
-        <p id="stanceSummary"></p>
-      </section>
+      <header class="hero states-hero">
+        <p class="eyebrow">Book of AIPAC</p>
+        <h1>Browse by state</h1>
+        <p class="subtext">Select a state to view Senate and House candidates and officials.</p>
+      </header>
 
       <section class="detail-card">
-        <h2>Chronological timeline</h2>
-        <ul id="timelineList" class="timeline"></ul>
-        <p id="timelineAdditionalSources" class="timeline-additional-sources" hidden></p>
+        <div id="statesList" class="states-grid"></div>
       </section>
 
       <footer class="site-footer page-footer">
@@ -40,8 +35,7 @@
         </p>
       </footer>
     </main>
-
     <script type="module" src="../assets/js/footer.js"></script>
-    <script type="module" src="../assets/js/detail.js"></script>
+    <script type="module" src="../assets/js/states-index.js"></script>
   </body>
 </html>

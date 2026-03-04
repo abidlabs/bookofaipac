@@ -6,10 +6,19 @@ const datasetTotal = document.getElementById("datasetTotal");
 async function initFooter() {
   if (!datasetTotal || !datasetMeta) return;
   try {
-    const dataPath =
-      window.location.pathname.includes("/detail/") || window.location.pathname.includes("/api/")
-        ? "../data/2026-federal-candidates.json"
-        : "./data/2026-federal-candidates.json";
+    const pathname = window.location.pathname;
+    const segments = pathname.split("/").filter(Boolean);
+    let dataPath = "./data/2026-federal-candidates.json";
+    if (pathname.includes("/detail/") || pathname.includes("/api/")) {
+      dataPath = "../data/2026-federal-candidates.json";
+    } else {
+      const statesIndex = segments.indexOf("states");
+      if (statesIndex >= 0) {
+        const nextSegment = segments[statesIndex + 1] || "";
+        const hasStateCode = !!nextSegment && !nextSegment.endsWith(".html");
+        dataPath = hasStateCode ? "../../data/2026-federal-candidates.json" : "../data/2026-federal-candidates.json";
+      }
+    }
     const federalCandidates = await loadJson(dataPath);
     const electedOfficials = federalCandidates.filter(
       (candidate) => candidate.incumbency === "Incumbent"

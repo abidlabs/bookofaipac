@@ -32,7 +32,7 @@
             <input
               id="candidateSearch"
               type="text"
-              placeholder="Search a candidate or official…"
+              placeholder="Search a candidate, official, or state…"
               autocomplete="off"
               spellcheck="false"
               aria-controls="searchResults"
@@ -40,6 +40,10 @@
             />
           </div>
           <div id="searchResults" class="results" role="listbox"></div>
+        </div>
+        <div class="state-shortcut-wrap">
+          <button id="myStateButton" class="my-state-button" type="button">Politicians from my state</button>
+          <p id="myStateStatus" class="my-state-status" aria-live="polite"></p>
         </div>
 
       </section>
@@ -65,5 +69,6 @@
 
     <script type="module" src="./assets/js/footer.js"></script>
     <script type="module" src="./assets/js/search.js"></script>
+    <script type="module" src="./assets/js/location-state.js"></script>
   </body>
 </html>
