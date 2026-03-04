@@ -63,7 +63,7 @@
     "title": "The Israel Lobby in US Congress",
     "publisher": "Track AIPAC",
     "url": "https://www.trackaipac.com/congress",
-    "accessedAt": "2026-03-03"
+    "accessedAt": "2026-03-04"
   },
   "rep-schiff-israel-aid-2024": {
     "title": "Rep. Schiff votes for emergency assistance to Israel",
@@ -195,6 +195,54 @@
     "title": "Schakowsky calls for extension of ceasefire in Israel-Hamas war",
     "publisher": "Office of Rep. Jan Schakowsky",
     "url": "http://schakowsky.house.gov/media/press-releases/schakowsky-calls-extension-ceasefire-israel-hamas-war-secure-release-all",
+    "accessedAt": "2026-03-04"
+  },
+  "sen-tuberville-support-israel-2023": {
+    "title": "Tuberville: \"Support Israel and Supply Israel\"",
+    "publisher": "Office of Sen. Tommy Tuberville",
+    "url": "https://www.tuberville.senate.gov/newsroom/press-releases/tuberville-support-israel-and-supply-israel/",
+    "accessedAt": "2026-03-04"
+  },
+  "sen-tuberville-oct7-resolution-2024": {
+    "title": "Tuberville honors October 7 victims and affirms support for Israel",
+    "publisher": "Office of Sen. Tommy Tuberville",
+    "url": "https://www.tuberville.senate.gov/newsroom/press-releases/tuberville-honors-october-7-victims-affirms-steadfast-support-for-israel/",
+    "accessedAt": "2026-03-04"
+  },
+  "rep-french-hill-condemns-hamas-hostages-2023": {
+    "title": "Rep. Hill condemns Hamas taking civilians hostage",
+    "publisher": "Office of Rep. French Hill",
+    "url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9184",
+    "accessedAt": "2026-03-04"
+  },
+  "rep-french-hill-israel-aid-2023": {
+    "title": "Rep. Hill stands firmly with Israel after House aid vote",
+    "publisher": "Office of Rep. French Hill",
+    "url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9197",
+    "accessedAt": "2026-03-04"
+  },
+  "rep-womack-netanyahu-address-2024": {
+    "title": "Womack responds to Netanyahu address to Congress",
+    "publisher": "Office of Rep. Steve Womack",
+    "url": "https://womack.house.gov/news/documentsingle.aspx?DocumentID=408769",
+    "accessedAt": "2026-03-04"
+  },
+  "rep-barry-moore-stands-with-israel-2023": {
+    "title": "Rep. Barry Moore stands with Israel",
+    "publisher": "Office of Rep. Barry Moore",
+    "url": "https://barrymoore.house.gov/media/press-releases/rep-barry-moore-stands-israel",
+    "accessedAt": "2026-03-04"
+  },
+  "rep-barry-moore-israel-security-supplemental-2024": {
+    "title": "Rep. Barry Moore supports funding to protect Israel",
+    "publisher": "Office of Rep. Barry Moore",
+    "url": "https://barrymoore.house.gov/media/press-releases/rep-barry-moore-supports-funding-protect-israel-0",
+    "accessedAt": "2026-03-04"
+  },
+  "hpsci-crawford-codel-israel-2025": {
+    "title": "House Intel Chairman Crawford leads bipartisan CODEL to Israel",
+    "publisher": "House Permanent Select Committee on Intelligence",
+    "url": "https://intelligence.house.gov/2025/08/06/house-intel-chairman-crawford-leads-first-bipartisan-codel-to-israel-since-war-with-iran/",
     "accessedAt": "2026-03-04"
   }
 }

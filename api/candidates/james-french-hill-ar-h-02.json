@@ -6,25 +6,29 @@
   "office": "U.S. House",
   "districtOrOffice": "U.S. House, AR-02",
   "imageUrl": "",
-  "stanceLabel": "Unknown",
-  "stanceColor": "neutral",
-  "stanceSummary": "No public Track AIPAC congressional total is currently linked for James French Hill in U.S. House, AR-02. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "Hill has publicly condemned Hamas actions, backed hostage-release demands, and supported House military aid for Israel while describing Hamas attacks as terrorism.",
   "timeline": [
     {
-      "date": "2026-03-04",
-      "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
+      "date": "2023-10-17",
+      "event": "Hill introduced a bipartisan resolution condemning Hamas attacks and demanding the immediate release of hostages taken in Israel.",
       "sourceIds": [
-        "fec-candidate-master-2026",
-        "house-resolution-tracker",
-        "congress-floor-records"
+        "rep-french-hill-condemns-hamas-hostages-2023"
+      ]
+    },
+    {
+      "date": "2023-11-02",
+      "event": "After the House passed Israel aid, Hill said Israel is a key U.S. ally and supported funding to help it defend against Hamas attacks.",
+      "sourceIds": [
+        "rep-french-hill-israel-aid-2023"
       ]
     }
   ],
   "sourceIds": [
-    "fec-candidate-master-2026",
-    "house-resolution-tracker",
-    "congress-floor-records"
+    "rep-french-hill-condemns-hamas-hostages-2023",
+    "rep-french-hill-israel-aid-2023"
   ],
-  "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
+  "profileLastUpdatedAt": "2026-03-04T20:48:45.262937+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

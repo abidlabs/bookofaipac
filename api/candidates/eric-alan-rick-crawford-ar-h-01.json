@@ -6,25 +6,21 @@
   "office": "U.S. House",
   "districtOrOffice": "U.S. House, AR-01",
   "imageUrl": "",
-  "stanceLabel": "Unknown",
-  "stanceColor": "neutral",
-  "stanceSummary": "No public Track AIPAC congressional total is currently linked for Eric Alan Rick Crawford in U.S. House, AR-01. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "As House Intelligence chairman, Crawford has publicly reiterated U.S. support for Israel's military campaign and right to self-defense, while attributing Gaza humanitarian disruption to Hamas.",
   "timeline": [
     {
-      "date": "2026-03-04",
-      "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
+      "date": "2025-08-06",
+      "event": "Crawford led a bipartisan House Intelligence delegation to Israel, stated that the United States stands with Israel, and said Israel would not cede ground to Hamas.",
       "sourceIds": [
-        "fec-candidate-master-2026",
-        "house-resolution-tracker",
-        "congress-floor-records"
+        "hpsci-crawford-codel-israel-2025"
       ]
     }
   ],
   "sourceIds": [
-    "fec-candidate-master-2026",
-    "house-resolution-tracker",
-    "congress-floor-records"
+    "hpsci-crawford-codel-israel-2025"
   ],
-  "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
+  "profileLastUpdatedAt": "2026-03-04T20:48:45.262937+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }
