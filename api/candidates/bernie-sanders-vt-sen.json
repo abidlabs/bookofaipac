@@ -8,21 +8,31 @@
   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bernie_Sanders%2C_official_portrait%2C_113th_Congress.jpg/440px-Bernie_Sanders%2C_official_portrait%2C_113th_Congress.jpg",
   "stanceLabel": "Mixed-unclear",
   "stanceColor": "gray",
-  "stanceSummary": "Sanders has been critical of Israeli military conduct in Gaza while also affirming Israel's right to security, placing him in a mixed position in this framework.",
+  "stanceSummary": "No public Track AIPAC congressional total is currently linked for Bernie Sanders in U.S. Senate, Vermont. Official statements and congressional records were reviewed to establish Gaza/Israel stance context; no attributable Israel-lobby funding total is currently confirmed in this dataset.",
   "timeline": [
     {
-      "date": "2023-12-12",
-      "event": "Introduced efforts focused on oversight and conditions tied to military aid."
+      "date": "2026-03-04",
+      "event": "Federal candidacy status and chamber record context reviewed for Gaza/Israel stance tracking.",
+      "sourceIds": [
+        "fec-candidate-master-2026",
+        "senate-roll-call",
+        "senate-floor-transcripts"
+      ]
     },
     {
-      "date": "2024-03-20",
-      "event": "Repeated calls for humanitarian protections and policy recalibration."
+      "date": "2026-03-04",
+      "event": "Official statement/quote extraction has been queued for source-linked incremental updates.",
+      "sourceIds": [
+        "senate-roll-call",
+        "senate-floor-transcripts"
+      ]
     }
   ],
   "sourceIds": [
-    "sen-sanders-press",
-    "senate-roll-call"
+    "fec-candidate-master-2026",
+    "senate-roll-call",
+    "senate-floor-transcripts"
   ],
-  "profileLastUpdatedAt": "2026-03-03T20:03:20.076929+00:00",
+  "profileLastUpdatedAt": "2026-03-04T08:19:53.116970+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }
