@@ -8,17 +8,12 @@
   </head>
   <body>
     <main class="page">
-      <a href="../index.html" class="back-link">← Back to search</a>
+      <div class="detail-top-row">
+        <a href="../index.html" class="back-link">← Back to search</a>
+        <p id="pageLastUpdated" class="page-last-updated">Last updated: Unknown</p>
+      </div>
 
       <section id="candidateHeader" class="detail-header"></section>
-      <section class="detail-card">
-        <h2>Israel Lobby Total</h2>
-        <p><span id="israelLobbyTotal" class="lobby-badge lobby-badge-zero">$0</span></p>
-      </section>
-      <section class="detail-card">
-        <h2>Last updated</h2>
-        <p id="lastUpdated">Unknown</p>
-      </section>
       <section class="detail-card">
         <h2>Stance summary</h2>
         <p id="stanceSummary"></p>
@@ -27,11 +22,7 @@
       <section class="detail-card">
         <h2>Chronological timeline</h2>
         <ul id="timelineList" class="timeline"></ul>
-      </section>
-
-      <section class="detail-card">
-        <h2>References</h2>
-        <ol id="sourceList" class="sources"></ol>
+        <p id="timelineAdditionalSources" class="timeline-additional-sources" hidden></p>
       </section>
 
       <footer class="site-footer page-footer">

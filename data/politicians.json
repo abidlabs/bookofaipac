@@ -86,7 +86,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Schiff publicly supports emergency U.S. security assistance to Israel and has also called for including humanitarian aid for civilians in Gaza, reflecting a security-first but aid-inclusive position. Under this dataset's rules, his funding total keeps the stance classified as Pro-Israel.",
+    "stanceSummary": "Schiff publicly supports emergency U.S. security assistance to Israel and has also called for including humanitarian aid for civilians in Gaza, reflecting a security-first but aid-inclusive position. He has taken funding from the Israel lobby.",
     "timeline": [
       {
         "date": "2024-02-06",
@@ -118,7 +118,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Adam Smith has supported Israel's security response after October 7 while also calling for humanitarian aid expansion and a political path including ceasefire and long-term two-state diplomacy. Under this dataset's funding rule, he remains classified as Pro-Israel.",
+    "stanceSummary": "Adam Smith has supported Israel's security response after October 7 while also calling for humanitarian aid expansion and a political path including ceasefire and long-term two-state diplomacy. He has taken funding from the Israel lobby.",
     "timeline": [
       {
         "date": "2023-10-16",
@@ -328,7 +328,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Klobuchar condemned Hamas's October 7 attacks and emphasized U.S. support for Israel, while later backing broader aid legislation that also referenced humanitarian support for Palestinians. Funding-based rules in this project classify her as Pro-Israel.",
+    "stanceSummary": "Klobuchar condemned Hamas's October 7 attacks and emphasized U.S. support for Israel, while later backing broader aid legislation that also referenced humanitarian support for Palestinians. She has taken funding from the Israel lobby.",
     "timeline": [
       {
         "date": "2023-10-07",
@@ -444,7 +444,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Biggs has taken a strongly pro-Israel security stance, repeatedly backing Israel's right to military self-defense and criticizing U.S. moves viewed as constraining Israeli operations. Combined with positive Israel-lobby funding totals, this dataset classifies him as Pro-Israel.",
+    "stanceSummary": "Biggs has taken a strongly pro-Israel security stance, repeatedly backing Israel's right to military self-defense and criticizing U.S. moves viewed as constraining Israeli operations. He has taken funding from the Israel lobby.",
     "timeline": [
       {
         "date": "2019-05-06",
@@ -581,7 +581,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "King has moved from supporting humanitarian-access measures to openly criticizing severe hunger conditions in Gaza and urging major policy change, while still participating in broader Senate debates on Israel-related security support. Funding-based project rules classify him as Pro-Israel.",
+    "stanceSummary": "King has moved from supporting humanitarian-access measures to openly criticizing severe hunger conditions in Gaza and urging major policy change, while still participating in broader Senate debates on Israel-related security support. He has taken funding from the Israel lobby.",
     "timeline": [
       {
         "date": "2024-03-08",
@@ -1353,7 +1353,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Schatz has increasingly criticized Israeli war conduct in Gaza, including public warnings about starvation and civilian harm, while also participating in Senate discussions over U.S. policy leverage. Despite this rhetoric, the project's funding rule sets stance to Pro-Israel.",
+    "stanceSummary": "Schatz has increasingly criticized Israeli war conduct in Gaza, including public warnings about starvation and civilian harm, while also participating in Senate discussions over U.S. policy leverage. He has taken funding from the Israel lobby.",
     "timeline": [
       {
         "date": "2024-07-19",
@@ -1406,7 +1406,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $179,638 for Bruce Westerman in U.S. House, AR-04. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $179,638 for Bruce Westerman in U.S. House, AR-04. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1433,7 +1433,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $611,837 for Bryan Steil in U.S. House, WI-01. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $611,837 for Bryan Steil in U.S. House, WI-01. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1460,7 +1460,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $216,590 for Buddy Carter in U.S. House, GA-01. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $216,590 for Buddy Carter in U.S. House, GA-01. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1487,7 +1487,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $335,518 for Burgess Owens in U.S. House, UT-04. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $335,518 for Burgess Owens in U.S. House, UT-04. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1514,7 +1514,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $368,726 for Byron Donalds in U.S. House, FL-19. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $368,726 for Byron Donalds in U.S. House, FL-19. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1541,7 +1541,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $467,245 for Carlos A. Gimenez in U.S. House, FL-28. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $467,245 for Carlos A. Gimenez in U.S. House, FL-28. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1568,7 +1568,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $128,758 for Carol Miller in U.S. House, WV-01. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $128,758 for Carol Miller in U.S. House, WV-01. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1595,7 +1595,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $3,180,044 for Catherine Cortez-Masto in U.S. Senate, NV. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $3,180,044 for Catherine Cortez-Masto in U.S. Senate, NV. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1622,7 +1622,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $165,181 for Celeste Maloy in U.S. House, UT-02. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $165,181 for Celeste Maloy in U.S. House, UT-02. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1649,7 +1649,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $288,291 for Chellie Pingree in U.S. House, ME-01. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $288,291 for Chellie Pingree in U.S. House, ME-01. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1676,7 +1676,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $312,912 for Chip Roy in U.S. House, TX-21. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $312,912 for Chip Roy in U.S. House, TX-21. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1703,7 +1703,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Coons has consistently affirmed Israel's right to self-defense while also pushing for ceasefire negotiations and expanded humanitarian assistance in Gaza through diplomatic channels. The funding rule in this project keeps his classification Pro-Israel.",
+    "stanceSummary": "Coons has consistently affirmed Israel's right to self-defense while also pushing for ceasefire negotiations and expanded humanitarian assistance in Gaza through diplomatic channels. He has taken funding from the Israel lobby.",
     "timeline": [
       {
         "date": "2024-01-18",
@@ -1735,7 +1735,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,092,933 for Chris DeLuzio in U.S. House, PA-17. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,092,933 for Chris DeLuzio in U.S. House, PA-17. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1762,7 +1762,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,247,085 for Chris Murphy in U.S. Senate, CT. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,247,085 for Chris Murphy in U.S. Senate, CT. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1789,7 +1789,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $2,709,473 for Chris Pappas in U.S. House, NH-01. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $2,709,473 for Chris Pappas in U.S. House, NH-01. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1816,7 +1816,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $571,918 for Chris Smith in U.S. House, NJ-04. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $571,918 for Chris Smith in U.S. House, NJ-04. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1843,7 +1843,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $846,553 for Chrissy Houlahan in U.S. House, PA-06. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $846,553 for Chrissy Houlahan in U.S. House, PA-06. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1870,7 +1870,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $63,500 for Christian Menefee in U.S. House, TX-18. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $63,500 for Christian Menefee in U.S. House, TX-18. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1897,7 +1897,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $155,538 for Chuck Edwards in U.S. House, NC-11. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $155,538 for Chuck Edwards in U.S. House, NC-11. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -1924,7 +1924,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Grassley has argued for strong, unconditional military support to Israel and criticized U.S. restrictions on weapons transfers during the Gaza war. Under project rules, his positive funding total and stated posture are classified as Pro-Israel.",
+    "stanceSummary": "Grassley has argued for strong, unconditional military support to Israel and criticized U.S. restrictions on weapons transfers during the Gaza war. He has taken funding from the Israel lobby.",
     "timeline": [
       {
         "date": "2024-05-08",
@@ -1987,7 +1987,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $814,281 for Cindy Hyde-Smith in U.S. Senate, MS. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $814,281 for Cindy Hyde-Smith in U.S. Senate, MS. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2014,7 +2014,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $784,341 for Claudia Tenney in U.S. House, NY-24. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $784,341 for Claudia Tenney in U.S. House, NY-24. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2041,7 +2041,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $26,846 for Clay Higgins in U.S. House, LA-03. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $26,846 for Clay Higgins in U.S. House, LA-03. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2068,7 +2068,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $13,167 for Cleo Fields in U.S. House, LA-06. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $13,167 for Cleo Fields in U.S. House, LA-06. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2095,7 +2095,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $27,236 for Cliff Bentz in U.S. House, OR-02. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $27,236 for Cliff Bentz in U.S. House, OR-02. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2148,7 +2148,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Booker condemned Hamas attacks and later supported large-scale humanitarian aid and ceasefire-linked diplomatic efforts for Gaza. This is a mixed policy profile, but the dataset's funding rule still classifies him as Pro-Israel.",
+    "stanceSummary": "Booker condemned Hamas attacks and later supported large-scale humanitarian aid and ceasefire-linked diplomatic efforts for Gaza. He has taken funding from the Israel lobby.",
     "timeline": [
       {
         "date": "2023-10-09",
@@ -2180,7 +2180,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $106,732 for Cory Mills in U.S. House, FL-07. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $106,732 for Cory Mills in U.S. House, FL-07. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2207,7 +2207,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $321,707 for Craig Goldman in U.S. House, TX-12. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $321,707 for Craig Goldman in U.S. House, TX-12. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2234,7 +2234,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $145,981 for Cynthia Lummis in U.S. Senate, WY. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $145,981 for Cynthia Lummis in U.S. Senate, WY. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2261,7 +2261,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $75,745 for Dale Strong in U.S. House, AL-05. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $75,745 for Dale Strong in U.S. House, AL-05. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2288,7 +2288,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $871,815 for Dan Crenshaw in U.S. House, TX-02. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $871,815 for Dan Crenshaw in U.S. House, TX-02. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2315,7 +2315,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,764,818 for Dan Goldman in U.S. House, NY-10. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,764,818 for Dan Goldman in U.S. House, NY-10. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2342,7 +2342,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $132,289 for Dan Meuser in U.S. House, PA-09. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $132,289 for Dan Meuser in U.S. House, PA-09. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2369,7 +2369,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $380,825 for Dan Newhouse in U.S. House, WA-04. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $380,825 for Dan Newhouse in U.S. House, WA-04. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2396,7 +2396,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $144,598 for Dan Sullivan in U.S. Senate, AK. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $144,598 for Dan Sullivan in U.S. Senate, AK. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2423,7 +2423,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $193,215 for Daniel Webster in U.S. House, FL-11. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $193,215 for Daniel Webster in U.S. House, FL-11. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2450,7 +2450,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $110,160 for Danny Davis in U.S. House, IL-07. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $110,160 for Danny Davis in U.S. House, IL-07. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2477,7 +2477,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $420,511 for Darin LaHood in U.S. House, IL-16. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $420,511 for Darin LaHood in U.S. House, IL-16. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2504,7 +2504,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $238,853 for Darrell Issa in U.S. House, CA-48. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $238,853 for Darrell Issa in U.S. House, CA-48. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2531,7 +2531,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $874,118 for Darren Soto in U.S. House, FL-09. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $874,118 for Darren Soto in U.S. House, FL-09. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2558,7 +2558,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $438,057 for Dave Joyce in U.S. House, OH-14. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $438,057 for Dave Joyce in U.S. House, OH-14. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2585,7 +2585,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,054,468 for Dave McCormick in U.S. Senate, PA. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,054,468 for Dave McCormick in U.S. Senate, PA. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2612,7 +2612,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $414,326 for Dave Min in U.S. House, CA-47. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $414,326 for Dave Min in U.S. House, CA-47. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2639,7 +2639,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $657,518 for David Kustoff in U.S. House, TN-08. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $657,518 for David Kustoff in U.S. House, TN-08. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2666,7 +2666,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $147,300 for David Rouzer in U.S. House, NC-07. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $147,300 for David Rouzer in U.S. House, NC-07. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2693,7 +2693,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $752,634 for David Schweikert in U.S. House, AZ-01. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $752,634 for David Schweikert in U.S. House, AZ-01. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2720,7 +2720,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $327,786 for David Scott in U.S. House, GA-13. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $327,786 for David Scott in U.S. House, GA-13. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2747,7 +2747,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $68,121 for David Taylor in U.S. House, OH-02. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $68,121 for David Taylor in U.S. House, OH-02. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2774,7 +2774,7 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $724,428 for David Valadao in U.S. House, CA-22. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $724,428 for David Valadao in U.S. House, CA-22. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
@@ -2801,7 +2801,7 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,594,052 for Deb Fischer in U.S. Senate, NE. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,594,052 for Deb Fischer in U.S. Senate, NE. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
     "timeline": [
       {
         "date": "2026-03-03",
