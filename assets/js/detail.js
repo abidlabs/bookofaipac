@@ -32,7 +32,7 @@ function makeFallbackRecord(candidate) {
 function getLobbyAmount(candidate) {
   return typeof candidate.israelLobbyTotal === "number" && !Number.isNaN(candidate.israelLobbyTotal)
     ? candidate.israelLobbyTotal
-    : 0;
+    : null;
 }
 
 function renderHeader(candidate) {
@@ -43,14 +43,18 @@ function renderHeader(candidate) {
     headerClass += " detail-header-green";
   }
   const amount = getLobbyAmount(candidate);
+  const hasConfirmedAmount = typeof amount === "number";
   const lobbyBadgeClass = amount > 0 ? "lobby-badge-positive" : "lobby-badge-zero";
+  const lobbyMarkup = hasConfirmedAmount
+    ? `<p class="detail-lobby-row"><span class="lobby-badge ${lobbyBadgeClass}">${formatIsraelLobbyTotal(amount)}</span></p>`
+    : "";
   headerRoot.className = headerClass;
   headerRoot.innerHTML = `
     <img class="detail-avatar" src="${candidate.imageUrl}" alt="${candidate.name}" />
     <div>
       <h1 class="detail-name">${candidate.name}</h1>
       <p class="detail-meta">${[candidate.party, candidate.state, candidate.districtOrOffice || candidate.office].filter(Boolean).join(" • ")}</p>
-      <p class="detail-lobby-row"><span class="lobby-badge ${lobbyBadgeClass}">${formatIsraelLobbyTotal(amount)}</span></p>
+      ${lobbyMarkup}
     </div>
   `;
   const avatar = headerRoot.querySelector(".detail-avatar");

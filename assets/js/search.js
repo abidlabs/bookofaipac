@@ -59,14 +59,15 @@ function rowTemplate(candidate, isActive) {
 
   button.appendChild(image);
   button.appendChild(copyWrap);
-  const amount =
-    typeof candidate.israelLobbyTotal === "number" && !Number.isNaN(candidate.israelLobbyTotal)
-      ? candidate.israelLobbyTotal
-      : 0;
-  const badge = document.createElement("span");
-  badge.className = `lobby-badge ${amount > 0 ? "lobby-badge-positive" : "lobby-badge-zero"}`;
-  badge.textContent = formatIsraelLobbyTotal(amount);
-  button.appendChild(badge);
+  const hasConfirmedAmount =
+    typeof candidate.israelLobbyTotal === "number" && !Number.isNaN(candidate.israelLobbyTotal);
+  if (hasConfirmedAmount) {
+    const amount = candidate.israelLobbyTotal;
+    const badge = document.createElement("span");
+    badge.className = `lobby-badge ${amount > 0 ? "lobby-badge-positive" : "lobby-badge-zero"}`;
+    badge.textContent = formatIsraelLobbyTotal(amount);
+    button.appendChild(badge);
+  }
 
   button.addEventListener("click", () => goToCandidate(candidate.id));
   return button;
@@ -172,14 +173,15 @@ function renderTicker(candidates) {
 
     card.appendChild(img);
     card.appendChild(info);
-    const amount =
-      typeof candidate.israelLobbyTotal === "number" && !Number.isNaN(candidate.israelLobbyTotal)
-        ? candidate.israelLobbyTotal
-        : 0;
-    const badge = document.createElement("span");
-    badge.className = `lobby-badge ${amount > 0 ? "lobby-badge-positive" : "lobby-badge-zero"}`;
-    badge.textContent = formatIsraelLobbyTotal(amount);
-    card.appendChild(badge);
+    const hasConfirmedAmount =
+      typeof candidate.israelLobbyTotal === "number" && !Number.isNaN(candidate.israelLobbyTotal);
+    if (hasConfirmedAmount) {
+      const amount = candidate.israelLobbyTotal;
+      const badge = document.createElement("span");
+      badge.className = `lobby-badge ${amount > 0 ? "lobby-badge-positive" : "lobby-badge-zero"}`;
+      badge.textContent = formatIsraelLobbyTotal(amount);
+      card.appendChild(badge);
+    }
 
     card.addEventListener("click", () => goToCandidate(candidate.id));
     tickerEl.appendChild(card);
