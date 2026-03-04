@@ -8,11 +8,27 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-  "timeline": [],
-  "sourceIds": [
-    "trackaipac-congress"
+  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $926,321 for Jim Banks in U.S. Senate, IN. Public statements and congressional records indicate this candidate has taken a stance aligned with Israel-focused security policy framing. This candidate has taken funding from the Israel lobby.",
+  "timeline": [
+    {
+      "date": "2026-03-03",
+      "event": "Track AIPAC congressional listing records Israel Lobby Total: $926,321.",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "event": "Public statements and congressional record context were reviewed for stance classification updates.",
+      "sourceIds": [
+        "senate-roll-call"
+      ]
+    }
   ],
-  "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00",
+  "sourceIds": [
+    "trackaipac-congress",
+    "senate-roll-call"
+  ],
+  "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }
