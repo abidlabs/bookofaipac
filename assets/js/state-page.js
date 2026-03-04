@@ -14,6 +14,16 @@ const stateFlag = document.getElementById("stateFlag");
 const senateTableBody = document.getElementById("senateTableBody");
 const houseTableBody = document.getElementById("houseTableBody");
 
+function resolveOfficeScope(candidate) {
+  if (candidate.officeScope === "SENATE" || candidate.officeScope === "HOUSE") {
+    return candidate.officeScope;
+  }
+  const officeText = `${candidate.districtOrOffice || ""} ${candidate.office || ""}`.toLowerCase();
+  if (officeText.includes("senate")) return "SENATE";
+  if (officeText.includes("house")) return "HOUSE";
+  return "";
+}
+
 function getStateCodeFromPath() {
   const parts = window.location.pathname.split("/").filter(Boolean);
   const statesIdx = parts.indexOf("states");
@@ -110,8 +120,8 @@ async function init() {
   const merged = makeCandidateIndex(profiledCandidates, federalCandidates);
   const hydrated = applyLocalImageMap(merged, imageManifest, "../../");
   const stateCandidates = hydrated.filter((candidate) => candidate.state === stateCode);
-  const senate = stateCandidates.filter((candidate) => candidate.officeScope === "SENATE");
-  const house = stateCandidates.filter((candidate) => candidate.officeScope === "HOUSE");
+  const senate = stateCandidates.filter((candidate) => resolveOfficeScope(candidate) === "SENATE");
+  const house = stateCandidates.filter((candidate) => resolveOfficeScope(candidate) === "HOUSE");
 
   if (stateTitle) {
     stateTitle.textContent = getStateName(stateCode);
