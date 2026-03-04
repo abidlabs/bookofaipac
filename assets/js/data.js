@@ -36,13 +36,22 @@ export function makeCandidateIndex(profiled, federal) {
     `${normalizeForSearch(candidate.name)}|${candidate.state || ""}|${normalizeForSearch(candidate.districtOrOffice || candidate.office || "")}`;
 
   profiled.forEach((candidate) => {
+    const districtOrOffice = candidate.districtOrOffice || candidate.office || "";
+    const inferredScope =
+      candidate.officeScope ||
+      (districtOrOffice.includes("Senate")
+        ? "SENATE"
+        : districtOrOffice.includes("House")
+          ? "HOUSE"
+          : "");
     const enriched = {
       id: candidate.id,
       name: candidate.name,
       imageUrl: candidate.imageUrl || DEFAULT_IMAGE,
       party: candidate.party || "",
       state: candidate.state || "",
-      districtOrOffice: candidate.districtOrOffice || candidate.office || "",
+      districtOrOffice,
+      officeScope: inferredScope,
       stanceLabel: candidate.stanceLabel || "Unknown",
       israelLobbyTotal:
         typeof candidate.israelLobbyTotal === "number" ? candidate.israelLobbyTotal : null,
@@ -55,13 +64,15 @@ export function makeCandidateIndex(profiled, federal) {
 
   federal.forEach((candidate) => {
     if (profiledMap.has(candidate.id)) return;
+    const districtOrOffice = candidate.districtOrOffice || candidate.office || "";
     const enriched = {
       id: candidate.id,
       name: candidate.name,
       imageUrl: candidate.imageUrl || DEFAULT_IMAGE,
       party: candidate.party || "",
       state: candidate.state || "",
-      districtOrOffice: candidate.districtOrOffice || candidate.office || "",
+      districtOrOffice,
+      officeScope: candidate.officeScope || "",
       stanceLabel: candidate.stanceLabel || "Unknown",
       israelLobbyTotal:
         typeof candidate.israelLobbyTotal === "number" ? candidate.israelLobbyTotal : null,
