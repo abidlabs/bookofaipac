@@ -8,11 +8,29 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-  "timeline": [],
-  "sourceIds": [
-    "trackaipac-congress"
+  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $201,753 for Rand Paul in U.S. Senate, KY. Public statements and congressional records indicate an Israel-focused security policy posture in recent conflict framing. This candidate has taken funding from the Israel lobby.",
+  "timeline": [
+    {
+      "date": "2026-03-03",
+      "event": "Track AIPAC congressional listing records Israel Lobby Total: $201,753.",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "event": "Public statements and congressional record context were reviewed for stance updates.",
+      "sourceIds": [
+        "senate-roll-call",
+        "senate-floor-transcripts"
+      ]
+    }
   ],
-  "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00",
+  "sourceIds": [
+    "trackaipac-congress",
+    "senate-roll-call",
+    "senate-floor-transcripts"
+  ],
+  "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }
