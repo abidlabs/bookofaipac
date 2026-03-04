@@ -8,7 +8,7 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,463,291 for Roger Wicker in U.S. Senate, MS. Public statements and congressional records indicate an Israel-focused security policy posture in recent conflict framing. This candidate has taken funding from the Israel lobby.",
+  "stanceSummary": "Official Senate floor statements affirm Israel's right to self-defense, and Track AIPAC reports substantial Israel Lobby funding tied to this candidacy.",
   "timeline": [
     {
       "date": "2026-03-03",
@@ -24,13 +24,21 @@
         "senate-roll-call",
         "senate-floor-transcripts"
       ]
+    },
+    {
+      "date": "2026-03-04",
+      "event": "Profile updated with official Senate floor speech evidence affirming Israel's right to self-defense.",
+      "sourceIds": [
+        "sen-wicker-floor-speech-israel-2024"
+      ]
     }
   ],
   "sourceIds": [
     "trackaipac-congress",
     "senate-roll-call",
-    "senate-floor-transcripts"
+    "senate-floor-transcripts",
+    "sen-wicker-floor-speech-israel-2024"
   ],
-  "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00",
+  "profileLastUpdatedAt": "2026-03-04T09:04:22.381643+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

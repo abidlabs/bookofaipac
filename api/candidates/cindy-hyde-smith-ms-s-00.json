@@ -8,7 +8,7 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $814,281 for Cindy Hyde-Smith in U.S. Senate, MS. Public statements and congressional records indicate an Israel-focused security policy posture in recent conflict framing. This candidate has taken funding from the Israel lobby.",
+  "stanceSummary": "Official Senate statements and floor activity support robust military and diplomatic backing for Israel. Track AIPAC reports significant Israel Lobby funding for this campaign history.",
   "timeline": [
     {
       "date": "2026-03-03",
@@ -24,6 +24,14 @@
         "senate-roll-call",
         "senate-floor-transcripts"
       ]
+    },
+    {
+      "date": "2026-03-04",
+      "event": "Profile updated with official Senate statements supporting Israel-focused security policy and sanctions posture after Hamas attacks.",
+      "sourceIds": [
+        "sen-hyde-smith-iran-sanctions-israel-2023",
+        "sen-hyde-smith-israeli-security-funding"
+      ]
     }
   ],
   "sourceIds": [
@@ -33,8 +41,10 @@
     "congress-floor-records",
     "house-resolution-tracker",
     "ms-sos-qualifying-2026",
-    "ms-sos-us-house-senate-deadline-press-2026"
+    "ms-sos-us-house-senate-deadline-press-2026",
+    "sen-hyde-smith-iran-sanctions-israel-2023",
+    "sen-hyde-smith-israeli-security-funding"
   ],
-  "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
+  "profileLastUpdatedAt": "2026-03-04T09:04:22.381643+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

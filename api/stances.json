@@ -8782,8 +8782,8 @@
       "id": "kevin-wilson-ms-h-02",
       "name": "Kevin Wilson",
       "districtOrOffice": "U.S. House, MS-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
       "endpoint": "/api/candidates/kevin-wilson-ms-h-02.json"
     },
     {
@@ -13014,8 +13014,8 @@
       "id": "ron-eller-ms-h-02",
       "name": "Ron Eller",
       "districtOrOffice": "U.S. House, MS-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
       "endpoint": "/api/candidates/ron-eller-ms-h-02.json"
     },
     {
@@ -13494,8 +13494,8 @@
       "id": "sarah-adlakha-ms-s-00",
       "name": "Sarah Adlakha",
       "districtOrOffice": "U.S. Senate, MS",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
       "endpoint": "/api/candidates/sarah-adlakha-ms-s-00.json"
     },
     {
@@ -13558,8 +13558,8 @@
       "id": "sawyer-walters-ms-h-04",
       "name": "Sawyer Walters",
       "districtOrOffice": "U.S. House, MS-04",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
       "endpoint": "/api/candidates/sawyer-walters-ms-h-04.json"
     },
     {
@@ -15126,8 +15126,8 @@
       "id": "ty-pinkins-ms-s-00",
       "name": "Ty Pinkins",
       "districtOrOffice": "U.S. Senate, MS",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
       "endpoint": "/api/candidates/ty-pinkins-ms-s-00.json"
     },
     {

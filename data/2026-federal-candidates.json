@@ -30137,12 +30137,15 @@
     "incumbency": "Incumbent",
     "statusAuthority": "FEC",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $814,281 for Cindy Hyde-Smith in U.S. Senate, MS. This candidate has taken funding from the Israel lobby.",
+    "stanceSummary": "Official Senate statements and floor activity support robust military and diplomatic backing for Israel. Track AIPAC reports significant Israel Lobby funding for this campaign history.",
     "sourceSet": [
       "FEC-candidate-master-cn26",
-      "ms-sos-qualifying-2026"
+      "ms-sos-qualifying-2026",
+      "trackaipac-congress",
+      "sen-hyde-smith-iran-sanctions-israel-2023",
+      "sen-hyde-smith-israeli-security-funding"
     ],
-    "sourceCount": 2,
+    "sourceCount": 5,
     "lastConfirmedAt": "2026-03-04",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
@@ -30152,7 +30155,24 @@
     "trackAipacOfficeLabel": "MS-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:04:22.381643+00:00",
+    "sourceIds": [
+      "FEC-candidate-master-cn26",
+      "ms-sos-qualifying-2026",
+      "trackaipac-congress",
+      "sen-hyde-smith-iran-sanctions-israel-2023",
+      "sen-hyde-smith-israeli-security-funding"
+    ],
+    "timeline": [
+      {
+        "date": "2026-03-04",
+        "event": "Profile updated with official Senate statements supporting Israel-focused security policy and sanctions posture after Hamas attacks.",
+        "sourceIds": [
+          "sen-hyde-smith-iran-sanctions-israel-2023",
+          "sen-hyde-smith-israeli-security-funding"
+        ]
+      }
+    ]
   },
   {
     "id": "cliff-johnson-ms-h-01",
@@ -30409,8 +30429,8 @@
     "incumbencyCode": "C",
     "incumbency": "Challenger",
     "statusAuthority": "FEC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Pro-Israel based on Republican alignment patterns in recent Mississippi federal races. This is low confidence and should be manually reviewed.",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct, citable candidate statement on Israel/Gaza was confirmed in this strict-source pass, and no confirmed Israel Lobby total is currently attached. Classification is kept as Mixed-unclear pending stronger primary-source evidence.",
     "sourceSet": [
       "FEC-candidate-master-cn26",
       "ms-sos-qualifying-2026"
@@ -30420,7 +30440,20 @@
     "overallConfidence": 0.72,
     "requiresManualReview": true,
     "reviewReason": "Status and ballot qualification require state election authority confirmation.",
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:04:22.381643+00:00",
+    "sourceIds": [
+      "FEC-candidate-master-cn26",
+      "ms-sos-qualifying-2026"
+    ],
+    "timeline": [
+      {
+        "date": "2026-03-04",
+        "event": "Strict-source review found insufficient direct Israel/Gaza quote-level evidence to keep a definitive label.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026"
+        ]
+      }
+    ]
   },
   {
     "id": "michael-alexis-chiaradio-ms-h-03",
@@ -30600,18 +30633,22 @@
     "incumbencyCode": "C",
     "incumbency": "Challenger",
     "statusAuthority": "FEC",
-    "stanceLabel": "Unknown",
+    "stanceLabel": "Mixed-unclear",
     "stanceSummary": "No profile summary yet.",
     "sourceSet": [
       "FEC-candidate-master-cn26",
       "ms-sos-qualifying-2026"
     ],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
     "reviewReason": "Status and ballot qualification require state election authority confirmation.",
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:04:22.381643+00:00",
+    "sourceIds": [
+      "FEC-candidate-master-cn26",
+      "ms-sos-qualifying-2026"
+    ]
   },
   {
     "id": "roger-wicker-ms-sen",
@@ -30631,11 +30668,12 @@
     "incumbency": "Unknown",
     "statusAuthority": "TrackAIPAC",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No profile summary yet.",
+    "stanceSummary": "Official Senate floor statements affirm Israel's right to self-defense, and Track AIPAC reports substantial Israel Lobby funding tied to this candidacy.",
     "sourceSet": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "sen-wicker-floor-speech-israel-2024"
     ],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.8,
     "requiresManualReview": true,
@@ -30645,7 +30683,20 @@
     "trackAipacOfficeLabel": "MS-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:04:22.381643+00:00",
+    "sourceIds": [
+      "trackaipac-congress",
+      "sen-wicker-floor-speech-israel-2024"
+    ],
+    "timeline": [
+      {
+        "date": "2026-03-04",
+        "event": "Profile updated with official Senate floor speech evidence affirming Israel's right to self-defense.",
+        "sourceIds": [
+          "sen-wicker-floor-speech-israel-2024"
+        ]
+      }
+    ]
   },
   {
     "id": "ron-eller-ms-h-02",
@@ -30664,8 +30715,8 @@
     "incumbencyCode": "C",
     "incumbency": "Challenger",
     "statusAuthority": "FEC",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Pro-Israel based on Republican alignment patterns in recent Mississippi federal races. This is low confidence and should be manually reviewed.",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct, citable candidate statement on Israel/Gaza was confirmed in this strict-source pass, and no confirmed Israel Lobby total is currently attached. Classification is kept as Mixed-unclear pending stronger primary-source evidence.",
     "sourceSet": [
       "FEC-candidate-master-cn26",
       "ms-sos-qualifying-2026"
@@ -30675,7 +30726,20 @@
     "overallConfidence": 0.72,
     "requiresManualReview": true,
     "reviewReason": "Status and ballot qualification require state election authority confirmation.",
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:04:22.381643+00:00",
+    "sourceIds": [
+      "FEC-candidate-master-cn26",
+      "ms-sos-qualifying-2026"
+    ],
+    "timeline": [
+      {
+        "date": "2026-03-04",
+        "event": "Strict-source review found insufficient direct Israel/Gaza quote-level evidence to keep a definitive label.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026"
+        ]
+      }
+    ]
   },
   {
     "id": "sarah-anne-dr-adlakha-ms-s-00",
@@ -30694,18 +30758,31 @@
     "incumbencyCode": "C",
     "incumbency": "Challenger",
     "statusAuthority": "FEC",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No profile summary yet.",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct, citable candidate statement on Israel/Gaza was confirmed in this strict-source pass, and no confirmed Israel Lobby total is currently attached. Classification is kept as Mixed-unclear pending stronger primary-source evidence.",
     "sourceSet": [
       "FEC-candidate-master-cn26",
       "ms-sos-qualifying-2026"
     ],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "lastConfirmedAt": "2026-03-03",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
     "reviewReason": "Status and ballot qualification require state election authority confirmation.",
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:04:22.381643+00:00",
+    "sourceIds": [
+      "FEC-candidate-master-cn26",
+      "ms-sos-qualifying-2026"
+    ],
+    "timeline": [
+      {
+        "date": "2026-03-04",
+        "event": "Strict-source review found insufficient direct Israel/Gaza quote-level evidence to keep a definitive label.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026"
+        ]
+      }
+    ]
   },
   {
     "id": "sawyer-walters-ms-h-04",
@@ -30724,8 +30801,8 @@
     "incumbencyCode": null,
     "incumbency": "Unknown",
     "statusAuthority": "MS Secretary of State",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Pro-Israel based on Republican alignment patterns in recent Mississippi federal races. This is low confidence and should be manually reviewed.",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct, citable candidate statement on Israel/Gaza was confirmed in this strict-source pass, and no confirmed Israel Lobby total is currently attached. Classification is kept as Mixed-unclear pending stronger primary-source evidence.",
     "sourceSet": [
       "FEC-candidate-master-cn26",
       "ms-sos-qualifying-2026"
@@ -30735,7 +30812,20 @@
     "overallConfidence": 0.75,
     "requiresManualReview": true,
     "reviewReason": "Qualification status should be rechecked after primary election updates.",
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:04:22.381643+00:00",
+    "sourceIds": [
+      "FEC-candidate-master-cn26",
+      "ms-sos-qualifying-2026"
+    ],
+    "timeline": [
+      {
+        "date": "2026-03-04",
+        "event": "Strict-source review found insufficient direct Israel/Gaza quote-level evidence to keep a definitive label.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026"
+        ]
+      }
+    ]
   },
   {
     "id": "scott-colom-ms-s-00",
@@ -30819,18 +30909,33 @@
     "incumbencyCode": "C",
     "incumbency": "Challenger",
     "statusAuthority": "FEC",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. This profile remains Unknown pending verifiable statements, interviews, or policy pages.",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "Campaign press pages include a Gaza-related headline criticizing Trump's Gaza plan, which may indicate a more critical posture toward current Israeli military policy. A full direct quote and policy text were not verified in this pass, so the profile remains Mixed-unclear.",
     "sourceSet": [
       "FEC-candidate-master-cn26",
-      "ms-sos-qualifying-2026"
+      "ms-sos-qualifying-2026",
+      "ty-pinkins-press-releases"
     ],
-    "sourceCount": 2,
+    "sourceCount": 3,
     "lastConfirmedAt": "2026-03-04",
     "overallConfidence": 0.72,
     "requiresManualReview": true,
     "reviewReason": "Status and ballot qualification require state election authority confirmation.",
-    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+    "profileLastUpdatedAt": "2026-03-04T09:04:22.381643+00:00",
+    "sourceIds": [
+      "FEC-candidate-master-cn26",
+      "ms-sos-qualifying-2026",
+      "ty-pinkins-press-releases"
+    ],
+    "timeline": [
+      {
+        "date": "2026-03-04",
+        "event": "Campaign press archive reviewed; Gaza-related headline found but full quote-level policy text still requires direct capture.",
+        "sourceIds": [
+          "ty-pinkins-press-releases"
+        ]
+      }
+    ]
   },
   {
     "id": "walter-michael-ezell-ms-h-04",
