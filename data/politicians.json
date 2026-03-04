@@ -1344,17 +1344,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $179,638 for Bruce Westerman in U.S. House, AR-04. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $179,638."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 179638,
     "israelLobbyTotalDisplay": "$179,638",
     "trackAipacOfficeLabel": "AR-04",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "bryan-steil-wi-01",
@@ -1365,17 +1371,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $611,837 for Bryan Steil in U.S. House, WI-01. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $611,837."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 611837,
     "israelLobbyTotalDisplay": "$611,837",
     "trackAipacOfficeLabel": "WI-01",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "buddy-carter-ga-01",
@@ -1386,17 +1398,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $216,590 for Buddy Carter in U.S. House, GA-01. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $216,590."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 216590,
     "israelLobbyTotalDisplay": "$216,590",
     "trackAipacOfficeLabel": "GA-01",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "burgess-owens-ut-04",
@@ -1407,17 +1425,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $335,518 for Burgess Owens in U.S. House, UT-04. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $335,518."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 335518,
     "israelLobbyTotalDisplay": "$335,518",
     "trackAipacOfficeLabel": "UT-04",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "byron-donalds-fl-19",
@@ -1428,17 +1452,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $368,726 for Byron Donalds in U.S. House, FL-19. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $368,726."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 368726,
     "israelLobbyTotalDisplay": "$368,726",
     "trackAipacOfficeLabel": "FL-19",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "carlos-a-gimenez-fl-28",
@@ -1449,17 +1479,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $467,245 for Carlos A. Gimenez in U.S. House, FL-28. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $467,245."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 467245,
     "israelLobbyTotalDisplay": "$467,245",
     "trackAipacOfficeLabel": "FL-28",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "carol-miller-wv-01",
@@ -1470,17 +1506,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $128,758 for Carol Miller in U.S. House, WV-01. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $128,758."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 128758,
     "israelLobbyTotalDisplay": "$128,758",
     "trackAipacOfficeLabel": "WV-01",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "catherine-cortez-masto-nv-sen",
@@ -1491,17 +1533,23 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $3,180,044 for Catherine Cortez-Masto in U.S. Senate, NV. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $3,180,044."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "senate-roll-call"
     ],
     "israelLobbyTotal": 3180044,
     "israelLobbyTotalDisplay": "$3,180,044",
     "trackAipacOfficeLabel": "NV-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "celeste-maloy-ut-02",
@@ -1512,17 +1560,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $165,181 for Celeste Maloy in U.S. House, UT-02. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $165,181."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 165181,
     "israelLobbyTotalDisplay": "$165,181",
     "trackAipacOfficeLabel": "UT-02",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "chellie-pingree-me-01",
@@ -1533,17 +1587,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $288,291 for Chellie Pingree in U.S. House, ME-01. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $288,291."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 288291,
     "israelLobbyTotalDisplay": "$288,291",
     "trackAipacOfficeLabel": "ME-01",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "chip-roy-tx-21",
@@ -1554,17 +1614,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $312,912 for Chip Roy in U.S. House, TX-21. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $312,912."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 312912,
     "israelLobbyTotalDisplay": "$312,912",
     "trackAipacOfficeLabel": "TX-21",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "chris-coons-de-sen",
@@ -1575,17 +1641,23 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,722,613 for Chris Coons in U.S. Senate, DE. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $1,722,613."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "senate-roll-call"
     ],
     "israelLobbyTotal": 1722613,
     "israelLobbyTotalDisplay": "$1,722,613",
     "trackAipacOfficeLabel": "DE-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "chris-deluzio-pa-17",
@@ -1596,17 +1668,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,092,933 for Chris DeLuzio in U.S. House, PA-17. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $1,092,933."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 1092933,
     "israelLobbyTotalDisplay": "$1,092,933",
     "trackAipacOfficeLabel": "PA-17",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "chris-murphy-ct-sen",
@@ -1617,17 +1695,23 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,247,085 for Chris Murphy in U.S. Senate, CT. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $1,247,085."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "senate-roll-call"
     ],
     "israelLobbyTotal": 1247085,
     "israelLobbyTotalDisplay": "$1,247,085",
     "trackAipacOfficeLabel": "CT-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "chris-pappas-nh-01",
@@ -1638,17 +1722,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $2,709,473 for Chris Pappas in U.S. House, NH-01. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $2,709,473."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 2709473,
     "israelLobbyTotalDisplay": "$2,709,473",
     "trackAipacOfficeLabel": "NH-01",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "chris-smith-nj-04",
@@ -1659,17 +1749,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $571,918 for Chris Smith in U.S. House, NJ-04. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $571,918."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 571918,
     "israelLobbyTotalDisplay": "$571,918",
     "trackAipacOfficeLabel": "NJ-04",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "chrissy-houlahan-pa-06",
@@ -1680,17 +1776,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $846,553 for Chrissy Houlahan in U.S. House, PA-06. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $846,553."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 846553,
     "israelLobbyTotalDisplay": "$846,553",
     "trackAipacOfficeLabel": "PA-06",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "christian-menefee-tx-18",
@@ -1701,17 +1803,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $63,500 for Christian Menefee in U.S. House, TX-18. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $63,500."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 63500,
     "israelLobbyTotalDisplay": "$63,500",
     "trackAipacOfficeLabel": "TX-18",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "chuck-edwards-nc-11",
@@ -1722,17 +1830,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $155,538 for Chuck Edwards in U.S. House, NC-11. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $155,538."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 155538,
     "israelLobbyTotalDisplay": "$155,538",
     "trackAipacOfficeLabel": "NC-11",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "chuck-grassley-ia-sen",
@@ -1743,17 +1857,23 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,310,549 for Chuck Grassley in U.S. Senate, IA. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $1,310,549."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "senate-roll-call"
     ],
     "israelLobbyTotal": 1310549,
     "israelLobbyTotalDisplay": "$1,310,549",
     "trackAipacOfficeLabel": "IA-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "chuck-schumer-ny-sen",
@@ -1795,17 +1915,23 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $814,281 for Cindy Hyde-Smith in U.S. Senate, MS. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $814,281."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "senate-roll-call"
     ],
     "israelLobbyTotal": 814281,
     "israelLobbyTotalDisplay": "$814,281",
     "trackAipacOfficeLabel": "MS-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "claudia-tenney-ny-24",
@@ -1816,17 +1942,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $784,341 for Claudia Tenney in U.S. House, NY-24. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $784,341."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 784341,
     "israelLobbyTotalDisplay": "$784,341",
     "trackAipacOfficeLabel": "NY-24",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "clay-higgins-la-03",
@@ -1837,17 +1969,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $26,846 for Clay Higgins in U.S. House, LA-03. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $26,846."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 26846,
     "israelLobbyTotalDisplay": "$26,846",
     "trackAipacOfficeLabel": "LA-03",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "cleo-fields-la-06",
@@ -1858,17 +1996,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $13,167 for Cleo Fields in U.S. House, LA-06. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $13,167."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 13167,
     "israelLobbyTotalDisplay": "$13,167",
     "trackAipacOfficeLabel": "LA-06",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "cliff-bentz-or-02",
@@ -1879,17 +2023,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $27,236 for Cliff Bentz in U.S. House, OR-02. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $27,236."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 27236,
     "israelLobbyTotalDisplay": "$27,236",
     "trackAipacOfficeLabel": "OR-02",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "cori-bush-mo-01",
@@ -1926,17 +2076,23 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $5,818,073 for Cory Booker in U.S. Senate, NJ. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $5,818,073."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "senate-roll-call"
     ],
     "israelLobbyTotal": 5818073,
     "israelLobbyTotalDisplay": "$5,818,073",
     "trackAipacOfficeLabel": "NJ-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "cory-mills-fl-07",
@@ -1947,17 +2103,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $106,732 for Cory Mills in U.S. House, FL-07. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $106,732."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 106732,
     "israelLobbyTotalDisplay": "$106,732",
     "trackAipacOfficeLabel": "FL-07",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "craig-goldman-tx-12",
@@ -1968,17 +2130,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $321,707 for Craig Goldman in U.S. House, TX-12. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $321,707."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 321707,
     "israelLobbyTotalDisplay": "$321,707",
     "trackAipacOfficeLabel": "TX-12",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "cynthia-lummis-wy-sen",
@@ -1989,17 +2157,23 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $145,981 for Cynthia Lummis in U.S. Senate, WY. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $145,981."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "senate-roll-call"
     ],
     "israelLobbyTotal": 145981,
     "israelLobbyTotalDisplay": "$145,981",
     "trackAipacOfficeLabel": "WY-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "dale-strong-al-05",
@@ -2010,17 +2184,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $75,745 for Dale Strong in U.S. House, AL-05. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $75,745."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 75745,
     "israelLobbyTotalDisplay": "$75,745",
     "trackAipacOfficeLabel": "AL-05",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "dan-crenshaw-tx-02",
@@ -2031,17 +2211,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $871,815 for Dan Crenshaw in U.S. House, TX-02. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $871,815."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 871815,
     "israelLobbyTotalDisplay": "$871,815",
     "trackAipacOfficeLabel": "TX-02",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "dan-goldman-ny-10",
@@ -2052,17 +2238,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,764,818 for Dan Goldman in U.S. House, NY-10. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $1,764,818."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 1764818,
     "israelLobbyTotalDisplay": "$1,764,818",
     "trackAipacOfficeLabel": "NY-10",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "dan-meuser-pa-09",
@@ -2073,17 +2265,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $132,289 for Dan Meuser in U.S. House, PA-09. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $132,289."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 132289,
     "israelLobbyTotalDisplay": "$132,289",
     "trackAipacOfficeLabel": "PA-09",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "dan-newhouse-wa-04",
@@ -2094,17 +2292,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $380,825 for Dan Newhouse in U.S. House, WA-04. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $380,825."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 380825,
     "israelLobbyTotalDisplay": "$380,825",
     "trackAipacOfficeLabel": "WA-04",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "dan-sullivan-ak-sen",
@@ -2115,17 +2319,23 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $144,598 for Dan Sullivan in U.S. Senate, AK. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $144,598."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "senate-roll-call"
     ],
     "israelLobbyTotal": 144598,
     "israelLobbyTotalDisplay": "$144,598",
     "trackAipacOfficeLabel": "AK-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "daniel-webster-fl-11",
@@ -2136,17 +2346,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $193,215 for Daniel Webster in U.S. House, FL-11. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $193,215."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 193215,
     "israelLobbyTotalDisplay": "$193,215",
     "trackAipacOfficeLabel": "FL-11",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "danny-davis-il-07",
@@ -2157,17 +2373,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $110,160 for Danny Davis in U.S. House, IL-07. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $110,160."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 110160,
     "israelLobbyTotalDisplay": "$110,160",
     "trackAipacOfficeLabel": "IL-07",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "darin-lahood-il-16",
@@ -2178,17 +2400,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $420,511 for Darin LaHood in U.S. House, IL-16. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $420,511."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 420511,
     "israelLobbyTotalDisplay": "$420,511",
     "trackAipacOfficeLabel": "IL-16",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "darrell-issa-ca-48",
@@ -2199,17 +2427,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $238,853 for Darrell Issa in U.S. House, CA-48. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $238,853."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 238853,
     "israelLobbyTotalDisplay": "$238,853",
     "trackAipacOfficeLabel": "CA-48",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "darren-soto-fl-09",
@@ -2220,17 +2454,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $874,118 for Darren Soto in U.S. House, FL-09. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $874,118."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 874118,
     "israelLobbyTotalDisplay": "$874,118",
     "trackAipacOfficeLabel": "FL-09",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "dave-joyce-oh-14",
@@ -2241,17 +2481,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $438,057 for Dave Joyce in U.S. House, OH-14. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $438,057."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 438057,
     "israelLobbyTotalDisplay": "$438,057",
     "trackAipacOfficeLabel": "OH-14",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "dave-mccormick-pa-sen",
@@ -2262,17 +2508,23 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,054,468 for Dave McCormick in U.S. Senate, PA. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $1,054,468."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "senate-roll-call"
     ],
     "israelLobbyTotal": 1054468,
     "israelLobbyTotalDisplay": "$1,054,468",
     "trackAipacOfficeLabel": "PA-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "dave-min-ca-47",
@@ -2283,17 +2535,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $414,326 for Dave Min in U.S. House, CA-47. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $414,326."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 414326,
     "israelLobbyTotalDisplay": "$414,326",
     "trackAipacOfficeLabel": "CA-47",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "david-kustoff-tn-08",
@@ -2304,17 +2562,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $657,518 for David Kustoff in U.S. House, TN-08. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $657,518."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 657518,
     "israelLobbyTotalDisplay": "$657,518",
     "trackAipacOfficeLabel": "TN-08",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "david-rouzer-nc-07",
@@ -2325,17 +2589,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $147,300 for David Rouzer in U.S. House, NC-07. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $147,300."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 147300,
     "israelLobbyTotalDisplay": "$147,300",
     "trackAipacOfficeLabel": "NC-07",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "david-schweikert-az-01",
@@ -2346,17 +2616,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $752,634 for David Schweikert in U.S. House, AZ-01. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $752,634."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 752634,
     "israelLobbyTotalDisplay": "$752,634",
     "trackAipacOfficeLabel": "AZ-01",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "david-scott-ga-13",
@@ -2367,17 +2643,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $327,786 for David Scott in U.S. House, GA-13. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $327,786."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 327786,
     "israelLobbyTotalDisplay": "$327,786",
     "trackAipacOfficeLabel": "GA-13",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "david-taylor-oh-02",
@@ -2388,17 +2670,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $68,121 for David Taylor in U.S. House, OH-02. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $68,121."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 68121,
     "israelLobbyTotalDisplay": "$68,121",
     "trackAipacOfficeLabel": "OH-02",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "david-valadao-ca-22",
@@ -2409,17 +2697,23 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $724,428 for David Valadao in U.S. House, CA-22. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $724,428."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "house-resolution-tracker"
     ],
     "israelLobbyTotal": 724428,
     "israelLobbyTotalDisplay": "$724,428",
     "trackAipacOfficeLabel": "CA-22",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "deb-fischer-ne-sen",
@@ -2430,17 +2724,23 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Profile sourced from Track AIPAC data. Timeline and position details are pending.",
-    "timeline": [],
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,594,052 for Deb Fischer in U.S. Senate, NE. This dataset currently classifies this as Pro-Israel when total funding is above $0; additional primary-source statement and vote evidence should continue to be expanded.",
+    "timeline": [
+      {
+        "date": "2026-03-03",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $1,594,052."
+      }
+    ],
     "sourceIds": [
-      "trackaipac-congress"
+      "trackaipac-congress",
+      "senate-roll-call"
     ],
     "israelLobbyTotal": 1594052,
     "israelLobbyTotalDisplay": "$1,594,052",
     "trackAipacOfficeLabel": "NE-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T20:05:56.195764+00:00"
+    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
   },
   {
     "id": "debbie-dingell-mi-06",
