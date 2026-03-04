@@ -5,7 +5,7 @@
   "state": "MO",
   "office": "U.S. House",
   "districtOrOffice": "U.S. House, MO-01",
-  "imageUrl": "",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Rep._Cori_Bush%2C_117th_Congress.jpg/440px-Rep._Cori_Bush%2C_117th_Congress.jpg",
   "stanceLabel": "Unknown",
   "stanceColor": "neutral",
   "stanceSummary": "No public Track AIPAC congressional total is currently linked for Cori Bush in U.S. House, MO-01. Official statements and congressional records were used as the primary basis for stance context in this profile.",
@@ -23,7 +23,8 @@
   "sourceIds": [
     "fec-candidate-master-2026",
     "house-resolution-tracker",
-    "congress-floor-records"
+    "congress-floor-records",
+    "rep-bush-releases"
   ],
   "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
   "sourcesEndpoint": "/data/sources.json"

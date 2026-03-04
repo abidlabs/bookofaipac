@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-03-03",
-  "count": 2294,
+  "count": 2024,
   "items": [
     {
       "id": "az-h-atlarge",
@@ -65,14 +65,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/aaron-michael-wojciechowski-wi-h-06.json"
-    },
-    {
-      "id": "aaron-p-bean-fl-h-04",
-      "name": "Aaron P. Bean",
-      "districtOrOffice": "U.S. House, FL-04",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/aaron-p-bean-fl-h-04.json"
     },
     {
       "id": "abdul-el-sayed-mi-s-00",
@@ -153,14 +145,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/adal-regis-il-h-02.json"
-    },
-    {
-      "id": "adam-c-gray-ca-h-13",
-      "name": "Adam C. Gray",
-      "districtOrOffice": "U.S. House, CA-13",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/adam-c-gray-ca-h-13.json"
     },
     {
       "id": "adam-clay-miller-oh-h-15",
@@ -267,14 +251,6 @@
       "endpoint": "/api/candidates/adam-smith-wa-09.json"
     },
     {
-      "id": "addison-mcdowell-nc-06",
-      "name": "Addison McDowell",
-      "districtOrOffice": "U.S. House, NC-06",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/addison-mcdowell-nc-06.json"
-    },
-    {
       "id": "addison-mcdowell-nc-h-06",
       "name": "Addison Mcdowell",
       "districtOrOffice": "U.S. House, NC-06",
@@ -315,28 +291,12 @@
       "endpoint": "/api/candidates/adrian-o-mr-mapp-nj-h-12.json"
     },
     {
-      "id": "adrian-smith-ne-03",
-      "name": "Adrian Smith",
-      "districtOrOffice": "U.S. House, NE-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/adrian-smith-ne-03.json"
-    },
-    {
       "id": "adrian-smith-ne-h-03",
       "name": "Adrian Smith",
       "districtOrOffice": "U.S. House, NE-03",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/adrian-smith-ne-h-03.json"
-    },
-    {
-      "id": "adriano-espaillat-ny-13",
-      "name": "Adriano Espaillat",
-      "districtOrOffice": "U.S. House, NY-13",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/adriano-espaillat-ny-13.json"
     },
     {
       "id": "adriano-espaillat-ny-h-13",
@@ -803,14 +763,6 @@
       "endpoint": "/api/candidates/andre-clement-mr-easton-ny-h-15.json"
     },
     {
-      "id": "andrea-salinas-or-06",
-      "name": "Andrea Salinas",
-      "districtOrOffice": "U.S. House, OR-06",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/andrea-salinas-or-06.json"
-    },
-    {
       "id": "andrea-salinas-or-h-06",
       "name": "Andrea Salinas",
       "districtOrOffice": "U.S. House, OR-06",
@@ -827,28 +779,12 @@
       "endpoint": "/api/candidates/andres-castro-ga-h-05.json"
     },
     {
-      "id": "andrew-clyde-ga-09",
-      "name": "Andrew Clyde",
-      "districtOrOffice": "U.S. House, GA-09",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/andrew-clyde-ga-09.json"
-    },
-    {
       "id": "andrew-clyde-ga-h-09",
       "name": "Andrew Clyde",
       "districtOrOffice": "U.S. House, GA-09",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/andrew-clyde-ga-h-09.json"
-    },
-    {
-      "id": "andrew-garbarino-ny-02",
-      "name": "Andrew Garbarino",
-      "districtOrOffice": "U.S. House, NY-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/andrew-garbarino-ny-02.json"
     },
     {
       "id": "andrew-garbarino-ny-h-02",
@@ -891,14 +827,6 @@
       "endpoint": "/api/candidates/andy-barr-ky-06.json"
     },
     {
-      "id": "andy-biggs-az-05",
-      "name": "Andy Biggs",
-      "districtOrOffice": "U.S. House, AZ-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/andy-biggs-az-05.json"
-    },
-    {
       "id": "andy-biggs-az-h-05",
       "name": "Andy Biggs",
       "districtOrOffice": "U.S. House, AZ-05",
@@ -921,14 +849,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/andy-kim-nj-sen.json"
-    },
-    {
-      "id": "andy-ogles-tn-05",
-      "name": "Andy Ogles",
-      "districtOrOffice": "U.S. House, TN-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/andy-ogles-tn-05.json"
     },
     {
       "id": "andy-ogles-tn-h-05",
@@ -1003,14 +923,6 @@
       "endpoint": "/api/candidates/anil-dr-kumar-mi-h-11.json"
     },
     {
-      "id": "ann-l-wagner-mo-h-02",
-      "name": "Ann L. Wagner",
-      "districtOrOffice": "U.S. House, MO-02",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/ann-l-wagner-mo-h-02.json"
-    },
-    {
       "id": "ann-wagner-mo-02",
       "name": "Ann Wagner",
       "districtOrOffice": "U.S. House, MO-02",
@@ -1049,14 +961,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/anna-medvedeva-fl-h-22.json"
-    },
-    {
-      "id": "anna-paulina-luna-fl-13",
-      "name": "Anna Paulina Luna",
-      "districtOrOffice": "U.S. House, FL-13",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/anna-paulina-luna-fl-13.json"
     },
     {
       "id": "anna-paulina-luna-fl-h-13",
@@ -1139,14 +1043,6 @@
       "endpoint": "/api/candidates/anuj-dixit-ca-h-48.json"
     },
     {
-      "id": "april-mcclain-delaney-md-06",
-      "name": "April McClain Delaney",
-      "districtOrOffice": "U.S. House, MD-06",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/april-mcclain-delaney-md-06.json"
-    },
-    {
       "id": "april-mcclain-delaney-md-h-06",
       "name": "April Mcclain Delaney",
       "districtOrOffice": "U.S. House, MD-06",
@@ -1209,14 +1105,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/ashley-moody-fl-s-00.json"
-    },
-    {
-      "id": "ashley-moody-fl-sen",
-      "name": "Ashley Moody",
-      "districtOrOffice": "U.S. Senate, FL",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/ashley-moody-fl-sen.json"
     },
     {
       "id": "ashley-nicole-russell-nc-h-01",
@@ -1363,14 +1251,6 @@
       "endpoint": "/api/candidates/barry-craig-mr-wolfert-ga-h-11.json"
     },
     {
-      "id": "barry-loudermilk-ga-11",
-      "name": "Barry Loudermilk",
-      "districtOrOffice": "U.S. House, GA-11",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/barry-loudermilk-ga-11.json"
-    },
-    {
       "id": "barry-loudermilk-ga-h-11",
       "name": "Barry Loudermilk",
       "districtOrOffice": "U.S. House, GA-11",
@@ -1435,14 +1315,6 @@
       "endpoint": "/api/candidates/ben-ray-lujan-nm-s-00.json"
     },
     {
-      "id": "ben-ray-lujan-nm-sen",
-      "name": "Ben Ray Lujan",
-      "districtOrOffice": "U.S. Senate, NM",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/ben-ray-lujan-nm-sen.json"
-    },
-    {
       "id": "benjamin-ambrose-mi-h-02",
       "name": "Benjamin Ambrose",
       "districtOrOffice": "U.S. House, MI-02",
@@ -1473,14 +1345,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/bennie-foster-ms-h-02.json"
-    },
-    {
-      "id": "bennie-g-thompson-ms-h-02",
-      "name": "Bennie G. Thompson",
-      "districtOrOffice": "U.S. House, MS-02",
-      "stanceLabel": "Mixed-unclear",
-      "stanceColor": "gray",
-      "endpoint": "/api/candidates/bennie-g-thompson-ms-h-02.json"
     },
     {
       "id": "bennie-thompson-ms-02",
@@ -1619,14 +1483,6 @@
       "endpoint": "/api/candidates/bill-hagerty-tn-s-00.json"
     },
     {
-      "id": "bill-hagerty-tn-sen",
-      "name": "Bill Hagerty",
-      "districtOrOffice": "U.S. Senate, TN",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/bill-hagerty-tn-sen.json"
-    },
-    {
       "id": "bill-huizenga-mi-04",
       "name": "Bill Huizenga",
       "districtOrOffice": "U.S. House, MI-04",
@@ -1681,14 +1537,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/blake-miguez-la-s-00.json"
-    },
-    {
-      "id": "blake-moore-ut-01",
-      "name": "Blake Moore",
-      "districtOrOffice": "U.S. House, UT-01",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/blake-moore-ut-01.json"
     },
     {
       "id": "blake-moore-ut-h-01",
@@ -1763,28 +1611,12 @@
       "endpoint": "/api/candidates/brad-cohen-nj-h-12.json"
     },
     {
-      "id": "brad-finstad-mn-01",
-      "name": "Brad Finstad",
-      "districtOrOffice": "U.S. House, MN-01",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/brad-finstad-mn-01.json"
-    },
-    {
       "id": "brad-finstad-mn-h-01",
       "name": "Brad Finstad",
       "districtOrOffice": "U.S. House, MN-01",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/brad-finstad-mn-h-01.json"
-    },
-    {
-      "id": "brad-knott-nc-13",
-      "name": "Brad Knott",
-      "districtOrOffice": "U.S. House, NC-13",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/brad-knott-nc-13.json"
     },
     {
       "id": "brad-knott-nc-h-13",
@@ -1809,14 +1641,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/brad-schneider-il-10.json"
-    },
-    {
-      "id": "brad-sherman-ca-32",
-      "name": "Brad Sherman",
-      "districtOrOffice": "U.S. House, CA-32",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/brad-sherman-ca-32.json"
     },
     {
       "id": "brad-sherman-ca-h-32",
@@ -1857,14 +1681,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/brandon-brown-sc-s-00.json"
-    },
-    {
-      "id": "brandon-gill-tx-26",
-      "name": "Brandon Gill",
-      "districtOrOffice": "U.S. House, TX-26",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/brandon-gill-tx-26.json"
     },
     {
       "id": "brandon-gill-tx-h-26",
@@ -1921,14 +1737,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/brendan-boyle-pa-02.json"
-    },
-    {
-      "id": "brendan-f-boyle-pa-h-02",
-      "name": "Brendan F Boyle",
-      "districtOrOffice": "U.S. House, PA-02",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/brendan-f-boyle-pa-h-02.json"
     },
     {
       "id": "brendan-w-gill-nj-h-11",
@@ -2003,14 +1811,6 @@
       "endpoint": "/api/candidates/brian-allen-montgomery-ga-h-01.json"
     },
     {
-      "id": "brian-babin-tx-36",
-      "name": "Brian Babin",
-      "districtOrOffice": "U.S. House, TX-36",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/brian-babin-tx-36.json"
-    },
-    {
       "id": "brian-babin-tx-h-36",
       "name": "Brian Babin",
       "districtOrOffice": "U.S. House, TX-36",
@@ -2043,14 +1843,6 @@
       "endpoint": "/api/candidates/brian-cole-nh-h-01.json"
     },
     {
-      "id": "brian-fitzpatrick-pa-01",
-      "name": "Brian Fitzpatrick",
-      "districtOrOffice": "U.S. House, PA-01",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/brian-fitzpatrick-pa-01.json"
-    },
-    {
       "id": "brian-fitzpatrick-pa-h-01",
       "name": "Brian Fitzpatrick",
       "districtOrOffice": "U.S. House, PA-01",
@@ -2075,14 +1867,6 @@
       "endpoint": "/api/candidates/brian-j-mr-burley-ca-h-42.json"
     },
     {
-      "id": "brian-jack-ga-03",
-      "name": "Brian Jack",
-      "districtOrOffice": "U.S. House, GA-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/brian-jack-ga-03.json"
-    },
-    {
       "id": "brian-jack-ga-h-03",
       "name": "Brian Jack",
       "districtOrOffice": "U.S. House, GA-03",
@@ -2097,14 +1881,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/brian-james-miller-mt-h-02.json"
-    },
-    {
-      "id": "brian-mast-fl-21",
-      "name": "Brian Mast",
-      "districtOrOffice": "U.S. House, FL-21",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/brian-mast-fl-21.json"
     },
     {
       "id": "brian-mast-fl-h-21",
@@ -2211,14 +1987,6 @@
       "endpoint": "/api/candidates/bruce-leon-il-h-09.json"
     },
     {
-      "id": "bruce-westerman-ar-04",
-      "name": "Bruce Westerman",
-      "districtOrOffice": "U.S. House, AR-04",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/bruce-westerman-ar-04.json"
-    },
-    {
       "id": "bruce-westerman-ar-h-04",
       "name": "Bruce Westerman",
       "districtOrOffice": "U.S. House, AR-04",
@@ -2267,14 +2035,6 @@
       "endpoint": "/api/candidates/buddy-carter-ga-01.json"
     },
     {
-      "id": "burgess-owens-ut-04",
-      "name": "Burgess Owens",
-      "districtOrOffice": "U.S. House, UT-04",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/burgess-owens-ut-04.json"
-    },
-    {
       "id": "burgess-owens-ut-h-04",
       "name": "Burgess Owens",
       "districtOrOffice": "U.S. House, UT-04",
@@ -2289,14 +2049,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/bushra-amiwala-il-h-09.json"
-    },
-    {
-      "id": "byron-donalds-fl-19",
-      "name": "Byron Donalds",
-      "districtOrOffice": "U.S. House, FL-19",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/byron-donalds-fl-19.json"
     },
     {
       "id": "byron-donalds-fl-h-19",
@@ -2393,14 +2145,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/carlos-a-gimenez-fl-28.json"
-    },
-    {
-      "id": "carlos-gimenez-fl-h-28",
-      "name": "Carlos Gimenez",
-      "districtOrOffice": "U.S. House, FL-28",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/carlos-gimenez-fl-h-28.json"
     },
     {
       "id": "carlos-jr-de-la-cruz-tx-h-35",
@@ -2555,14 +2299,6 @@
       "endpoint": "/api/candidates/ceci-truman-ca-h-25.json"
     },
     {
-      "id": "celeste-maloy-ut-02",
-      "name": "Celeste Maloy",
-      "districtOrOffice": "U.S. House, UT-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/celeste-maloy-ut-02.json"
-    },
-    {
       "id": "celeste-maloy-ut-h-02",
       "name": "Celeste Maloy",
       "districtOrOffice": "U.S. House, UT-02",
@@ -2715,14 +2451,6 @@
       "endpoint": "/api/candidates/chaz-molder-tn-h-05.json"
     },
     {
-      "id": "chellie-m-pingree-me-h-01",
-      "name": "Chellie M Pingree",
-      "districtOrOffice": "U.S. House, ME-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/chellie-m-pingree-me-h-01.json"
-    },
-    {
       "id": "chellie-pingree-me-01",
       "name": "Chellie Pingree",
       "districtOrOffice": "U.S. House, ME-01",
@@ -2769,14 +2497,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/chi-osse-ny-h-08.json"
-    },
-    {
-      "id": "chip-roy-tx-21",
-      "name": "Chip Roy",
-      "districtOrOffice": "U.S. House, TX-21",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/chip-roy-tx-21.json"
     },
     {
       "id": "chip-roy-tx-h-21",
@@ -2875,14 +2595,6 @@
       "endpoint": "/api/candidates/chris-murphy-ct-sen.json"
     },
     {
-      "id": "chris-pappas-nh-01",
-      "name": "Chris Pappas",
-      "districtOrOffice": "U.S. House, NH-01",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/chris-pappas-nh-01.json"
-    },
-    {
       "id": "chris-pappas-nh-h-01",
       "name": "Chris Pappas",
       "districtOrOffice": "U.S. House, NH-01",
@@ -2915,14 +2627,6 @@
       "endpoint": "/api/candidates/chris-smith-nj-04.json"
     },
     {
-      "id": "chrissy-houlahan-pa-06",
-      "name": "Chrissy Houlahan",
-      "districtOrOffice": "U.S. House, PA-06",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/chrissy-houlahan-pa-06.json"
-    },
-    {
       "id": "chrissy-houlahan-pa-h-06",
       "name": "Chrissy Houlahan",
       "districtOrOffice": "U.S. House, PA-06",
@@ -2945,14 +2649,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/christian-maxwell-il-h-01.json"
-    },
-    {
-      "id": "christian-menefee-tx-18",
-      "name": "Christian Menefee",
-      "districtOrOffice": "U.S. House, TX-18",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/christian-menefee-tx-18.json"
     },
     {
       "id": "christian-menefee-tx-h-18",
@@ -3155,14 +2851,6 @@
       "endpoint": "/api/candidates/christopher-paul-brandlin-nv-h-03.json"
     },
     {
-      "id": "chuck-edwards-nc-11",
-      "name": "Chuck Edwards",
-      "districtOrOffice": "U.S. House, NC-11",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/chuck-edwards-nc-11.json"
-    },
-    {
       "id": "chuck-edwards-nc-h-11",
       "name": "Chuck Edwards",
       "districtOrOffice": "U.S. House, NC-11",
@@ -3219,14 +2907,6 @@
       "endpoint": "/api/candidates/cindy-hyde-smith-ms-s-00.json"
     },
     {
-      "id": "cindy-hyde-smith-ms-sen",
-      "name": "Cindy Hyde-Smith",
-      "districtOrOffice": "U.S. Senate, MS",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/cindy-hyde-smith-ms-sen.json"
-    },
-    {
       "id": "claire-anne-reynolds-tx-h-11",
       "name": "Claire Anne Reynolds",
       "districtOrOffice": "U.S. House, TX-11",
@@ -3249,14 +2929,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/claude-manuel-keissieh-ca-h-40.json"
-    },
-    {
-      "id": "claudia-tenney-ny-24",
-      "name": "Claudia Tenney",
-      "districtOrOffice": "U.S. House, NY-24",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/claudia-tenney-ny-24.json"
     },
     {
       "id": "claudia-tenney-ny-h-24",
@@ -3291,28 +2963,12 @@
       "endpoint": "/api/candidates/clay-higgins-la-03.json"
     },
     {
-      "id": "cleo-fields-la-06",
-      "name": "Cleo Fields",
-      "districtOrOffice": "U.S. House, LA-06",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/cleo-fields-la-06.json"
-    },
-    {
       "id": "cleo-fields-la-h-06",
       "name": "Cleo Fields",
       "districtOrOffice": "U.S. House, LA-06",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/cleo-fields-la-h-06.json"
-    },
-    {
-      "id": "cliff-bentz-or-02",
-      "name": "Cliff Bentz",
-      "districtOrOffice": "U.S. House, OR-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/cliff-bentz-or-02.json"
     },
     {
       "id": "cliff-bentz-or-h-02",
@@ -3419,14 +3075,6 @@
       "endpoint": "/api/candidates/conrad-roberts-cable-la-h-04.json"
     },
     {
-      "id": "cori-bush-mo-01",
-      "name": "Cori Bush",
-      "districtOrOffice": "U.S. House, MO-01",
-      "stanceLabel": "Pro-Palestine",
-      "stanceColor": "green",
-      "endpoint": "/api/candidates/cori-bush-mo-01.json"
-    },
-    {
       "id": "cori-bush-mo-h-01",
       "name": "Cori Bush",
       "districtOrOffice": "U.S. House, MO-01",
@@ -3443,14 +3091,6 @@
       "endpoint": "/api/candidates/corinna-contreras-ca-h-48.json"
     },
     {
-      "id": "cory-a-booker-nj-s-00",
-      "name": "Cory A. Booker",
-      "districtOrOffice": "U.S. Senate, NJ",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/cory-a-booker-nj-s-00.json"
-    },
-    {
       "id": "cory-booker-nj-sen",
       "name": "Cory Booker",
       "districtOrOffice": "U.S. Senate, NJ",
@@ -3459,28 +3099,12 @@
       "endpoint": "/api/candidates/cory-booker-nj-sen.json"
     },
     {
-      "id": "cory-mills-fl-07",
-      "name": "Cory Mills",
-      "districtOrOffice": "U.S. House, FL-07",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/cory-mills-fl-07.json"
-    },
-    {
       "id": "cory-mills-fl-h-07",
       "name": "Cory Mills",
       "districtOrOffice": "U.S. House, FL-07",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/cory-mills-fl-h-07.json"
-    },
-    {
-      "id": "craig-goldman-tx-12",
-      "name": "Craig Goldman",
-      "districtOrOffice": "U.S. House, TX-12",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/craig-goldman-tx-12.json"
     },
     {
       "id": "craig-goldman-tx-h-12",
@@ -3699,14 +3323,6 @@
       "endpoint": "/api/candidates/dan-mims-tx-h-09.json"
     },
     {
-      "id": "dan-newhouse-wa-04",
-      "name": "Dan Newhouse",
-      "districtOrOffice": "U.S. House, WA-04",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/dan-newhouse-wa-04.json"
-    },
-    {
       "id": "dan-newhouse-wa-h-04",
       "name": "Dan Newhouse",
       "districtOrOffice": "U.S. House, WA-04",
@@ -3729,14 +3345,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/dan-sullivan-ak-s-00.json"
-    },
-    {
-      "id": "dan-sullivan-ak-sen",
-      "name": "Dan Sullivan",
-      "districtOrOffice": "U.S. Senate, AK",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/dan-sullivan-ak-sen.json"
     },
     {
       "id": "dan-tully-il-h-08",
@@ -3843,14 +3451,6 @@
       "endpoint": "/api/candidates/daniel-schwartz-md-h-01.json"
     },
     {
-      "id": "daniel-webster-fl-11",
-      "name": "Daniel Webster",
-      "districtOrOffice": "U.S. House, FL-11",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/daniel-webster-fl-11.json"
-    },
-    {
       "id": "daniel-webster-fl-h-11",
       "name": "Daniel Webster",
       "districtOrOffice": "U.S. House, FL-11",
@@ -3947,14 +3547,6 @@
       "endpoint": "/api/candidates/darrell-day-tx-h-32.json"
     },
     {
-      "id": "darrell-issa-ca-48",
-      "name": "Darrell Issa",
-      "districtOrOffice": "U.S. House, CA-48",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/darrell-issa-ca-48.json"
-    },
-    {
       "id": "darrell-issa-ca-h-48",
       "name": "Darrell Issa",
       "districtOrOffice": "U.S. House, CA-48",
@@ -3969,14 +3561,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/darren-mcauley-fl-h-15.json"
-    },
-    {
-      "id": "darren-soto-fl-09",
-      "name": "Darren Soto",
-      "districtOrOffice": "U.S. House, FL-09",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/darren-soto-fl-09.json"
     },
     {
       "id": "darren-soto-fl-h-09",
@@ -4025,14 +3609,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/dave-mccormick-pa-sen.json"
-    },
-    {
-      "id": "dave-min-ca-47",
-      "name": "Dave Min",
-      "districtOrOffice": "U.S. House, CA-47",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/dave-min-ca-47.json"
     },
     {
       "id": "dave-min-ca-h-47",
@@ -4131,14 +3707,6 @@
       "endpoint": "/api/candidates/david-kloiber-ky-h-06.json"
     },
     {
-      "id": "david-kustoff-tn-08",
-      "name": "David Kustoff",
-      "districtOrOffice": "U.S. House, TN-08",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/david-kustoff-tn-08.json"
-    },
-    {
       "id": "david-kustoff-tn-h-08",
       "name": "David Kustoff",
       "districtOrOffice": "U.S. House, TN-08",
@@ -4203,28 +3771,12 @@
       "endpoint": "/api/candidates/david-pan-ca-h-46.json"
     },
     {
-      "id": "david-rouzer-nc-07",
-      "name": "David Rouzer",
-      "districtOrOffice": "U.S. House, NC-07",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/david-rouzer-nc-07.json"
-    },
-    {
       "id": "david-rouzer-nc-h-07",
       "name": "David Rouzer",
       "districtOrOffice": "U.S. House, NC-07",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/david-rouzer-nc-h-07.json"
-    },
-    {
-      "id": "david-s-schweikert-az-h-01",
-      "name": "David S. Schweikert",
-      "districtOrOffice": "U.S. House, AZ-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/david-s-schweikert-az-h-01.json"
     },
     {
       "id": "david-schweikert-az-01",
@@ -4243,14 +3795,6 @@
       "endpoint": "/api/candidates/david-scott-ga-13.json"
     },
     {
-      "id": "david-taylor-oh-02",
-      "name": "David Taylor",
-      "districtOrOffice": "U.S. House, OH-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/david-taylor-oh-02.json"
-    },
-    {
       "id": "david-taylor-oh-h-02",
       "name": "David Taylor",
       "districtOrOffice": "U.S. House, OH-02",
@@ -4265,14 +3809,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/david-trone-md-h-06.json"
-    },
-    {
-      "id": "david-valadao-ca-22",
-      "name": "David Valadao",
-      "districtOrOffice": "U.S. House, CA-22",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/david-valadao-ca-22.json"
     },
     {
       "id": "david-valadao-ca-h-22",
@@ -4347,14 +3883,6 @@
       "endpoint": "/api/candidates/deb-fischer-ne-sen.json"
     },
     {
-      "id": "debbie-dingell-mi-06",
-      "name": "Debbie Dingell",
-      "districtOrOffice": "U.S. House, MI-06",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/debbie-dingell-mi-06.json"
-    },
-    {
       "id": "debbie-dingell-mi-h-06",
       "name": "Debbie Dingell",
       "districtOrOffice": "U.S. House, MI-06",
@@ -4371,14 +3899,6 @@
       "endpoint": "/api/candidates/debbie-wasserman-schultz-fl-h-25.json"
     },
     {
-      "id": "debbie-wasserman-schultz-fl-25",
-      "name": "Debbie Wasserman-Schultz",
-      "districtOrOffice": "U.S. House, FL-25",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/debbie-wasserman-schultz-fl-25.json"
-    },
-    {
       "id": "deborah-a-pickett-in-h-05",
       "name": "Deborah A Pickett",
       "districtOrOffice": "U.S. House, IN-05",
@@ -4393,14 +3913,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/deborah-adeimy-fl-h-22.json"
-    },
-    {
-      "id": "deborah-ross-nc-02",
-      "name": "Deborah Ross",
-      "districtOrOffice": "U.S. House, NC-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/deborah-ross-nc-02.json"
     },
     {
       "id": "deborah-ross-nc-h-02",
@@ -4483,28 +3995,12 @@
       "endpoint": "/api/candidates/derek-merrin-oh-h-09.json"
     },
     {
-      "id": "derek-schmidt-ks-02",
-      "name": "Derek Schmidt",
-      "districtOrOffice": "U.S. House, KS-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/derek-schmidt-ks-02.json"
-    },
-    {
       "id": "derek-schmidt-ks-h-02",
       "name": "Derek Schmidt",
       "districtOrOffice": "U.S. House, KS-02",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/derek-schmidt-ks-h-02.json"
-    },
-    {
-      "id": "derek-tran-ca-45",
-      "name": "Derek Tran",
-      "districtOrOffice": "U.S. House, CA-45",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/derek-tran-ca-45.json"
     },
     {
       "id": "derek-tran-ca-h-45",
@@ -4547,14 +4043,6 @@
       "endpoint": "/api/candidates/diana-degette-co-01.json"
     },
     {
-      "id": "diana-harshbarger-tn-01",
-      "name": "Diana Harshbarger",
-      "districtOrOffice": "U.S. House, TN-01",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/diana-harshbarger-tn-01.json"
-    },
-    {
       "id": "diana-harshbarger-tn-h-01",
       "name": "Diana Harshbarger",
       "districtOrOffice": "U.S. House, TN-01",
@@ -4569,14 +4057,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/diana-k-kastenbaum-ny-h-24.json"
-    },
-    {
-      "id": "diana-l-degette-co-h-01",
-      "name": "Diana L Degette",
-      "districtOrOffice": "U.S. House, CO-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/diana-l-degette-co-h-01.json"
     },
     {
       "id": "diana-lynne-lawrence-ar-h-03",
@@ -4601,14 +4081,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/dillan-vancil-il-h-17.json"
-    },
-    {
-      "id": "dina-titus-nv-01",
-      "name": "Dina Titus",
-      "districtOrOffice": "U.S. House, NV-01",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/dina-titus-nv-01.json"
     },
     {
       "id": "dina-titus-nv-h-01",
@@ -4657,14 +4129,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/don-coover-ks-h-02.json"
-    },
-    {
-      "id": "don-davis-nc-01",
-      "name": "Don Davis",
-      "districtOrOffice": "U.S. House, NC-01",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/don-davis-nc-01.json"
     },
     {
       "id": "don-davis-nc-h-01",
@@ -4731,14 +4195,6 @@
       "endpoint": "/api/candidates/donald-sternoff-jr-beyer-va-h-08.json"
     },
     {
-      "id": "donald-w-norcross-nj-h-01",
-      "name": "Donald W Norcross",
-      "districtOrOffice": "U.S. House, NJ-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/donald-w-norcross-nj-h-01.json"
-    },
-    {
       "id": "donavan-mckinney-mi-h-13",
       "name": "Donavan Mckinney",
       "districtOrOffice": "U.S. House, MI-13",
@@ -4761,14 +4217,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/donna-miller-il-h-02.json"
-    },
-    {
-      "id": "doris-matsui-ca-07",
-      "name": "Doris Matsui",
-      "districtOrOffice": "U.S. House, CA-07",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/doris-matsui-ca-07.json"
     },
     {
       "id": "doris-matsui-ca-h-07",
@@ -4849,14 +4297,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/dwayne-bradley-stovall-tx-h-09.json"
-    },
-    {
-      "id": "dwight-evans-pa-03",
-      "name": "Dwight Evans",
-      "districtOrOffice": "U.S. House, PA-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/dwight-evans-pa-03.json"
     },
     {
       "id": "dwight-evans-pa-h-03",
@@ -4995,14 +4435,6 @@
       "endpoint": "/api/candidates/eleanor-holmes-norton-dc-h-00.json"
     },
     {
-      "id": "eli-crane-az-02",
-      "name": "Eli Crane",
-      "districtOrOffice": "U.S. House, AZ-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/eli-crane-az-02.json"
-    },
-    {
       "id": "eli-crane-az-h-02",
       "name": "Eli Crane",
       "districtOrOffice": "U.S. House, AZ-02",
@@ -5017,14 +4449,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/elijah-manley-fl-h-20.json"
-    },
-    {
-      "id": "elise-m-stefanik-ny-h-21",
-      "name": "Elise M. Stefanik",
-      "districtOrOffice": "U.S. House, NY-21",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/elise-m-stefanik-ny-h-21.json"
     },
     {
       "id": "elise-stefanik-ny-21",
@@ -5131,28 +4555,12 @@
       "endpoint": "/api/candidates/emanuel-cleaver-mo-05.json"
     },
     {
-      "id": "emanuel-ii-cleaver-mo-h-05",
-      "name": "Emanuel Ii Cleaver",
-      "districtOrOffice": "U.S. House, MO-05",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/emanuel-ii-cleaver-mo-h-05.json"
-    },
-    {
       "id": "emanuel-jones-ga-h-13",
       "name": "Emanuel Jones",
       "districtOrOffice": "U.S. House, GA-13",
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/emanuel-jones-ga-h-13.json"
-    },
-    {
-      "id": "emilia-sykes-oh-13",
-      "name": "Emilia Sykes",
-      "districtOrOffice": "U.S. House, OH-13",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/emilia-sykes-oh-13.json"
     },
     {
       "id": "emilia-sykes-oh-h-13",
@@ -5169,14 +4577,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/emily-berge-wi-h-03.json"
-    },
-    {
-      "id": "emily-randall-wa-06",
-      "name": "Emily Randall",
-      "districtOrOffice": "U.S. House, WA-06",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/emily-randall-wa-06.json"
     },
     {
       "id": "emily-randall-wa-h-06",
@@ -5201,14 +4601,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/eric-b-cunningham-ga-h-14.json"
-    },
-    {
-      "id": "eric-burlison-mo-07",
-      "name": "Eric Burlison",
-      "districtOrOffice": "U.S. House, MO-07",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/eric-burlison-mo-07.json"
     },
     {
       "id": "eric-burlison-mo-h-07",
@@ -5323,14 +4715,6 @@
       "endpoint": "/api/candidates/eric-small-me-h-01.json"
     },
     {
-      "id": "eric-sorensen-il-17",
-      "name": "Eric Sorensen",
-      "districtOrOffice": "U.S. House, IL-17",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/eric-sorensen-il-17.json"
-    },
-    {
       "id": "eric-sorensen-il-h-17",
       "name": "Eric Sorensen",
       "districtOrOffice": "U.S. House, IL-17",
@@ -5409,14 +4793,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/erik-terwey-ok-h-02.json"
-    },
-    {
-      "id": "erin-houchin-in-09",
-      "name": "Erin Houchin",
-      "districtOrOffice": "U.S. House, IN-09",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/erin-houchin-in-09.json"
     },
     {
       "id": "erin-houchin-in-h-09",
@@ -5619,30 +4995,6 @@
       "endpoint": "/api/candidates/francisco-quico-raul-canseco-tx-h-23.json"
     },
     {
-      "id": "frank-d-lucas-ok-h-03",
-      "name": "Frank D. Lucas",
-      "districtOrOffice": "U.S. House, OK-03",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/frank-d-lucas-ok-h-03.json"
-    },
-    {
-      "id": "frank-j-mrvan-in-h-01",
-      "name": "Frank J. Mrvan",
-      "districtOrOffice": "U.S. House, IN-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/frank-j-mrvan-in-h-01.json"
-    },
-    {
-      "id": "frank-jr-pallone-nj-h-06",
-      "name": "Frank Jr Pallone",
-      "districtOrOffice": "U.S. House, NJ-06",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/frank-jr-pallone-nj-h-06.json"
-    },
-    {
       "id": "frank-lucas-ok-03",
       "name": "Frank Lucas",
       "districtOrOffice": "U.S. House, OK-03",
@@ -5673,14 +5025,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/frederic-clark-wi-h-07.json"
-    },
-    {
-      "id": "frederica-s-wilson-fl-h-24",
-      "name": "Frederica S. Wilson",
-      "districtOrOffice": "U.S. House, FL-24",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/frederica-s-wilson-fl-h-24.json"
     },
     {
       "id": "frederica-wilson-fl-24",
@@ -5803,14 +5147,6 @@
       "endpoint": "/api/candidates/gary-frank-taylor-tx-h-21.json"
     },
     {
-      "id": "gary-palmer-al-06",
-      "name": "Gary Palmer",
-      "districtOrOffice": "U.S. House, AL-06",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/gary-palmer-al-06.json"
-    },
-    {
       "id": "gary-palmer-al-h-06",
       "name": "Gary Palmer",
       "districtOrOffice": "U.S. House, AL-06",
@@ -5825,14 +5161,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/gary-peters-mi-s-00.json"
-    },
-    {
-      "id": "gary-peters-mi-sen",
-      "name": "Gary Peters",
-      "districtOrOffice": "U.S. Senate, MI",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/gary-peters-mi-sen.json"
     },
     {
       "id": "gary-vician-il-h-14",
@@ -5883,14 +5211,6 @@
       "endpoint": "/api/candidates/george-j-jr-kelly-pa-h-16.json"
     },
     {
-      "id": "george-latimer-ny-16",
-      "name": "George Latimer",
-      "districtOrOffice": "U.S. House, NY-16",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/george-latimer-ny-16.json"
-    },
-    {
       "id": "george-latimer-ny-h-16",
       "name": "George Latimer",
       "districtOrOffice": "U.S. House, NY-16",
@@ -5921,14 +5241,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/george-washington-mr-v-markert-co-s-00.json"
-    },
-    {
-      "id": "george-whitesides-ca-27",
-      "name": "George Whitesides",
-      "districtOrOffice": "U.S. House, CA-27",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/george-whitesides-ca-27.json"
     },
     {
       "id": "george-whitesides-ca-h-27",
@@ -6027,14 +5339,6 @@
       "endpoint": "/api/candidates/glenn-mr-thompson-pa-h-15.json"
     },
     {
-      "id": "glenn-s-grothman-wi-h-06",
-      "name": "Glenn S. Grothman",
-      "districtOrOffice": "U.S. House, WI-06",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/glenn-s-grothman-wi-h-06.json"
-    },
-    {
       "id": "gordon-chaffin-dc-h-00",
       "name": "Gordon Chaffin",
       "districtOrOffice": "Delegate, DC",
@@ -6075,14 +5379,6 @@
       "endpoint": "/api/candidates/greg-cunningham-nm-h-02.json"
     },
     {
-      "id": "greg-landsman-oh-01",
-      "name": "Greg Landsman",
-      "districtOrOffice": "U.S. House, OH-01",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/greg-landsman-oh-01.json"
-    },
-    {
       "id": "greg-landsman-oh-h-01",
       "name": "Greg Landsman",
       "districtOrOffice": "U.S. House, OH-01",
@@ -6107,28 +5403,12 @@
       "endpoint": "/api/candidates/greg-plucinski-ky-h-06.json"
     },
     {
-      "id": "greg-stanton-az-04",
-      "name": "Greg Stanton",
-      "districtOrOffice": "U.S. House, AZ-04",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/greg-stanton-az-04.json"
-    },
-    {
       "id": "greg-stanton-az-h-04",
       "name": "Greg Stanton",
       "districtOrOffice": "U.S. House, AZ-04",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/greg-stanton-az-h-04.json"
-    },
-    {
-      "id": "greg-steube-fl-17",
-      "name": "Greg Steube",
-      "districtOrOffice": "U.S. House, FL-17",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/greg-steube-fl-17.json"
     },
     {
       "id": "greg-steube-fl-h-17",
@@ -6227,14 +5507,6 @@
       "endpoint": "/api/candidates/gregory-scott-jr-kunkle-tx-h-34.json"
     },
     {
-      "id": "gregory-w-meeks-ny-h-05",
-      "name": "Gregory W. Meeks",
-      "districtOrOffice": "U.S. House, NY-05",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/gregory-w-meeks-ny-h-05.json"
-    },
-    {
       "id": "gretchen-brown-tx-h-18",
       "name": "Gretchen Brown",
       "districtOrOffice": "U.S. House, TX-18",
@@ -6267,14 +5539,6 @@
       "endpoint": "/api/candidates/gus-bilirakis-fl-12.json"
     },
     {
-      "id": "gus-m-bilirakis-fl-h-12",
-      "name": "Gus M Bilirakis",
-      "districtOrOffice": "U.S. House, FL-12",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/gus-m-bilirakis-fl-h-12.json"
-    },
-    {
       "id": "guy-mr-reschenthaler-pa-h-14",
       "name": "Guy Mr. Reschenthaler",
       "districtOrOffice": "U.S. House, PA-14",
@@ -6299,28 +5563,12 @@
       "endpoint": "/api/candidates/gwen-moore-wi-04.json"
     },
     {
-      "id": "gwen-s-moore-wi-h-04",
-      "name": "Gwen S Moore",
-      "districtOrOffice": "U.S. House, WI-04",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/gwen-s-moore-wi-h-04.json"
-    },
-    {
       "id": "h-morgan-griffith-va-h-09",
       "name": "H Morgan Griffith",
       "districtOrOffice": "U.S. House, VA-09",
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/h-morgan-griffith-va-h-09.json"
-    },
-    {
-      "id": "hakeem-jeffries-ny-08",
-      "name": "Hakeem Jeffries",
-      "districtOrOffice": "U.S. House, NY-08",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/hakeem-jeffries-ny-08.json"
     },
     {
       "id": "hakeem-jeffries-ny-h-08",
@@ -6337,14 +5585,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/hal-rogers-ky-05.json"
-    },
-    {
-      "id": "haley-stevens-mi-11",
-      "name": "Haley Stevens",
-      "districtOrOffice": "U.S. House, MI-11",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/haley-stevens-mi-11.json"
     },
     {
       "id": "haley-stevens-mi-h-11",
@@ -6523,14 +5763,6 @@
       "endpoint": "/api/candidates/henry-cuellar-tx-28.json"
     },
     {
-      "id": "henry-r-cuellar-tx-h-28",
-      "name": "Henry R. Cuellar",
-      "districtOrOffice": "U.S. House, TX-28",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/henry-r-cuellar-tx-h-28.json"
-    },
-    {
       "id": "herb-conaway-nj-03",
       "name": "Herb Conaway",
       "districtOrOffice": "U.S. House, NJ-03",
@@ -6553,14 +5785,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/hilda-solis-ca-h-38.json"
-    },
-    {
-      "id": "hillary-scholten-mi-03",
-      "name": "Hillary Scholten",
-      "districtOrOffice": "U.S. House, MI-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/hillary-scholten-mi-03.json"
     },
     {
       "id": "hillary-scholten-mi-h-03",
@@ -6641,14 +5865,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/huy-yen-cam-ms-bailey-fl-h-02.json"
-    },
-    {
-      "id": "ilhan-omar-mn-05",
-      "name": "Ilhan Omar",
-      "districtOrOffice": "U.S. House, MN-05",
-      "stanceLabel": "Pro-Palestine",
-      "stanceColor": "green",
-      "endpoint": "/api/candidates/ilhan-omar-mn-05.json"
     },
     {
       "id": "ilhan-omar-mn-h-05",
@@ -6739,14 +5955,6 @@
       "endpoint": "/api/candidates/jacob-lawrence-nc-h-11.json"
     },
     {
-      "id": "jahana-hayes-ct-05",
-      "name": "Jahana Hayes",
-      "districtOrOffice": "U.S. House, CT-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jahana-hayes-ct-05.json"
-    },
-    {
       "id": "jahana-hayes-ct-h-05",
       "name": "Jahana Hayes",
       "districtOrOffice": "U.S. House, CT-05",
@@ -6769,14 +5977,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/jaimy-blanco-tx-h-09.json"
-    },
-    {
-      "id": "jake-auchincloss-ma-04",
-      "name": "Jake Auchincloss",
-      "districtOrOffice": "U.S. House, MA-04",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jake-auchincloss-ma-04.json"
     },
     {
       "id": "jake-auchincloss-ma-h-04",
@@ -6881,14 +6081,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/james-carlin-ia-s-00.json"
-    },
-    {
-      "id": "james-comer-ky-01",
-      "name": "James Comer",
-      "districtOrOffice": "U.S. House, KY-01",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/james-comer-ky-01.json"
     },
     {
       "id": "james-comer-ky-h-01",
@@ -7115,14 +6307,6 @@
       "endpoint": "/api/candidates/james-thomas-marter-il-h-14.json"
     },
     {
-      "id": "james-walkinshaw-va-11",
-      "name": "James Walkinshaw",
-      "districtOrOffice": "U.S. House, VA-11",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/james-walkinshaw-va-11.json"
-    },
-    {
       "id": "james-walkinshaw-va-h-11",
       "name": "James Walkinshaw",
       "districtOrOffice": "U.S. House, VA-11",
@@ -7171,14 +6355,6 @@
       "endpoint": "/api/candidates/jamie-marie-zahlaway-belsito-ma-h-06.json"
     },
     {
-      "id": "jamie-raskin-md-08",
-      "name": "Jamie Raskin",
-      "districtOrOffice": "U.S. House, MD-08",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jamie-raskin-md-08.json"
-    },
-    {
       "id": "jamie-raskin-md-h-08",
       "name": "Jamie Raskin",
       "districtOrOffice": "U.S. House, MD-08",
@@ -7201,14 +6377,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/janak-joshi-co-s-00.json"
-    },
-    {
-      "id": "janelle-bynum-or-05",
-      "name": "Janelle Bynum",
-      "districtOrOffice": "U.S. House, OR-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/janelle-bynum-or-05.json"
     },
     {
       "id": "janelle-bynum-or-h-05",
@@ -7259,14 +6427,6 @@
       "endpoint": "/api/candidates/jared-craig-ga-h-14.json"
     },
     {
-      "id": "jared-golden-me-02",
-      "name": "Jared Golden",
-      "districtOrOffice": "U.S. House, ME-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jared-golden-me-02.json"
-    },
-    {
       "id": "jared-golden-me-h-02",
       "name": "Jared Golden",
       "districtOrOffice": "U.S. House, ME-02",
@@ -7291,28 +6451,12 @@
       "endpoint": "/api/candidates/jared-hudson-al-s-00.json"
     },
     {
-      "id": "jared-huffman-ca-02",
-      "name": "Jared Huffman",
-      "districtOrOffice": "U.S. House, CA-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jared-huffman-ca-02.json"
-    },
-    {
       "id": "jared-huffman-ca-h-02",
       "name": "Jared Huffman",
       "districtOrOffice": "U.S. House, CA-02",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/jared-huffman-ca-h-02.json"
-    },
-    {
-      "id": "jared-moskowitz-fl-23",
-      "name": "Jared Moskowitz",
-      "districtOrOffice": "U.S. House, FL-23",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jared-moskowitz-fl-23.json"
     },
     {
       "id": "jared-moskowitz-fl-h-23",
@@ -7363,14 +6507,6 @@
       "endpoint": "/api/candidates/jasmine-clark-ga-h-13.json"
     },
     {
-      "id": "jasmine-crockett-tx-30",
-      "name": "Jasmine Crockett",
-      "districtOrOffice": "U.S. House, TX-30",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jasmine-crockett-tx-30.json"
-    },
-    {
       "id": "jasmine-crockett-tx-h-30",
       "name": "Jasmine Crockett",
       "districtOrOffice": "U.S. House, TX-30",
@@ -7409,14 +6545,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/jason-corley-tx-h-19.json"
-    },
-    {
-      "id": "jason-crow-co-06",
-      "name": "Jason Crow",
-      "districtOrOffice": "U.S. House, CO-06",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jason-crow-co-06.json"
     },
     {
       "id": "jason-crow-co-h-06",
@@ -7475,14 +6603,6 @@
       "endpoint": "/api/candidates/jason-smith-mo-08.json"
     },
     {
-      "id": "jason-t-smith-mo-h-08",
-      "name": "Jason T Smith",
-      "districtOrOffice": "U.S. House, MO-08",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/jason-t-smith-mo-h-08.json"
-    },
-    {
       "id": "javier-b-lopez-ca-h-13",
       "name": "Javier B Lopez",
       "districtOrOffice": "U.S. House, CA-13",
@@ -7505,14 +6625,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/jay-nagy-tx-h-34.json"
-    },
-    {
-      "id": "jay-obernolte-ca-23",
-      "name": "Jay Obernolte",
-      "districtOrOffice": "U.S. House, CA-23",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jay-obernolte-ca-23.json"
     },
     {
       "id": "jay-obernolte-ca-h-23",
@@ -7555,14 +6667,6 @@
       "endpoint": "/api/candidates/jeanne-shaheen-nh-s-00.json"
     },
     {
-      "id": "jeanne-shaheen-nh-sen",
-      "name": "Jeanne Shaheen",
-      "districtOrOffice": "U.S. Senate, NH",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jeanne-shaheen-nh-sen.json"
-    },
-    {
       "id": "jeannie-evans-il-s-00",
       "name": "Jeannie Evans",
       "districtOrOffice": "U.S. Senate, IL",
@@ -7593,14 +6697,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/jeff-cohen-il-h-09.json"
-    },
-    {
-      "id": "jeff-crank-co-05",
-      "name": "Jeff Crank",
-      "districtOrOffice": "U.S. House, CO-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jeff-crank-co-05.json"
     },
     {
       "id": "jeff-crank-co-h-05",
@@ -7657,14 +6753,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/jeff-wilson-il-h-13.json"
-    },
-    {
-      "id": "jefferson-shreve-in-06",
-      "name": "Jefferson Shreve",
-      "districtOrOffice": "U.S. House, IN-06",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jefferson-shreve-in-06.json"
     },
     {
       "id": "jefferson-shreve-in-h-06",
@@ -7825,14 +6913,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/jennifer-m-brothers-pa-h-09.json"
-    },
-    {
-      "id": "jennifer-mcclellan-va-04",
-      "name": "Jennifer McClellan",
-      "districtOrOffice": "U.S. House, VA-04",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jennifer-mcclellan-va-04.json"
     },
     {
       "id": "jennifer-mcclellan-va-h-04",
@@ -8099,14 +7179,6 @@
       "endpoint": "/api/candidates/jim-blockey-nv-h-01.json"
     },
     {
-      "id": "jim-costa-ca-21",
-      "name": "Jim Costa",
-      "districtOrOffice": "U.S. House, CA-21",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jim-costa-ca-21.json"
-    },
-    {
       "id": "jim-costa-ca-h-21",
       "name": "Jim Costa",
       "districtOrOffice": "U.S. House, CA-21",
@@ -8121,14 +7193,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/jim-desmond-ca-h-49.json"
-    },
-    {
-      "id": "jim-himes-ct-04",
-      "name": "Jim Himes",
-      "districtOrOffice": "U.S. House, CT-04",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jim-himes-ct-04.json"
     },
     {
       "id": "jim-himes-ct-h-04",
@@ -8187,36 +7251,12 @@
       "endpoint": "/api/candidates/jim-tully-ga-h-14.json"
     },
     {
-      "id": "jimmy-gomez-ca-34",
-      "name": "Jimmy Gomez",
-      "districtOrOffice": "U.S. House, CA-34",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jimmy-gomez-ca-34.json"
-    },
-    {
       "id": "jimmy-gomez-ca-h-34",
       "name": "Jimmy Gomez",
       "districtOrOffice": "U.S. House, CA-34",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/jimmy-gomez-ca-h-34.json"
-    },
-    {
-      "id": "jimmy-jr-patronis-fl-h-01",
-      "name": "Jimmy Jr. Patronis",
-      "districtOrOffice": "U.S. House, FL-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/jimmy-jr-patronis-fl-h-01.json"
-    },
-    {
-      "id": "jimmy-panetta-ca-19",
-      "name": "Jimmy Panetta",
-      "districtOrOffice": "U.S. House, CA-19",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jimmy-panetta-ca-19.json"
     },
     {
       "id": "jimmy-panetta-ca-h-19",
@@ -8251,28 +7291,12 @@
       "endpoint": "/api/candidates/joanna-mendoza-az-h-06.json"
     },
     {
-      "id": "joaquin-castro-tx-20",
-      "name": "Joaquin Castro",
-      "districtOrOffice": "U.S. House, TX-20",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/joaquin-castro-tx-20.json"
-    },
-    {
       "id": "joaquin-castro-tx-h-20",
       "name": "Joaquin Castro",
       "districtOrOffice": "U.S. House, TX-20",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/joaquin-castro-tx-h-20.json"
-    },
-    {
-      "id": "jodey-arrington-tx-19",
-      "name": "Jodey Arrington",
-      "districtOrOffice": "U.S. House, TX-19",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jodey-arrington-tx-19.json"
     },
     {
       "id": "jodey-arrington-tx-h-19",
@@ -8401,14 +7425,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/john-anthony-jr-olszewski-md-h-02.json"
-    },
-    {
-      "id": "john-b-larson-ct-h-01",
-      "name": "John B Larson",
-      "districtOrOffice": "U.S. House, CT-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/john-b-larson-ct-h-01.json"
     },
     {
       "id": "john-barrasso-wy-sen",
@@ -8555,14 +7571,6 @@
       "endpoint": "/api/candidates/john-fetterman-pa-sen.json"
     },
     {
-      "id": "john-garamendi-ca-08",
-      "name": "John Garamendi",
-      "districtOrOffice": "U.S. House, CA-08",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/john-garamendi-ca-08.json"
-    },
-    {
       "id": "john-garamendi-ca-h-08",
       "name": "John Garamendi",
       "districtOrOffice": "U.S. House, CA-08",
@@ -8635,14 +7643,6 @@
       "endpoint": "/api/candidates/john-jack-codiga-nc-h-12.json"
     },
     {
-      "id": "john-james-mi-10",
-      "name": "John James",
-      "districtOrOffice": "U.S. House, MI-10",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/john-james-mi-10.json"
-    },
-    {
       "id": "john-james-mi-h-10",
       "name": "John James",
       "districtOrOffice": "U.S. House, MI-10",
@@ -8657,14 +7657,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/john-joseph-mr-salka-ny-h-22.json"
-    },
-    {
-      "id": "john-joyce-pa-13",
-      "name": "John Joyce",
-      "districtOrOffice": "U.S. House, PA-13",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/john-joyce-pa-13.json"
     },
     {
       "id": "john-joyce-pa-h-13",
@@ -8737,14 +7729,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/john-mannion-ny-22.json"
-    },
-    {
-      "id": "john-mcguire-va-05",
-      "name": "John McGuire",
-      "districtOrOffice": "U.S. House, VA-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/john-mcguire-va-05.json"
     },
     {
       "id": "john-mcbride-ca-h-09",
@@ -8835,14 +7819,6 @@
       "endpoint": "/api/candidates/john-rose-tn-06.json"
     },
     {
-      "id": "john-rutherford-fl-05",
-      "name": "John Rutherford",
-      "districtOrOffice": "U.S. House, FL-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/john-rutherford-fl-05.json"
-    },
-    {
       "id": "john-rutherford-fl-h-05",
       "name": "John Rutherford",
       "districtOrOffice": "U.S. House, FL-05",
@@ -8907,30 +7883,6 @@
       "endpoint": "/api/candidates/john-trobough-az-h-01.json"
     },
     {
-      "id": "john-w-mannion-ny-h-22",
-      "name": "John W Mannion",
-      "districtOrOffice": "U.S. House, NY-22",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/john-w-mannion-ny-h-22.json"
-    },
-    {
-      "id": "john-w-hickenlooper-co-s-00",
-      "name": "John W. Hickenlooper",
-      "districtOrOffice": "U.S. Senate, CO",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/john-w-hickenlooper-co-s-00.json"
-    },
-    {
-      "id": "john-w-rose-tn-h-06",
-      "name": "John W. Rose",
-      "districtOrOffice": "U.S. House, TN-06",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/john-w-rose-tn-h-06.json"
-    },
-    {
       "id": "johnny-baucom-ms-h-01",
       "name": "Johnny Baucom",
       "districtOrOffice": "U.S. House, MS-01",
@@ -8977,14 +7929,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/jon-husted-oh-s-00.json"
-    },
-    {
-      "id": "jon-husted-oh-sen",
-      "name": "Jon Husted",
-      "districtOrOffice": "U.S. Senate, OH",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jon-husted-oh-sen.json"
     },
     {
       "id": "jon-ossoff-ga-sen",
@@ -9043,14 +7987,6 @@
       "endpoint": "/api/candidates/jonathan-derrick-evans-wv-s-00.json"
     },
     {
-      "id": "jonathan-jackson-il-01",
-      "name": "Jonathan Jackson",
-      "districtOrOffice": "U.S. House, IL-01",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/jonathan-jackson-il-01.json"
-    },
-    {
       "id": "jonathan-jackson-il-h-01",
       "name": "Jonathan Jackson",
       "districtOrOffice": "U.S. House, IL-01",
@@ -9097,14 +8033,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/joni-ernst-ia-sen.json"
-    },
-    {
-      "id": "joni-k-ernst-ia-s-00",
-      "name": "Joni K Ernst",
-      "districtOrOffice": "U.S. Senate, IA",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/joni-k-ernst-ia-s-00.json"
     },
     {
       "id": "jordan-douglas-wheatley-tx-h-03",
@@ -9227,14 +8155,6 @@
       "endpoint": "/api/candidates/joseph-tache-ma-s-00.json"
     },
     {
-      "id": "josh-brecheen-ok-02",
-      "name": "Josh Brecheen",
-      "districtOrOffice": "U.S. House, OK-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/josh-brecheen-ok-02.json"
-    },
-    {
       "id": "josh-brecheen-ok-h-02",
       "name": "Josh Brecheen",
       "districtOrOffice": "U.S. House, OK-02",
@@ -9251,28 +8171,12 @@
       "endpoint": "/api/candidates/josh-cowen-mi-h-07.json"
     },
     {
-      "id": "josh-gottheimer-nj-05",
-      "name": "Josh Gottheimer",
-      "districtOrOffice": "U.S. House, NJ-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/josh-gottheimer-nj-05.json"
-    },
-    {
       "id": "josh-gottheimer-nj-h-05",
       "name": "Josh Gottheimer",
       "districtOrOffice": "U.S. House, NJ-05",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/josh-gottheimer-nj-h-05.json"
-    },
-    {
-      "id": "josh-harder-ca-09",
-      "name": "Josh Harder",
-      "districtOrOffice": "U.S. House, CA-09",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/josh-harder-ca-09.json"
     },
     {
       "id": "josh-harder-ca-h-09",
@@ -9297,14 +8201,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/josh-mcconkey-nc-h-13.json"
-    },
-    {
-      "id": "josh-riley-ny-19",
-      "name": "Josh Riley",
-      "districtOrOffice": "U.S. House, NY-19",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/josh-riley-ny-19.json"
     },
     {
       "id": "josh-riley-ny-h-19",
@@ -9419,14 +8315,6 @@
       "endpoint": "/api/candidates/joy-powers-va-h-09.json"
     },
     {
-      "id": "joyce-beatty-oh-03",
-      "name": "Joyce Beatty",
-      "districtOrOffice": "U.S. House, OH-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/joyce-beatty-oh-03.json"
-    },
-    {
       "id": "joyce-beatty-oh-h-03",
       "name": "Joyce Beatty",
       "districtOrOffice": "U.S. House, OH-03",
@@ -9441,22 +8329,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/joyce-elaine-ed-d-neal-tn-h-05.json"
-    },
-    {
-      "id": "juan-c-vargas-ca-h-52",
-      "name": "Juan C. Vargas",
-      "districtOrOffice": "U.S. House, CA-52",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/juan-c-vargas-ca-h-52.json"
-    },
-    {
-      "id": "juan-ciscomani-az-06",
-      "name": "Juan Ciscomani",
-      "districtOrOffice": "U.S. House, AZ-06",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/juan-ciscomani-az-06.json"
     },
     {
       "id": "juan-ciscomani-az-h-06",
@@ -9491,14 +8363,6 @@
       "endpoint": "/api/candidates/judy-bowlby-il-h-15.json"
     },
     {
-      "id": "judy-chu-ca-28",
-      "name": "Judy Chu",
-      "districtOrOffice": "U.S. House, CA-28",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/judy-chu-ca-28.json"
-    },
-    {
       "id": "judy-chu-ca-h-28",
       "name": "Judy Chu",
       "districtOrOffice": "U.S. House, CA-28",
@@ -9507,28 +8371,12 @@
       "endpoint": "/api/candidates/judy-chu-ca-h-28.json"
     },
     {
-      "id": "julia-brownley-ca-26",
-      "name": "Julia Brownley",
-      "districtOrOffice": "U.S. House, CA-26",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/julia-brownley-ca-26.json"
-    },
-    {
       "id": "julia-brownley-ca-h-26",
       "name": "Julia Brownley",
       "districtOrOffice": "U.S. House, CA-26",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/julia-brownley-ca-h-26.json"
-    },
-    {
-      "id": "julia-letlow-la-05",
-      "name": "Julia Letlow",
-      "districtOrOffice": "U.S. House, LA-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/julia-letlow-la-05.json"
     },
     {
       "id": "julia-letlow-la-h-05",
@@ -9763,14 +8611,6 @@
       "endpoint": "/api/candidates/kasie-dr-whitener-sc-s-00.json"
     },
     {
-      "id": "kat-cammack-fl-03",
-      "name": "Kat Cammack",
-      "districtOrOffice": "U.S. House, FL-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/kat-cammack-fl-03.json"
-    },
-    {
       "id": "kat-cammack-fl-h-03",
       "name": "Kat Cammack",
       "districtOrOffice": "U.S. House, FL-03",
@@ -9801,14 +8641,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/katherine-aleman-ca-h-41.json"
-    },
-    {
-      "id": "katherine-clark-ma-05",
-      "name": "Katherine Clark",
-      "districtOrOffice": "U.S. House, MA-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/katherine-clark-ma-05.json"
     },
     {
       "id": "katherine-clark-ma-h-05",
@@ -9857,14 +8689,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/kathryn-j-dolter-ia-h-02.json"
-    },
-    {
-      "id": "kathy-castor-fl-14",
-      "name": "Kathy Castor",
-      "districtOrOffice": "U.S. House, FL-14",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/kathy-castor-fl-14.json"
     },
     {
       "id": "kathy-castor-fl-h-14",
@@ -10107,14 +8931,6 @@
       "endpoint": "/api/candidates/kevin-hermening-wi-h-07.json"
     },
     {
-      "id": "kevin-hern-ok-01",
-      "name": "Kevin Hern",
-      "districtOrOffice": "U.S. House, OK-01",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/kevin-hern-ok-01.json"
-    },
-    {
       "id": "kevin-hern-ok-h-01",
       "name": "Kevin Hern",
       "districtOrOffice": "U.S. House, OK-01",
@@ -10131,28 +8947,12 @@
       "endpoint": "/api/candidates/kevin-j-ii-lincoln-ca-h-13.json"
     },
     {
-      "id": "kevin-kiley-ca-03",
-      "name": "Kevin Kiley",
-      "districtOrOffice": "U.S. House, CA-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/kevin-kiley-ca-03.json"
-    },
-    {
       "id": "kevin-kiley-ca-h-03",
       "name": "Kevin Kiley",
       "districtOrOffice": "U.S. House, CA-03",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/kevin-kiley-ca-h-03.json"
-    },
-    {
-      "id": "kevin-mullin-ca-15",
-      "name": "Kevin Mullin",
-      "districtOrOffice": "U.S. House, CA-15",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/kevin-mullin-ca-15.json"
     },
     {
       "id": "kevin-mullin-ca-h-15",
@@ -10299,14 +9099,6 @@
       "endpoint": "/api/candidates/krista-penn-ga-h-01.json"
     },
     {
-      "id": "kristen-mcdonald-rivet-mi-08",
-      "name": "Kristen McDonald Rivet",
-      "districtOrOffice": "U.S. House, MI-08",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/kristen-mcdonald-rivet-mi-08.json"
-    },
-    {
       "id": "kristen-mcdonald-rivet-mi-h-08",
       "name": "Kristen Mcdonald Rivet",
       "districtOrOffice": "U.S. House, MI-08",
@@ -10337,14 +9129,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/kurt-schwab-tx-h-33.json"
-    },
-    {
-      "id": "kweisi-mfume-md-07",
-      "name": "Kweisi Mfume",
-      "districtOrOffice": "U.S. House, MD-07",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/kweisi-mfume-md-07.json"
     },
     {
       "id": "kweisi-mfume-md-h-07",
@@ -10451,14 +9235,6 @@
       "endpoint": "/api/candidates/lamont-mcclure-pa-h-07.json"
     },
     {
-      "id": "lance-gooden-tx-05",
-      "name": "Lance Gooden",
-      "districtOrOffice": "U.S. House, TX-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/lance-gooden-tx-05.json"
-    },
-    {
       "id": "lance-gooden-tx-h-05",
       "name": "Lance Gooden",
       "districtOrOffice": "U.S. House, TX-05",
@@ -10515,28 +9291,12 @@
       "endpoint": "/api/candidates/laura-fine-il-h-09.json"
     },
     {
-      "id": "laura-friedman-ca-30",
-      "name": "Laura Friedman",
-      "districtOrOffice": "U.S. House, CA-30",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/laura-friedman-ca-30.json"
-    },
-    {
       "id": "laura-friedman-ca-h-30",
       "name": "Laura Friedman",
       "districtOrOffice": "U.S. House, CA-30",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/laura-friedman-ca-h-30.json"
-    },
-    {
-      "id": "laura-gillen-ny-04",
-      "name": "Laura Gillen",
-      "districtOrOffice": "U.S. House, NY-04",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/laura-gillen-ny-04.json"
     },
     {
       "id": "laura-gillen-ny-h-04",
@@ -10571,14 +9331,6 @@
       "endpoint": "/api/candidates/laura-s-benjamin-wi-h-03.json"
     },
     {
-      "id": "laurel-lee-fl-15",
-      "name": "Laurel Lee",
-      "districtOrOffice": "U.S. House, FL-15",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/laurel-lee-fl-15.json"
-    },
-    {
       "id": "laurel-lee-fl-h-15",
       "name": "Laurel Lee",
       "districtOrOffice": "U.S. House, FL-15",
@@ -10603,14 +9355,6 @@
       "endpoint": "/api/candidates/lauren-babb-tomlinson-ca-h-06.json"
     },
     {
-      "id": "lauren-boebert-co-04",
-      "name": "Lauren Boebert",
-      "districtOrOffice": "U.S. House, CO-04",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/lauren-boebert-co-04.json"
-    },
-    {
       "id": "lauren-boebert-co-h-04",
       "name": "Lauren Boebert",
       "districtOrOffice": "U.S. House, CO-04",
@@ -10625,14 +9369,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/lauren-jewett-la-h-01.json"
-    },
-    {
-      "id": "lauren-underwood-il-14",
-      "name": "Lauren Underwood",
-      "districtOrOffice": "U.S. House, IL-14",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/lauren-underwood-il-14.json"
     },
     {
       "id": "lauren-underwood-il-h-14",
@@ -10755,14 +9491,6 @@
       "endpoint": "/api/candidates/lisa-d-ramirez-ca-h-40.json"
     },
     {
-      "id": "lisa-mcclain-mi-09",
-      "name": "Lisa McClain",
-      "districtOrOffice": "U.S. House, MI-09",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/lisa-mcclain-mi-09.json"
-    },
-    {
       "id": "lisa-mcclain-mi-h-09",
       "name": "Lisa Mcclain",
       "districtOrOffice": "U.S. House, MI-09",
@@ -10795,28 +9523,12 @@
       "endpoint": "/api/candidates/lizzie-fletcher-tx-07.json"
     },
     {
-      "id": "lloyd-doggett-tx-37",
-      "name": "Lloyd Doggett",
-      "districtOrOffice": "U.S. House, TX-37",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/lloyd-doggett-tx-37.json"
-    },
-    {
       "id": "lloyd-doggett-tx-h-37",
       "name": "Lloyd Doggett",
       "districtOrOffice": "U.S. House, TX-37",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/lloyd-doggett-tx-h-37.json"
-    },
-    {
-      "id": "lloyd-k-smucker-pa-h-11",
-      "name": "Lloyd K. Smucker",
-      "districtOrOffice": "U.S. House, PA-11",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/lloyd-k-smucker-pa-h-11.json"
     },
     {
       "id": "lloyd-smucker-pa-11",
@@ -10859,14 +9571,6 @@
       "endpoint": "/api/candidates/lois-frankel-fl-22.json"
     },
     {
-      "id": "lois-j-frankel-fl-h-22",
-      "name": "Lois J. Frankel",
-      "districtOrOffice": "U.S. House, FL-22",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/lois-j-frankel-fl-h-22.json"
-    },
-    {
       "id": "loren-colin-ca-h-34",
       "name": "Loren Colin",
       "districtOrOffice": "U.S. House, CA-34",
@@ -10883,28 +9587,12 @@
       "endpoint": "/api/candidates/lorenzo-rios-ca-h-21.json"
     },
     {
-      "id": "lori-trahan-ma-03",
-      "name": "Lori Trahan",
-      "districtOrOffice": "U.S. House, MA-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/lori-trahan-ma-03.json"
-    },
-    {
       "id": "lori-trahan-ma-h-03",
       "name": "Lori Trahan",
       "districtOrOffice": "U.S. House, MA-03",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/lori-trahan-ma-h-03.json"
-    },
-    {
-      "id": "lou-correa-ca-46",
-      "name": "Lou Correa",
-      "districtOrOffice": "U.S. House, CA-46",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/lou-correa-ca-46.json"
     },
     {
       "id": "lou-correa-ca-h-46",
@@ -10963,14 +9651,6 @@
       "endpoint": "/api/candidates/luke-bronin-ct-h-01.json"
     },
     {
-      "id": "luz-rivas-ca-29",
-      "name": "Luz Rivas",
-      "districtOrOffice": "U.S. House, CA-29",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/luz-rivas-ca-29.json"
-    },
-    {
       "id": "luz-rivas-ca-h-29",
       "name": "Luz Rivas",
       "districtOrOffice": "U.S. House, CA-29",
@@ -11027,14 +9707,6 @@
       "endpoint": "/api/candidates/madaris-grant-oh-h-08.json"
     },
     {
-      "id": "madeleine-dean-pa-04",
-      "name": "Madeleine Dean",
-      "districtOrOffice": "U.S. House, PA-04",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/madeleine-dean-pa-04.json"
-    },
-    {
       "id": "madeleine-dean-pa-h-04",
       "name": "Madeleine Dean",
       "districtOrOffice": "U.S. House, PA-04",
@@ -11049,14 +9721,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/madison-cawthorn-fl-h-19.json"
-    },
-    {
-      "id": "maggie-goodlander-nh-02",
-      "name": "Maggie Goodlander",
-      "districtOrOffice": "U.S. House, NH-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/maggie-goodlander-nh-02.json"
     },
     {
       "id": "maggie-goodlander-nh-h-02",
@@ -11235,28 +9899,12 @@
       "endpoint": "/api/candidates/mariannette-jane-miller-meeks-ia-h-01.json"
     },
     {
-      "id": "marie-gluesenkamp-perez-wa-03",
-      "name": "Marie Gluesenkamp Perez",
-      "districtOrOffice": "U.S. House, WA-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/marie-gluesenkamp-perez-wa-03.json"
-    },
-    {
       "id": "marie-gluesenkamp-perez-wa-h-03",
       "name": "Marie Gluesenkamp Perez",
       "districtOrOffice": "U.S. House, WA-03",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/marie-gluesenkamp-perez-wa-h-03.json"
-    },
-    {
-      "id": "marilyn-strickland-wa-10",
-      "name": "Marilyn Strickland",
-      "districtOrOffice": "U.S. House, WA-10",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/marilyn-strickland-wa-10.json"
     },
     {
       "id": "marilyn-strickland-wa-h-10",
@@ -11275,14 +9923,6 @@
       "endpoint": "/api/candidates/mario-alberto-morales-tx-h-34.json"
     },
     {
-      "id": "mario-diaz-balart-fl-26",
-      "name": "Mario Diaz-Balart",
-      "districtOrOffice": "U.S. House, FL-26",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/mario-diaz-balart-fl-26.json"
-    },
-    {
       "id": "mario-diaz-balart-fl-h-26",
       "name": "Mario Diaz-Balart",
       "districtOrOffice": "U.S. House, FL-26",
@@ -11297,14 +9937,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/marjorie-taylor-greene-ga-h-14.json"
-    },
-    {
-      "id": "mark-alford-mo-04",
-      "name": "Mark Alford",
-      "districtOrOffice": "U.S. House, MO-04",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/mark-alford-mo-04.json"
     },
     {
       "id": "mark-alford-mo-h-04",
@@ -11363,14 +9995,6 @@
       "endpoint": "/api/candidates/mark-davis-fl-h-16.json"
     },
     {
-      "id": "mark-desaulnier-ca-10",
-      "name": "Mark DeSaulnier",
-      "districtOrOffice": "U.S. House, CA-10",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/mark-desaulnier-ca-10.json"
-    },
-    {
       "id": "mark-desaulnier-ca-h-10",
       "name": "Mark Desaulnier",
       "districtOrOffice": "U.S. House, CA-10",
@@ -11385,14 +10009,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/mark-dr-green-tn-h-07.json"
-    },
-    {
-      "id": "mark-e-harris-nc-h-08",
-      "name": "Mark E Harris",
-      "districtOrOffice": "U.S. House, NC-08",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/mark-e-harris-nc-h-08.json"
     },
     {
       "id": "mark-edmund-johnston-ne-h-02",
@@ -11555,14 +10171,6 @@
       "endpoint": "/api/candidates/mark-steven-mr-jr-conway-md-h-07.json"
     },
     {
-      "id": "mark-takano-ca-39",
-      "name": "Mark Takano",
-      "districtOrOffice": "U.S. House, CA-39",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/mark-takano-ca-39.json"
-    },
-    {
       "id": "mark-takano-ca-h-39",
       "name": "Mark Takano",
       "districtOrOffice": "U.S. House, CA-39",
@@ -11587,28 +10195,12 @@
       "endpoint": "/api/candidates/markwayne-mullin-ok-s-00.json"
     },
     {
-      "id": "markwayne-mullin-ok-sen",
-      "name": "Markwayne Mullin",
-      "districtOrOffice": "U.S. Senate, OK",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/markwayne-mullin-ok-sen.json"
-    },
-    {
       "id": "marlene-galan-woods-az-h-01",
       "name": "Marlene Galan-Woods",
       "districtOrOffice": "U.S. House, AZ-01",
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/marlene-galan-woods-az-h-01.json"
-    },
-    {
-      "id": "marlin-a-stutzman-in-h-03",
-      "name": "Marlin A Stutzman",
-      "districtOrOffice": "U.S. House, IN-03",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/marlin-a-stutzman-in-h-03.json"
     },
     {
       "id": "marlin-stutzman-in-03",
@@ -11699,14 +10291,6 @@
       "endpoint": "/api/candidates/marvalette-hunter-tx-h-38.json"
     },
     {
-      "id": "mary-gay-scanlon-pa-05",
-      "name": "Mary Gay Scanlon",
-      "districtOrOffice": "U.S. House, PA-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/mary-gay-scanlon-pa-05.json"
-    },
-    {
       "id": "mary-gay-scanlon-pa-h-05",
       "name": "Mary Gay Scanlon",
       "districtOrOffice": "U.S. House, PA-05",
@@ -11721,14 +10305,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/mary-jo-ann-guinchard-nj-h-05.json"
-    },
-    {
-      "id": "mary-miller-il-15",
-      "name": "Mary Miller",
-      "districtOrOffice": "U.S. House, IL-15",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/mary-miller-il-15.json"
     },
     {
       "id": "mary-miller-il-h-15",
@@ -11971,28 +10547,12 @@
       "endpoint": "/api/candidates/mauro-everett-mr-garza-tx-h-34.json"
     },
     {
-      "id": "max-miller-oh-07",
-      "name": "Max Miller",
-      "districtOrOffice": "U.S. House, OH-07",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/max-miller-oh-07.json"
-    },
-    {
       "id": "max-miller-oh-h-07",
       "name": "Max Miller",
       "districtOrOffice": "U.S. House, OH-07",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/max-miller-oh-h-07.json"
-    },
-    {
-      "id": "maxine-dexter-or-03",
-      "name": "Maxine Dexter",
-      "districtOrOffice": "U.S. House, OR-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/maxine-dexter-or-03.json"
     },
     {
       "id": "maxine-dexter-or-h-03",
@@ -12073,14 +10633,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/megan-o-rourke-nj-h-07.json"
-    },
-    {
-      "id": "melanie-stansbury-nm-01",
-      "name": "Melanie Stansbury",
-      "districtOrOffice": "U.S. House, NM-01",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/melanie-stansbury-nm-01.json"
     },
     {
       "id": "melanie-stansbury-nm-h-01",
@@ -12275,14 +10827,6 @@
       "endpoint": "/api/candidates/michael-christian-mr-duffin-va-h-08.json"
     },
     {
-      "id": "michael-cloud-tx-27",
-      "name": "Michael Cloud",
-      "districtOrOffice": "U.S. House, TX-27",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/michael-cloud-tx-27.json"
-    },
-    {
       "id": "michael-cloud-tx-h-27",
       "name": "Michael Cloud",
       "districtOrOffice": "U.S. House, TX-27",
@@ -12443,14 +10987,6 @@
       "endpoint": "/api/candidates/michael-maxsenti-ca-h-47.json"
     },
     {
-      "id": "michael-mccaul-tx-10",
-      "name": "Michael McCaul",
-      "districtOrOffice": "U.S. House, TX-10",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/michael-mccaul-tx-10.json"
-    },
-    {
       "id": "michael-mccaul-tx-h-10",
       "name": "Michael Mccaul",
       "districtOrOffice": "U.S. House, TX-10",
@@ -12513,14 +11049,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/michael-roth-nj-h-07.json"
-    },
-    {
-      "id": "michael-rulli-oh-06",
-      "name": "Michael Rulli",
-      "districtOrOffice": "U.S. House, OH-06",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/michael-rulli-oh-06.json"
     },
     {
       "id": "michael-rulli-oh-h-06",
@@ -12603,14 +11131,6 @@
       "endpoint": "/api/candidates/michele-morrow-nc-s-00.json"
     },
     {
-      "id": "michelle-fischbach-mn-07",
-      "name": "Michelle Fischbach",
-      "districtOrOffice": "U.S. House, MN-07",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/michelle-fischbach-mn-07.json"
-    },
-    {
       "id": "michelle-fischbach-mn-h-07",
       "name": "Michelle Fischbach",
       "districtOrOffice": "U.S. House, MN-07",
@@ -12633,14 +11153,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/mike-bost-il-12.json"
-    },
-    {
-      "id": "mike-carey-oh-15",
-      "name": "Mike Carey",
-      "districtOrOffice": "U.S. House, OH-15",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/mike-carey-oh-15.json"
     },
     {
       "id": "mike-carey-oh-h-15",
@@ -12691,14 +11203,6 @@
       "endpoint": "/api/candidates/mike-ezell-ms-04.json"
     },
     {
-      "id": "mike-flood-ne-01",
-      "name": "Mike Flood",
-      "districtOrOffice": "U.S. House, NE-01",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/mike-flood-ne-01.json"
-    },
-    {
       "id": "mike-flood-ne-h-01",
       "name": "Mike Flood",
       "districtOrOffice": "U.S. House, NE-01",
@@ -12713,14 +11217,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/mike-france-ct-h-02.json"
-    },
-    {
-      "id": "mike-haridopolos-fl-08",
-      "name": "Mike Haridopolos",
-      "districtOrOffice": "U.S. House, FL-08",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/mike-haridopolos-fl-08.json"
     },
     {
       "id": "mike-haridopolos-fl-h-08",
@@ -12747,14 +11243,6 @@
       "endpoint": "/api/candidates/mike-kelly-pa-16.json"
     },
     {
-      "id": "mike-kennedy-ut-03",
-      "name": "Mike Kennedy",
-      "districtOrOffice": "U.S. House, UT-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/mike-kennedy-ut-03.json"
-    },
-    {
       "id": "mike-kennedy-ut-h-03",
       "name": "Mike Kennedy",
       "districtOrOffice": "U.S. House, UT-03",
@@ -12777,14 +11265,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/mike-lee-ut-sen.json"
-    },
-    {
-      "id": "mike-levin-ca-49",
-      "name": "Mike Levin",
-      "districtOrOffice": "U.S. House, CA-49",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/mike-levin-ca-49.json"
     },
     {
       "id": "mike-levin-ca-h-49",
@@ -12827,14 +11307,6 @@
       "endpoint": "/api/candidates/mike-pruitt-va-h-05.json"
     },
     {
-      "id": "mike-quigley-il-05",
-      "name": "Mike Quigley",
-      "districtOrOffice": "U.S. House, IL-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/mike-quigley-il-05.json"
-    },
-    {
       "id": "mike-quigley-il-h-05",
       "name": "Mike Quigley",
       "districtOrOffice": "U.S. House, IL-05",
@@ -12857,14 +11329,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/mike-rounds-sd-s-00.json"
-    },
-    {
-      "id": "mike-rounds-sd-sen",
-      "name": "Mike Rounds",
-      "districtOrOffice": "U.S. Senate, SD",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/mike-rounds-sd-sen.json"
     },
     {
       "id": "mike-sacks-ny-h-17",
@@ -12947,14 +11411,6 @@
       "endpoint": "/api/candidates/missi-hesketh-mo-h-07.json"
     },
     {
-      "id": "mitch-mcconnell-ky-sen",
-      "name": "Mitch McConnell",
-      "districtOrOffice": "U.S. Senate, KY",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/mitch-mcconnell-ky-sen.json"
-    },
-    {
       "id": "mitch-mcconnell-ky-s-00",
       "name": "Mitch Mcconnell",
       "districtOrOffice": "U.S. Senate, KY",
@@ -12993,14 +11449,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/mo-seifeldein-va-h-08.json"
-    },
-    {
-      "id": "monica-de-la-cruz-tx-15",
-      "name": "Monica De La Cruz",
-      "districtOrOffice": "U.S. House, TX-15",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/monica-de-la-cruz-tx-15.json"
     },
     {
       "id": "monica-de-la-cruz-tx-h-15",
@@ -13099,14 +11547,6 @@
       "endpoint": "/api/candidates/morgan-luttrell-tx-08.json"
     },
     {
-      "id": "morgan-mcgarvey-ky-03",
-      "name": "Morgan McGarvey",
-      "districtOrOffice": "U.S. House, KY-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/morgan-mcgarvey-ky-03.json"
-    },
-    {
       "id": "morgan-mcgarvey-ky-h-03",
       "name": "Morgan Mcgarvey",
       "districtOrOffice": "U.S. House, KY-03",
@@ -13163,28 +11603,12 @@
       "endpoint": "/api/candidates/nancy-mannion-pa-h-11.json"
     },
     {
-      "id": "nancy-pelosi-ca-11",
-      "name": "Nancy Pelosi",
-      "districtOrOffice": "U.S. House, CA-11",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/nancy-pelosi-ca-11.json"
-    },
-    {
       "id": "nancy-pelosi-ca-h-11",
       "name": "Nancy Pelosi",
       "districtOrOffice": "U.S. House, CA-11",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/nancy-pelosi-ca-h-11.json"
-    },
-    {
-      "id": "nanette-barragan-ca-44",
-      "name": "Nanette Barragan",
-      "districtOrOffice": "U.S. House, CA-44",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/nanette-barragan-ca-44.json"
     },
     {
       "id": "nanette-barragan-ca-h-44",
@@ -13379,14 +11803,6 @@
       "endpoint": "/api/candidates/nick-lalota-ny-01.json"
     },
     {
-      "id": "nick-langworthy-ny-23",
-      "name": "Nick Langworthy",
-      "districtOrOffice": "U.S. House, NY-23",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/nick-langworthy-ny-23.json"
-    },
-    {
       "id": "nick-langworthy-ny-h-23",
       "name": "Nick Langworthy",
       "districtOrOffice": "U.S. House, NY-23",
@@ -13443,14 +11859,6 @@
       "endpoint": "/api/candidates/nicole-gronli-sd-h-00.json"
     },
     {
-      "id": "nicole-malliotakis-ny-11",
-      "name": "Nicole Malliotakis",
-      "districtOrOffice": "U.S. House, NY-11",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/nicole-malliotakis-ny-11.json"
-    },
-    {
       "id": "nicole-malliotakis-ny-h-11",
       "name": "Nicole Malliotakis",
       "districtOrOffice": "U.S. House, NY-11",
@@ -13475,14 +11883,6 @@
       "endpoint": "/api/candidates/nigel-william-bristow-nc-h-09.json"
     },
     {
-      "id": "nikema-n-williams-ga-h-05",
-      "name": "Nikema N. Williams",
-      "districtOrOffice": "U.S. House, GA-05",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/nikema-n-williams-ga-h-05.json"
-    },
-    {
       "id": "nikema-williams-ga-05",
       "name": "Nikema Williams",
       "districtOrOffice": "U.S. House, GA-05",
@@ -13497,14 +11897,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/niki-conforti-il-h-06.json"
-    },
-    {
-      "id": "nikki-budzinski-il-13",
-      "name": "Nikki Budzinski",
-      "districtOrOffice": "U.S. House, IL-13",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/nikki-budzinski-il-13.json"
     },
     {
       "id": "nikki-budzinski-il-h-13",
@@ -13537,14 +11929,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/noah-widmann-fl-h-07.json"
-    },
-    {
-      "id": "norma-torres-ca-35",
-      "name": "Norma Torres",
-      "districtOrOffice": "U.S. House, CA-35",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/norma-torres-ca-35.json"
     },
     {
       "id": "norma-torres-ca-h-35",
@@ -13649,14 +12033,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/pat-fallon-tx-04.json"
-    },
-    {
-      "id": "pat-harrigan-nc-10",
-      "name": "Pat Harrigan",
-      "districtOrOffice": "U.S. House, NC-10",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/pat-harrigan-nc-10.json"
     },
     {
       "id": "pat-harrigan-nc-h-10",
@@ -13947,14 +12323,6 @@
       "endpoint": "/api/candidates/pertis-herman-williams-iii-ms-h-02.json"
     },
     {
-      "id": "pete-aguilar-ca-33",
-      "name": "Pete Aguilar",
-      "districtOrOffice": "U.S. House, CA-33",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/pete-aguilar-ca-33.json"
-    },
-    {
       "id": "pete-aguilar-ca-h-33",
       "name": "Pete Aguilar",
       "districtOrOffice": "U.S. House, CA-33",
@@ -13977,22 +12345,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/pete-ricketts-ne-s-00.json"
-    },
-    {
-      "id": "pete-ricketts-ne-sen",
-      "name": "Pete Ricketts",
-      "districtOrOffice": "U.S. Senate, NE",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/pete-ricketts-ne-sen.json"
-    },
-    {
-      "id": "pete-sessions-tx-17",
-      "name": "Pete Sessions",
-      "districtOrOffice": "U.S. House, TX-17",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/pete-sessions-tx-17.json"
     },
     {
       "id": "pete-sessions-tx-h-17",
@@ -14251,14 +12603,6 @@
       "endpoint": "/api/candidates/randy-villegas-ca-h-22.json"
     },
     {
-      "id": "randy-weber-tx-14",
-      "name": "Randy Weber",
-      "districtOrOffice": "U.S. House, TX-14",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/randy-weber-tx-14.json"
-    },
-    {
       "id": "randy-weber-tx-h-14",
       "name": "Randy Weber",
       "districtOrOffice": "U.S. House, TX-14",
@@ -14273,14 +12617,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/raphael-warnock-ga-sen.json"
-    },
-    {
-      "id": "rashida-tlaib-mi-12",
-      "name": "Rashida Tlaib",
-      "districtOrOffice": "U.S. House, MI-12",
-      "stanceLabel": "Pro-Palestine",
-      "stanceColor": "green",
-      "endpoint": "/api/candidates/rashida-tlaib-mi-12.json"
     },
     {
       "id": "rashida-tlaib-mi-h-12",
@@ -14523,14 +12859,6 @@
       "endpoint": "/api/candidates/richard-dr-pan-ca-h-06.json"
     },
     {
-      "id": "richard-e-neal-ma-h-01",
-      "name": "Richard E Neal",
-      "districtOrOffice": "U.S. House, MA-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/richard-e-neal-ma-h-01.json"
-    },
-    {
       "id": "richard-hudson-nc-09",
       "name": "Richard Hudson",
       "districtOrOffice": "U.S. House, NC-09",
@@ -14553,14 +12881,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/richard-joseph-barilla-nj-h-08.json"
-    },
-    {
-      "id": "richard-l-jr-hudson-nc-h-09",
-      "name": "Richard L. Jr. Hudson",
-      "districtOrOffice": "U.S. House, NC-09",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/richard-l-jr-hudson-nc-h-09.json"
     },
     {
       "id": "richard-lamondin-fl-h-27",
@@ -14619,14 +12939,6 @@
       "endpoint": "/api/candidates/rick-jakious-ma-h-06.json"
     },
     {
-      "id": "rick-larsen-wa-02",
-      "name": "Rick Larsen",
-      "districtOrOffice": "U.S. House, WA-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/rick-larsen-wa-02.json"
-    },
-    {
       "id": "rick-larsen-wa-h-02",
       "name": "Rick Larsen",
       "districtOrOffice": "U.S. House, WA-02",
@@ -14657,14 +12969,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/ricky-patric-mr-knoles-fl-h-04.json"
-    },
-    {
-      "id": "riley-moore-wv-02",
-      "name": "Riley Moore",
-      "districtOrOffice": "U.S. House, WV-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/riley-moore-wv-02.json"
     },
     {
       "id": "riley-moore-wv-h-02",
@@ -14721,14 +13025,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/rob-altman-tx-h-10.json"
-    },
-    {
-      "id": "rob-bresnahan-pa-08",
-      "name": "Rob Bresnahan",
-      "districtOrOffice": "U.S. House, PA-08",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/rob-bresnahan-pa-08.json"
     },
     {
       "id": "rob-bresnahan-pa-h-08",
@@ -14867,14 +13163,6 @@
       "endpoint": "/api/candidates/robert-g-hon-good-va-h-05.json"
     },
     {
-      "id": "robert-garcia-ca-42",
-      "name": "Robert Garcia",
-      "districtOrOffice": "U.S. House, CA-42",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/robert-garcia-ca-42.json"
-    },
-    {
       "id": "robert-garcia-ca-h-42",
       "name": "Robert Garcia",
       "districtOrOffice": "U.S. House, CA-42",
@@ -15011,14 +13299,6 @@
       "endpoint": "/api/candidates/robin-ficker-md-h-06.json"
     },
     {
-      "id": "robin-kelly-il-02",
-      "name": "Robin Kelly",
-      "districtOrOffice": "U.S. House, IL-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/robin-kelly-il-02.json"
-    },
-    {
       "id": "robin-kelly-il-h-02",
       "name": "Robin Kelly",
       "districtOrOffice": "U.S. House, IL-02",
@@ -15091,28 +13371,12 @@
       "endpoint": "/api/candidates/roger-marshall-ks-sen.json"
     },
     {
-      "id": "roger-w-marshall-ks-s-00",
-      "name": "Roger W Marshall",
-      "districtOrOffice": "U.S. Senate, KS",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/roger-w-marshall-ks-s-00.json"
-    },
-    {
       "id": "roger-wicker-ms-sen",
       "name": "Roger Wicker",
       "districtOrOffice": "U.S. Senate, MS",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/roger-wicker-ms-sen.json"
-    },
-    {
-      "id": "roger-williams-tx-25",
-      "name": "Roger Williams",
-      "districtOrOffice": "U.S. House, TX-25",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/roger-williams-tx-25.json"
     },
     {
       "id": "roger-williams-tx-h-25",
@@ -15137,14 +13401,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/ron-eller-ms-h-02.json"
-    },
-    {
-      "id": "ron-estes-ks-04",
-      "name": "Ron Estes",
-      "districtOrOffice": "U.S. House, KS-04",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/ron-estes-ks-04.json"
     },
     {
       "id": "ron-estes-ks-h-04",
@@ -15235,14 +13491,6 @@
       "endpoint": "/api/candidates/rosa-delauro-ct-03.json"
     },
     {
-      "id": "rosa-l-delauro-ct-h-03",
-      "name": "Rosa L Delauro",
-      "districtOrOffice": "U.S. House, CT-03",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/rosa-l-delauro-ct-h-03.json"
-    },
-    {
       "id": "rosemary-oglesby-henry-oh-h-01",
       "name": "Rosemary Oglesby-Henry",
       "districtOrOffice": "U.S. House, OH-01",
@@ -15281,14 +13529,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/ruben-gallego-az-sen.json"
-    },
-    {
-      "id": "rudy-c-iii-yakym-in-h-02",
-      "name": "Rudy C. Iii Yakym",
-      "districtOrOffice": "U.S. House, IN-02",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/rudy-c-iii-yakym-in-h-02.json"
     },
     {
       "id": "rudy-salas-ca-h-22",
@@ -15385,14 +13625,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/ryan-edward-mackenzie-pa-h-07.json"
-    },
-    {
-      "id": "ryan-k-zinke-mt-h-01",
-      "name": "Ryan K Zinke",
-      "districtOrOffice": "U.S. House, MT-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/ryan-k-zinke-mt-h-01.json"
     },
     {
       "id": "ryan-mackenzie-pa-07",
@@ -15507,14 +13739,6 @@
       "endpoint": "/api/candidates/salud-carbajal-ca-24.json"
     },
     {
-      "id": "salud-o-carbajal-ca-h-24",
-      "name": "Salud O. Carbajal",
-      "districtOrOffice": "U.S. House, CA-24",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/salud-o-carbajal-ca-h-24.json"
-    },
-    {
       "id": "sam-couvillon-ga-h-09",
       "name": "Sam Couvillon",
       "districtOrOffice": "U.S. House, GA-09",
@@ -15553,14 +13777,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/sam-polan-il-h-09.json"
-    },
-    {
-      "id": "sam-t-liccardo-ca-h-16",
-      "name": "Sam T. Liccardo",
-      "districtOrOffice": "U.S. House, CA-16",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/sam-t-liccardo-ca-h-16.json"
     },
     {
       "id": "samuel-b-jr-graves-mo-h-06",
@@ -15619,14 +13835,6 @@
       "endpoint": "/api/candidates/sandy-spidel-neumann-ks-s-00.json"
     },
     {
-      "id": "sanford-bishop-ga-02",
-      "name": "Sanford Bishop",
-      "districtOrOffice": "U.S. House, GA-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/sanford-bishop-ga-02.json"
-    },
-    {
       "id": "sanford-bishop-ga-h-02",
       "name": "Sanford Bishop",
       "districtOrOffice": "U.S. House, GA-02",
@@ -15657,14 +13865,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/santos-m-limon-tx-h-23.json"
-    },
-    {
-      "id": "sara-jacobs-ca-51",
-      "name": "Sara Jacobs",
-      "districtOrOffice": "U.S. House, CA-51",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/sara-jacobs-ca-51.json"
     },
     {
       "id": "sara-jacobs-ca-h-51",
@@ -15795,14 +13995,6 @@
       "endpoint": "/api/candidates/scott-desjarlais-tn-04.json"
     },
     {
-      "id": "scott-fitzgerald-wi-05",
-      "name": "Scott Fitzgerald",
-      "districtOrOffice": "U.S. House, WI-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/scott-fitzgerald-wi-05.json"
-    },
-    {
       "id": "scott-fitzgerald-wi-h-05",
       "name": "Scott Fitzgerald",
       "districtOrOffice": "U.S. House, WI-05",
@@ -15851,28 +14043,12 @@
       "endpoint": "/api/candidates/scott-p-brown-nh-s-00.json"
     },
     {
-      "id": "scott-perry-pa-10",
-      "name": "Scott Perry",
-      "districtOrOffice": "U.S. House, PA-10",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/scott-perry-pa-10.json"
-    },
-    {
       "id": "scott-perry-pa-h-10",
       "name": "Scott Perry",
       "districtOrOffice": "U.S. House, PA-10",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/scott-perry-pa-h-10.json"
-    },
-    {
-      "id": "scott-peters-ca-50",
-      "name": "Scott Peters",
-      "districtOrOffice": "U.S. House, CA-50",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/scott-peters-ca-50.json"
     },
     {
       "id": "scott-peters-ca-h-50",
@@ -15897,14 +14073,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/scott-wiener-ca-h-11.json"
-    },
-    {
-      "id": "sean-casten-il-06",
-      "name": "Sean Casten",
-      "districtOrOffice": "U.S. House, IL-06",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/sean-casten-il-06.json"
     },
     {
       "id": "sean-casten-il-h-06",
@@ -15963,14 +14131,6 @@
       "endpoint": "/api/candidates/seth-magaziner-ri-h-02.json"
     },
     {
-      "id": "seth-moulton-ma-06",
-      "name": "Seth Moulton",
-      "districtOrOffice": "U.S. House, MA-06",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/seth-moulton-ma-06.json"
-    },
-    {
       "id": "seth-moulton-ma-h-06",
       "name": "Seth Moulton",
       "districtOrOffice": "U.S. House, MA-06",
@@ -16019,14 +14179,6 @@
       "endpoint": "/api/candidates/shannon-lundgren-ia-h-02.json"
     },
     {
-      "id": "sharice-davids-ks-03",
-      "name": "Sharice Davids",
-      "districtOrOffice": "U.S. House, KS-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/sharice-davids-ks-03.json"
-    },
-    {
       "id": "sharice-davids-ks-h-03",
       "name": "Sharice Davids",
       "districtOrOffice": "U.S. House, KS-03",
@@ -16067,14 +14219,6 @@
       "endpoint": "/api/candidates/shawn-harris-ga-h-14.json"
     },
     {
-      "id": "sheila-cherfilus-mccormick-fl-20",
-      "name": "Sheila Cherfilus-McCormick",
-      "districtOrOffice": "U.S. House, FL-20",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/sheila-cherfilus-mccormick-fl-20.json"
-    },
-    {
       "id": "sheila-cherfilus-mccormick-fl-h-20",
       "name": "Sheila Cherfilus-Mccormick",
       "districtOrOffice": "U.S. House, FL-20",
@@ -16089,14 +14233,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/shelley-moore-capito-wv-s-00.json"
-    },
-    {
-      "id": "shelley-moore-capito-wv-sen",
-      "name": "Shelley Moore Capito",
-      "districtOrOffice": "U.S. Senate, WV",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/shelley-moore-capito-wv-sen.json"
     },
     {
       "id": "shelly-dezevallos-tx-h-38",
@@ -16131,14 +14267,6 @@
       "endpoint": "/api/candidates/sholdon-daniels-tx-h-30.json"
     },
     {
-      "id": "shomari-c-figures-al-h-02",
-      "name": "Shomari C. Figures",
-      "districtOrOffice": "U.S. House, AL-02",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/shomari-c-figures-al-h-02.json"
-    },
-    {
       "id": "shomari-figures-al-02",
       "name": "Shomari Figures",
       "districtOrOffice": "U.S. House, AL-02",
@@ -16161,14 +14289,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/shontel-brown-oh-11.json"
-    },
-    {
-      "id": "shri-thanedar-mi-13",
-      "name": "Shri Thanedar",
-      "districtOrOffice": "U.S. House, MI-13",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/shri-thanedar-mi-13.json"
     },
     {
       "id": "shri-thanedar-mi-h-13",
@@ -16227,28 +14347,12 @@
       "endpoint": "/api/candidates/stella-pekarsky-va-h-11.json"
     },
     {
-      "id": "steny-hoyer-md-05",
-      "name": "Steny Hoyer",
-      "districtOrOffice": "U.S. House, MD-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/steny-hoyer-md-05.json"
-    },
-    {
       "id": "steny-hoyer-md-h-05",
       "name": "Steny Hoyer",
       "districtOrOffice": "U.S. House, MD-05",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/steny-hoyer-md-h-05.json"
-    },
-    {
-      "id": "stephanie-bice-ok-05",
-      "name": "Stephanie Bice",
-      "districtOrOffice": "U.S. House, OK-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/stephanie-bice-ok-05.json"
     },
     {
       "id": "stephanie-bice-ok-h-05",
@@ -16299,14 +14403,6 @@
       "endpoint": "/api/candidates/stephen-i-mr-faris-oh-s-00.json"
     },
     {
-      "id": "stephen-lynch-ma-08",
-      "name": "Stephen Lynch",
-      "districtOrOffice": "U.S. House, MA-08",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/stephen-lynch-ma-08.json"
-    },
-    {
       "id": "stephen-lynch-ma-h-08",
       "name": "Stephen Lynch",
       "districtOrOffice": "U.S. House, MA-08",
@@ -16337,14 +14433,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/steve-daines-mt-s-00.json"
-    },
-    {
-      "id": "steve-daines-mt-sen",
-      "name": "Steve Daines",
-      "districtOrOffice": "U.S. Senate, MT",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/steve-daines-mt-sen.json"
     },
     {
       "id": "steve-i-mr-cohen-tn-h-09",
@@ -16523,14 +14611,6 @@
       "endpoint": "/api/candidates/stuart-norman-mr-whitlow-tx-h-31.json"
     },
     {
-      "id": "suhas-subramanyam-va-10",
-      "name": "Suhas Subramanyam",
-      "districtOrOffice": "U.S. House, VA-10",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/suhas-subramanyam-va-10.json"
-    },
-    {
       "id": "suhas-subramanyam-va-h-10",
       "name": "Suhas Subramanyam",
       "districtOrOffice": "U.S. House, VA-10",
@@ -16563,28 +14643,12 @@
       "endpoint": "/api/candidates/susan-collins-me-sen.json"
     },
     {
-      "id": "susan-m-collins-me-s-00",
-      "name": "Susan M. Collins",
-      "districtOrOffice": "U.S. Senate, ME",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/susan-m-collins-me-s-00.json"
-    },
-    {
       "id": "susan-storey-rubio-tx-h-23",
       "name": "Susan Storey Rubio",
       "districtOrOffice": "U.S. House, TX-23",
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/susan-storey-rubio-tx-h-23.json"
-    },
-    {
-      "id": "susie-lee-nv-03",
-      "name": "Susie Lee",
-      "districtOrOffice": "U.S. House, NV-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/susie-lee-nv-03.json"
     },
     {
       "id": "susie-lee-nv-h-03",
@@ -16601,14 +14665,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/suzan-delbene-wa-01.json"
-    },
-    {
-      "id": "suzan-k-delbene-wa-h-01",
-      "name": "Suzan K Delbene",
-      "districtOrOffice": "U.S. House, WA-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/suzan-k-delbene-wa-h-01.json"
     },
     {
       "id": "suzanne-bonamici-or-01",
@@ -16643,14 +14699,6 @@
       "endpoint": "/api/candidates/suzanne-ms-bonamici-or-h-01.json"
     },
     {
-      "id": "sydney-kamlager-dove-ca-37",
-      "name": "Sydney Kamlager-Dove",
-      "districtOrOffice": "U.S. House, CA-37",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/sydney-kamlager-dove-ca-37.json"
-    },
-    {
       "id": "sydney-kamlager-dove-ca-h-37",
       "name": "Sydney Kamlager-Dove",
       "districtOrOffice": "U.S. House, CA-37",
@@ -16673,14 +14721,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/sylvia-garcia-tx-29.json"
-    },
-    {
-      "id": "sylvia-r-garcia-tx-h-29",
-      "name": "Sylvia R Garcia",
-      "districtOrOffice": "U.S. House, TX-29",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/sylvia-r-garcia-tx-h-29.json"
     },
     {
       "id": "t-jonathan-ossoff-ga-s-00",
@@ -16811,14 +14851,6 @@
       "endpoint": "/api/candidates/ted-cruz-tx-sen.json"
     },
     {
-      "id": "ted-lieu-ca-36",
-      "name": "Ted Lieu",
-      "districtOrOffice": "U.S. House, CA-36",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/ted-lieu-ca-36.json"
-    },
-    {
       "id": "ted-lieu-ca-h-36",
       "name": "Ted Lieu",
       "districtOrOffice": "U.S. House, CA-36",
@@ -16835,28 +14867,12 @@
       "endpoint": "/api/candidates/tera-anderson-nv-h-03.json"
     },
     {
-      "id": "teresa-leger-fernandez-nm-03",
-      "name": "Teresa Leger Fernandez",
-      "districtOrOffice": "U.S. House, NM-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/teresa-leger-fernandez-nm-03.json"
-    },
-    {
       "id": "teresa-leger-fernandez-nm-h-03",
       "name": "Teresa Leger Fernandez",
       "districtOrOffice": "U.S. House, NM-03",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/teresa-leger-fernandez-nm-h-03.json"
-    },
-    {
-      "id": "terri-a-sewell-al-h-07",
-      "name": "Terri A. Sewell",
-      "districtOrOffice": "U.S. House, AL-07",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/terri-a-sewell-al-h-07.json"
     },
     {
       "id": "terri-lapoint-al-h-03",
@@ -17035,14 +15051,6 @@
       "endpoint": "/api/candidates/thomas-h-jr-kean-nj-h-07.json"
     },
     {
-      "id": "thomas-h-massie-ky-h-04",
-      "name": "Thomas H. Massie",
-      "districtOrOffice": "U.S. House, KY-04",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/thomas-h-massie-ky-h-04.json"
-    },
-    {
       "id": "thomas-james-feely-az-h-01",
       "name": "Thomas James Feely",
       "districtOrOffice": "U.S. House, AZ-01",
@@ -17147,14 +15155,6 @@
       "endpoint": "/api/candidates/tiffany-danielle-roberts-me-h-01.json"
     },
     {
-      "id": "tim-burchett-tn-02",
-      "name": "Tim Burchett",
-      "districtOrOffice": "U.S. House, TN-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/tim-burchett-tn-02.json"
-    },
-    {
       "id": "tim-burchett-tn-h-02",
       "name": "Tim Burchett",
       "districtOrOffice": "U.S. House, TN-02",
@@ -17185,14 +15185,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/tim-kennedy-ny-26.json"
-    },
-    {
-      "id": "tim-moore-nc-14",
-      "name": "Tim Moore",
-      "districtOrOffice": "U.S. House, NC-14",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/tim-moore-nc-14.json"
     },
     {
       "id": "tim-moore-nc-h-14",
@@ -17315,14 +15307,6 @@
       "endpoint": "/api/candidates/tina-smith-mn-s-00.json"
     },
     {
-      "id": "tina-smith-mn-sen",
-      "name": "Tina Smith",
-      "districtOrOffice": "U.S. Senate, MN",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/tina-smith-mn-sen.json"
-    },
-    {
       "id": "todd-baker-achilles-id-s-00",
       "name": "Todd Baker Achilles",
       "districtOrOffice": "U.S. Senate, ID",
@@ -17353,14 +15337,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/tom-barrett-mi-07.json"
-    },
-    {
-      "id": "tom-cole-ok-04",
-      "name": "Tom Cole",
-      "districtOrOffice": "U.S. House, OK-04",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/tom-cole-ok-04.json"
     },
     {
       "id": "tom-cole-ok-h-04",
@@ -17427,14 +15403,6 @@
       "endpoint": "/api/candidates/tom-suozzi-ny-03.json"
     },
     {
-      "id": "tom-tiffany-wi-07",
-      "name": "Tom Tiffany",
-      "districtOrOffice": "U.S. House, WI-07",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/tom-tiffany-wi-07.json"
-    },
-    {
       "id": "tom-tiffany-wi-h-07",
       "name": "Tom Tiffany",
       "districtOrOffice": "U.S. House, WI-07",
@@ -17457,14 +15425,6 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/tommy-tuberville-al-sen.json"
-    },
-    {
-      "id": "tony-wied-wi-08",
-      "name": "Tony Wied",
-      "districtOrOffice": "U.S. House, WI-08",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/tony-wied-wi-08.json"
     },
     {
       "id": "tony-wied-wi-h-08",
@@ -17587,14 +15547,6 @@
       "endpoint": "/api/candidates/trisha-calvarese-co-h-04.json"
     },
     {
-      "id": "troy-a-sr-carter-la-h-02",
-      "name": "Troy A. Sr. Carter",
-      "districtOrOffice": "U.S. House, LA-02",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/troy-a-sr-carter-la-h-02.json"
-    },
-    {
       "id": "troy-balderson-oh-12",
       "name": "Troy Balderson",
       "districtOrOffice": "U.S. House, OH-12",
@@ -17611,14 +15563,6 @@
       "endpoint": "/api/candidates/troy-carter-la-02.json"
     },
     {
-      "id": "troy-downing-mt-02",
-      "name": "Troy Downing",
-      "districtOrOffice": "U.S. House, MT-02",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/troy-downing-mt-02.json"
-    },
-    {
       "id": "troy-downing-mt-h-02",
       "name": "Troy Downing",
       "districtOrOffice": "U.S. House, MT-02",
@@ -17633,14 +15577,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/troy-mcghie-ny-h-11.json"
-    },
-    {
-      "id": "troy-nehls-tx-22",
-      "name": "Troy Nehls",
-      "districtOrOffice": "U.S. House, TX-22",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/troy-nehls-tx-22.json"
     },
     {
       "id": "troy-nehls-tx-h-22",
@@ -17715,14 +15651,6 @@
       "endpoint": "/api/candidates/valentina-gomez-noriega-tx-h-31.json"
     },
     {
-      "id": "valerie-foushee-nc-04",
-      "name": "Valerie Foushee",
-      "districtOrOffice": "U.S. House, NC-04",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/valerie-foushee-nc-04.json"
-    },
-    {
       "id": "valerie-foushee-nc-h-04",
       "name": "Valerie Foushee",
       "districtOrOffice": "U.S. House, NC-04",
@@ -17771,28 +15699,12 @@
       "endpoint": "/api/candidates/vernon-buchanan-fl-h-16.json"
     },
     {
-      "id": "veronica-escobar-tx-16",
-      "name": "Veronica Escobar",
-      "districtOrOffice": "U.S. House, TX-16",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/veronica-escobar-tx-16.json"
-    },
-    {
       "id": "veronica-escobar-tx-h-16",
       "name": "Veronica Escobar",
       "districtOrOffice": "U.S. House, TX-16",
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/veronica-escobar-tx-h-16.json"
-    },
-    {
-      "id": "vicente-gonzalez-tx-34",
-      "name": "Vicente Gonzalez",
-      "districtOrOffice": "U.S. House, TX-34",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/vicente-gonzalez-tx-34.json"
     },
     {
       "id": "vicente-gonzalez-tx-h-34",
@@ -17835,14 +15747,6 @@
       "endpoint": "/api/candidates/victoria-jane-boker-doyle-fl-h-22.json"
     },
     {
-      "id": "victoria-spartz-in-05",
-      "name": "Victoria Spartz",
-      "districtOrOffice": "U.S. House, IN-05",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/victoria-spartz-in-05.json"
-    },
-    {
       "id": "victoria-spartz-in-h-05",
       "name": "Victoria Spartz",
       "districtOrOffice": "U.S. House, IN-05",
@@ -17857,14 +15761,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/vin-kruttiventi-ca-h-13.json"
-    },
-    {
-      "id": "vince-fong-ca-20",
-      "name": "Vince Fong",
-      "districtOrOffice": "U.S. House, CA-20",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/vince-fong-ca-20.json"
     },
     {
       "id": "vince-fong-ca-h-20",
@@ -17931,14 +15827,6 @@
       "endpoint": "/api/candidates/wanda-james-co-h-01.json"
     },
     {
-      "id": "warren-davidson-oh-08",
-      "name": "Warren Davidson",
-      "districtOrOffice": "U.S. House, OH-08",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/warren-davidson-oh-08.json"
-    },
-    {
       "id": "warren-davidson-oh-h-08",
       "name": "Warren Davidson",
       "districtOrOffice": "U.S. House, OH-08",
@@ -17985,14 +15873,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/wesley-bell-mo-h-01.json"
-    },
-    {
-      "id": "wesley-hunt-tx-38",
-      "name": "Wesley Hunt",
-      "districtOrOffice": "U.S. House, TX-38",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/wesley-hunt-tx-38.json"
     },
     {
       "id": "wesley-hunt-tx-h-38",
@@ -18179,14 +16059,6 @@
       "endpoint": "/api/candidates/yasmeen-bankole-il-h-08.json"
     },
     {
-      "id": "yassamin-ansari-az-03",
-      "name": "Yassamin Ansari",
-      "districtOrOffice": "U.S. House, AZ-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/yassamin-ansari-az-03.json"
-    },
-    {
       "id": "yassamin-ansari-az-h-03",
       "name": "Yassamin Ansari",
       "districtOrOffice": "U.S. House, AZ-03",
@@ -18201,14 +16073,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/yevgeny-eugene-vindman-va-h-07.json"
-    },
-    {
-      "id": "young-kim-ca-40",
-      "name": "Young Kim",
-      "districtOrOffice": "U.S. House, CA-40",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/young-kim-ca-40.json"
     },
     {
       "id": "young-kim-ca-h-40",
@@ -18243,14 +16107,6 @@
       "endpoint": "/api/candidates/yvette-clarke-ny-09.json"
     },
     {
-      "id": "yvette-d-clarke-ny-h-09",
-      "name": "Yvette D Clarke",
-      "districtOrOffice": "U.S. House, NY-09",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
-      "endpoint": "/api/candidates/yvette-d-clarke-ny-h-09.json"
-    },
-    {
       "id": "zach-beecher-nj-h-11",
       "name": "Zach Beecher",
       "districtOrOffice": "U.S. House, NJ-11",
@@ -18265,14 +16121,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/zach-dembo-ky-h-06.json"
-    },
-    {
-      "id": "zach-nunn-ia-03",
-      "name": "Zach Nunn",
-      "districtOrOffice": "U.S. House, IA-03",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/zach-nunn-ia-03.json"
     },
     {
       "id": "zach-nunn-ia-h-03",
@@ -18329,14 +16177,6 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/zelda-briarwood-nc-h-11.json"
-    },
-    {
-      "id": "zoe-lofgren-ca-18",
-      "name": "Zoe Lofgren",
-      "districtOrOffice": "U.S. House, CA-18",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/zoe-lofgren-ca-18.json"
     },
     {
       "id": "zoe-lofgren-ca-h-18",

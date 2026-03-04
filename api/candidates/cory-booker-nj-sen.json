@@ -22,7 +22,9 @@
   "sourceIds": [
     "trackaipac-congress",
     "sen-booker-gaza-aid-2024",
-    "senate-roll-call"
+    "senate-roll-call",
+    "fec-candidate-master-2026",
+    "senate-floor-transcripts"
   ],
   "profileLastUpdatedAt": "2026-03-04T06:54:20.721742+00:00",
   "sourcesEndpoint": "/data/sources.json"

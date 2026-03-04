@@ -29,7 +29,11 @@
   "sourceIds": [
     "trackaipac-congress",
     "senate-roll-call",
-    "senate-floor-transcripts"
+    "senate-floor-transcripts",
+    "congress-floor-records",
+    "house-resolution-tracker",
+    "ms-sos-qualifying-2026",
+    "ms-sos-us-house-senate-deadline-press-2026"
   ],
   "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
   "sourcesEndpoint": "/data/sources.json"

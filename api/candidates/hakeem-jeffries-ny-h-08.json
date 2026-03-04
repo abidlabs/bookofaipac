@@ -5,7 +5,7 @@
   "state": "NY",
   "office": "U.S. House",
   "districtOrOffice": "U.S. House, NY-08",
-  "imageUrl": "",
+  "imageUrl": "https://jeffries.house.gov/wp-content/uploads/2022/11/Official-Photo-Rep.-Hakeem-Jeffries-NY-8-scaled.jpg",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
   "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $5,524,449 for Hakeem Jeffries in U.S. House, NY-08. Public statements and congressional records indicate an Israel-focused security policy posture in recent conflict framing. This candidate has taken funding from the Israel lobby.",
@@ -29,7 +29,8 @@
   "sourceIds": [
     "trackaipac-congress",
     "house-resolution-tracker",
-    "congress-floor-records"
+    "congress-floor-records",
+    "rep-jeffries-releases"
   ],
   "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
   "sourcesEndpoint": "/data/sources.json"

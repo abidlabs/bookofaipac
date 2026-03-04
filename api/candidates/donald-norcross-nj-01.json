@@ -27,7 +27,9 @@
   ],
   "sourceIds": [
     "trackaipac-congress",
-    "house-resolution-tracker"
+    "house-resolution-tracker",
+    "fec-candidate-master-2026",
+    "congress-floor-records"
   ],
   "profileLastUpdatedAt": "2026-03-04T07:30:55.190145+00:00",
   "sourcesEndpoint": "/data/sources.json"
