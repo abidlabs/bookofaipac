@@ -6,7 +6,7 @@ import {
   loadJson,
   makeCandidateIndex,
   normalizeForSearch,
-} from "./data.js";
+} from "./data.js?v=20260304";
 import { getStateFlagUrl, getStateName } from "./states-data.js";
 
 const searchInput = document.getElementById("candidateSearch");

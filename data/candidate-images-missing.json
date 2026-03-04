@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-03T16:34:13.314532+00:00",
-  "count": 1574,
+  "generatedAt": "2026-03-04T21:13:50.849146+00:00",
+  "count": 1426,
   "items": [
     {
       "id": "aaron-b-rowden-ca-h-08",
@@ -169,12 +169,6 @@
       "name": "Adrian O Mr Mapp",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "adriano-espaillat-ny-h-13",
-      "name": "Adriano Espaillat",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Rep._Adriano_Espaillat_117th_Official_Photo.jpg"
     },
     {
       "id": "afzal-khan-nv-h-01",
@@ -465,28 +459,10 @@
       "externalUrl": null
     },
     {
-      "id": "andrea-salinas-or-h-06",
-      "name": "Andrea Salinas",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Andrea_Salinas%2C_Official_Portrait%2C_118th_Congress.jpg"
-    },
-    {
       "id": "andres-castro-ga-h-05",
       "name": "Andres Castro",
       "reason": "download_or_resize_failed: UnidentifiedImageError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Seal_of_Georgia.svg"
-    },
-    {
-      "id": "andrew-clyde-ga-h-09",
-      "name": "Andrew Clyde",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Rep._Andrew_Clyde_official_photo.jpg"
-    },
-    {
-      "id": "andrew-garbarino-ny-h-02",
-      "name": "Andrew Garbarino",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Andrew_Garbarino_117th_U.S_Congress.jpg"
     },
     {
       "id": "andrew-lucchetti-va-h-01",
@@ -511,12 +487,6 @@
       "name": "Angela Gonzales-Torres",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "angie-craig-mn-s-00",
-      "name": "Angie Craig",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Angie_Craig%2C_official_portrait_%28119th_Congress%29.jpg"
     },
     {
       "id": "anil-dr-kumar-mi-h-11",
@@ -687,12 +657,6 @@
       "externalUrl": null
     },
     {
-      "id": "ayanna-pressley-ma-h-07",
-      "name": "Ayanna Pressley",
-      "reason": "download_or_resize_failed: ConnectionError",
-      "externalUrl": "https://unitedstates.github.io/images/congress/450x550/P000617.jpg"
-    },
-    {
       "id": "az-h-atlarge",
       "name": "",
       "reason": "no_open_license_source_found",
@@ -739,12 +703,6 @@
       "name": "Barry Craig Mr. Wolfert",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "barry-loudermilk-ga-h-11",
-      "name": "Barry Loudermilk",
-      "reason": "download_or_resize_failed: ConnectionError",
-      "externalUrl": "https://unitedstates.github.io/images/congress/450x550/L000583.jpg"
     },
     {
       "id": "bayly-philip-christoper-winder-nj-h-02",
@@ -879,12 +837,6 @@
       "externalUrl": null
     },
     {
-      "id": "blake-moore-ut-h-01",
-      "name": "Blake Moore",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Rep._Blake_Moore_official_photo%2C_2022.jpg"
-    },
-    {
       "id": "bob-brooks-pa-h-07",
       "name": "Bob Brooks",
       "reason": "no_open_license_source_found",
@@ -901,12 +853,6 @@
       "name": "Bobby Pulido",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bobby_Pulido_%28CROPPED%29.jpg"
-    },
-    {
-      "id": "bonnie-watson-coleman-nj-h-12",
-      "name": "Bonnie Watson Coleman",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bonnie_Watson_Coleman.jpg"
     },
     {
       "id": "brad-cohen-nj-h-12",
@@ -931,12 +877,6 @@
       "name": "Bradley Allen Mr. Meyer",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "bradley-s-schneider-il-h-10",
-      "name": "Bradley S. Schneider",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Brad_Schneider_Official_Portrait_2025.jpg"
     },
     {
       "id": "bradley-smith-wi-h-06",
@@ -1029,12 +969,6 @@
       "externalUrl": null
     },
     {
-      "id": "brian-babin-tx-h-36",
-      "name": "Brian Babin",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Brian_Babin_115th_Congress.jpg"
-    },
-    {
       "id": "brian-bengs-sd-s-00",
       "name": "Brian Bengs",
       "reason": "no_open_license_source_found",
@@ -1075,12 +1009,6 @@
       "name": "Brian James Miller",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "brian-mast-fl-h-21",
-      "name": "Brian Mast",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Brian_Mast_official_115th_Congress_photo.jpg"
     },
     {
       "id": "brian-stahl-tx-h-06",
@@ -1143,12 +1071,6 @@
       "externalUrl": null
     },
     {
-      "id": "bruce-westerman-ar-h-04",
-      "name": "Bruce Westerman",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bruce_Westerman_118th_Congress.jpeg"
-    },
-    {
       "id": "bryan-george-steil-wi-h-01",
       "name": "Bryan George Steil",
       "reason": "download_or_resize_failed: HTTPError",
@@ -1167,22 +1089,10 @@
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Reeves_2024.jpg"
     },
     {
-      "id": "burgess-owens-ut-h-04",
-      "name": "Burgess Owens",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Burgess_Owens_117th_U.S_Congress.jpg"
-    },
-    {
       "id": "bushra-amiwala-il-h-09",
       "name": "Bushra Amiwala",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/2-25-26_Second_anniversary_commemoration_of_Aaron_Bushnell%27s_sacrifice_Bushra_Amiwala_%28cropped%29.jpg"
-    },
-    {
-      "id": "byron-donalds-fl-h-19",
-      "name": "Byron Donalds",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rep._Byron_Donalds_official_photo%2C_117th_Congress.jpg"
     },
     {
       "id": "byron-sigcho-lopez-il-h-04",
@@ -1327,12 +1237,6 @@
       "name": "Ceci Truman",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "celeste-maloy-ut-h-02",
-      "name": "Celeste Maloy",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Celeste_Maloy_118th_Congress.jpeg"
     },
     {
       "id": "ceretta-smith-ga-h-12",
@@ -1521,12 +1425,6 @@
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Seal_of_North_Carolina.svg"
     },
     {
-      "id": "chrissy-houlahan-pa-h-06",
-      "name": "Chrissy Houlahan",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Houlahan_Chrissy_119th_Congress.jpg"
-    },
-    {
       "id": "christ-kallas-il-h-08",
       "name": "Christ Kallas",
       "reason": "download_or_resize_failed: UnidentifiedImageError",
@@ -1573,12 +1471,6 @@
       "name": "Christine S Bish",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "christopher-a-coons-de-s-00",
-      "name": "Christopher A. Coons",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Chris_Coons_2024.jpg"
     },
     {
       "id": "christopher-ahuja-ca-h-32",
@@ -1665,12 +1557,6 @@
       "externalUrl": null
     },
     {
-      "id": "chuck-edwards-nc-h-11",
-      "name": "Chuck Edwards",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Chuck_Edwards_119th_Congress.jpg"
-    },
-    {
       "id": "chuck-gray-wy-h-00",
       "name": "Chuck Gray",
       "reason": "no_open_license_source_found",
@@ -1687,12 +1573,6 @@
       "name": "Chuong Vo",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "cindy-hyde-smith-ms-s-00",
-      "name": "Cindy Hyde-Smith",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Official_headshot_of_US_Senator_Cindy_Hyde-Smith.jpg"
     },
     {
       "id": "claire-anne-reynolds-tx-h-11",
@@ -1713,22 +1593,10 @@
       "externalUrl": null
     },
     {
-      "id": "claudia-tenney-ny-h-24",
-      "name": "Claudia Tenney",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Rep._Claudia_Tenney_official_congressional_photo.jpg"
-    },
-    {
       "id": "clay-fuller-ga-h-14",
       "name": "Clay Fuller",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Seal_of_Georgia.svg"
-    },
-    {
-      "id": "cliff-bentz-or-h-02",
-      "name": "Cliff Bentz",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cliff_Bentz_117th_U.S_Congress_%28cropped%29_%28centered%29.jpg"
     },
     {
       "id": "cliff-johnson-ms-h-01",
@@ -1929,12 +1797,6 @@
       "externalUrl": null
     },
     {
-      "id": "dan-newhouse-wa-h-04",
-      "name": "Dan Newhouse",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Dan_Newhouse_official_congressional_photo.jpg"
-    },
-    {
       "id": "dan-osborn-ne-s-00",
       "name": "Dan Osborn",
       "reason": "download_or_resize_failed: HTTPError",
@@ -2043,22 +1905,10 @@
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Seal_of_North_Carolina.svg"
     },
     {
-      "id": "darrell-issa-ca-h-48",
-      "name": "Darrell Issa",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Darrell_Issa_117th_Congress.jpg"
-    },
-    {
       "id": "darren-mcauley-fl-h-15",
       "name": "Darren Mcauley",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "darren-soto-fl-h-09",
-      "name": "Darren Soto",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Darren_Soto_115th_Congress_photo.jpg"
     },
     {
       "id": "darren-wayne-helton-ca-h-11",
@@ -2145,12 +1995,6 @@
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/LexingtonMayoralElection2022.2.svg"
     },
     {
-      "id": "david-kustoff-tn-h-08",
-      "name": "David Kustoff",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Rep._David_Kustoff%2C_official_portrait%2C_2023.jpg"
-    },
-    {
       "id": "david-l-young-co-h-08",
       "name": "David L. Young",
       "reason": "no_open_license_source_found",
@@ -2175,12 +2019,6 @@
       "externalUrl": null
     },
     {
-      "id": "david-p-joyce-oh-h-14",
-      "name": "David P. Joyce",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/David_Joyce.jpg"
-    },
-    {
       "id": "david-p-mr-huebner-ne-h-03",
       "name": "David P. Mr. Huebner",
       "reason": "no_open_license_source_found",
@@ -2191,12 +2029,6 @@
       "name": "David Pan",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "david-rouzer-nc-h-07",
-      "name": "David Rouzer",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/David_Rouzer_official_photo.jpg"
     },
     {
       "id": "david-s-schweikert-az-h-01",
@@ -2215,12 +2047,6 @@
       "name": "David Trone",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/David_Trone_official_photo.jpg"
-    },
-    {
-      "id": "david-valadao-ca-h-22",
-      "name": "David Valadao",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/David_Valadao_117th_U.S_Congress.jpg"
     },
     {
       "id": "david-womack-wa-h-05",
@@ -2263,18 +2089,6 @@
       "name": "Deanna Gordon",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Rep._Deanna_Frazier_Gordon.jpg"
-    },
-    {
-      "id": "debbie-dingell-mi-h-06",
-      "name": "Debbie Dingell",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Debbie_Dingell_Official_Headshot.jpg"
-    },
-    {
-      "id": "debbie-wasserman-schultz-fl-h-25",
-      "name": "Debbie Wasserman Schultz",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Debbie_Wasserman_Schultz_official_photo.jpg"
     },
     {
       "id": "deborah-a-pickett-in-h-05",
@@ -2355,12 +2169,6 @@
       "externalUrl": null
     },
     {
-      "id": "diana-harshbarger-tn-h-01",
-      "name": "Diana Harshbarger",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Diana_Harshbarger_116th_Congress.jpeg"
-    },
-    {
       "id": "diana-k-kastenbaum-ny-h-24",
       "name": "Diana K. Kastenbaum",
       "reason": "no_open_license_source_found",
@@ -2377,12 +2185,6 @@
       "name": "Dillan Vancil",
       "reason": "download_or_resize_failed: UnidentifiedImageError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Seal_of_Illinois.svg"
-    },
-    {
-      "id": "dina-titus-nv-h-01",
-      "name": "Dina Titus",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Dina_Titus_official_photo.jpg"
     },
     {
       "id": "diop-jermaine-mr-ii-harris-mi-h-04",
@@ -2493,12 +2295,6 @@
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Seal_of_Virginia.svg"
     },
     {
-      "id": "dusty-johnson-sd-h-00",
-      "name": "Dusty Johnson",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Dusty_Johnson_-_117th_Congress.jpg"
-    },
-    {
       "id": "dwayne-bradley-stovall-tx-h-09",
       "name": "Dwayne Bradley Stovall",
       "reason": "no_open_license_source_found",
@@ -2515,18 +2311,6 @@
       "name": "Dylan Thomas Blaha",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "earl-leroy-carter-ga-h-01",
-      "name": "Earl Leroy Carter",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Official_portrait_of_Congressman_Buddy_Carter_2025.jpg"
-    },
-    {
-      "id": "earl-leroy-carter-ga-s-00",
-      "name": "Earl Leroy Carter",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Official_portrait_of_Congressman_Buddy_Carter_2025.jpg"
     },
     {
       "id": "earle-ford-fl-h-13",
@@ -2575,18 +2359,6 @@
       "name": "Elaine Luria",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Rep._Elaine_Luria_official_photo%2C_117th_Congress.jpg"
-    },
-    {
-      "id": "eleanor-holmes-norton-dc-h-00",
-      "name": "Eleanor Holmes Norton",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Eleanor_Holmes_Norton_official_photo.jpg"
-    },
-    {
-      "id": "eli-crane-az-h-02",
-      "name": "Eli Crane",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rep._Eli_Crane_official_photo%2C_118th_Congress.jpg"
     },
     {
       "id": "elijah-manley-fl-h-20",
@@ -2677,12 +2449,6 @@
       "name": "Eric B Cunningham",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "eric-burlison-mo-h-07",
-      "name": "Eric Burlison",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Rep._Eric_Burlison_-_118th_Congress.jpg"
     },
     {
       "id": "eric-chung-mi-h-10",
@@ -2791,12 +2557,6 @@
       "name": "Erik Terwey",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "erin-houchin-in-h-09",
-      "name": "Erin Houchin",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Rep._Erin_Houchin_official_photo%2C_118th_Congress.jpg"
     },
     {
       "id": "erin-petrey-ky-h-06",
@@ -2973,12 +2733,6 @@
       "externalUrl": null
     },
     {
-      "id": "gabriel-vasquez-nm-h-02",
-      "name": "Gabriel Vasquez",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Gabrie_Vazquez%2C_8B6293079_%28cropped%29.jpg"
-    },
-    {
       "id": "garrett-petersen-ny-h-02",
       "name": "Garrett Petersen",
       "reason": "no_open_license_source_found",
@@ -2989,18 +2743,6 @@
       "name": "Gary Frank Taylor",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "gary-palmer-al-h-06",
-      "name": "Gary Palmer",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Gary_Palmer_-_2018.jpg"
-    },
-    {
-      "id": "gary-peters-mi-s-00",
-      "name": "Gary Peters",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Gary_Peters_official_photo_115th_congress.jpg"
     },
     {
       "id": "gary-vician-il-h-14",
@@ -3069,12 +2811,6 @@
       "externalUrl": "https://unitedstates.github.io/images/congress/450x550/W000830.jpg"
     },
     {
-      "id": "gilbert-cisneros-ca-h-31",
-      "name": "Gilbert Cisneros",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Cisneros_Gil_119th_Congress_2.jpg"
-    },
-    {
       "id": "gina-swoboda-az-h-01",
       "name": "Gina Swoboda",
       "reason": "download_or_resize_failed: HTTPError",
@@ -3103,18 +2839,6 @@
       "name": "Gordon Chaffin",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "grace-meng-ny-h-06",
-      "name": "Grace Meng",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Grace_Meng_Official_Congressional_Photo.jpg"
-    },
-    {
-      "id": "greg-casar-tx-h-37",
-      "name": "Greg Casar",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Rep._Greg_Casar_-_118th_Congress_%283x4_cropped%29.jpg"
     },
     {
       "id": "greg-cunningham-nm-h-02",
@@ -3219,24 +2943,6 @@
       "externalUrl": null
     },
     {
-      "id": "hakeem-jeffries-ny-h-08",
-      "name": "Hakeem Jeffries",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Rep-Hakeem-Jeffries-Official-Portrait_%28cropped%29.jpg"
-    },
-    {
-      "id": "haley-stevens-mi-h-11",
-      "name": "Haley Stevens",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Haley_Stevens%2C_official_portrait%2C_116th_Congress.jpg"
-    },
-    {
-      "id": "haley-stevens-mi-s-00",
-      "name": "Haley Stevens",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Haley_Stevens%2C_official_portrait%2C_116th_Congress.jpg"
-    },
-    {
       "id": "hallie-shoffner-ar-s-00",
       "name": "Hallie Shoffner",
       "reason": "no_open_license_source_found",
@@ -3253,18 +2959,6 @@
       "name": "Harinder Singh Lamba",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "harriet-hageman-wy-h-00",
-      "name": "Harriet Hageman",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Official-harriet-hageman-wy00.jpg"
-    },
-    {
-      "id": "harriet-hageman-wy-s-00",
-      "name": "Harriet Hageman",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Official-harriet-hageman-wy00.jpg"
     },
     {
       "id": "harry-clare-mr-jr-morley-nc-h-10",
@@ -3339,12 +3033,6 @@
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hilda_Solis%2C_2025.jpg"
     },
     {
-      "id": "hillary-scholten-mi-h-03",
-      "name": "Hillary Scholten",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rep._Hillary_Scholten_-_118th_Congress_%281%29.jpg"
-    },
-    {
       "id": "hollie-t-noveletsky-nh-h-01",
       "name": "Hollie T Noveletsky",
       "reason": "no_open_license_source_found",
@@ -3399,12 +3087,6 @@
       "externalUrl": null
     },
     {
-      "id": "ilhan-omar-mn-h-05",
-      "name": "Ilhan Omar",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ilhan_Omar%2C_official_portrait%2C_116th_Congress_%28cropped%29_A.jpg"
-    },
-    {
       "id": "isabelle-a-harman-pa-h-10",
       "name": "Isabelle A Harman",
       "reason": "no_open_license_source_found",
@@ -3441,12 +3123,6 @@
       "externalUrl": null
     },
     {
-      "id": "jahana-hayes-ct-h-05",
-      "name": "Jahana Hayes",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Jahana_Hayes%2C_official_portrait%2C_116th_Congress.jpg"
-    },
-    {
       "id": "jahmiel-jackson-pa-h-03",
       "name": "Jahmiel Jackson",
       "reason": "no_open_license_source_found",
@@ -3457,12 +3133,6 @@
       "name": "Jaimy Blanco",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "jake-auchincloss-ma-h-04",
-      "name": "Jake Auchincloss",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rep._Jake_Auchincloss_218th_Congress_Portrait.jpg"
     },
     {
       "id": "jake-lang-fl-s-00",
@@ -3519,22 +3189,10 @@
       "externalUrl": null
     },
     {
-      "id": "james-c-moylan-gu-h-00",
-      "name": "James C. Moylan",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/James_Moylan%2C_official_portrait_%28119th_Congress%29.jpg"
-    },
-    {
       "id": "james-carlin-ia-s-00",
       "name": "James Carlin",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "james-comer-ky-h-01",
-      "name": "James Comer",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/James_Comer_official_photo_%28cropped%29.jpg"
     },
     {
       "id": "james-dr-hayes-pa-h-12",
@@ -3693,12 +3351,6 @@
       "externalUrl": null
     },
     {
-      "id": "jamie-raskin-md-h-08",
-      "name": "Jamie Raskin",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Jamie_Raskin_Official_Portrait_2019.jpg"
-    },
-    {
       "id": "janak-joshi-co-s-00",
       "name": "Janak Joshi",
       "reason": "no_open_license_source_found",
@@ -3729,12 +3381,6 @@
       "externalUrl": null
     },
     {
-      "id": "jared-golden-me-h-02",
-      "name": "Jared Golden",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Jared_Golden_117th_Congress_portrait.jpeg"
-    },
-    {
       "id": "jared-gurfein-fl-h-23",
       "name": "Jared Gurfein",
       "reason": "no_open_license_source_found",
@@ -3745,12 +3391,6 @@
       "name": "Jared Hudson",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Seal_of_Alabama.svg"
-    },
-    {
-      "id": "jared-huffman-ca-h-02",
-      "name": "Jared Huffman",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jared_Huffman_Portrait_118.jpg"
     },
     {
       "id": "jared-moskowitz-fl-h-23",
@@ -3781,18 +3421,6 @@
       "name": "Jasmine Clark",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Member_of_the_Georgia_House_of_Representatives_Jasmine_Michelle_Clark.jpg"
-    },
-    {
-      "id": "jasmine-crockett-tx-h-30",
-      "name": "Jasmine Crockett",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Rep._Jasmine_Crockett_-_118th_Congress_%281%29.jpg"
-    },
-    {
-      "id": "jasmine-crockett-tx-s-00",
-      "name": "Jasmine Crockett",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Rep._Jasmine_Crockett_-_118th_Congress_%281%29.jpg"
     },
     {
       "id": "jason-byors-ca-h-41",
@@ -3861,12 +3489,6 @@
       "externalUrl": null
     },
     {
-      "id": "jay-obernolte-ca-h-23",
-      "name": "Jay Obernolte",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Jay_Obernolte_119th_Congress.jpg"
-    },
-    {
       "id": "jay-vaingankar-nj-h-12",
       "name": "Jay Vaingankar",
       "reason": "no_open_license_source_found",
@@ -3883,12 +3505,6 @@
       "name": "Jean-Louis Mr. Cauvin",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "jeanne-shaheen-nh-s-00",
-      "name": "Jeanne Shaheen",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Shaheen_Senate_Portrait.jpg"
     },
     {
       "id": "jeannie-evans-il-s-00",
@@ -4033,12 +3649,6 @@
       "name": "Jennifer Jenkins",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "jennifer-kiggans-va-h-02",
-      "name": "Jennifer Kiggans",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kiggans_Jen_118th_Congress.jpg"
     },
     {
       "id": "jennifer-konfrst-ia-h-03",
@@ -4203,12 +3813,6 @@
       "externalUrl": null
     },
     {
-      "id": "jim-costa-ca-h-21",
-      "name": "Jim Costa",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Rep_Costa_Headshot_2_%28cropped%29.jpg"
-    },
-    {
       "id": "jim-desmond-ca-h-49",
       "name": "Jim Desmond",
       "reason": "download_or_resize_failed: HTTPError",
@@ -4227,22 +3831,10 @@
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Rhodes_Tully_%26_Hughes_1922.jpg"
     },
     {
-      "id": "jimmy-gomez-ca-h-34",
-      "name": "Jimmy Gomez",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Jimmy_Gomez_official_portrait_%28light_crop%29.jpg"
-    },
-    {
       "id": "jimmy-jr-patronis-fl-h-01",
       "name": "Jimmy Jr. Patronis",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://unitedstates.github.io/images/congress/450x550/P000622.jpg"
-    },
-    {
-      "id": "jimmy-panetta-ca-h-19",
-      "name": "Jimmy Panetta",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Jimmy_Panetta_official_portrait_%28cropped%29_2.jpg"
     },
     {
       "id": "joan-vondras-mo-h-02",
@@ -4255,18 +3847,6 @@
       "name": "Joanna Mendoza",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "joaquin-castro-tx-h-20",
-      "name": "Joaquin Castro",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Joaquin_Castro%2C_official_portrait%2C_118th_Congress.jpg"
-    },
-    {
-      "id": "jodey-arrington-tx-h-19",
-      "name": "Jodey Arrington",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jodey_Arrington_115th_congress_photo.jpg"
     },
     {
       "id": "joe-albright-il-h-16",
@@ -4387,12 +3967,6 @@
       "name": "John E Sununu",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "john-f-reed-ri-s-00",
-      "name": "John F. Reed",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Senator_Jack_Reed_Official_Portrait_Full_Person_%28cropped%29.jpg"
     },
     {
       "id": "john-gray-va-h-07",
@@ -4737,28 +4311,10 @@
       "externalUrl": null
     },
     {
-      "id": "josh-brecheen-ok-h-02",
-      "name": "Josh Brecheen",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rep._Josh_Brecheen_official_photo%2C_118th_Congress.jpg"
-    },
-    {
       "id": "josh-cowen-mi-h-07",
       "name": "Josh Cowen",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "josh-gottheimer-nj-h-05",
-      "name": "Josh Gottheimer",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Josh_Gottheimer%2C_official_portrait%2C_115th_Congress_%28cropped%29.jpg"
-    },
-    {
-      "id": "josh-harder-ca-h-09",
-      "name": "Josh Harder",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Josh_Harder%2C_official_portrait%2C_116th_Congress_%283x4_cropped%29.jpg"
     },
     {
       "id": "josh-mcconkey-nc-h-13",
@@ -4845,22 +4401,10 @@
       "externalUrl": null
     },
     {
-      "id": "joyce-beatty-oh-h-03",
-      "name": "Joyce Beatty",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Joyce_Beatty_-_119th_Congress.jpg"
-    },
-    {
       "id": "joyce-elaine-ed-d-neal-tn-h-05",
       "name": "Joyce Elaine Ed.D. Neal",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "juan-ciscomani-az-h-06",
-      "name": "Juan Ciscomani",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Rep._Juan_Ciscomani_official_photo%2C_118th_Congress.jpg"
     },
     {
       "id": "juan-esparza-tx-h-28",
@@ -4873,24 +4417,6 @@
       "name": "Judy Bowlby",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "judy-chu-ca-h-28",
-      "name": "Judy Chu",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Judy_Chu_2019-05-02.jpg"
-    },
-    {
-      "id": "julia-brownley-ca-h-26",
-      "name": "Julia Brownley",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Julia_Brownley_119th_Congress.jpg"
-    },
-    {
-      "id": "julia-letlow-la-h-05",
-      "name": "Julia Letlow",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Julia_Letlow_117th_%28cropped%29.jpg"
     },
     {
       "id": "julian-c-beaudion-sd-s-00",
@@ -5055,12 +4581,6 @@
       "externalUrl": null
     },
     {
-      "id": "kat-cammack-fl-h-03",
-      "name": "Kat Cammack",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Rep._Kat_Cammack_official_photo%2C_117th_Congress_%283x4_cropped%29.jpg"
-    },
-    {
       "id": "kate-barr-nc-h-14",
       "name": "Kate Barr",
       "reason": "no_open_license_source_found",
@@ -5077,12 +4597,6 @@
       "name": "Katherine Aleman",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "katherine-clark-ma-h-05",
-      "name": "Katherine Clark",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Katherine_Clark%2C_official_portrait%2C_118th_Congress_cropped%29.jpg"
     },
     {
       "id": "katherine-m-abughazaleh-il-h-09",
@@ -5113,12 +4627,6 @@
       "name": "Kathryn (Kate) Ms. Zabriskie",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "kathy-castor-fl-h-14",
-      "name": "Kathy Castor",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Kathy_Castor.jpg"
     },
     {
       "id": "kathy-l-durham-nv-h-02",
@@ -5253,12 +4761,6 @@
       "externalUrl": null
     },
     {
-      "id": "kevin-hern-ok-h-01",
-      "name": "Kevin Hern",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Rep._Kevin_Hern_official_photo%2C_116th_congress.jpg"
-    },
-    {
       "id": "kevin-j-ii-lincoln-ca-h-13",
       "name": "Kevin J Ii Lincoln",
       "reason": "no_open_license_source_found",
@@ -5367,12 +4869,6 @@
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/2022_Texas_gubernatorial_election_results_map_by_county.svg"
     },
     {
-      "id": "kweisi-mfume-md-h-07",
-      "name": "Kweisi Mfume",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Maryland_Congressman_Kweisi_Mfume%2C_117th_Congress.jpg"
-    },
-    {
       "id": "kyah-creekmore-nc-h-05",
       "name": "Kyah Creekmore",
       "reason": "no_open_license_source_found",
@@ -5445,12 +4941,6 @@
       "externalUrl": null
     },
     {
-      "id": "lance-gooden-tx-h-05",
-      "name": "Lance Gooden",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lance_Gooden%2C_official_portrait%2C_116th_Congress.jpg"
-    },
-    {
       "id": "larry-david-rubin-tx-h-38",
       "name": "Larry David Rubin",
       "reason": "no_open_license_source_found",
@@ -5511,12 +5001,6 @@
       "externalUrl": null
     },
     {
-      "id": "laurel-lee-fl-h-15",
-      "name": "Laurel Lee",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Laurel_Lee_118thCong.jpeg"
-    },
-    {
       "id": "lauren-b-pena-tx-h-37",
       "name": "Lauren B. Pena",
       "reason": "no_open_license_source_found",
@@ -5533,12 +5017,6 @@
       "name": "Lauren Jewett",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "lauren-underwood-il-h-14",
-      "name": "Lauren Underwood",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Lauren_Underwood_official_portrait.jpg"
     },
     {
       "id": "laurie-buckhout-nc-h-01",
@@ -5607,12 +5085,6 @@
       "externalUrl": null
     },
     {
-      "id": "lisa-mcclain-mi-h-09",
-      "name": "Lisa Mcclain",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Rep._Lisa_McClain.jpg"
-    },
-    {
       "id": "lisa-vedernikova-khanna-va-h-01",
       "name": "Lisa Vedernikova Khanna",
       "reason": "no_open_license_source_found",
@@ -5659,12 +5131,6 @@
       "name": "Lorenzo Rios",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "lori-trahan-ma-h-03",
-      "name": "Lori Trahan",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Lori_Trahan%2C_official_portrait%2C_116th_Congress.jpg"
     },
     {
       "id": "lou-correa-ca-h-46",
@@ -5745,12 +5211,6 @@
       "externalUrl": null
     },
     {
-      "id": "madeleine-dean-pa-h-04",
-      "name": "Madeleine Dean",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Madeleine_Dean_Official_Portrait_116th_Congress.jpg"
-    },
-    {
       "id": "malcolm-ritchie-oh-h-06",
       "name": "Malcolm Ritchie",
       "reason": "no_open_license_source_found",
@@ -5823,40 +5283,10 @@
       "externalUrl": null
     },
     {
-      "id": "mariannette-jane-miller-meeks-ia-h-01",
-      "name": "Mariannette Jane Miller-Meeks",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Mariannette_Miller-Meeks_117th_U.S_Congress.jpg"
-    },
-    {
-      "id": "marie-gluesenkamp-perez-wa-h-03",
-      "name": "Marie Gluesenkamp Perez",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Rep._Marie_Gluesenkamp_Perez_-_118th_Congress.jpg"
-    },
-    {
-      "id": "marilyn-strickland-wa-h-10",
-      "name": "Marilyn Strickland",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Marilyn_Strickland_117th_U.S_Congress.jpg"
-    },
-    {
       "id": "mario-alberto-morales-tx-h-34",
       "name": "Mario Alberto Morales",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "mario-diaz-balart-fl-h-26",
-      "name": "Mario Diaz-Balart",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mario_D%C3%ADaz-Balart_official_photo.jpg"
-    },
-    {
-      "id": "mark-alford-mo-h-04",
-      "name": "Mark Alford",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Rep._Mark_Alford_official_photo%2C_118th_Congress.jpg"
     },
     {
       "id": "mark-andrew-leonard-ca-h-45",
@@ -5961,12 +5391,6 @@
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/2022_Pennsylvania_gubernatorial_election_results_map_by_county.svg"
     },
     {
-      "id": "mark-pocan-wi-h-02",
-      "name": "Mark Pocan",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mark_Pocan_headshot.jpg"
-    },
-    {
       "id": "mark-rice-il-h-08",
       "name": "Mark Rice",
       "reason": "no_open_license_source_found",
@@ -6001,12 +5425,6 @@
       "name": "Mark Steven Mr. Jr. Conway",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "mark-takano-ca-h-39",
-      "name": "Mark Takano",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Mark_Takano_118th_Congress.jpeg"
     },
     {
       "id": "marlene-galan-woods-az-h-01",
@@ -6055,12 +5473,6 @@
       "name": "Marvalette Hunter",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "mary-gay-scanlon-pa-h-05",
-      "name": "Mary Gay Scanlon",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Mary_Gay_Scanlon%2C_official_portrait%2C_2018_%283x4_cropped%29.jpg"
     },
     {
       "id": "mary-jo-ann-guinchard-nj-h-05",
@@ -6237,12 +5649,6 @@
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Dexter_Maxine_119th_Congress.jpg"
     },
     {
-      "id": "maxwell-alejandro-frost-fl-h-10",
-      "name": "Maxwell Alejandro Frost",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Rep._Maxwell_Frost_-_118th_Congress.jpg"
-    },
-    {
       "id": "mayra-macias-il-h-04",
       "name": "Mayra Macias",
       "reason": "download_or_resize_failed: UnidentifiedImageError",
@@ -6271,12 +5677,6 @@
       "name": "Megan O'Rourke",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "melanie-stansbury-nm-h-01",
-      "name": "Melanie Stansbury",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Melanie_Stansbury_117th_Congress.jpg"
     },
     {
       "id": "melat-kiros-co-h-01",
@@ -6585,12 +5985,6 @@
       "externalUrl": null
     },
     {
-      "id": "michelle-fischbach-mn-h-07",
-      "name": "Michelle Fischbach",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Rep._Michelle_Fischbach_official_portrait.jpg"
-    },
-    {
       "id": "michelle-steel-ca-h-45",
       "name": "Michelle Steel",
       "reason": "download_or_resize_failed: HTTPError",
@@ -6627,12 +6021,6 @@
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Kennedy_Mike_119th_Congress_2.jpg"
     },
     {
-      "id": "mike-levin-ca-h-49",
-      "name": "Mike Levin",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Rep._Mike_Levin_official_photo.jpg"
-    },
-    {
       "id": "mike-mcguire-ca-h-01",
       "name": "Mike Mcguire",
       "reason": "no_open_license_source_found",
@@ -6643,12 +6031,6 @@
       "name": "Mike Pedersen",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "mike-quigley-il-h-05",
-      "name": "Mike Quigley",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Mike_Quigley_official_photo.jpg"
     },
     {
       "id": "mike-sacks-ny-h-17",
@@ -6693,12 +6075,6 @@
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Seal_of_Missouri.svg"
     },
     {
-      "id": "mitch-mcconnell-ky-s-00",
-      "name": "Mitch Mcconnell",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Mitch_McConnell_2016_official_photo_%281%29.jpg"
-    },
-    {
       "id": "mitchell-berman-wi-h-01",
       "name": "Mitchell Berman",
       "reason": "no_open_license_source_found",
@@ -6721,12 +6097,6 @@
       "name": "Mo Seifeldein",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "monica-de-la-cruz-tx-h-15",
-      "name": "Monica De La Cruz",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/MDLC_Official_Portrait_2025.jpg"
     },
     {
       "id": "monica-dean-ky-h-04",
@@ -6951,12 +6321,6 @@
       "externalUrl": null
     },
     {
-      "id": "nicole-malliotakis-ny-h-11",
-      "name": "Nicole Malliotakis",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Congresswoman_Nicole_Malliotakis.jpg"
-    },
-    {
       "id": "nigel-william-bristow-nc-h-09",
       "name": "Nigel William Bristow",
       "reason": "no_open_license_source_found",
@@ -6985,12 +6349,6 @@
       "name": "Noah Widmann",
       "reason": "download_or_resize_failed: UnidentifiedImageError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Seal_of_Florida.svg"
-    },
-    {
-      "id": "norma-torres-ca-h-35",
-      "name": "Norma Torres",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Norma_Torres_118th_congress.jpeg"
     },
     {
       "id": "nydia-m-velazquez-ny-h-07",
@@ -7221,28 +6579,10 @@
       "externalUrl": null
     },
     {
-      "id": "pete-aguilar-ca-h-33",
-      "name": "Pete Aguilar",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pete_Aguilar_117th_congress.jpeg"
-    },
-    {
       "id": "pete-hamilton-barlow-va-h-06",
       "name": "Pete Hamilton Barlow",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "pete-ricketts-ne-s-00",
-      "name": "Pete Ricketts",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sen._Pete_Ricketts_official_portrait%2C_118th_Congress.jpg"
-    },
-    {
-      "id": "pete-sessions-tx-h-17",
-      "name": "Pete Sessions",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Pete_Sessions_%283x4_cropped%29.jpg"
     },
     {
       "id": "peter-allen-stauber-mn-h-08",
@@ -7303,12 +6643,6 @@
       "name": "Pierre Whatley",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "pramila-jayapal-wa-h-07",
-      "name": "Pramila Jayapal",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Pramila_Jayapal%2C_official_portrait%2C_116th_Congress.jpg"
     },
     {
       "id": "priscilla-williams-till-ms-s-00",
@@ -7387,18 +6721,6 @@
       "name": "Randy Villegas",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Great_Seal_of_the_State_of_California_Colored.svg"
-    },
-    {
-      "id": "randy-weber-tx-h-14",
-      "name": "Randy Weber",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Randy_Weber_118th_cong.jpeg"
-    },
-    {
-      "id": "rashida-tlaib-mi-h-12",
-      "name": "Rashida Tlaib",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Tlaib_Rashida_119th_Congress_%283x4_cropped%29.jpg"
     },
     {
       "id": "raven-harrison-fl-h-23",
@@ -7545,12 +6867,6 @@
       "externalUrl": null
     },
     {
-      "id": "richard-j-durbin-il-s-00",
-      "name": "Richard J. Durbin",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dick_Durbin_117th_Congress_portrait_%281%29_%28crop%29.jpeg"
-    },
-    {
       "id": "richard-joseph-barilla-nj-h-08",
       "name": "Richard Joseph Barilla",
       "reason": "no_open_license_source_found",
@@ -7579,12 +6895,6 @@
       "name": "Rick Jakious",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "rick-larsen-wa-h-02",
-      "name": "Rick Larsen",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Rick_Larsen_116th_Congress_official_photo.jpg"
     },
     {
       "id": "rick-mccartney-az-h-01",
@@ -7675,12 +6985,6 @@
       "name": "Robert Christopher Stephens",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "robert-edward-latta-oh-h-05",
-      "name": "Robert Edward Latta",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bob_Latta_portrait_118th_Congress.jpeg"
     },
     {
       "id": "robert-frank-onder-jr-mo-h-03",
@@ -7779,18 +7083,6 @@
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Robin_Ficker_%2835598540490%29.jpg"
     },
     {
-      "id": "robin-kelly-il-h-02",
-      "name": "Robin Kelly",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rep._Robin_Kelly%2C_117th_Congress.jpg"
-    },
-    {
-      "id": "robin-kelly-il-s-atlarge",
-      "name": "Robin Kelly",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rep._Robin_Kelly%2C_117th_Congress.jpg"
-    },
-    {
       "id": "robin-peguero-fl-h-27",
       "name": "Robin Peguero",
       "reason": "no_open_license_source_found",
@@ -7827,12 +7119,6 @@
       "externalUrl": null
     },
     {
-      "id": "roger-williams-tx-h-25",
-      "name": "Roger Williams",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Roger_Williams_statue_by_Franklin_Simmons.jpg"
-    },
-    {
       "id": "rohit-khanna-ca-h-17",
       "name": "Rohit Khanna",
       "reason": "download_or_resize_failed: HTTPError",
@@ -7843,12 +7129,6 @@
       "name": "Ron Eller",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "ron-estes-ks-h-04",
-      "name": "Ron Estes",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ron_Estes%2C_115th_official_photo.jpg"
     },
     {
       "id": "ronald-charles-mr-russell-me-h-01",
@@ -7909,12 +7189,6 @@
       "name": "Rudy Salas",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Rudy_Salas.jpg"
-    },
-    {
-      "id": "russell-fry-sc-h-07",
-      "name": "Russell Fry",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Rep_Russell_Fry_Official_Portrait.jpg"
     },
     {
       "id": "russell-fulcher-id-h-01",
@@ -8097,12 +7371,6 @@
       "externalUrl": null
     },
     {
-      "id": "sanford-bishop-ga-h-02",
-      "name": "Sanford Bishop",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Official_photo_of_Sen._Sanford_Bishop.jpg"
-    },
-    {
       "id": "sanjyot-dunung-il-h-08",
       "name": "Sanjyot Dunung",
       "reason": "download_or_resize_failed: UnidentifiedImageError",
@@ -8119,12 +7387,6 @@
       "name": "Santos M. Limon",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "sara-jacobs-ca-h-51",
-      "name": "Sara Jacobs",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Representative_Sara_Jacobs_full_portrait.jpg"
     },
     {
       "id": "sara-larue-canady-tx-s-00",
@@ -8187,12 +7449,6 @@
       "externalUrl": null
     },
     {
-      "id": "scott-fitzgerald-wi-h-05",
-      "name": "Scott Fitzgerald",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/F._Scott_Fitzgerald_%281921_portrait_-_crop%29_Retouched.jpg"
-    },
-    {
       "id": "scott-macleod-tx-h-10",
       "name": "Scott Macleod",
       "reason": "no_open_license_source_found",
@@ -8209,12 +7465,6 @@
       "name": "Scott Schulz",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "sean-casten-il-h-06",
-      "name": "Sean Casten",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sean_Casten_Headshot_117th_Congress.jpeg"
     },
     {
       "id": "sean-jacob-dougherty-ca-h-19",
@@ -8247,24 +7497,6 @@
       "externalUrl": null
     },
     {
-      "id": "seth-magaziner-ri-h-02",
-      "name": "Seth Magaziner",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Seth_Magaziner_%281%29.jpg"
-    },
-    {
-      "id": "seth-moulton-ma-h-06",
-      "name": "Seth Moulton",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Seth_Moulton_%283x4_cropped%29.jpg"
-    },
-    {
-      "id": "seth-moulton-ma-s-00",
-      "name": "Seth Moulton",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Seth_Moulton_%283x4_cropped%29.jpg"
-    },
-    {
       "id": "shanel-y-robinson-nj-h-12",
       "name": "Shanel Y Robinson",
       "reason": "no_open_license_source_found",
@@ -8289,12 +7521,6 @@
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Iowa_State_Representative_Shannon_Lundgren_official_portrait_GA88.jpg"
     },
     {
-      "id": "sharice-davids-ks-h-03",
-      "name": "Sharice Davids",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Sharice_Davids.jpg"
-    },
-    {
       "id": "sharif-street-pa-h-03",
       "name": "Sharif Street",
       "reason": "download_or_resize_failed: HTTPError",
@@ -8317,12 +7543,6 @@
       "name": "Shawn Harris",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/The_matches.jpg"
-    },
-    {
-      "id": "shelley-moore-capito-wv-s-00",
-      "name": "Shelley Moore Capito",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Shelley_Moore_Capito_official_Senate_photo.jpg"
     },
     {
       "id": "shelly-dezevallos-tx-h-38",
@@ -8361,12 +7581,6 @@
       "externalUrl": null
     },
     {
-      "id": "shri-thanedar-mi-h-13",
-      "name": "Shri Thanedar",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Shri_Thanedar%2C_official_portrait_%28119th_Congress%29.jpg"
-    },
-    {
       "id": "squire-servance-nj-h-12",
       "name": "Squire Servance",
       "reason": "no_open_license_source_found",
@@ -8397,12 +7611,6 @@
       "externalUrl": null
     },
     {
-      "id": "stephanie-bice-ok-h-05",
-      "name": "Stephanie Bice",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rep._Stephanie_Bice%2C_117th_Congress_%28cropped%29.jpg"
-    },
-    {
       "id": "stephen-a-the-hon-womack-ar-h-03",
       "name": "Stephen A The Hon Womack",
       "reason": "no_open_license_source_found",
@@ -8431,12 +7639,6 @@
       "name": "Steve Botsford",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "steve-daines-mt-s-00",
-      "name": "Steve Daines",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Steve_Daines%2C_Official_Portrait%2C_116th_Congress.jpg"
     },
     {
       "id": "steve-jones-nm-h-01",
@@ -8565,12 +7767,6 @@
       "externalUrl": null
     },
     {
-      "id": "susie-lee-nv-h-03",
-      "name": "Susie Lee",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Rep._Susie_Lee_118th_Portrait.jpg"
-    },
-    {
       "id": "suzanne-k-krzyzanowski-va-h-05",
       "name": "Suzanne K Krzyzanowski",
       "reason": "no_open_license_source_found",
@@ -8581,12 +7777,6 @@
       "name": "Suzanne Marie Dr. Till",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "sydney-kamlager-dove-ca-h-37",
-      "name": "Sydney Kamlager-Dove",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sydney_Kamlager-Dove_118th-2.jpeg"
     },
     {
       "id": "sylvester-turner-tx-h-18",
@@ -8667,22 +7857,10 @@
       "externalUrl": null
     },
     {
-      "id": "ted-lieu-ca-h-36",
-      "name": "Ted Lieu",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Congressman_Ted_W._Lieu_Official_Photo.jpg"
-    },
-    {
       "id": "tera-anderson-nv-h-03",
       "name": "Tera Anderson",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Las_Vegas_mayoral_election_by_precinct%2C_2024.svg"
-    },
-    {
-      "id": "teresa-leger-fernandez-nm-h-03",
-      "name": "Teresa Leger Fernandez",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Teresa_Leger_Fernandez_117th_Congress_portrait_2.jpg"
     },
     {
       "id": "terri-a-sewell-al-h-07",
@@ -8853,12 +8031,6 @@
       "externalUrl": null
     },
     {
-      "id": "thomas-suozzi-ny-h-03",
-      "name": "Thomas Suozzi",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/TomSuozzi118thCongress.jpg"
-    },
-    {
       "id": "tiffanie-dr-tate-ca-h-40",
       "name": "Tiffanie Dr. Tate",
       "reason": "no_open_license_source_found",
@@ -8869,12 +8041,6 @@
       "name": "Tiffany Danielle Roberts",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "tim-burchett-tn-h-02",
-      "name": "Tim Burchett",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Rep_Tim_Burchett%2C_119th_Congress.jpg"
     },
     {
       "id": "tim-greimel-mi-h-10",
@@ -8955,12 +8121,6 @@
       "externalUrl": null
     },
     {
-      "id": "tina-smith-mn-s-00",
-      "name": "Tina Smith",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Tina_Smith%2C_official_portrait%2C_116th_congress.jpg"
-    },
-    {
       "id": "todd-baker-achilles-id-s-00",
       "name": "Todd Baker Achilles",
       "reason": "no_open_license_source_found",
@@ -8971,12 +8131,6 @@
       "name": "Todd Lombardo",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "tom-cole-ok-h-04",
-      "name": "Tom Cole",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rep-Tom-Cole-117thCong.jpeg"
     },
     {
       "id": "tom-malinowski-nj-h-11",
@@ -9081,12 +8235,6 @@
       "externalUrl": null
     },
     {
-      "id": "troy-nehls-tx-h-22",
-      "name": "Troy Nehls",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Troy_Nehls_117th_U.S_Congress.jpg"
-    },
-    {
       "id": "troy-wesley-green-ok-s-00",
       "name": "Troy Wesley Green",
       "reason": "no_open_license_source_found",
@@ -9129,12 +8277,6 @@
       "externalUrl": null
     },
     {
-      "id": "valerie-foushee-nc-h-04",
-      "name": "Valerie Foushee",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Valerie_Foushee_118th_Congress_3.jpg"
-    },
-    {
       "id": "vanessa-f-hicks-callaway-tx-h-35",
       "name": "Vanessa F. Hicks-Callaway",
       "reason": "no_open_license_source_found",
@@ -9145,12 +8287,6 @@
       "name": "Verlina Reynolds-Jackson",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Verlina_Reynolds-Jackson.jpg"
-    },
-    {
-      "id": "veronica-escobar-tx-h-16",
-      "name": "Veronica Escobar",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Veronica_Escobar_official_portrait%2C_116th_Congress.jpg"
     },
     {
       "id": "victor-g-mellor-ri-h-02",
@@ -9175,12 +8311,6 @@
       "name": "Victoria Jane Boker Doyle",
       "reason": "no_open_license_source_found",
       "externalUrl": null
-    },
-    {
-      "id": "victoria-spartz-in-h-05",
-      "name": "Victoria Spartz",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Victoria_Spartz_117th_U.S_Congress.jpg"
     },
     {
       "id": "vin-kruttiventi-ca-h-13",
@@ -9253,18 +8383,6 @@
       "name": "Wesley Bell",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Wesley_Bell%2C_official_portrait_%28119th_Congress%29.jpg"
-    },
-    {
-      "id": "wesley-hunt-tx-h-38",
-      "name": "Wesley Hunt",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Rep._Wesley_Hunt_official_photo.jpg"
-    },
-    {
-      "id": "wesley-hunt-tx-s-00",
-      "name": "Wesley Hunt",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Rep._Wesley_Hunt_official_photo.jpg"
     },
     {
       "id": "west-caudle-nc-h-10",
@@ -9433,12 +8551,6 @@
       "name": "Zelda Briarwood",
       "reason": "download_or_resize_failed: HTTPError",
       "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Seal_of_North_Carolina.svg"
-    },
-    {
-      "id": "zoe-lofgren-ca-h-18",
-      "name": "Zoe Lofgren",
-      "reason": "download_or_resize_failed: HTTPError",
-      "externalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Zoe_Lofgren_Official_Portrait_2024.jpeg"
     },
     {
       "id": "zurit-zuriel-horowitz-co-h-05",
