@@ -6,25 +6,29 @@
   "office": "U.S. House",
   "districtOrOffice": "Delegate, AS",
   "imageUrl": "",
-  "stanceLabel": "Unknown",
-  "stanceColor": "neutral",
-  "stanceSummary": "No public Track AIPAC congressional total is currently linked for Aumua Amata in Delegate, AS. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "Amata has consistently characterized Israel as a U.S. friend, highlighted support for hostage release after October 7, and linked Israel-Gaza outcomes to broader U.S. foreign-policy priorities.",
   "timeline": [
     {
-      "date": "2026-03-04",
-      "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
+      "date": "2023-04-20",
+      "event": "Amata marked Israel's 75th Independence Day and called Israel a dependable U.S. friend in the region.",
       "sourceIds": [
-        "fec-candidate-master-2026",
-        "house-resolution-tracker",
-        "congress-floor-records"
+        "rep-aumua-amata-israel-75th-2023"
+      ]
+    },
+    {
+      "date": "2025-03-05",
+      "event": "Amata highlighted calls for release of October 7 hostages and referenced future international efforts for both Israel and Gaza.",
+      "sourceIds": [
+        "rep-aumua-amata-joint-address-israel-gaza-2025"
       ]
     }
   ],
   "sourceIds": [
-    "fec-candidate-master-2026",
-    "house-resolution-tracker",
-    "congress-floor-records"
+    "rep-aumua-amata-israel-75th-2023",
+    "rep-aumua-amata-joint-address-israel-gaza-2025"
   ],
-  "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
+  "profileLastUpdatedAt": "2026-03-04T20:54:53.088267+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

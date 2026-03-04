@@ -6,25 +6,29 @@
   "office": "U.S. House",
   "districtOrOffice": "U.S. House, AL-03",
   "imageUrl": "",
-  "stanceLabel": "Unknown",
-  "stanceColor": "neutral",
-  "stanceSummary": "No public Track AIPAC congressional total is currently linked for Michael Rogers in U.S. House, AL-03. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "Rogers has publicly supported expanded military backing for Israel, defended Israel's right to respond to Iranian and proxy threats, and framed policy disputes around Gaza aid operations through a security-first lens.",
   "timeline": [
     {
-      "date": "2026-03-04",
-      "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
+      "date": "2024-06-27",
+      "event": "Rogers urged the administration to halt the Gaza pier operation and shift to alternative aid delivery methods, citing military risk and limited throughput.",
       "sourceIds": [
-        "fec-candidate-master-2026",
-        "house-resolution-tracker",
-        "congress-floor-records"
+        "rep-mike-rogers-gaza-jlots-2024"
+      ]
+    },
+    {
+      "date": "2024-10-01",
+      "event": "After Iran's attack on Israel, Rogers said Israel has the right to defend itself against Iran and its terrorist proxies and called for continued U.S. military support.",
+      "sourceIds": [
+        "rep-mike-rogers-iran-attack-israel-2024"
       ]
     }
   ],
   "sourceIds": [
-    "fec-candidate-master-2026",
-    "house-resolution-tracker",
-    "congress-floor-records"
+    "rep-mike-rogers-gaza-jlots-2024",
+    "rep-mike-rogers-iran-attack-israel-2024"
   ],
-  "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
+  "profileLastUpdatedAt": "2026-03-04T20:54:53.088267+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

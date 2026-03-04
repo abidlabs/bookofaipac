@@ -244,5 +244,53 @@
     "publisher": "House Permanent Select Committee on Intelligence",
     "url": "https://intelligence.house.gov/2025/08/06/house-intel-chairman-crawford-leads-first-bipartisan-codel-to-israel-since-war-with-iran/",
     "accessedAt": "2026-03-04"
+  },
+  "sen-cotton-gaza-speech-2025": {
+    "title": "Hamas is to blame for suffering in Gaza",
+    "publisher": "Office of Sen. Tom Cotton",
+    "url": "https://www.cotton.senate.gov/news/speeches/hamas-is-to-blame-for-suffering-in-gaza",
+    "accessedAt": "2026-03-04"
+  },
+  "sen-cotton-un-hamas-letter-2024": {
+    "title": "Cotton to UN: Is Hamas a terrorist organization?",
+    "publisher": "Office of Sen. Tom Cotton",
+    "url": "https://www.cotton.senate.gov/news/press-releases/cotton-to-un-is-hamas-a-terrorist-organization",
+    "accessedAt": "2026-03-04"
+  },
+  "rep-mike-rogers-gaza-jlots-2024": {
+    "title": "Rep. Rogers urges Biden administration to cease Gaza pier operation",
+    "publisher": "Office of Rep. Mike Rogers",
+    "url": "https://mikerogers.house.gov/news/documentsingle.aspx?DocumentID=3045",
+    "accessedAt": "2026-03-04"
+  },
+  "rep-mike-rogers-iran-attack-israel-2024": {
+    "title": "Rogers statement on Iran attack on Israel",
+    "publisher": "House Armed Services Committee",
+    "url": "https://armedservices.house.gov/news/documentsingle.aspx?DocumentID=3323",
+    "accessedAt": "2026-03-04"
+  },
+  "rep-aumua-amata-joint-address-israel-gaza-2025": {
+    "title": "Amata highlights Joint Address to Congress with Israel and Gaza reference",
+    "publisher": "Office of Rep. Aumua Amata",
+    "url": "https://radewagen.house.gov/media-center/press-releases/amata-highlights-joint-address-congress",
+    "accessedAt": "2026-03-04"
+  },
+  "rep-aumua-amata-israel-75th-2023": {
+    "title": "Amata congratulates Israel on 75th Independence Day",
+    "publisher": "Office of Rep. Aumua Amata",
+    "url": "https://radewagen.house.gov/media-center/press-releases/amata-congratulates-israel-upon-75th-independence-day",
+    "accessedAt": "2026-03-04"
+  },
+  "rep-peltola-freeze-iranian-assets-2023": {
+    "title": "Gluesenkamp Perez, Golden, Peltola statement on freezing Iranian assets after Hamas attacks",
+    "publisher": "Office of Rep. Marie Gluesenkamp Perez (joint statement including Rep. Mary Peltola)",
+    "url": "https://gluesenkampperez.house.gov/posts/gluesenkamp-perez-golden-peltola-issue-statement-on-freezing-iranian-assets",
+    "accessedAt": "2026-03-04"
+  },
+  "rep-begich-iran-proxies-hamas-2026": {
+    "title": "Congressman Begich statement citing Iran support for Hamas proxy activity",
+    "publisher": "Office of Rep. Nick Begich",
+    "url": "https://begich.house.gov/media/press-releases/congressman-begich-issues-statement-us-military-action-against-irans-nuclear",
+    "accessedAt": "2026-03-04"
   }
 }

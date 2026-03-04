@@ -1142,8 +1142,8 @@
       "id": "aumua-amata-as-h-00",
       "name": "Aumua Amata",
       "districtOrOffice": "Delegate, AS",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
       "endpoint": "/api/candidates/aumua-amata-as-h-00.json"
     },
     {
@@ -4846,8 +4846,8 @@
       "id": "felix-barry-moore-al-s-00",
       "name": "Felix Barry Moore",
       "districtOrOffice": "U.S. Senate, AL",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
       "endpoint": "/api/candidates/felix-barry-moore-al-s-00.json"
     },
     {
@@ -10054,8 +10054,8 @@
       "id": "mary-peltola-ak-h-00",
       "name": "Mary Peltola",
       "districtOrOffice": "U.S. House, AK-00",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
       "endpoint": "/api/candidates/mary-peltola-ak-h-00.json"
     },
     {
@@ -10734,8 +10734,8 @@
       "id": "michael-rogers-al-h-03",
       "name": "Michael Rogers",
       "districtOrOffice": "U.S. House, AL-03",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
       "endpoint": "/api/candidates/michael-rogers-al-h-03.json"
     },
     {
@@ -11422,8 +11422,8 @@
       "id": "nicholas-iii-begich-ak-h-00",
       "name": "Nicholas Iii Begich",
       "districtOrOffice": "U.S. House, AK-00",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
       "endpoint": "/api/candidates/nicholas-iii-begich-ak-h-00.json"
     },
     {
@@ -14510,8 +14510,8 @@
       "id": "thomas-cotton-ar-s-00",
       "name": "Thomas Cotton",
       "districtOrOffice": "U.S. Senate, AR",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
       "endpoint": "/api/candidates/thomas-cotton-ar-s-00.json"
     },
     {
