@@ -2,6 +2,7 @@ import {
   DEFAULT_IMAGE,
   applyLocalImageMap,
   formatIsraelLobbyTotal,
+  getCandidateFallbackImage,
   loadJson,
   makeCandidateIndex,
   normalizeForSearch,
@@ -85,6 +86,11 @@ function candidateRowTemplate(candidate, isActive) {
   image.alt = candidate.name;
   image.loading = "lazy";
   image.addEventListener("error", () => {
+    if (image.dataset.fallbackApplied !== "1") {
+      image.dataset.fallbackApplied = "1";
+      image.src = getCandidateFallbackImage(candidate);
+      return;
+    }
     image.src = DEFAULT_IMAGE;
   });
 
@@ -223,6 +229,11 @@ function renderTicker(candidates) {
     img.alt = candidate.name;
     img.loading = "lazy";
     img.addEventListener("error", () => {
+      if (img.dataset.fallbackApplied !== "1") {
+        img.dataset.fallbackApplied = "1";
+        img.src = getCandidateFallbackImage(candidate);
+        return;
+      }
       img.src = DEFAULT_IMAGE;
     });
 

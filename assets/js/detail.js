@@ -1,6 +1,7 @@
 import {
   DEFAULT_IMAGE,
   formatIsraelLobbyTotal,
+  getCandidateFallbackImage,
   getLocalImageForCandidate,
   loadJson,
 } from "./data.js";
@@ -60,6 +61,11 @@ function renderHeader(candidate) {
   const avatar = headerRoot.querySelector(".detail-avatar");
   if (avatar) {
     avatar.addEventListener("error", () => {
+      if (avatar.dataset.fallbackApplied !== "1") {
+        avatar.dataset.fallbackApplied = "1";
+        avatar.src = getCandidateFallbackImage(candidate);
+        return;
+      }
       avatar.src = DEFAULT_IMAGE;
     });
   }
@@ -247,11 +253,13 @@ async function init() {
     throw new Error("Candidate not found");
   }
 
+  const localImage = getLocalImageForCandidate(candidate.id, imageManifest, "../");
+  const candidateImage = candidate.imageUrl && candidate.imageUrl !== DEFAULT_IMAGE ? candidate.imageUrl : "";
   candidate.imageUrl =
-    getLocalImageForCandidate(candidate.id, imageManifest, "../") ||
-    candidate.imageUrl ||
+    localImage ||
+    candidateImage ||
     `../assets/images/candidates/${candidate.id}.webp` ||
-    DEFAULT_IMAGE;
+    getCandidateFallbackImage(candidate);
 
   renderHeader(candidate);
   renderLastUpdated(candidate);

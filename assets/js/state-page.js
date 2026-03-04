@@ -2,6 +2,7 @@ import {
   DEFAULT_IMAGE,
   applyLocalImageMap,
   formatIsraelLobbyTotal,
+  getCandidateFallbackImage,
   loadJson,
   makeCandidateIndex,
 } from "./data.js";
@@ -53,6 +54,11 @@ function makeRow(candidate) {
   avatar.alt = candidate.name;
   avatar.loading = "lazy";
   avatar.addEventListener("error", () => {
+    if (avatar.dataset.fallbackApplied !== "1") {
+      avatar.dataset.fallbackApplied = "1";
+      avatar.src = getCandidateFallbackImage(candidate);
+      return;
+    }
     avatar.src = DEFAULT_IMAGE;
   });
   const nameCopy = document.createElement("span");
