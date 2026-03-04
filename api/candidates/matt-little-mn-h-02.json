@@ -1,0 +1,30 @@
+{
+  "id": "matt-little-mn-h-02",
+  "name": "Matt Little",
+  "party": "DFL",
+  "state": "MN",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MN-02",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "No public Track AIPAC congressional total is currently linked for Matt Little in U.S. House, MN-02. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+  "timeline": [
+    {
+      "date": "2026-03-04",
+      "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
+      "sourceIds": [
+        "fec-candidate-master-2026",
+        "house-resolution-tracker",
+        "congress-floor-records"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "fec-candidate-master-2026",
+    "house-resolution-tracker",
+    "congress-floor-records"
+  ],
+  "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}

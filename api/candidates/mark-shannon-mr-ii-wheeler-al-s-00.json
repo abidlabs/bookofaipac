@@ -1,0 +1,30 @@
+{
+  "id": "mark-shannon-mr-ii-wheeler-al-s-00",
+  "name": "Mark Shannon Mr Ii Wheeler",
+  "party": "Democratic",
+  "state": "AL",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, AL",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "No public Track AIPAC congressional total is currently linked for Mark Shannon Mr Ii Wheeler in U.S. Senate, AL. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+  "timeline": [
+    {
+      "date": "2026-03-04",
+      "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
+      "sourceIds": [
+        "fec-candidate-master-2026",
+        "senate-roll-call",
+        "senate-floor-transcripts"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "fec-candidate-master-2026",
+    "senate-roll-call",
+    "senate-floor-transcripts"
+  ],
+  "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}

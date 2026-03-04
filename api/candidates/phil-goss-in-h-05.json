@@ -1,0 +1,30 @@
+{
+  "id": "phil-goss-in-h-05",
+  "name": "Phil Goss",
+  "party": "Democratic",
+  "state": "IN",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, IN-05",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "No public Track AIPAC congressional total is currently linked for Phil Goss in U.S. House, IN-05. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+  "timeline": [
+    {
+      "date": "2026-03-04",
+      "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
+      "sourceIds": [
+        "fec-candidate-master-2026",
+        "house-resolution-tracker",
+        "congress-floor-records"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "fec-candidate-master-2026",
+    "house-resolution-tracker",
+    "congress-floor-records"
+  ],
+  "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}

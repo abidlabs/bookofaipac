@@ -1,0 +1,36 @@
+{
+  "id": "adriano-espaillat-ny-h-13",
+  "name": "Adriano Espaillat",
+  "party": "Democratic",
+  "state": "NY",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, NY-13",
+  "imageUrl": "",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $780,675 for Adriano Espaillat in U.S. House, NY-13. Public statements and congressional records indicate an Israel-focused security policy posture in recent conflict framing. This candidate has taken funding from the Israel lobby.",
+  "timeline": [
+    {
+      "date": "2026-03-03",
+      "event": "Track AIPAC congressional listing records Israel Lobby Total: $780,675.",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "event": "Public statements and congressional record context were reviewed for stance updates.",
+      "sourceIds": [
+        "house-resolution-tracker",
+        "congress-floor-records"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "trackaipac-congress",
+    "house-resolution-tracker",
+    "congress-floor-records"
+  ],
+  "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}

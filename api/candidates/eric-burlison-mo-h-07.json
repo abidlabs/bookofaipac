@@ -1,0 +1,36 @@
+{
+  "id": "eric-burlison-mo-h-07",
+  "name": "Eric Burlison",
+  "party": "Republican",
+  "state": "MO",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MO-07",
+  "imageUrl": "",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $62,811 for Eric Burlison in U.S. House, MO-07. Public statements and congressional records indicate an Israel-focused security policy posture in recent conflict framing. This candidate has taken funding from the Israel lobby.",
+  "timeline": [
+    {
+      "date": "2026-03-03",
+      "event": "Track AIPAC congressional listing records Israel Lobby Total: $62,811.",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "event": "Public statements and congressional record context were reviewed for stance updates.",
+      "sourceIds": [
+        "house-resolution-tracker",
+        "congress-floor-records"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "trackaipac-congress",
+    "house-resolution-tracker",
+    "congress-floor-records"
+  ],
+  "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}
