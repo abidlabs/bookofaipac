@@ -63,7 +63,7 @@
     "title": "The Israel Lobby in US Congress",
     "publisher": "Track AIPAC",
     "url": "https://www.trackaipac.com/congress",
-    "accessedAt": "2026-03-03"
+    "accessedAt": "2026-03-04"
   },
   "rep-schiff-israel-aid-2024": {
     "title": "Rep. Schiff votes for emergency assistance to Israel",
@@ -129,6 +129,12 @@
     "title": "FEC candidate master file (cycle 2026)",
     "publisher": "Federal Election Commission",
     "url": "https://www.fec.gov/data/browse-data/?tab=bulk-data",
+    "accessedAt": "2026-03-04"
+  },
+  "trackaipac-endorsements": {
+    "title": "Track AIPAC endorsements",
+    "publisher": "Track AIPAC",
+    "url": "https://www.trackaipac.com/endorsements",
     "accessedAt": "2026-03-04"
   }
 }

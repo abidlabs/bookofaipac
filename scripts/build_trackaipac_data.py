@@ -15,6 +15,7 @@ RAW_PATH = ROOT / "data" / "trackaipac-congress.json"
 UNMATCHED_PATH = ROOT / "data" / "trackaipac-unmatched.json"
 
 TRACK_AIPAC_URL = "https://www.trackaipac.com/congress"
+TRACK_AIPAC_ENDORSEMENTS_URL = "https://www.trackaipac.com/endorsements"
 
 OFFICE_RE = re.compile(r"^([A-Z]{2}-(?:SEN|\d{2}))\s+\[([A-Z])\]$")
 AMOUNT_RE = re.compile(r"Israel Lobby Total:\s*\$([0-9,]+)")
@@ -113,6 +114,32 @@ def parse_track_records(page_text: str) -> list[dict]:
   return sorted(dedup.values(), key=lambda item: (item["state"], item["name"]))
 
 
+def parse_endorsed_candidate_names(page_text: str) -> set[str]:
+  lines = [line.strip() for line in page_text.splitlines() if line.strip()]
+  names: set[str] = set()
+  in_candidate_section = False
+  in_incumbent_section = False
+  for idx, line in enumerate(lines):
+    if line.lower() == "candidates endorsed by":
+      in_candidate_section = True
+      in_incumbent_section = False
+      continue
+    if line.lower() == "our endorsed incumbents":
+      in_candidate_section = False
+      in_incumbent_section = True
+      continue
+    if not in_candidate_section and not in_incumbent_section:
+      continue
+    if idx + 1 >= len(lines):
+      continue
+    next_line = lines[idx + 1].lower()
+    if in_candidate_section and "candidate for u.s." in next_line:
+      names.add(normalized_name_key(line))
+    elif in_incumbent_section and ("u.s. representative" in next_line or "u.s. senator" in next_line):
+      names.add(normalized_name_key(line))
+  return names
+
+
 def normalized_name_key(name: str) -> str:
   value = name.lower().strip()
   value = re.sub(r"[^a-z0-9\\s]", " ", value)
@@ -205,6 +232,16 @@ def apply_track_fields(row: dict, record: dict, timestamp: str) -> None:
     row["stanceLabel"] = "Pro-Israel"
 
 
+def apply_track_zero_from_endorsement(row: dict, timestamp: str) -> None:
+  if isinstance(row.get("israelLobbyTotal"), (int, float)):
+    return
+  row["israelLobbyTotal"] = 0
+  row["israelLobbyTotalDisplay"] = "$0"
+  row["trackAipacLastSyncedAt"] = timestamp
+  row["trackAipacSourceUrl"] = TRACK_AIPAC_ENDORSEMENTS_URL
+  row["profileLastUpdatedAt"] = timestamp
+
+
 def create_new_federal(record: dict, timestamp: str) -> dict:
   office, district_or_office, scope = office_from_label(record["officeLabel"])
   district = None
@@ -267,6 +304,12 @@ def ensure_track_source() -> None:
     "url": TRACK_AIPAC_URL,
     "accessedAt": datetime.now(timezone.utc).date().isoformat(),
   }
+  sources["trackaipac-endorsements"] = {
+    "title": "Track AIPAC endorsements",
+    "publisher": "Track AIPAC",
+    "url": TRACK_AIPAC_ENDORSEMENTS_URL,
+    "accessedAt": datetime.now(timezone.utc).date().isoformat(),
+  }
   write_json(SOURCES_PATH, sources)
 
 
@@ -275,6 +318,10 @@ def main() -> None:
   response.raise_for_status()
   cleaned = clean_text(response.text)
   records = parse_track_records(cleaned)
+  endorsements_response = requests.get(TRACK_AIPAC_ENDORSEMENTS_URL, timeout=45)
+  endorsements_response.raise_for_status()
+  endorsements_cleaned = clean_text(endorsements_response.text)
+  endorsed_names = parse_endorsed_candidate_names(endorsements_cleaned)
   timestamp = datetime.now(timezone.utc).isoformat()
 
   federal = dedupe_rows_by_id(load_json(FEDERAL_PATH))
@@ -319,6 +366,20 @@ def main() -> None:
 
   federal = dedupe_rows_by_id(federal)
   profiles = dedupe_rows_by_id(profiles)
+
+  for row in federal:
+    name_key = normalized_name_key(row.get("name", ""))
+    if name_key in endorsed_names:
+      apply_track_zero_from_endorsement(row, timestamp)
+  for row in profiles:
+    name_key = normalized_name_key(row.get("name", ""))
+    if name_key in endorsed_names:
+      apply_track_zero_from_endorsement(row, timestamp)
+      source_ids = row.get("sourceIds", [])
+      if "trackaipac-endorsements" not in source_ids:
+        source_ids.append("trackaipac-endorsements")
+      row["sourceIds"] = source_ids
+
   federal.sort(key=lambda item: (item.get("state", ""), item.get("name", "")))
   profiles.sort(key=lambda item: item.get("name", ""))
 
