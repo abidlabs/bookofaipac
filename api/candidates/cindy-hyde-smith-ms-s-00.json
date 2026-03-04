@@ -1,0 +1,36 @@
+{
+  "id": "cindy-hyde-smith-ms-s-00",
+  "name": "Cindy Hyde-Smith",
+  "party": "Republican",
+  "state": "MS",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, MS",
+  "imageUrl": "",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $814,281 for Cindy Hyde-Smith in U.S. Senate, MS. Public statements and congressional records indicate an Israel-focused security policy posture in recent conflict framing. This candidate has taken funding from the Israel lobby.",
+  "timeline": [
+    {
+      "date": "2026-03-03",
+      "event": "Track AIPAC congressional listing records Israel Lobby Total: $814,281.",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "event": "Public statements and congressional record context were reviewed for stance updates.",
+      "sourceIds": [
+        "senate-roll-call",
+        "senate-floor-transcripts"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "trackaipac-congress",
+    "senate-roll-call",
+    "senate-floor-transcripts"
+  ],
+  "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}
