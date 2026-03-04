@@ -104,6 +104,23 @@ def load_legislator_portrait_map(session: requests.Session) -> dict[str, str]:
   return portrait_map
 
 
+def resolve_legislator_map_source(candidate: dict, portrait_map: dict[str, str]) -> dict | None:
+  name = candidate.get("name") or ""
+  state = candidate.get("state") or ""
+  if not name or not state:
+    return None
+  for key in candidate_name_keys(name):
+    lookup = portrait_map.get(f"{key}|{state}")
+    if lookup:
+      return {
+        "source_url": lookup,
+        "source_page_url": "https://github.com/unitedstates/congress-legislators",
+        "match_method": "congress_legislators_bioguide",
+        "license": "us_government_public_domain_or_open",
+      }
+  return None
+
+
 def resize_to_webp(raw: bytes, output_path: Path) -> tuple[int, int]:
   image = Image.open(io.BytesIO(raw))
   image = ImageOps.exif_transpose(image).convert("RGB")
@@ -172,20 +189,9 @@ def main() -> None:
     candidate_id = candidate.get("id")
     if not candidate_id:
       continue
-    source = resolve_candidate_image_source(session, candidate)
+    source = resolve_legislator_map_source(candidate, legislator_map)
     if not source:
-      name = candidate.get("name") or ""
-      state = candidate.get("state") or ""
-      for key in candidate_name_keys(name):
-        lookup = legislator_map.get(f"{key}|{state}")
-        if lookup:
-          source = {
-            "source_url": lookup,
-            "source_page_url": "https://github.com/unitedstates/congress-legislators",
-            "match_method": "congress_legislators_bioguide",
-            "license": "us_government_public_domain_or_open",
-          }
-          break
+      source = resolve_candidate_image_source(session, candidate)
     if not source:
       missing_by_id[candidate_id] = {
         "id": candidate_id,
