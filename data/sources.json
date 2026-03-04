@@ -130,5 +130,17 @@
     "publisher": "Federal Election Commission",
     "url": "https://www.fec.gov/data/browse-data/?tab=bulk-data",
     "accessedAt": "2026-03-04"
+  },
+  "ms-sos-qualifying-2026": {
+    "title": "Candidate Qualifying List",
+    "publisher": "Mississippi Secretary of State",
+    "url": "https://sos.ms.gov/content/CandidateQualifying/default.aspx",
+    "accessedAt": "2026-03-04"
+  },
+  "ms-sos-us-house-senate-deadline-press-2026": {
+    "title": "2026 election qualifying deadline for U.S. House and U.S. Senate",
+    "publisher": "Mississippi Secretary of State",
+    "url": "https://www.sos.ms.gov/press/2026-election-qualifying-deadline-us-house-representatives-and-us-senate",
+    "accessedAt": "2026-03-04"
   }
 }

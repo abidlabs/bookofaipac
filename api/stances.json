@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-03-03",
-  "count": 2279,
+  "count": 2294,
   "items": [
     {
       "id": "az-h-atlarge",
@@ -417,6 +417,14 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/alani-ines-bankhead-mt-s-00.json"
+    },
+    {
+      "id": "albert-r-littell-ms-s-00",
+      "name": "Albert R. Littell",
+      "districtOrOffice": "U.S. Senate, MS",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
+      "endpoint": "/api/candidates/albert-r-littell-ms-s-00.json"
     },
     {
       "id": "alea-nadeem-oh-h-09",
@@ -1459,11 +1467,19 @@
       "endpoint": "/api/candidates/benjamin-lee-cline-va-h-06.json"
     },
     {
-      "id": "bennie-g-thompson-ms-h-02",
-      "name": "Bennie G. Thompson",
+      "id": "bennie-foster-ms-h-02",
+      "name": "Bennie Foster",
       "districtOrOffice": "U.S. House, MS-02",
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
+      "endpoint": "/api/candidates/bennie-foster-ms-h-02.json"
+    },
+    {
+      "id": "bennie-g-thompson-ms-h-02",
+      "name": "Bennie G. Thompson",
+      "districtOrOffice": "U.S. House, MS-02",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
       "endpoint": "/api/candidates/bennie-g-thompson-ms-h-02.json"
     },
     {
@@ -2475,6 +2491,14 @@
       "endpoint": "/api/candidates/carrie-buck-nv-h-01.json"
     },
     {
+      "id": "caryl-boyanton-ms-h-04",
+      "name": "Caryl Boyanton",
+      "districtOrOffice": "U.S. House, MS-04",
+      "stanceLabel": "Unknown",
+      "stanceColor": "neutral",
+      "endpoint": "/api/candidates/caryl-boyanton-ms-h-04.json"
+    },
+    {
       "id": "case-dixon-al-h-06",
       "name": "Case Dixon",
       "districtOrOffice": "U.S. House, AL-06",
@@ -3302,8 +3326,8 @@
       "id": "cliff-johnson-ms-h-01",
       "name": "Cliff Johnson",
       "districtOrOffice": "U.S. House, MS-01",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
       "endpoint": "/api/candidates/cliff-johnson-ms-h-01.json"
     },
     {
@@ -3529,6 +3553,14 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/d-adam-smith-wa-h-09.json"
+    },
+    {
+      "id": "d-ryan-grover-ms-h-04",
+      "name": "D. Ryan Grover",
+      "districtOrOffice": "U.S. House, MS-04",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
+      "endpoint": "/api/candidates/d-ryan-grover-ms-h-04.json"
     },
     {
       "id": "daira-rodriguez-me-s-00",
@@ -5347,6 +5379,14 @@
       "endpoint": "/api/candidates/erik-bottcher-ny-h-12.json"
     },
     {
+      "id": "erik-kiehle-ms-h-03",
+      "name": "Erik Kiehle",
+      "districtOrOffice": "U.S. House, MS-03",
+      "stanceLabel": "Unknown",
+      "stanceColor": "neutral",
+      "endpoint": "/api/candidates/erik-kiehle-ms-h-03.json"
+    },
+    {
       "id": "erik-murray-ks-s-00",
       "name": "Erik Murray",
       "districtOrOffice": "U.S. Senate, KS",
@@ -5481,6 +5521,14 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/evan-hunt-tx-h-03.json"
+    },
+    {
+      "id": "evan-littleton-turnage-ms-h-02",
+      "name": "Evan Littleton Turnage",
+      "districtOrOffice": "U.S. House, MS-02",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
+      "endpoint": "/api/candidates/evan-littleton-turnage-ms-h-02.json"
     },
     {
       "id": "evan-munsing-co-h-08",
@@ -7651,6 +7699,14 @@
       "endpoint": "/api/candidates/jeffrey-d-walter-il-h-11.json"
     },
     {
+      "id": "jeffrey-hulum-iii-ms-h-04",
+      "name": "Jeffrey Hulum III",
+      "districtOrOffice": "U.S. House, MS-04",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
+      "endpoint": "/api/candidates/jeffrey-hulum-iii-ms-h-04.json"
+    },
+    {
       "id": "jeffrey-hurd-co-h-03",
       "name": "Jeffrey Hurd",
       "districtOrOffice": "U.S. House, CO-03",
@@ -8875,6 +8931,14 @@
       "endpoint": "/api/candidates/john-w-rose-tn-h-06.json"
     },
     {
+      "id": "johnny-baucom-ms-h-01",
+      "name": "Johnny Baucom",
+      "districtOrOffice": "U.S. House, MS-01",
+      "stanceLabel": "Unknown",
+      "stanceColor": "neutral",
+      "endpoint": "/api/candidates/johnny-baucom-ms-h-01.json"
+    },
+    {
       "id": "johnny-garcia-tx-h-35",
       "name": "Johnny Garcia",
       "districtOrOffice": "U.S. House, TX-35",
@@ -9931,6 +9995,14 @@
       "endpoint": "/api/candidates/kelly-louise-morrison-mn-h-03.json"
     },
     {
+      "id": "kelvin-buck-ms-h-01",
+      "name": "Kelvin Buck",
+      "districtOrOffice": "U.S. House, MS-01",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
+      "endpoint": "/api/candidates/kelvin-buck-ms-h-01.json"
+    },
+    {
       "id": "kelvin-oneal-mr-buck-ms-h-01",
       "name": "Kelvin Oneal Mr Buck",
       "districtOrOffice": "U.S. House, MS-01",
@@ -10118,8 +10190,8 @@
       "id": "kevin-wilson-ms-h-02",
       "name": "Kevin Wilson",
       "districtOrOffice": "U.S. House, MS-02",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
       "endpoint": "/api/candidates/kevin-wilson-ms-h-02.json"
     },
     {
@@ -12123,6 +12195,14 @@
       "endpoint": "/api/candidates/michael-a-jr-collins-ga-s-00.json"
     },
     {
+      "id": "michael-a-chiaradio-ms-h-03",
+      "name": "Michael A. Chiaradio",
+      "districtOrOffice": "U.S. House, MS-03",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
+      "endpoint": "/api/candidates/michael-a-chiaradio-ms-h-03.json"
+    },
+    {
       "id": "michael-alexis-chiaradio-ms-h-03",
       "name": "Michael Alexis Chiaradio",
       "districtOrOffice": "U.S. House, MS-03",
@@ -13747,6 +13827,14 @@
       "endpoint": "/api/candidates/paul-gosar-az-09.json"
     },
     {
+      "id": "paul-james-blackman-ms-h-04",
+      "name": "Paul James Blackman",
+      "districtOrOffice": "U.S. House, MS-04",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
+      "endpoint": "/api/candidates/paul-james-blackman-ms-h-04.json"
+    },
+    {
       "id": "paul-lepage-me-h-02",
       "name": "Paul Lepage",
       "districtOrOffice": "U.S. House, ME-02",
@@ -13849,6 +13937,14 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/perry-shumway-id-h-02.json"
+    },
+    {
+      "id": "pertis-herman-williams-iii-ms-h-02",
+      "name": "Pertis Herman Williams III",
+      "districtOrOffice": "U.S. House, MS-02",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
+      "endpoint": "/api/candidates/pertis-herman-williams-iii-ms-h-02.json"
     },
     {
       "id": "pete-aguilar-ca-33",
@@ -14001,6 +14097,14 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/pramila-jayapal-wa-h-07.json"
+    },
+    {
+      "id": "priscilla-w-till-ms-s-00",
+      "name": "Priscilla W. Till",
+      "districtOrOffice": "U.S. Senate, MS",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
+      "endpoint": "/api/candidates/priscilla-w-till-ms-s-00.json"
     },
     {
       "id": "priscilla-williams-till-ms-s-00",
@@ -15030,8 +15134,8 @@
       "id": "ron-eller-ms-h-02",
       "name": "Ron Eller",
       "districtOrOffice": "U.S. House, MS-02",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
       "endpoint": "/api/candidates/ron-eller-ms-h-02.json"
     },
     {
@@ -15587,6 +15691,14 @@
       "endpoint": "/api/candidates/sara-sooy-nj-h-07.json"
     },
     {
+      "id": "sarah-adlakha-ms-s-00",
+      "name": "Sarah Adlakha",
+      "districtOrOffice": "U.S. Senate, MS",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
+      "endpoint": "/api/candidates/sarah-adlakha-ms-s-00.json"
+    },
+    {
       "id": "sarah-anne-dr-adlakha-ms-s-00",
       "name": "Sarah Anne Dr Adlakha",
       "districtOrOffice": "U.S. Senate, MS",
@@ -15659,11 +15771,19 @@
       "endpoint": "/api/candidates/sarah-zabel-id-h-01.json"
     },
     {
+      "id": "sawyer-walters-ms-h-04",
+      "name": "Sawyer Walters",
+      "districtOrOffice": "U.S. House, MS-04",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
+      "endpoint": "/api/candidates/sawyer-walters-ms-h-04.json"
+    },
+    {
       "id": "scott-colom-ms-s-00",
       "name": "Scott Colom",
       "districtOrOffice": "U.S. Senate, MS",
-      "stanceLabel": "Unknown",
-      "stanceColor": "neutral",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
       "endpoint": "/api/candidates/scott-colom-ms-s-00.json"
     },
     {

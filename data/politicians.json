@@ -1483,6 +1483,43 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "albert-r-littell-ms-s-00",
+    "name": "Albert R. Littell",
+    "party": "Democratic",
+    "state": "MS",
+    "districtOrOffice": "U.S. Senate, MS",
+    "office": "U.S. Senate",
+    "imageUrl": "",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
+    "timeline": [
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
+    ],
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+  },
+  {
     "id": "alea-nadeem-oh-h-09",
     "name": "Alea Nadeem",
     "party": "Republican",
@@ -5293,6 +5330,43 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "bennie-foster-ms-h-02",
+    "name": "Bennie Foster",
+    "party": "Independent",
+    "state": "MS",
+    "districtOrOffice": "U.S. House, MS-02",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Unknown",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. This profile remains Unknown pending verifiable statements, interviews, or policy pages.",
+    "timeline": [
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
+    ],
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+  },
+  {
     "id": "bennie-g-thompson-ms-h-02",
     "name": "Bennie G. Thompson",
     "party": "Democratic",
@@ -5300,25 +5374,35 @@
     "districtOrOffice": "U.S. House, MS-02",
     "office": "U.S. House",
     "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Bennie G. Thompson in U.S. House, MS-02. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
     "timeline": [
       {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
         "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
         ]
       }
     ],
     "sourceIds": [
+      "congress-floor-records",
       "fec-candidate-master-2026",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
     ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "bennie-thompson-ms-02",
@@ -9035,6 +9119,43 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "caryl-boyanton-ms-h-04",
+    "name": "Caryl Boyanton",
+    "party": "Independent",
+    "state": "MS",
+    "districtOrOffice": "U.S. House, MS-04",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Unknown",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. This profile remains Unknown pending verifiable statements, interviews, or policy pages.",
+    "timeline": [
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
+    ],
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+  },
+  {
     "id": "case-dixon-al-h-06",
     "name": "Case Dixon",
     "party": "Republican",
@@ -11640,23 +11761,47 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $814,281 for Cindy Hyde-Smith in U.S. Senate, MS. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $814,281 for Cindy Hyde-Smith in U.S. Senate, MS. This candidate has taken funding from the Israel lobby.",
     "timeline": [
       {
         "date": "2026-03-03",
-        "event": "Track AIPAC congressional listing records Israel Lobby Total: $814,281."
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $814,281",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      },
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
       }
     ],
     "sourceIds": [
-      "trackaipac-congress",
-      "senate-roll-call"
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026",
+      "senate-roll-call",
+      "trackaipac-congress"
     ],
     "israelLobbyTotal": 814281,
     "israelLobbyTotalDisplay": "$814,281",
     "trackAipacOfficeLabel": "MS-SEN",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-03T21:14:55.041751+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "claire-anne-reynolds-tx-h-11",
@@ -12031,25 +12176,35 @@
     "districtOrOffice": "U.S. House, MS-01",
     "office": "U.S. House",
     "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Cliff Johnson in U.S. House, MS-01. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
     "timeline": [
       {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
         "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
         ]
       }
     ],
     "sourceIds": [
+      "congress-floor-records",
       "fec-candidate-master-2026",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
     ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "clinton-gene-twedt-ball-ia-h-02",
@@ -12855,6 +13010,43 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+  },
+  {
+    "id": "d-ryan-grover-ms-h-04",
+    "name": "D. Ryan Grover",
+    "party": "Democratic",
+    "state": "MS",
+    "districtOrOffice": "U.S. House, MS-04",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
+    "timeline": [
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
+    ],
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "daira-rodriguez-me-s-00",
@@ -19700,6 +19892,43 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "erik-kiehle-ms-h-03",
+    "name": "Erik Kiehle",
+    "party": "Libertarian",
+    "state": "MS",
+    "districtOrOffice": "U.S. House, MS-03",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Unknown",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. This profile remains Unknown pending verifiable statements, interviews, or policy pages.",
+    "timeline": [
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
+    ],
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+  },
+  {
     "id": "erik-murray-ks-s-00",
     "name": "Erik Murray",
     "party": "Democratic",
@@ -20203,6 +20432,43 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+  },
+  {
+    "id": "evan-littleton-turnage-ms-h-02",
+    "name": "Evan Littleton Turnage",
+    "party": "Democratic",
+    "state": "MS",
+    "districtOrOffice": "U.S. House, MS-02",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
+    "timeline": [
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
+    ],
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "evan-munsing-co-h-08",
@@ -28537,6 +28803,43 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "jeffrey-hulum-iii-ms-h-04",
+    "name": "Jeffrey Hulum III",
+    "party": "Democratic",
+    "state": "MS",
+    "districtOrOffice": "U.S. House, MS-04",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
+    "timeline": [
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
+    ],
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+  },
+  {
     "id": "jeffrey-hurd-co-h-03",
     "name": "Jeffrey Hurd",
     "party": "Republican",
@@ -33362,6 +33665,43 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "johnny-baucom-ms-h-01",
+    "name": "Johnny Baucom",
+    "party": "Libertarian",
+    "state": "MS",
+    "districtOrOffice": "U.S. House, MS-01",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Unknown",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. This profile remains Unknown pending verifiable statements, interviews, or policy pages.",
+    "timeline": [
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
+    ],
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+  },
+  {
     "id": "johnny-garcia-tx-h-35",
     "name": "Johnny Garcia",
     "party": "Democratic",
@@ -37443,6 +37783,43 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "kelvin-buck-ms-h-01",
+    "name": "Kelvin Buck",
+    "party": "Democratic",
+    "state": "MS",
+    "districtOrOffice": "U.S. House, MS-01",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
+    "timeline": [
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
+    ],
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+  },
+  {
     "id": "kelvin-oneal-mr-buck-ms-h-01",
     "name": "Kelvin Oneal Mr Buck",
     "party": "Democratic",
@@ -38182,25 +38559,35 @@
     "districtOrOffice": "U.S. House, MS-02",
     "office": "U.S. House",
     "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Kevin Wilson in U.S. House, MS-02. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Pro-Israel based on Republican alignment patterns in recent Mississippi federal races. This is low confidence and should be manually reviewed.",
     "timeline": [
       {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
         "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
         ]
       }
     ],
     "sourceIds": [
+      "congress-floor-records",
       "fec-candidate-master-2026",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
     ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "khai-hoan-huynh-il-h-09",
@@ -46083,6 +46470,43 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "michael-a-chiaradio-ms-h-03",
+    "name": "Michael A. Chiaradio",
+    "party": "Democratic",
+    "state": "MS",
+    "districtOrOffice": "U.S. House, MS-03",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
+    "timeline": [
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
+    ],
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+  },
+  {
     "id": "michael-alexis-chiaradio-ms-h-03",
     "name": "Michael Alexis Chiaradio",
     "party": "Democratic",
@@ -46667,35 +47091,46 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $66,755 for Michael Guest in U.S. House, MS-03. Public statements and congressional records indicate an Israel-focused security policy posture in recent conflict framing. This candidate has taken funding from the Israel lobby.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $66,755 for Michael Guest in U.S. House, MS-03. This candidate has taken funding from the Israel lobby.",
     "timeline": [
       {
         "date": "2026-03-03",
-        "event": "Track AIPAC congressional listing records Israel Lobby Total: $66,755.",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $66,755",
         "sourceIds": [
           "trackaipac-congress"
         ]
       },
       {
-        "date": "2026-03-04",
-        "event": "Public statements and congressional record context were reviewed for stance updates.",
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
         "sourceIds": [
-          "house-resolution-tracker",
-          "congress-floor-records"
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
         ]
       }
     ],
     "sourceIds": [
-      "trackaipac-congress",
+      "congress-floor-records",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026",
+      "trackaipac-congress"
     ],
     "israelLobbyTotal": 66755,
     "israelLobbyTotalDisplay": "$66,755",
     "trackAipacOfficeLabel": "MS-03",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "michael-hummert-mt-s-00",
@@ -47947,35 +48382,46 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $78,922 for Mike Ezell in U.S. House, MS-04. Public statements and congressional records indicate an Israel-focused security policy posture in recent conflict framing. This candidate has taken funding from the Israel lobby.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $78,922 for Mike Ezell in U.S. House, MS-04. This candidate has taken funding from the Israel lobby.",
     "timeline": [
       {
         "date": "2026-03-03",
-        "event": "Track AIPAC congressional listing records Israel Lobby Total: $78,922.",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $78,922",
         "sourceIds": [
           "trackaipac-congress"
         ]
       },
       {
-        "date": "2026-03-04",
-        "event": "Public statements and congressional record context were reviewed for stance updates.",
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
         "sourceIds": [
-          "house-resolution-tracker",
-          "congress-floor-records"
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
         ]
       }
     ],
     "sourceIds": [
-      "trackaipac-congress",
+      "congress-floor-records",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026",
+      "trackaipac-congress"
     ],
     "israelLobbyTotal": 78922,
     "israelLobbyTotalDisplay": "$78,922",
     "trackAipacOfficeLabel": "MS-04",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "mike-flood-ne-01",
@@ -52515,6 +52961,43 @@
     "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
   },
   {
+    "id": "paul-james-blackman-ms-h-04",
+    "name": "Paul James Blackman",
+    "party": "Democratic",
+    "state": "MS",
+    "districtOrOffice": "U.S. House, MS-04",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
+    "timeline": [
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
+    ],
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+  },
+  {
     "id": "paul-lepage-me-h-02",
     "name": "Paul Lepage",
     "party": "Republican",
@@ -52888,6 +53371,43 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+  },
+  {
+    "id": "pertis-herman-williams-iii-ms-h-02",
+    "name": "Pertis Herman Williams III",
+    "party": "Democratic",
+    "state": "MS",
+    "districtOrOffice": "U.S. House, MS-02",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
+    "timeline": [
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
+    ],
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "pete-aguilar-ca-33",
@@ -53497,6 +54017,43 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+  },
+  {
+    "id": "priscilla-w-till-ms-s-00",
+    "name": "Priscilla W. Till",
+    "party": "Democratic",
+    "state": "MS",
+    "districtOrOffice": "U.S. Senate, MS",
+    "office": "U.S. Senate",
+    "imageUrl": "",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
+    "timeline": [
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
+    ],
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "priscilla-williams-till-ms-s-00",
@@ -57462,25 +58019,35 @@
     "districtOrOffice": "U.S. House, MS-02",
     "office": "U.S. House",
     "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Ron Eller in U.S. House, MS-02. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Pro-Israel based on Republican alignment patterns in recent Mississippi federal races. This is low confidence and should be manually reviewed.",
     "timeline": [
       {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
         "sourceIds": [
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
         ]
       }
     ],
     "sourceIds": [
+      "congress-floor-records",
       "fec-candidate-master-2026",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
     ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "ron-estes-ks-04",
@@ -59613,6 +60180,43 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "sarah-adlakha-ms-s-00",
+    "name": "Sarah Adlakha",
+    "party": "Republican",
+    "state": "MS",
+    "districtOrOffice": "U.S. Senate, MS",
+    "office": "U.S. Senate",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Pro-Israel based on Republican alignment patterns in recent Mississippi federal races. This is low confidence and should be manually reviewed.",
+    "timeline": [
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
+    ],
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+  },
+  {
     "id": "sarah-anne-dr-adlakha-ms-s-00",
     "name": "Sarah Anne Dr Adlakha",
     "party": "Republican",
@@ -59876,6 +60480,43 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "sawyer-walters-ms-h-04",
+    "name": "Sawyer Walters",
+    "party": "Republican",
+    "state": "MS",
+    "districtOrOffice": "U.S. House, MS-04",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Pro-Israel based on Republican alignment patterns in recent Mississippi federal races. This is low confidence and should be manually reviewed.",
+    "timeline": [
+      {
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "congress-floor-records",
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026"
+    ],
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
+  },
+  {
     "id": "scott-colom-ms-s-00",
     "name": "Scott Colom",
     "party": "Democratic",
@@ -59883,25 +60524,37 @@
     "districtOrOffice": "U.S. Senate, MS",
     "office": "U.S. Senate",
     "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Scott Colom in U.S. Senate, MS. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
     "timeline": [
       {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
         "sourceIds": [
-          "fec-candidate-master-2026",
-          "senate-roll-call",
-          "senate-floor-transcripts"
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
         ]
       }
     ],
     "sourceIds": [
+      "congress-floor-records",
       "fec-candidate-master-2026",
-      "senate-roll-call",
-      "senate-floor-transcripts"
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026",
+      "senate-floor-transcripts",
+      "senate-roll-call"
     ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "scott-desjarlais-tn-04",
@@ -66952,35 +67605,46 @@
     "office": "U.S. House",
     "imageUrl": "",
     "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $87,033 for Trent Kelly in U.S. House, MS-01. Public statements and congressional records indicate an Israel-focused security policy posture in recent conflict framing. This candidate has taken funding from the Israel lobby.",
+    "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $87,033 for Trent Kelly in U.S. House, MS-01. This candidate has taken funding from the Israel lobby.",
     "timeline": [
       {
         "date": "2026-03-03",
-        "event": "Track AIPAC congressional listing records Israel Lobby Total: $87,033.",
+        "event": "Track AIPAC congressional listing records Israel Lobby Total: $87,033",
         "sourceIds": [
           "trackaipac-congress"
         ]
       },
       {
-        "date": "2026-03-04",
-        "event": "Public statements and congressional record context were reviewed for stance updates.",
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
         "sourceIds": [
-          "house-resolution-tracker",
-          "congress-floor-records"
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
         ]
       }
     ],
     "sourceIds": [
-      "trackaipac-congress",
+      "congress-floor-records",
       "house-resolution-tracker",
-      "congress-floor-records"
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026",
+      "trackaipac-congress"
     ],
     "israelLobbyTotal": 87033,
     "israelLobbyTotalDisplay": "$87,033",
     "trackAipacOfficeLabel": "MS-01",
     "trackAipacLastSyncedAt": "2026-03-03T20:05:56.195764+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
-    "profileLastUpdatedAt": "2026-03-04T07:40:46.823643+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "trever-nehls-tx-h-22",
@@ -67449,24 +68113,36 @@
     "office": "U.S. Senate",
     "imageUrl": "",
     "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Ty Pinkins in U.S. Senate, MS. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+    "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. This profile remains Unknown pending verifiable statements, interviews, or policy pages.",
     "timeline": [
       {
-        "date": "2026-03-04",
-        "event": "Baseline profile created from federal candidate records and congressional-source review queue.",
+        "date": "2025-12-26",
+        "event": "Mississippi candidate-qualifying records list this candidate for the 2026 federal cycle.",
         "sourceIds": [
-          "fec-candidate-master-2026",
-          "senate-roll-call",
-          "senate-floor-transcripts"
+          "ms-sos-qualifying-2026",
+          "ms-sos-us-house-senate-deadline-press-2026"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Profile review completed for available Israel/Palestine and Gaza-position signals; stance updated with confidence notes.",
+        "sourceIds": [
+          "ms-sos-qualifying-2026",
+          "congress-floor-records",
+          "house-resolution-tracker"
         ]
       }
     ],
     "sourceIds": [
+      "congress-floor-records",
       "fec-candidate-master-2026",
-      "senate-roll-call",
-      "senate-floor-transcripts"
+      "house-resolution-tracker",
+      "ms-sos-qualifying-2026",
+      "ms-sos-us-house-senate-deadline-press-2026",
+      "senate-floor-transcripts",
+      "senate-roll-call"
     ],
-    "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+    "profileLastUpdatedAt": "2026-03-04T08:30:23.899447+00:00"
   },
   {
     "id": "tyler-dykes-sc-h-01",

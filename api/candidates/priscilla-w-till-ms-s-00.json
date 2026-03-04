@@ -1,10 +1,10 @@
 {
-  "id": "cliff-johnson-ms-h-01",
-  "name": "Cliff Johnson",
+  "id": "priscilla-w-till-ms-s-00",
+  "name": "Priscilla W. Till",
   "party": "Democratic",
   "state": "MS",
-  "office": "U.S. House",
-  "districtOrOffice": "U.S. House, MS-01",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, MS",
   "imageUrl": "",
   "stanceLabel": "Mixed-unclear",
   "stanceColor": "gray",
@@ -30,7 +30,6 @@
   ],
   "sourceIds": [
     "congress-floor-records",
-    "fec-candidate-master-2026",
     "house-resolution-tracker",
     "ms-sos-qualifying-2026",
     "ms-sos-us-house-senate-deadline-press-2026"

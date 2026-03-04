@@ -1,14 +1,14 @@
 {
-  "id": "cliff-johnson-ms-h-01",
-  "name": "Cliff Johnson",
-  "party": "Democratic",
+  "id": "bennie-foster-ms-h-02",
+  "name": "Bennie Foster",
+  "party": "Independent",
   "state": "MS",
   "office": "U.S. House",
-  "districtOrOffice": "U.S. House, MS-01",
+  "districtOrOffice": "U.S. House, MS-02",
   "imageUrl": "",
-  "stanceLabel": "Mixed-unclear",
-  "stanceColor": "gray",
-  "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. Using this run's inferred-label setting, this profile is tagged Mixed-unclear pending clear candidate statements or vote records. This is low confidence and should be manually reviewed.",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "No direct Gaza/Israel policy statement was found in readily available campaign materials. This profile remains Unknown pending verifiable statements, interviews, or policy pages.",
   "timeline": [
     {
       "date": "2025-12-26",
@@ -30,7 +30,6 @@
   ],
   "sourceIds": [
     "congress-floor-records",
-    "fec-candidate-master-2026",
     "house-resolution-tracker",
     "ms-sos-qualifying-2026",
     "ms-sos-us-house-senate-deadline-press-2026"
