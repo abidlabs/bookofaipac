@@ -14,7 +14,7 @@ function stateCardTemplate(stateRecord) {
   image.alt = `${stateRecord.name} flag`;
   image.loading = "lazy";
   image.addEventListener("error", () => {
-    image.src = "https://flagcdn.com/w80/us.png";
+    image.src = "/assets/images/state-flags/us.png";
   });
 
   const copyWrap = document.createElement("div");

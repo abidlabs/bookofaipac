@@ -142,7 +142,7 @@ async function init() {
     stateFlag.src = getStateFlagUrl(stateCode);
     stateFlag.alt = `${getStateName(stateCode)} flag`;
     stateFlag.addEventListener("error", () => {
-      stateFlag.src = "https://flagcdn.com/w80/us.png";
+      stateFlag.src = "/assets/images/state-flags/us.png";
     });
   }
 

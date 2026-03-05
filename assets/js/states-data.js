@@ -62,5 +62,9 @@ export function getStateName(code) {
 }
 
 export function getStateFlagUrl(code) {
-  return `https://flagcdn.com/w80/us-${code.toLowerCase()}.png`;
+  const normalized = (code || "").toLowerCase();
+  if (!normalized) {
+    return "/assets/images/state-flags/us.png";
+  }
+  return `/assets/images/state-flags/${normalized}.png`;
 }

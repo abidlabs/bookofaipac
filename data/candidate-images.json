@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-04T21:13:50.844491+00:00",
+  "generatedAt": "2026-03-04T21:06:27.773446+00:00",
   "targetHeight": 160,
   "format": "webp",
-  "count": 570,
+  "count": 543,
   "images": {
     "aaron-baker-fl-h-06": {
       "id": "aaron-baker-fl-h-06",
@@ -17,7 +17,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "aaron-bean-fl-04": {
       "id": "aaron-bean-fl-04",
@@ -32,7 +32,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:26.058452+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "aaron-p-bean-fl-h-04": {
       "id": "aaron-p-bean-fl-h-04",
@@ -62,7 +62,37 @@
       "attributionRequired": "true",
       "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "abe-hamadeh-az-08": {
+      "id": "abe-hamadeh-az-08",
+      "name": "Abe Hamadeh",
+      "imagePath": "assets/images/candidates/abe-hamadeh-az-08.webp",
+      "width": 128,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Abraham_Hamadeh.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Abraham_Hamadeh",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "adam-hollier-mi-h-13": {
+      "id": "adam-hollier-mi-h-13",
+      "name": "Adam Hollier",
+      "imagePath": "assets/images/candidates/adam-hollier-mi-h-13.webp",
+      "width": 117,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Adam_Hollier_at_Whitmer%27s_inauguration_%28January_1%2C_2023%29_%28cropped%29.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Adam_Hollier",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attributionRequired": "false",
+      "usageTerms": "Creative Commons Zero, Public Domain Dedication",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "adam-schiff-ca-sen": {
       "id": "adam-schiff-ca-sen",
@@ -77,7 +107,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:26.250855+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "adam-smith-wa-09": {
       "id": "adam-smith-wa-09",
@@ -92,7 +122,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:26.416029+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "adelita-grijalva-az-h-07": {
       "id": "adelita-grijalva-az-h-07",
@@ -122,7 +152,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "adriano-espaillat-ny-h-13": {
       "id": "adriano-espaillat-ny-h-13",
@@ -137,7 +167,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:26.643670+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "al-green-tx-09": {
       "id": "al-green-tx-09",
@@ -152,7 +182,22 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:26.751260+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "alan-mark-grayson-fl-s-00": {
+      "id": "alan-mark-grayson-fl-s-00",
+      "name": "Alan Mark Grayson",
+      "imagePath": "assets/images/candidates/alan-mark-grayson-fl-s-00.webp",
+      "width": 120,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Alan_Grayson_2012_%28cropped%29.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Alan_Grayson",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attributionRequired": "true",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "alex-padilla-ca-sen": {
       "id": "alex-padilla-ca-sen",
@@ -167,7 +212,22 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:26.862327+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "alexander-hawkins-mi-h-10": {
+      "id": "alexander-hawkins-mi-h-10",
+      "name": "Alexander Hawkins",
+      "imagePath": "assets/images/candidates/alexander-hawkins-mi-h-10.webp",
+      "width": 128,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Musho_2025-012.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Alexander_Hawkins",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "alexandria-ocasio-cortez-ny-h-14": {
       "id": "alexandria-ocasio-cortez-ny-h-14",
@@ -182,7 +242,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:27.000912+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "alma-adams-nc-12": {
       "id": "alma-adams-nc-12",
@@ -197,7 +257,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:27.122598+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "amanda-edwards-tx-h-18": {
       "id": "amanda-edwards-tx-h-18",
@@ -212,7 +272,7 @@
       "attributionRequired": "true",
       "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ami-bera-ca-06": {
       "id": "ami-bera-ca-06",
@@ -227,7 +287,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:27.303334+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "amy-klobuchar-mn-sen": {
       "id": "amy-klobuchar-mn-sen",
@@ -242,7 +302,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:27.480023+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "andre-carson-in-h-07": {
       "id": "andre-carson-in-h-07",
@@ -257,7 +317,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "andrea-salinas-or-h-06": {
       "id": "andrea-salinas-or-h-06",
@@ -272,7 +332,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:28.060585+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "andrew-clyde-ga-h-09": {
       "id": "andrew-clyde-ga-h-09",
@@ -287,7 +347,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:28.176244+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "andrew-garbarino-ny-h-02": {
       "id": "andrew-garbarino-ny-h-02",
@@ -302,7 +362,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:28.313877+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "andrew-p-harris-md-h-01": {
       "id": "andrew-p-harris-md-h-01",
@@ -317,7 +377,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "andy-barr-ky-06": {
       "id": "andy-barr-ky-06",
@@ -332,7 +392,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:28.482425+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "andy-biggs-az-h-05": {
       "id": "andy-biggs-az-h-05",
@@ -347,7 +407,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:28.684655+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "andy-harris-md-01": {
       "id": "andy-harris-md-01",
@@ -362,7 +422,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:28.846325+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "andy-kim-nj-sen": {
       "id": "andy-kim-nj-sen",
@@ -377,7 +437,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:28.971268+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "andy-ogles-tn-h-05": {
       "id": "andy-ogles-tn-h-05",
@@ -407,7 +467,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "angie-craig-mn-02": {
       "id": "angie-craig-mn-02",
@@ -422,7 +482,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:29.123312+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "angie-craig-mn-s-00": {
       "id": "angie-craig-mn-s-00",
@@ -437,7 +497,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:29.123771+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "angus-king-me-sen": {
       "id": "angus-king-me-sen",
@@ -452,7 +512,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:29.303475+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ann-wagner-mo-02": {
       "id": "ann-wagner-mo-02",
@@ -467,7 +527,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:29.483928+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "anna-paulina-luna-fl-h-13": {
       "id": "anna-paulina-luna-fl-h-13",
@@ -497,7 +557,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:29.633292+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ashley-moody-fl-s-00": {
       "id": "ashley-moody-fl-s-00",
@@ -542,7 +602,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:29.778487+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "austin-scott-ga-08": {
       "id": "austin-scott-ga-08",
@@ -557,7 +617,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:29.940269+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ayanna-pressley-ma-h-07": {
       "id": "ayanna-pressley-ma-h-07",
@@ -572,7 +632,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:30.057680+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "barry-loudermilk-ga-h-11": {
       "id": "barry-loudermilk-ga-h-11",
@@ -587,7 +647,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:30.170647+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "barry-moore-al-01": {
       "id": "barry-moore-al-01",
@@ -602,7 +662,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:30.311055+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ben-cline-va-06": {
       "id": "ben-cline-va-06",
@@ -617,7 +677,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:30.433902+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "bennie-g-thompson-ms-h-02": {
       "id": "bennie-g-thompson-ms-h-02",
@@ -647,7 +707,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:30.594933+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "bernie-sanders-vt-sen": {
       "id": "bernie-sanders-vt-sen",
@@ -677,7 +737,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:30.734845+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "betty-mccollum-mn-h-04": {
       "id": "betty-mccollum-mn-h-04",
@@ -692,7 +752,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "bill-cassidy-la-sen": {
       "id": "bill-cassidy-la-sen",
@@ -707,7 +767,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:30.912190+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "bill-foster-il-11": {
       "id": "bill-foster-il-11",
@@ -722,7 +782,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:31.088741+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "bill-hagerty-tn-s-00": {
       "id": "bill-hagerty-tn-s-00",
@@ -737,7 +797,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:31.211682+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "bill-huizenga-mi-04": {
       "id": "bill-huizenga-mi-04",
@@ -752,7 +812,22 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:31.386824+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "bill-keating-ma-09": {
+      "id": "bill-keating-ma-09",
+      "name": "Bill Keating",
+      "imagePath": "assets/images/candidates/bill-keating-ma-09.webp",
+      "width": 131,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bill_Keating_clerk_photo.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Bill_Keating",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "blake-moore-ut-h-01": {
       "id": "blake-moore-ut-h-01",
@@ -767,7 +842,37 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:31.519149+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "bobby-hanig-nc-h-01": {
+      "id": "bobby-hanig-nc-h-01",
+      "name": "Bobby Hanig",
+      "imagePath": "assets/images/candidates/bobby-hanig-nc-h-01.webp",
+      "width": 107,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bobby_Hanig_official_portrait.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Bobby_Hanig",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "bobby-pulido-tx-h-15": {
+      "id": "bobby-pulido-tx-h-15",
+      "name": "Bobby Pulido",
+      "imagePath": "assets/images/candidates/bobby-pulido-tx-h-15.webp",
+      "width": 125,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bobby_Pulido_%28CROPPED%29.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Bobby_Pulido",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attributionRequired": "true",
+      "usageTerms": "Creative Commons Attribution 4.0",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "bonnie-watson-coleman-nj-h-12": {
       "id": "bonnie-watson-coleman-nj-h-12",
@@ -782,7 +887,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:31.630171+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "brad-finstad-mn-h-01": {
       "id": "brad-finstad-mn-h-01",
@@ -797,7 +902,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:31.898605+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "brad-sherman-ca-h-32": {
       "id": "brad-sherman-ca-h-32",
@@ -812,7 +917,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:32.103916+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "bradley-s-schneider-il-h-10": {
       "id": "bradley-s-schneider-il-h-10",
@@ -827,7 +932,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:32.270989+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "brandon-gill-tx-h-26": {
       "id": "brandon-gill-tx-h-26",
@@ -857,7 +962,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:32.395413+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "brendan-f-boyle-pa-h-02": {
       "id": "brendan-f-boyle-pa-h-02",
@@ -887,7 +992,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:32.572804+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "brian-babin-tx-h-36": {
       "id": "brian-babin-tx-h-36",
@@ -902,7 +1007,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:32.688229+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "brian-fitzpatrick-pa-h-01": {
       "id": "brian-fitzpatrick-pa-h-01",
@@ -917,7 +1022,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "brian-mast-fl-h-21": {
       "id": "brian-mast-fl-h-21",
@@ -932,7 +1037,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:32.865559+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "brian-schatz-hi-sen": {
       "id": "brian-schatz-hi-sen",
@@ -947,7 +1052,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:33.044945+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "brittany-pettersen-co-07": {
       "id": "brittany-pettersen-co-07",
@@ -962,7 +1067,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:33.233941+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "bruce-westerman-ar-h-04": {
       "id": "bruce-westerman-ar-h-04",
@@ -977,7 +1082,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:33.344844+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "bryan-steil-wi-01": {
       "id": "bryan-steil-wi-01",
@@ -992,7 +1097,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:33.459021+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "burgess-owens-ut-h-04": {
       "id": "burgess-owens-ut-h-04",
@@ -1007,7 +1112,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:33.584944+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "byron-donalds-fl-h-19": {
       "id": "byron-donalds-fl-h-19",
@@ -1022,7 +1127,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:33.705289+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "cameron-kasky-ny-h-12": {
       "id": "cameron-kasky-ny-h-12",
@@ -1037,7 +1142,7 @@
       "attributionRequired": "true",
       "usageTerms": "Creative Commons Attribution-Share Alike 2.0",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "carlos-a-gimenez-fl-28": {
       "id": "carlos-a-gimenez-fl-28",
@@ -1052,7 +1157,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:33.863365+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "carlos-gimenez-fl-h-28": {
       "id": "carlos-gimenez-fl-h-28",
@@ -1082,7 +1187,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:34.059148+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "carrie-buck-nv-h-01": {
       "id": "carrie-buck-nv-h-01",
@@ -1097,7 +1202,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "catherine-cortez-masto-nv-sen": {
       "id": "catherine-cortez-masto-nv-sen",
@@ -1112,7 +1217,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:34.263561+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "celeste-maloy-ut-h-02": {
       "id": "celeste-maloy-ut-h-02",
@@ -1127,7 +1232,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:34.457749+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "charles-j-fleischmann-tn-h-03": {
       "id": "charles-j-fleischmann-tn-h-03",
@@ -1142,7 +1247,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "chellie-m-pingree-me-h-01": {
       "id": "chellie-m-pingree-me-h-01",
@@ -1172,7 +1277,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:34.635516+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "chip-roy-tx-h-21": {
       "id": "chip-roy-tx-h-21",
@@ -1187,7 +1292,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:34.791913+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "chris-deluzio-pa-17": {
       "id": "chris-deluzio-pa-17",
@@ -1202,7 +1307,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:34.971644+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "chris-pappas-nh-h-01": {
       "id": "chris-pappas-nh-h-01",
@@ -1217,7 +1322,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "chris-pappas-nh-s-00": {
       "id": "chris-pappas-nh-s-00",
@@ -1232,7 +1337,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "chrissy-houlahan-pa-h-06": {
       "id": "chrissy-houlahan-pa-h-06",
@@ -1247,7 +1352,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:35.099892+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "christian-menefee-tx-h-18": {
       "id": "christian-menefee-tx-h-18",
@@ -1277,7 +1382,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:35.293153+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "christopher-deluzio-pa-h-17": {
       "id": "christopher-deluzio-pa-h-17",
@@ -1292,7 +1397,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "christopher-gallant-ny-h-01": {
       "id": "christopher-gallant-ny-h-01",
@@ -1322,7 +1427,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "chuck-edwards-nc-h-11": {
       "id": "chuck-edwards-nc-h-11",
@@ -1337,7 +1442,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:35.484585+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "chuck-grassley-ia-sen": {
       "id": "chuck-grassley-ia-sen",
@@ -1352,7 +1457,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:35.640538+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "chuck-schumer-ny-sen": {
       "id": "chuck-schumer-ny-sen",
@@ -1382,7 +1487,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:35.751146+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "claudia-tenney-ny-h-24": {
       "id": "claudia-tenney-ny-h-24",
@@ -1397,7 +1502,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:35.894627+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "clay-captain-higgins-la-h-03": {
       "id": "clay-captain-higgins-la-h-03",
@@ -1427,7 +1532,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:36.021597+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "cleo-fields-la-h-06": {
       "id": "cleo-fields-la-h-06",
@@ -1457,7 +1562,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:36.166361+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "cori-bush-mo-01": {
       "id": "cori-bush-mo-01",
@@ -1502,7 +1607,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:36.316339+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "cory-mills-fl-h-07": {
       "id": "cory-mills-fl-h-07",
@@ -1517,7 +1622,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:36.497316+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "cynthia-lummis-wy-sen": {
       "id": "cynthia-lummis-wy-sen",
@@ -1532,7 +1637,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:36.697098+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "cynthia-marie-mrs-lummis-wy-s-00": {
       "id": "cynthia-marie-mrs-lummis-wy-s-00",
@@ -1562,7 +1667,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:36.873735+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "dale-whitney-strong-al-h-05": {
       "id": "dale-whitney-strong-al-h-05",
@@ -1592,7 +1697,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:37.024295+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "dan-goldman-ny-10": {
       "id": "dan-goldman-ny-10",
@@ -1607,7 +1712,22 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:37.201145+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "dan-meuser-pa-09": {
+      "id": "dan-meuser-pa-09",
+      "name": "Dan Meuser",
+      "imagePath": "assets/images/candidates/dan-meuser-pa-09.webp",
+      "width": 128,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Meuser_Dan_118th_Congress.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Dan_Meuser",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "dan-newhouse-wa-h-04": {
       "id": "dan-newhouse-wa-h-04",
@@ -1622,7 +1742,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:37.322285+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "dan-sullivan-ak-s-00": {
       "id": "dan-sullivan-ak-s-00",
@@ -1637,7 +1757,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "daniel-crenshaw-tx-h-02": {
       "id": "daniel-crenshaw-tx-h-02",
@@ -1652,7 +1772,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "daniel-goldman-ny-h-10": {
       "id": "daniel-goldman-ny-h-10",
@@ -1667,7 +1787,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "daniel-meuser-pa-h-09": {
       "id": "daniel-meuser-pa-h-09",
@@ -1682,7 +1802,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:37.449056+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "daniel-webster-fl-h-11": {
       "id": "daniel-webster-fl-h-11",
@@ -1697,7 +1817,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:37.616160+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "danny-davis-il-07": {
       "id": "danny-davis-il-07",
@@ -1712,7 +1832,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:37.803852+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "danny-k-mr-davis-il-h-07": {
       "id": "danny-k-mr-davis-il-h-07",
@@ -1742,7 +1862,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:38.013170+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "darin-mckay-lahood-il-h-16": {
       "id": "darin-mckay-lahood-il-h-16",
@@ -1772,7 +1892,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:38.121016+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "darren-soto-fl-h-09": {
       "id": "darren-soto-fl-h-09",
@@ -1787,7 +1907,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:38.218484+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "david-albert-scott-ga-h-13": {
       "id": "david-albert-scott-ga-h-13",
@@ -1817,7 +1937,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:38.359479+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "david-p-joyce-oh-h-14": {
       "id": "david-p-joyce-oh-h-14",
@@ -1832,7 +1952,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:38.463186+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "david-rouzer-nc-h-07": {
       "id": "david-rouzer-nc-h-07",
@@ -1847,7 +1967,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:38.501009+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "david-schweikert-az-01": {
       "id": "david-schweikert-az-01",
@@ -1862,7 +1982,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:38.599481+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "david-scott-ga-13": {
       "id": "david-scott-ga-13",
@@ -1877,7 +1997,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:38.696943+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "david-valadao-ca-h-22": {
       "id": "david-valadao-ca-h-22",
@@ -1892,7 +2012,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:38.923811+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "deb-fischer-ne-sen": {
       "id": "deb-fischer-ne-sen",
@@ -1907,7 +2027,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:39.112966+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "debbie-dingell-mi-h-06": {
       "id": "debbie-dingell-mi-h-06",
@@ -1922,7 +2042,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:39.246110+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "debbie-wasserman-schultz-fl-h-25": {
       "id": "debbie-wasserman-schultz-fl-h-25",
@@ -1937,7 +2057,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:39.413423+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "deborah-ross-nc-h-02": {
       "id": "deborah-ross-nc-h-02",
@@ -1952,7 +2072,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "delia-ramirez-il-h-03": {
       "id": "delia-ramirez-il-h-03",
@@ -1967,7 +2087,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:39.687659+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "derrick-f-mr-van-orden-wi-h-03": {
       "id": "derrick-f-mr-van-orden-wi-h-03",
@@ -1997,7 +2117,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:40.086341+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "diana-degette-co-01": {
       "id": "diana-degette-co-01",
@@ -2012,7 +2132,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:40.215212+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "diana-harshbarger-tn-h-01": {
       "id": "diana-harshbarger-tn-h-01",
@@ -2027,7 +2147,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:40.342585+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "diana-l-degette-co-h-01": {
       "id": "diana-l-degette-co-h-01",
@@ -2057,7 +2177,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:40.474553+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "don-bacon-ne-02": {
       "id": "don-bacon-ne-02",
@@ -2072,7 +2192,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:40.677872+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "donald-norcross-nj-01": {
       "id": "donald-norcross-nj-01",
@@ -2087,7 +2207,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:40.808341+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "donald-sternoff-jr-beyer-va-h-08": {
       "id": "donald-sternoff-jr-beyer-va-h-08",
@@ -2102,7 +2222,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "donald-w-norcross-nj-h-01": {
       "id": "donald-w-norcross-nj-h-01",
@@ -2132,7 +2252,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:40.979858+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "doug-lamalfa-ca-h-01": {
       "id": "doug-lamalfa-ca-h-01",
@@ -2162,7 +2282,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:41.153069+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "dwight-evans-pa-h-03": {
       "id": "dwight-evans-pa-h-03",
@@ -2177,7 +2297,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "earl-leroy-carter-ga-h-01": {
       "id": "earl-leroy-carter-ga-h-01",
@@ -2192,7 +2312,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:41.278760+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "earl-leroy-carter-ga-s-00": {
       "id": "earl-leroy-carter-ga-s-00",
@@ -2207,7 +2327,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:41.279309+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ed-case-hi-01": {
       "id": "ed-case-hi-01",
@@ -2222,7 +2342,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:41.426893+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "edward-sen-markey-ma-s-00": {
       "id": "edward-sen-markey-ma-s-00",
@@ -2237,7 +2357,22 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "elaine-luria-va-h-02": {
+      "id": "elaine-luria-va-h-02",
+      "name": "Elaine Luria",
+      "imagePath": "assets/images/candidates/elaine-luria-va-h-02.webp",
+      "width": 107,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Rep._Elaine_Luria_official_photo%2C_117th_Congress.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Elaine_Luria",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "eleanor-holmes-norton-dc-h-00": {
       "id": "eleanor-holmes-norton-dc-h-00",
@@ -2252,7 +2387,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:41.614429+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "eli-crane-az-h-02": {
       "id": "eli-crane-az-h-02",
@@ -2267,7 +2402,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:42.011419+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "elise-stefanik-ny-21": {
       "id": "elise-stefanik-ny-21",
@@ -2282,7 +2417,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:42.135910+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "elissa-slotkin-mi-sen": {
       "id": "elissa-slotkin-mi-sen",
@@ -2297,7 +2432,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:42.318425+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "elizabeth-warren-ma-sen": {
       "id": "elizabeth-warren-ma-sen",
@@ -2312,7 +2447,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:42.495872+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "emanuel-cleaver-mo-05": {
       "id": "emanuel-cleaver-mo-05",
@@ -2327,7 +2462,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:42.875925+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "emanuel-ii-cleaver-mo-h-05": {
       "id": "emanuel-ii-cleaver-mo-h-05",
@@ -2357,7 +2492,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:43.082078+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "eric-alan-rick-crawford-ar-h-01": {
       "id": "eric-alan-rick-crawford-ar-h-01",
@@ -2372,7 +2507,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "eric-burlison-mo-h-07": {
       "id": "eric-burlison-mo-h-07",
@@ -2387,7 +2522,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:43.372484+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "eric-flores-tx-h-34": {
       "id": "eric-flores-tx-h-34",
@@ -2417,7 +2552,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:43.557450+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "eric-sorensen-il-h-17": {
       "id": "eric-sorensen-il-h-17",
@@ -2432,7 +2567,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "eric-swalwell-ca-14": {
       "id": "eric-swalwell-ca-14",
@@ -2447,7 +2582,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:43.686022+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "erin-houchin-in-h-09": {
       "id": "erin-houchin-in-h-09",
@@ -2462,7 +2597,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:43.891829+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ernest-anthony-tony-ii-gonzales-tx-h-23": {
       "id": "ernest-anthony-tony-ii-gonzales-tx-h-23",
@@ -2477,7 +2612,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "frank-d-lucas-ok-h-03": {
       "id": "frank-d-lucas-ok-h-03",
@@ -2522,7 +2657,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:44.175831+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "frank-mrvan-in-01": {
       "id": "frank-mrvan-in-01",
@@ -2537,7 +2672,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:44.302499+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "frank-pallone-nj-06": {
       "id": "frank-pallone-nj-06",
@@ -2552,7 +2687,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:44.573210+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "frederica-s-wilson-fl-h-24": {
       "id": "frederica-s-wilson-fl-h-24",
@@ -2582,7 +2717,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:44.835483+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "gabe-vasquez-nm-02": {
       "id": "gabe-vasquez-nm-02",
@@ -2597,7 +2732,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:45.612731+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "gabriel-vasquez-nm-h-02": {
       "id": "gabriel-vasquez-nm-h-02",
@@ -2612,7 +2747,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:45.613298+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "garland-andy-barr-ky-h-06": {
       "id": "garland-andy-barr-ky-h-06",
@@ -2627,7 +2762,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "garland-andy-barr-ky-s-00": {
       "id": "garland-andy-barr-ky-s-00",
@@ -2642,7 +2777,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "gary-palmer-al-h-06": {
       "id": "gary-palmer-al-h-06",
@@ -2657,7 +2792,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:45.797608+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "gary-peters-mi-s-00": {
       "id": "gary-peters-mi-s-00",
@@ -2672,7 +2807,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:45.987264+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "gerald-edward-connolly-va-h-11": {
       "id": "gerald-edward-connolly-va-h-11",
@@ -2689,6 +2824,21 @@
       "matchMethod": "wikipedia_pageimages_free",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
+    "gil-cisneros-ca-31": {
+      "id": "gil-cisneros-ca-31",
+      "name": "Gil Cisneros",
+      "imagePath": "assets/images/candidates/gil-cisneros-ca-31.webp",
+      "width": 128,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Cisneros_Gil_119th_Congress_2.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Gil_Cisneros",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
     "gilbert-cisneros-ca-h-31": {
       "id": "gilbert-cisneros-ca-h-31",
       "name": "Gilbert Cisneros",
@@ -2702,7 +2852,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:46.408271+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "glenn-frederick-ivey-md-h-04": {
       "id": "glenn-frederick-ivey-md-h-04",
@@ -2732,7 +2882,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:46.593012+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "glenn-grothman-wi-06": {
       "id": "glenn-grothman-wi-06",
@@ -2747,7 +2897,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:46.712760+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "glenn-ivey-md-04": {
       "id": "glenn-ivey-md-04",
@@ -2762,7 +2912,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:46.931404+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "glenn-mr-thompson-pa-h-15": {
       "id": "glenn-mr-thompson-pa-h-15",
@@ -2792,7 +2942,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:47.114464+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "graham-platner-me-s-00": {
       "id": "graham-platner-me-s-00",
@@ -2807,7 +2957,7 @@
       "attributionRequired": "true",
       "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "greg-casar-tx-h-37": {
       "id": "greg-casar-tx-h-37",
@@ -2822,7 +2972,22 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:47.308626+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "greg-murphy-nc-03": {
+      "id": "greg-murphy-nc-03",
+      "name": "Greg Murphy",
+      "imagePath": "assets/images/candidates/greg-murphy-nc-03.webp",
+      "width": 94,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Greg_Murphy_during_the_2022_Bathurst_1000.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Greg_Murphy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "greg-stanton-az-h-04": {
       "id": "greg-stanton-az-h-04",
@@ -2837,7 +3002,22 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:47.609100+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "greg-steube-fl-h-17": {
+      "id": "greg-steube-fl-h-17",
+      "name": "Greg Steube",
+      "imagePath": "assets/images/candidates/greg-steube-fl-h-17.webp",
+      "width": 109,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Greg_Steube_117th_Congress.jpeg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Greg_Steube",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "gregory-francis-dr-murphy-nc-h-03": {
       "id": "gregory-francis-dr-murphy-nc-h-03",
@@ -2852,7 +3032,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "gregory-meeks-ny-05": {
       "id": "gregory-meeks-ny-05",
@@ -2867,7 +3047,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:47.792067+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "gus-bilirakis-fl-12": {
       "id": "gus-bilirakis-fl-12",
@@ -2882,7 +3062,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:48.042705+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "gus-m-bilirakis-fl-h-12": {
       "id": "gus-m-bilirakis-fl-h-12",
@@ -2927,7 +3107,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:48.242583+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "gwen-moore-wi-04": {
       "id": "gwen-moore-wi-04",
@@ -2942,7 +3122,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:48.407130+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "gwen-s-moore-wi-h-04": {
       "id": "gwen-s-moore-wi-h-04",
@@ -2972,7 +3152,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "hakeem-jeffries-ny-08": {
       "id": "hakeem-jeffries-ny-08",
@@ -3002,7 +3182,22 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:48.542435+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "hal-rogers-ky-05": {
+      "id": "hal-rogers-ky-05",
+      "name": "Hal Rogers",
+      "imagePath": "assets/images/candidates/hal-rogers-ky-05.webp",
+      "width": 131,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Harold_Rogers_118th_Congress.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Hal_Rogers",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "haley-stevens-mi-h-11": {
       "id": "haley-stevens-mi-h-11",
@@ -3017,7 +3212,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:48.659407+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "haley-stevens-mi-s-00": {
       "id": "haley-stevens-mi-s-00",
@@ -3032,7 +3227,22 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:48.659923+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "hank-johnson-ga-04": {
+      "id": "hank-johnson-ga-04",
+      "name": "Hank Johnson",
+      "imagePath": "assets/images/candidates/hank-johnson-ga-04.webp",
+      "width": 131,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Hank_Johnson_portrait_%28118th_Congress%29.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Hank_Johnson",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "harold-dallas-rogers-ky-h-05": {
       "id": "harold-dallas-rogers-ky-h-05",
@@ -3047,7 +3257,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:48.846395+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "harriet-hageman-wy-h-00": {
       "id": "harriet-hageman-wy-h-00",
@@ -3062,7 +3272,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:49.174543+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "harriet-hageman-wy-s-00": {
       "id": "harriet-hageman-wy-s-00",
@@ -3077,7 +3287,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:49.175091+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "heather-keeler-mn-h-07": {
       "id": "heather-keeler-mn-h-07",
@@ -3092,7 +3302,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T15:45:02.364294+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "hector-de-la-torre-ca-h-41": {
       "id": "hector-de-la-torre-ca-h-41",
@@ -3122,7 +3332,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "henry-cuellar-tx-28": {
       "id": "henry-cuellar-tx-28",
@@ -3137,7 +3347,22 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:49.356362+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "hilda-solis-ca-h-38": {
+      "id": "hilda-solis-ca-h-38",
+      "name": "Hilda Solis",
+      "imagePath": "assets/images/candidates/hilda-solis-ca-h-38.webp",
+      "width": 128,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hilda_Solis%2C_2025.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Hilda_Solis",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "hillary-scholten-mi-h-03": {
       "id": "hillary-scholten-mi-h-03",
@@ -3152,7 +3377,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:49.564798+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ilhan-omar-mn-05": {
       "id": "ilhan-omar-mn-05",
@@ -3182,7 +3407,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:49.694486+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jack-bergman-mi-01": {
       "id": "jack-bergman-mi-01",
@@ -3197,7 +3422,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:49.952872+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jack-perry-ct-h-01": {
       "id": "jack-perry-ct-h-01",
@@ -3212,7 +3437,7 @@
       "attributionRequired": "true",
       "usageTerms": "Creative Commons Attribution 3.0",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jacky-rosen-nv-sen": {
       "id": "jacky-rosen-nv-sen",
@@ -3227,7 +3452,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:50.164761+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jacob-lawrence-nc-h-11": {
       "id": "jacob-lawrence-nc-h-11",
@@ -3242,7 +3467,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T15:45:02.364294+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jahana-hayes-ct-h-05": {
       "id": "jahana-hayes-ct-h-05",
@@ -3257,7 +3482,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:50.363136+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jake-auchincloss-ma-h-04": {
       "id": "jake-auchincloss-ma-h-04",
@@ -3272,7 +3497,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:50.979695+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jake-ellzey-tx-06": {
       "id": "jake-ellzey-tx-06",
@@ -3287,7 +3512,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:51.237653+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "james-c-moylan-gu-h-00": {
       "id": "james-c-moylan-gu-h-00",
@@ -3302,7 +3527,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:51.578595+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "james-comer-ky-h-01": {
       "id": "james-comer-ky-h-01",
@@ -3317,7 +3542,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:52.344037+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "james-d-jordan-oh-h-04": {
       "id": "james-d-jordan-oh-h-04",
@@ -3332,7 +3557,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "james-e-clyburn-sc-h-06": {
       "id": "james-e-clyburn-sc-h-06",
@@ -3347,7 +3572,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "james-e-mr-risch-id-s-00": {
       "id": "james-e-mr-risch-id-s-00",
@@ -3362,7 +3587,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "james-lankford-ok-sen": {
       "id": "james-lankford-ok-sen",
@@ -3377,7 +3602,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:52.788868+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "james-p-mcgovern-ma-h-02": {
       "id": "james-p-mcgovern-ma-h-02",
@@ -3392,7 +3617,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "james-r-dr-baird-in-h-04": {
       "id": "james-r-dr-baird-in-h-04",
@@ -3407,7 +3632,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "james-talarico-tx-s-00": {
       "id": "james-talarico-tx-s-00",
@@ -3422,7 +3647,7 @@
       "attributionRequired": "true",
       "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jamie-raskin-md-h-08": {
       "id": "jamie-raskin-md-h-08",
@@ -3437,7 +3662,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:53.015215+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "janet-trafton-mills-me-s-00": {
       "id": "janet-trafton-mills-me-s-00",
@@ -3452,7 +3677,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "janice-d-schakowsky-il-h-09": {
       "id": "janice-d-schakowsky-il-h-09",
@@ -3467,7 +3692,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jared-golden-me-h-02": {
       "id": "jared-golden-me-h-02",
@@ -3482,7 +3707,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:53.344834+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jared-huffman-ca-h-02": {
       "id": "jared-huffman-ca-h-02",
@@ -3497,7 +3722,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:53.644997+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jasmeet-bains-ca-h-22": {
       "id": "jasmeet-bains-ca-h-22",
@@ -3527,7 +3752,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:54.282622+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jasmine-crockett-tx-s-00": {
       "id": "jasmine-crockett-tx-s-00",
@@ -3542,7 +3767,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:54.282989+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jason-crow-co-h-06": {
       "id": "jason-crow-co-h-06",
@@ -3557,7 +3782,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:54.430876+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jason-smith-mo-08": {
       "id": "jason-smith-mo-08",
@@ -3572,7 +3797,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:54.570593+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jason-t-smith-mo-h-08": {
       "id": "jason-t-smith-mo-h-08",
@@ -3602,7 +3827,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:54.814539+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jeanne-shaheen-nh-s-00": {
       "id": "jeanne-shaheen-nh-s-00",
@@ -3617,7 +3842,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:55.021925+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jennifer-kiggans-va-h-02": {
       "id": "jennifer-kiggans-va-h-02",
@@ -3632,7 +3857,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:56.106171+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jennifer-mcclellan-va-h-04": {
       "id": "jennifer-mcclellan-va-h-04",
@@ -3647,7 +3872,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jerrold-l-nadler-ny-h-12": {
       "id": "jerrold-l-nadler-ny-h-12",
@@ -3662,7 +3887,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jerry-moran-ks-sen": {
       "id": "jerry-moran-ks-sen",
@@ -3677,7 +3902,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:56.488840+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jill-naomi-tokuda-hi-h-02": {
       "id": "jill-naomi-tokuda-hi-h-02",
@@ -3707,7 +3932,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:56.840290+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jim-banks-in-sen": {
       "id": "jim-banks-in-sen",
@@ -3722,7 +3947,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:57.098305+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jim-costa-ca-h-21": {
       "id": "jim-costa-ca-h-21",
@@ -3737,7 +3962,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:57.411719+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jim-himes-ct-h-04": {
       "id": "jim-himes-ct-h-04",
@@ -3767,7 +3992,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:57.547630+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jimmy-gomez-ca-h-34": {
       "id": "jimmy-gomez-ca-h-34",
@@ -3782,7 +4007,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:57.775411+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jimmy-panetta-ca-h-19": {
       "id": "jimmy-panetta-ca-h-19",
@@ -3797,7 +4022,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:57.977481+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "joaquin-castro-tx-h-20": {
       "id": "joaquin-castro-tx-h-20",
@@ -3812,7 +4037,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:58.192749+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jodey-arrington-tx-h-19": {
       "id": "jodey-arrington-tx-h-19",
@@ -3827,7 +4052,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:58.471958+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "joe-courtney-ct-02": {
       "id": "joe-courtney-ct-02",
@@ -3842,7 +4067,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:58.719219+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "joe-neguse-co-02": {
       "id": "joe-neguse-co-02",
@@ -3857,7 +4082,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:58.851110+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "joe-the-hon-wilson-sc-h-02": {
       "id": "joe-the-hon-wilson-sc-h-02",
@@ -3872,7 +4097,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-b-larson-ct-h-01": {
       "id": "john-b-larson-ct-h-01",
@@ -3902,7 +4127,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:59.028922+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-boozman-ar-sen": {
       "id": "john-boozman-ar-sen",
@@ -3917,7 +4142,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:59.281898+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-braun-wa-h-03": {
       "id": "john-braun-wa-h-03",
@@ -3932,7 +4157,7 @@
       "attributionRequired": "true",
       "usageTerms": "Creative Commons Attribution 4.0",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-carter-tx-31": {
       "id": "john-carter-tx-31",
@@ -3947,7 +4172,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:59.584474+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-cornyn-tx-sen": {
       "id": "john-cornyn-tx-sen",
@@ -3962,7 +4187,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:12:59.783765+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-curtis-ut-sen": {
       "id": "john-curtis-ut-sen",
@@ -3977,7 +4202,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:00.173105+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-f-reed-ri-s-00": {
       "id": "john-f-reed-ri-s-00",
@@ -3992,7 +4217,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:00.292737+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-fetterman-pa-sen": {
       "id": "john-fetterman-pa-sen",
@@ -4007,7 +4232,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:00.688270+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-garamendi-ca-h-08": {
       "id": "john-garamendi-ca-h-08",
@@ -4022,7 +4247,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:00.846453+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-goodman-il-s-00": {
       "id": "john-goodman-il-s-00",
@@ -4037,7 +4262,7 @@
       "attributionRequired": "true",
       "usageTerms": "Creative Commons Attribution-Share Alike 2.0",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-hickenlooper-co-sen": {
       "id": "john-hickenlooper-co-sen",
@@ -4052,7 +4277,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:01.172281+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-hoeven-nd-sen": {
       "id": "john-hoeven-nd-sen",
@@ -4067,7 +4292,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:01.414070+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-joyce-pa-h-13": {
       "id": "john-joyce-pa-h-13",
@@ -4082,7 +4307,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-kennedy-la-sen": {
       "id": "john-kennedy-la-sen",
@@ -4097,7 +4322,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:01.702056+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-larson-ct-01": {
       "id": "john-larson-ct-01",
@@ -4112,7 +4337,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:01.882753+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-moolenaar-mi-02": {
       "id": "john-moolenaar-mi-02",
@@ -4127,7 +4352,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:02.269343+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-mr-moolenaar-mi-h-02": {
       "id": "john-mr-moolenaar-mi-h-02",
@@ -4172,7 +4397,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:02.435541+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-rutherford-fl-h-05": {
       "id": "john-rutherford-fl-h-05",
@@ -4187,7 +4412,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "john-sen-cornyn-tx-s-00": {
       "id": "john-sen-cornyn-tx-s-00",
@@ -4217,7 +4442,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:02.818620+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "jon-ossoff-ga-sen": {
       "id": "jon-ossoff-ga-sen",
@@ -4232,7 +4457,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:03.289722+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "joni-ernst-ia-sen": {
       "id": "joni-ernst-ia-sen",
@@ -4247,7 +4472,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:03.530034+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "joni-k-ernst-ia-s-00": {
       "id": "joni-k-ernst-ia-s-00",
@@ -4277,7 +4502,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "josh-brecheen-ok-h-02": {
       "id": "josh-brecheen-ok-h-02",
@@ -4292,7 +4517,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:03.921439+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "josh-gottheimer-nj-h-05": {
       "id": "josh-gottheimer-nj-h-05",
@@ -4307,7 +4532,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:04.108409+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "josh-harder-ca-h-09": {
       "id": "josh-harder-ca-h-09",
@@ -4322,7 +4547,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:04.292862+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "josh-hawley-mo-sen": {
       "id": "josh-hawley-mo-sen",
@@ -4337,7 +4562,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:04.421383+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "joshua-walters-nv-h-03": {
       "id": "joshua-walters-nv-h-03",
@@ -4352,7 +4577,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "joyce-beatty-oh-h-03": {
       "id": "joyce-beatty-oh-h-03",
@@ -4367,7 +4592,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:04.718349+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "juan-c-vargas-ca-h-52": {
       "id": "juan-c-vargas-ca-h-52",
@@ -4397,7 +4622,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:05.080224+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "juan-vargas-ca-52": {
       "id": "juan-vargas-ca-52",
@@ -4412,7 +4637,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:05.409763+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "judy-chu-ca-h-28": {
       "id": "judy-chu-ca-h-28",
@@ -4427,7 +4652,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:05.590152+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "julia-brownley-ca-h-26": {
       "id": "julia-brownley-ca-h-26",
@@ -4442,7 +4667,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:05.845142+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "julia-letlow-la-h-05": {
       "id": "julia-letlow-la-h-05",
@@ -4457,7 +4682,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:06.030211+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "kat-cammack-fl-h-03": {
       "id": "kat-cammack-fl-h-03",
@@ -4472,7 +4697,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:06.432236+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "katherine-clark-ma-h-05": {
       "id": "katherine-clark-ma-h-05",
@@ -4487,7 +4712,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:06.584544+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "kathy-castor-fl-h-14": {
       "id": "kathy-castor-fl-h-14",
@@ -4502,7 +4727,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:06.792709+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "keith-alan-mr-self-tx-h-03": {
       "id": "keith-alan-mr-self-tx-h-03",
@@ -4532,7 +4757,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:07.086965+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ken-calvert-ca-41": {
       "id": "ken-calvert-ca-41",
@@ -4547,7 +4772,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:07.827852+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ken-calvert-ca-h-40": {
       "id": "ken-calvert-ca-h-40",
@@ -4562,7 +4787,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:07.828593+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "kevin-cramer-nd-sen": {
       "id": "kevin-cramer-nd-sen",
@@ -4577,7 +4802,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:08.010452+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "kevin-hern-ok-h-01": {
       "id": "kevin-hern-ok-h-01",
@@ -4592,7 +4817,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:08.218850+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "kevin-kiley-ca-h-03": {
       "id": "kevin-kiley-ca-h-03",
@@ -4607,7 +4832,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "kevin-mullin-ca-h-15": {
       "id": "kevin-mullin-ca-h-15",
@@ -4622,7 +4847,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:08.428391+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "kim-dr-schrier-wa-h-08": {
       "id": "kim-dr-schrier-wa-h-08",
@@ -4652,7 +4877,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:08.571706+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "kirsten-gillibrand-ny-sen": {
       "id": "kirsten-gillibrand-ny-sen",
@@ -4667,7 +4892,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:08.857366+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "kshama-sawant-wa-h-09": {
       "id": "kshama-sawant-wa-h-09",
@@ -4682,7 +4907,7 @@
       "attributionRequired": "false",
       "usageTerms": "Creative Commons Zero, Public Domain Dedication",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "kweisi-mfume-md-h-07": {
       "id": "kweisi-mfume-md-h-07",
@@ -4697,7 +4922,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:09.123810+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "lance-gooden-tx-h-05": {
       "id": "lance-gooden-tx-h-05",
@@ -4712,7 +4937,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:09.468904+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "laura-friedman-ca-h-30": {
       "id": "laura-friedman-ca-h-30",
@@ -4742,7 +4967,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:10.466462+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "lauren-boebert-co-h-04": {
       "id": "lauren-boebert-co-h-04",
@@ -4757,7 +4982,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:10.658479+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "lauren-underwood-il-h-14": {
       "id": "lauren-underwood-il-h-14",
@@ -4772,7 +4997,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:10.933146+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "lindsey-o-graham-sc-s-00": {
       "id": "lindsey-o-graham-sc-s-00",
@@ -4787,7 +5012,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:11.098781+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "lisa-blunt-rochester-de-sen": {
       "id": "lisa-blunt-rochester-de-sen",
@@ -4802,7 +5027,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:11.291663+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "lisa-mcclain-mi-h-09": {
       "id": "lisa-mcclain-mi-h-09",
@@ -4817,7 +5042,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:11.414970+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "lisa-murkowski-ak-sen": {
       "id": "lisa-murkowski-ak-sen",
@@ -4832,7 +5057,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:11.566608+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "lizzie-fletcher-tx-07": {
       "id": "lizzie-fletcher-tx-07",
@@ -4847,7 +5072,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:11.734713+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "lloyd-doggett-tx-h-37": {
       "id": "lloyd-doggett-tx-h-37",
@@ -4862,7 +5087,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:12.124932+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "lloyd-smucker-pa-11": {
       "id": "lloyd-smucker-pa-11",
@@ -4877,7 +5102,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:12.319318+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "lois-frankel-fl-22": {
       "id": "lois-frankel-fl-22",
@@ -4892,7 +5117,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:12.509360+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "lori-trahan-ma-h-03": {
       "id": "lori-trahan-ma-h-03",
@@ -4907,7 +5132,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:12.627679+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "lucy-mcbath-ga-07": {
       "id": "lucy-mcbath-ga-07",
@@ -4922,7 +5147,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:12.780462+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "madeleine-dean-pa-h-04": {
       "id": "madeleine-dean-pa-h-04",
@@ -4937,7 +5162,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:13.257357+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "madison-cawthorn-fl-h-19": {
       "id": "madison-cawthorn-fl-h-19",
@@ -4952,7 +5177,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "maggie-goodlander-nh-h-02": {
       "id": "maggie-goodlander-nh-h-02",
@@ -4982,7 +5207,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "marc-veasey-tx-33": {
       "id": "marc-veasey-tx-33",
@@ -4997,7 +5222,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:13.482215+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "marcy-hon-m-c-kaptur-oh-h-09": {
       "id": "marcy-hon-m-c-kaptur-oh-h-09",
@@ -5027,7 +5252,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:13.673816+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "maria-cantwell-wa-sen": {
       "id": "maria-cantwell-wa-sen",
@@ -5042,7 +5267,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:14.026807+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "maria-salazar-fl-27": {
       "id": "maria-salazar-fl-27",
@@ -5057,7 +5282,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:14.242593+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mariannette-jane-miller-meeks-ia-h-01": {
       "id": "mariannette-jane-miller-meeks-ia-h-01",
@@ -5072,7 +5297,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:14.381496+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "marie-gluesenkamp-perez-wa-h-03": {
       "id": "marie-gluesenkamp-perez-wa-h-03",
@@ -5087,7 +5312,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:14.703600+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "marilyn-strickland-wa-h-10": {
       "id": "marilyn-strickland-wa-h-10",
@@ -5102,7 +5327,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:14.857188+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mario-diaz-balart-fl-h-26": {
       "id": "mario-diaz-balart-fl-h-26",
@@ -5117,7 +5342,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:15.041524+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "marjorie-taylor-greene-ga-h-14": {
       "id": "marjorie-taylor-greene-ga-h-14",
@@ -5132,7 +5357,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mark-alford-mo-h-04": {
       "id": "mark-alford-mo-h-04",
@@ -5147,7 +5372,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:15.232136+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mark-amodei-nv-02": {
       "id": "mark-amodei-nv-02",
@@ -5162,7 +5387,22 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:15.406636+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "mark-charles-teixeira-tx-h-21": {
+      "id": "mark-charles-teixeira-tx-h-21",
+      "name": "Mark Charles Teixeira",
+      "imagePath": "assets/images/candidates/mark-charles-teixeira-tx-h-21.webp",
+      "width": 130,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mark_Teixeira_basepaths_2011.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Mark_Teixeira",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attributionRequired": "true",
+      "usageTerms": "Creative Commons Attribution-Share Alike 2.0",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mark-desaulnier-ca-h-10": {
       "id": "mark-desaulnier-ca-h-10",
@@ -5177,7 +5417,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mark-kelly-az-sen": {
       "id": "mark-kelly-az-sen",
@@ -5192,7 +5432,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:15.639650+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mark-pocan-wi-h-02": {
       "id": "mark-pocan-wi-h-02",
@@ -5207,7 +5447,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:15.922441+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mark-takano-ca-h-39": {
       "id": "mark-takano-ca-h-39",
@@ -5222,7 +5462,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:16.101613+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mark-warner-va-sen": {
       "id": "mark-warner-va-sen",
@@ -5237,7 +5477,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:16.287637+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "markwayne-mullin-ok-s-00": {
       "id": "markwayne-mullin-ok-s-00",
@@ -5252,7 +5492,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:16.466444+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "marlin-a-stutzman-in-h-03": {
       "id": "marlin-a-stutzman-in-h-03",
@@ -5282,7 +5522,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:16.643133+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "marsha-blackburn-tn-sen": {
       "id": "marsha-blackburn-tn-sen",
@@ -5297,7 +5537,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:16.845575+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "martin-heinrich-nm-sen": {
       "id": "martin-heinrich-nm-sen",
@@ -5312,7 +5552,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:17.025164+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "marty-jackley-sd-h-00": {
       "id": "marty-jackley-sd-h-00",
@@ -5327,7 +5567,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mary-gay-scanlon-pa-h-05": {
       "id": "mary-gay-scanlon-pa-h-05",
@@ -5342,7 +5582,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:17.196873+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mary-miller-il-h-15": {
       "id": "mary-miller-il-h-15",
@@ -5357,7 +5597,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "matt-dunlap-me-h-02": {
       "id": "matt-dunlap-me-h-02",
@@ -5373,6 +5613,21 @@
       "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
       "matchMethod": "wikipedia_pageimages_free",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+    },
+    "matt-strickler-va-h-02": {
+      "id": "matt-strickler-va-h-02",
+      "name": "Matt Strickler",
+      "imagePath": "assets/images/candidates/matt-strickler-va-h-02.webp",
+      "width": 153,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Matt_Strickler%2C_ribbon_cutting.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Matt_Strickler",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attributionRequired": "true",
+      "usageTerms": "Creative Commons Attribution 2.0",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "matthew-cavanaugh-co-h-05": {
       "id": "matthew-cavanaugh-co-h-05",
@@ -5417,7 +5672,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:17.662795+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "maxwell-alejandro-frost-fl-h-10": {
       "id": "maxwell-alejandro-frost-fl-h-10",
@@ -5432,7 +5687,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:17.853969+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mazie-hirono-hi-sen": {
       "id": "mazie-hirono-hi-sen",
@@ -5447,7 +5702,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:18.032746+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "melanie-stansbury-nm-h-01": {
       "id": "melanie-stansbury-nm-h-01",
@@ -5462,7 +5717,22 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:18.225559+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "melissa-luburich-bean-il-h-08": {
+      "id": "melissa-luburich-bean-il-h-08",
+      "name": "Melissa Luburich Bean",
+      "imagePath": "assets/images/candidates/melissa-luburich-bean-il-h-08.webp",
+      "width": 106,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Melissa_Bean_Official.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Melissa_Bean",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "michael-bennet-co-sen": {
       "id": "michael-bennet-co-sen",
@@ -5477,7 +5747,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:18.500006+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "michael-cloud-tx-h-27": {
       "id": "michael-cloud-tx-h-27",
@@ -5492,7 +5762,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:18.646592+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "michael-estrada-nj-s-00": {
       "id": "michael-estrada-nj-s-00",
@@ -5522,7 +5792,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:18.762756+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "michael-mccaul-tx-h-10": {
       "id": "michael-mccaul-tx-h-10",
@@ -5537,7 +5807,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "michael-r-rep-turner-oh-h-10": {
       "id": "michael-r-rep-turner-oh-h-10",
@@ -5552,7 +5822,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "michael-simpson-id-h-02": {
       "id": "michael-simpson-id-h-02",
@@ -5567,7 +5837,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "michael-vincent-lawler-ny-h-17": {
       "id": "michael-vincent-lawler-ny-h-17",
@@ -5597,7 +5867,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:19.081804+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mike-bost-il-12": {
       "id": "mike-bost-il-12",
@@ -5612,7 +5882,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:19.349995+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mike-carey-oh-h-15": {
       "id": "mike-carey-oh-h-15",
@@ -5627,7 +5897,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mike-collins-ga-10": {
       "id": "mike-collins-ga-10",
@@ -5642,7 +5912,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:19.553629+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mike-crapo-id-sen": {
       "id": "mike-crapo-id-sen",
@@ -5657,7 +5927,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:19.702886+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mike-ezell-ms-04": {
       "id": "mike-ezell-ms-04",
@@ -5672,7 +5942,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:19.878732+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mike-flood-ne-h-01": {
       "id": "mike-flood-ne-h-01",
@@ -5687,7 +5957,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mike-johnson-la-04": {
       "id": "mike-johnson-la-04",
@@ -5702,7 +5972,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:20.149797+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mike-kelly-pa-16": {
       "id": "mike-kelly-pa-16",
@@ -5717,7 +5987,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:20.327144+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mike-lee-ut-sen": {
       "id": "mike-lee-ut-sen",
@@ -5732,7 +6002,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:20.618542+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mike-levin-ca-h-49": {
       "id": "mike-levin-ca-h-49",
@@ -5747,7 +6017,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:21.101680+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mike-mr-thompson-ca-h-04": {
       "id": "mike-mr-thompson-ca-h-04",
@@ -5777,7 +6047,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T15:45:02.364294+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mike-quigley-il-h-05": {
       "id": "mike-quigley-il-h-05",
@@ -5792,7 +6062,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:21.232714+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mike-rogers-al-03": {
       "id": "mike-rogers-al-03",
@@ -5807,7 +6077,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:21.429259+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mike-rounds-sd-s-00": {
       "id": "mike-rounds-sd-s-00",
@@ -5822,7 +6092,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:21.578668+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mike-thompson-ca-04": {
       "id": "mike-thompson-ca-04",
@@ -5837,7 +6107,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:21.757555+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "mitch-mcconnell-ky-s-00": {
       "id": "mitch-mcconnell-ky-s-00",
@@ -5852,7 +6122,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:21.934533+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "monica-de-la-cruz-tx-h-15": {
       "id": "monica-de-la-cruz-tx-h-15",
@@ -5867,7 +6137,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:22.125842+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "morgan-joe-luttrell-tx-h-08": {
       "id": "morgan-joe-luttrell-tx-h-08",
@@ -5897,7 +6167,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:22.326053+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "morgan-mcgarvey-ky-h-03": {
       "id": "morgan-mcgarvey-ky-h-03",
@@ -5912,7 +6182,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "nancy-mace-sc-h-01": {
       "id": "nancy-mace-sc-h-01",
@@ -5927,7 +6197,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:22.449478+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "nancy-pelosi-ca-h-11": {
       "id": "nancy-pelosi-ca-h-11",
@@ -5942,7 +6212,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:22.638190+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "nanette-barragan-ca-h-44": {
       "id": "nanette-barragan-ca-h-44",
@@ -5957,7 +6227,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "nathaniel-moran-tx-01": {
       "id": "nathaniel-moran-tx-01",
@@ -5972,7 +6242,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:22.832154+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "nathaniel-quentin-moran-tx-h-01": {
       "id": "nathaniel-quentin-moran-tx-h-01",
@@ -6002,7 +6272,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:23.079049+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "neal-patrick-md-dunn-fl-h-02": {
       "id": "neal-patrick-md-dunn-fl-h-02",
@@ -6032,7 +6302,22 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:23.449715+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "nick-langworthy-ny-h-23": {
+      "id": "nick-langworthy-ny-h-23",
+      "name": "Nick Langworthy",
+      "imagePath": "assets/images/candidates/nick-langworthy-ny-h-23.webp",
+      "width": 128,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rep._Langworthy_Headshot_118.jpeg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Nick_Langworthy",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "nicole-malliotakis-ny-h-11": {
       "id": "nicole-malliotakis-ny-h-11",
@@ -6047,7 +6332,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:23.615506+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "nida-allam-nc-h-04": {
       "id": "nida-allam-nc-h-04",
@@ -6092,7 +6377,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:23.780356+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "nikki-budzinski-il-h-13": {
       "id": "nikki-budzinski-il-h-13",
@@ -6107,7 +6392,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:24.050144+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "norma-torres-ca-h-35": {
       "id": "norma-torres-ca-h-35",
@@ -6122,7 +6407,22 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:24.180523+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "oscar-romero-ny-h-13": {
+      "id": "oscar-romero-ny-h-13",
+      "name": "Oscar Romero",
+      "imagePath": "assets/images/candidates/oscar-romero-ny-h-13.webp",
+      "width": 141,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Monse%C3%B1or_Romero_%28colour%29.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/%C3%93scar_Romero",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "pat-fallon-tx-04": {
       "id": "pat-fallon-tx-04",
@@ -6137,7 +6437,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:24.317622+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "patrick-fallon-tx-h-04": {
       "id": "patrick-fallon-tx-h-04",
@@ -6152,7 +6452,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:24.413788+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "patrick-ryan-ny-h-18": {
       "id": "patrick-ryan-ny-h-18",
@@ -6167,7 +6467,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "patty-murray-wa-sen": {
       "id": "patty-murray-wa-sen",
@@ -6182,7 +6482,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:24.596210+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "paul-dr-gosar-az-h-09": {
       "id": "paul-dr-gosar-az-h-09",
@@ -6212,7 +6512,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:24.798436+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "paul-tonko-ny-20": {
       "id": "paul-tonko-ny-20",
@@ -6227,7 +6527,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:24.984414+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "pete-aguilar-ca-h-33": {
       "id": "pete-aguilar-ca-h-33",
@@ -6242,7 +6542,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:25.104039+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "pete-ricketts-ne-s-00": {
       "id": "pete-ricketts-ne-s-00",
@@ -6257,7 +6557,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:25.276440+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "pete-sessions-tx-h-17": {
       "id": "pete-sessions-tx-h-17",
@@ -6272,7 +6572,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:25.440353+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "pete-stauber-mn-08": {
       "id": "pete-stauber-mn-08",
@@ -6287,7 +6587,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:25.615057+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "pramila-jayapal-wa-h-07": {
       "id": "pramila-jayapal-wa-h-07",
@@ -6302,7 +6602,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:25.763693+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "raja-krishnamoorthi-il-08": {
       "id": "raja-krishnamoorthi-il-08",
@@ -6317,7 +6617,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:25.954050+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ralph-w-jr-norman-sc-h-05": {
       "id": "ralph-w-jr-norman-sc-h-05",
@@ -6332,7 +6632,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "rand-paul-ky-sen": {
       "id": "rand-paul-ky-sen",
@@ -6347,7 +6647,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:26.122944+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "randy-feenstra-ia-04": {
       "id": "randy-feenstra-ia-04",
@@ -6362,7 +6662,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:26.256934+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "randy-weber-tx-h-14": {
       "id": "randy-weber-tx-h-14",
@@ -6377,7 +6677,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:26.486865+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "raphael-warnock-ga-sen": {
       "id": "raphael-warnock-ga-sen",
@@ -6392,7 +6692,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:26.625229+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "rashida-tlaib-mi-12": {
       "id": "rashida-tlaib-mi-12",
@@ -6422,7 +6722,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:26.817992+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "raul-dr-ruiz-ca-h-25": {
       "id": "raul-dr-ruiz-ca-h-25",
@@ -6452,7 +6752,22 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:26.939671+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
+    "rhett-marques-al-h-01": {
+      "id": "rhett-marques-al-h-01",
+      "name": "Rhett Marques",
+      "imagePath": "assets/images/candidates/rhett-marques-al-h-01.webp",
+      "width": 120,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Rhett_Marques_in_Enterprise.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Rhett_Marques",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "rich-mccormick-ga-06": {
       "id": "rich-mccormick-ga-06",
@@ -6467,7 +6782,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:27.342393+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "richard-blumenthal-ct-sen": {
       "id": "richard-blumenthal-ct-sen",
@@ -6482,7 +6797,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:27.524303+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "richard-dean-dr-mccormick-ga-h-07": {
       "id": "richard-dean-dr-mccormick-ga-h-07",
@@ -6497,7 +6812,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "richard-e-neal-ma-h-01": {
       "id": "richard-e-neal-ma-h-01",
@@ -6527,7 +6842,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:27.763922+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "richard-j-durbin-il-s-00": {
       "id": "richard-j-durbin-il-s-00",
@@ -6542,7 +6857,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:28.121655+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "richard-l-jr-hudson-nc-h-09": {
       "id": "richard-l-jr-hudson-nc-h-09",
@@ -6572,7 +6887,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:28.344370+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "rick-allen-ga-12": {
       "id": "rick-allen-ga-12",
@@ -6587,7 +6902,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:28.472031+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "rick-larsen-wa-h-02": {
       "id": "rick-larsen-wa-h-02",
@@ -6602,7 +6917,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:28.662335+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "rick-scott-fl-sen": {
       "id": "rick-scott-fl-sen",
@@ -6617,7 +6932,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:28.963384+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ritchie-john-torres-ny-h-15": {
       "id": "ritchie-john-torres-ny-h-15",
@@ -6647,7 +6962,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:29.198766+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ro-khanna-ca-17": {
       "id": "ro-khanna-ca-17",
@@ -6662,7 +6977,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:29.613505+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "robert-aderholt-al-04": {
       "id": "robert-aderholt-al-04",
@@ -6677,7 +6992,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:29.782908+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "robert-b-rep-aderholt-al-h-04": {
       "id": "robert-b-rep-aderholt-al-h-04",
@@ -6707,7 +7022,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "robert-edward-latta-oh-h-05": {
       "id": "robert-edward-latta-oh-h-05",
@@ -6722,7 +7037,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:29.978456+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "robert-garcia-ca-h-42": {
       "id": "robert-garcia-ca-h-42",
@@ -6737,7 +7052,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "robert-j-menendez-nj-h-08": {
       "id": "robert-j-menendez-nj-h-08",
@@ -6752,7 +7067,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "robert-j-mr-wittman-va-h-01": {
       "id": "robert-j-mr-wittman-va-h-01",
@@ -6767,7 +7082,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "robin-kelly-il-h-02": {
       "id": "robin-kelly-il-h-02",
@@ -6782,7 +7097,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:30.359655+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "robin-kelly-il-s-atlarge": {
       "id": "robin-kelly-il-s-atlarge",
@@ -6797,7 +7112,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:30.360111+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "roger-marshall-ks-sen": {
       "id": "roger-marshall-ks-sen",
@@ -6812,7 +7127,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:30.539018+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "roger-w-marshall-ks-s-00": {
       "id": "roger-w-marshall-ks-s-00",
@@ -6842,7 +7157,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:30.662734+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "roger-williams-tx-h-25": {
       "id": "roger-williams-tx-h-25",
@@ -6857,7 +7172,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:30.847172+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ron-estes-ks-h-04": {
       "id": "ron-estes-ks-h-04",
@@ -6872,7 +7187,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:30.982595+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ron-johnson-wi-sen": {
       "id": "ron-johnson-wi-sen",
@@ -6887,7 +7202,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:31.152686+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ron-wyden-or-sen": {
       "id": "ron-wyden-or-sen",
@@ -6902,7 +7217,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:31.286463+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ronny-jackson-tx-13": {
       "id": "ronny-jackson-tx-13",
@@ -6917,7 +7232,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:31.421258+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "rosa-delauro-ct-03": {
       "id": "rosa-delauro-ct-03",
@@ -6932,7 +7247,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:31.609872+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "rosa-l-delauro-ct-h-03": {
       "id": "rosa-l-delauro-ct-h-03",
@@ -6962,7 +7277,7 @@
       "attributionRequired": "true",
       "usageTerms": "Creative Commons Attribution 2.0",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ruben-gallego-az-sen": {
       "id": "ruben-gallego-az-sen",
@@ -6977,7 +7292,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:31.739189+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "rudy-c-iii-yakym-in-h-02": {
       "id": "rudy-c-iii-yakym-in-h-02",
@@ -6994,6 +7309,21 @@
       "matchMethod": "congress_legislators_bioguide",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
+    "rudy-salas-ca-h-22": {
+      "id": "rudy-salas-ca-h-22",
+      "name": "Rudy Salas",
+      "imagePath": "assets/images/candidates/rudy-salas-ca-h-22.webp",
+      "width": 114,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Rudy_Salas.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Rudy_Salas",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
     "rudy-yakym-in-02": {
       "id": "rudy-yakym-in-02",
       "name": "Rudy Yakym",
@@ -7007,7 +7337,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:31.950368+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "russ-fulcher-id-01": {
       "id": "russ-fulcher-id-01",
@@ -7022,7 +7352,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:32.145277+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "russell-fry-sc-h-07": {
       "id": "russell-fry-sc-h-07",
@@ -7037,7 +7367,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:32.334268+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "ryan-k-zinke-mt-h-01": {
       "id": "ryan-k-zinke-mt-h-01",
@@ -7067,7 +7397,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:32.559661+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "s-raja-krishnamoorthi-il-h-08": {
       "id": "s-raja-krishnamoorthi-il-h-08",
@@ -7082,7 +7412,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "salud-carbajal-ca-24": {
       "id": "salud-carbajal-ca-24",
@@ -7097,7 +7427,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:32.753920+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "sam-graves-mo-06": {
       "id": "sam-graves-mo-06",
@@ -7112,7 +7442,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:32.928132+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "sanford-bishop-ga-h-02": {
       "id": "sanford-bishop-ga-h-02",
@@ -7127,7 +7457,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:33.540163+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "sara-jacobs-ca-h-51": {
       "id": "sara-jacobs-ca-h-51",
@@ -7142,7 +7472,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:33.986782+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "sarah-eckhardt-tx-h-10": {
       "id": "sarah-eckhardt-tx-h-10",
@@ -7157,7 +7487,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "scott-desjarlais-tn-04": {
       "id": "scott-desjarlais-tn-04",
@@ -7172,7 +7502,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:34.506573+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "scott-fitzgerald-wi-h-05": {
       "id": "scott-fitzgerald-wi-h-05",
@@ -7187,7 +7517,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:34.787444+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "scott-franklin-fl-18": {
       "id": "scott-franklin-fl-18",
@@ -7202,7 +7532,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:35.274157+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "scott-hon-desjarlais-tn-h-04": {
       "id": "scott-hon-desjarlais-tn-h-04",
@@ -7234,6 +7564,21 @@
       "matchMethod": "congress_legislators_bioguide",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
+    "scott-p-brown-nh-s-00": {
+      "id": "scott-p-brown-nh-s-00",
+      "name": "Scott P. Brown",
+      "imagePath": "assets/images/candidates/scott-p-brown-nh-s-00.webp",
+      "width": 124,
+      "height": 160,
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ambassador_Scott_Brown.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Scott_Brown_(politician)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
+    },
     "scott-perry-pa-h-10": {
       "id": "scott-perry-pa-h-10",
       "name": "Scott Perry",
@@ -7247,7 +7592,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:35.490971+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "scott-peters-ca-h-50": {
       "id": "scott-peters-ca-h-50",
@@ -7262,7 +7607,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "scott-wiener-ca-h-11": {
       "id": "scott-wiener-ca-h-11",
@@ -7277,7 +7622,7 @@
       "attributionRequired": "false",
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
-      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "sean-casten-il-h-06": {
       "id": "sean-casten-il-h-06",
@@ -7292,7 +7637,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:35.873675+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "seth-magaziner-ri-h-02": {
       "id": "seth-magaziner-ri-h-02",
@@ -7307,7 +7652,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:36.074157+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "seth-moulton-ma-h-06": {
       "id": "seth-moulton-ma-h-06",
@@ -7322,7 +7667,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:36.199549+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "seth-moulton-ma-s-00": {
       "id": "seth-moulton-ma-s-00",
@@ -7337,7 +7682,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:36.200056+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "sharice-davids-ks-h-03": {
       "id": "sharice-davids-ks-h-03",
@@ -7352,7 +7697,7 @@
       "attributionRequired": null,
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:36.318098+00:00"
+      "retrievedAt": "2026-03-04T21:06:27.773446+00:00"
     },
     "sheila-cherfilus-mccormick-fl-h-20": {
       "id": "sheila-cherfilus-mccormick-fl-h-20",
@@ -7369,65 +7714,20 @@
       "matchMethod": "congress_legislators_bioguide",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
-    "shelley-moore-capito-wv-s-00": {
-      "id": "shelley-moore-capito-wv-s-00",
-      "name": "Shelley Moore Capito",
-      "imagePath": "assets/images/candidates/shelley-moore-capito-wv-s-00.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/C001047.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:36.659986+00:00"
-    },
-    "shontel-brown-oh-11": {
-      "id": "shontel-brown-oh-11",
-      "name": "Shontel Brown",
-      "imagePath": "assets/images/candidates/shontel-brown-oh-11.webp",
-      "width": 127,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/B001313.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:37.059199+00:00"
-    },
-    "shri-thanedar-mi-h-13": {
-      "id": "shri-thanedar-mi-h-13",
-      "name": "Shri Thanedar",
-      "imagePath": "assets/images/candidates/shri-thanedar-mi-h-13.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/T000488.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:37.256678+00:00"
-    },
     "stacey-plaskett-vi-h-00": {
       "id": "stacey-plaskett-vi-h-00",
       "name": "Stacey Plaskett",
       "imagePath": "assets/images/candidates/stacey-plaskett-vi-h-00.webp",
       "width": 131,
       "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/P000610.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Stacey_Plaskett_116th_Congress.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Stacey_Plaskett",
+      "license": "Public domain",
       "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:37.418749+00:00"
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
     "steny-hoyer-md-h-05": {
       "id": "steny-hoyer-md-h-05",
@@ -7435,29 +7735,14 @@
       "imagePath": "assets/images/candidates/steny-hoyer-md-h-05.webp",
       "width": 131,
       "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/H000874.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Steny_Hoyer_116th_Congress.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Steny_Hoyer",
+      "license": "Public domain",
       "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:37.674795+00:00"
-    },
-    "stephanie-bice-ok-h-05": {
-      "id": "stephanie-bice-ok-h-05",
-      "name": "Stephanie Bice",
-      "imagePath": "assets/images/candidates/stephanie-bice-ok-h-05.webp",
-      "width": 128,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/B000740.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:37.802595+00:00"
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
     "stephen-collins-ny-h-23": {
       "id": "stephen-collins-ny-h-23",
@@ -7489,36 +7774,6 @@
       "matchMethod": "congress_legislators_bioguide",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
-    "steve-cohen-tn-09": {
-      "id": "steve-cohen-tn-09",
-      "name": "Steve Cohen",
-      "imagePath": "assets/images/candidates/steve-cohen-tn-09.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/C001068.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:37.981116+00:00"
-    },
-    "steve-daines-mt-s-00": {
-      "id": "steve-daines-mt-s-00",
-      "name": "Steve Daines",
-      "imagePath": "assets/images/candidates/steve-daines-mt-s-00.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/D000618.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:38.156904+00:00"
-    },
     "steve-i-mr-cohen-tn-h-09": {
       "id": "steve-i-mr-cohen-tn-h-09",
       "name": "Steve I Mr. Cohen",
@@ -7549,66 +7804,6 @@
       "matchMethod": "congress_legislators_bioguide",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
-    "steve-scalise-la-01": {
-      "id": "steve-scalise-la-01",
-      "name": "Steve Scalise",
-      "imagePath": "assets/images/candidates/steve-scalise-la-01.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/S001176.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:38.532608+00:00"
-    },
-    "steve-womack-ar-03": {
-      "id": "steve-womack-ar-03",
-      "name": "Steve Womack",
-      "imagePath": "assets/images/candidates/steve-womack-ar-03.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/W000809.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:38.694751+00:00"
-    },
-    "steven-horsford-nv-04": {
-      "id": "steven-horsford-nv-04",
-      "name": "Steven Horsford",
-      "imagePath": "assets/images/candidates/steven-horsford-nv-04.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/H001066.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:38.888205+00:00"
-    },
-    "susan-collins-me-sen": {
-      "id": "susan-collins-me-sen",
-      "name": "Susan Collins",
-      "imagePath": "assets/images/candidates/susan-collins-me-sen.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/C001035.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:39.268034+00:00"
-    },
     "susan-m-collins-me-s-00": {
       "id": "susan-m-collins-me-s-00",
       "name": "Susan M. Collins",
@@ -7623,36 +7818,6 @@
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
-    },
-    "susie-lee-nv-h-03": {
-      "id": "susie-lee-nv-h-03",
-      "name": "Susie Lee",
-      "imagePath": "assets/images/candidates/susie-lee-nv-h-03.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/L000590.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:39.446651+00:00"
-    },
-    "suzan-delbene-wa-01": {
-      "id": "suzan-delbene-wa-01",
-      "name": "Suzan DelBene",
-      "imagePath": "assets/images/candidates/suzan-delbene-wa-01.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/D000617.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:39.636614+00:00"
     },
     "suzan-k-delbene-wa-h-01": {
       "id": "suzan-k-delbene-wa-h-01",
@@ -7669,21 +7834,6 @@
       "matchMethod": "congress_legislators_bioguide",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
-    "suzanne-bonamici-or-01": {
-      "id": "suzanne-bonamici-or-01",
-      "name": "Suzanne Bonamici",
-      "imagePath": "assets/images/candidates/suzanne-bonamici-or-01.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/B001278.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:39.976984+00:00"
-    },
     "suzanne-ms-bonamici-or-h-01": {
       "id": "suzanne-ms-bonamici-or-h-01",
       "name": "Suzanne Ms. Bonamici",
@@ -7698,36 +7848,6 @@
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
-    },
-    "sydney-kamlager-dove-ca-h-37": {
-      "id": "sydney-kamlager-dove-ca-h-37",
-      "name": "Sydney Kamlager-Dove",
-      "imagePath": "assets/images/candidates/sydney-kamlager-dove-ca-h-37.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/K000400.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:40.840561+00:00"
-    },
-    "sylvia-garcia-tx-29": {
-      "id": "sylvia-garcia-tx-29",
-      "name": "Sylvia Garcia",
-      "imagePath": "assets/images/candidates/sylvia-garcia-tx-29.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/G000587.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:41.043211+00:00"
     },
     "sylvia-r-garcia-tx-h-29": {
       "id": "sylvia-r-garcia-tx-h-29",
@@ -7744,111 +7864,6 @@
       "matchMethod": "congress_legislators_bioguide",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
-    "tammy-baldwin-wi-sen": {
-      "id": "tammy-baldwin-wi-sen",
-      "name": "Tammy Baldwin",
-      "imagePath": "assets/images/candidates/tammy-baldwin-wi-sen.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/B001230.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:41.567578+00:00"
-    },
-    "tammy-duckworth-il-sen": {
-      "id": "tammy-duckworth-il-sen",
-      "name": "Tammy Duckworth",
-      "imagePath": "assets/images/candidates/tammy-duckworth-il-sen.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/D000622.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:42.039533+00:00"
-    },
-    "ted-budd-nc-sen": {
-      "id": "ted-budd-nc-sen",
-      "name": "Ted Budd",
-      "imagePath": "assets/images/candidates/ted-budd-nc-sen.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/B001305.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:42.495316+00:00"
-    },
-    "ted-cruz-tx-sen": {
-      "id": "ted-cruz-tx-sen",
-      "name": "Ted Cruz",
-      "imagePath": "assets/images/candidates/ted-cruz-tx-sen.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/C001098.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:42.794829+00:00"
-    },
-    "ted-lieu-ca-h-36": {
-      "id": "ted-lieu-ca-h-36",
-      "name": "Ted Lieu",
-      "imagePath": "assets/images/candidates/ted-lieu-ca-h-36.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/L000582.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:43.005686+00:00"
-    },
-    "teresa-leger-fernandez-nm-h-03": {
-      "id": "teresa-leger-fernandez-nm-h-03",
-      "name": "Teresa Leger Fernandez",
-      "imagePath": "assets/images/candidates/teresa-leger-fernandez-nm-h-03.webp",
-      "width": 128,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/L000273.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:43.201558+00:00"
-    },
-    "terri-sewell-al-07": {
-      "id": "terri-sewell-al-07",
-      "name": "Terri Sewell",
-      "imagePath": "assets/images/candidates/terri-sewell-al-07.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/S001185.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:43.541729+00:00"
-    },
     "thom-r-sen-tillis-nc-s-00": {
       "id": "thom-r-sen-tillis-nc-s-00",
       "name": "Thom R Sen Tillis",
@@ -7863,21 +7878,6 @@
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
-    },
-    "thom-tillis-nc-sen": {
-      "id": "thom-tillis-nc-sen",
-      "name": "Thom Tillis",
-      "imagePath": "assets/images/candidates/thom-tillis-nc-sen.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/T000476.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:43.689793+00:00"
     },
     "thomas-h-jr-kean-nj-h-07": {
       "id": "thomas-h-jr-kean-nj-h-07",
@@ -7909,201 +7909,6 @@
       "matchMethod": "wikipedia_pageimages_free",
       "retrievedAt": "2026-03-03T15:45:02.364294+00:00"
     },
-    "thomas-massie-ky-04": {
-      "id": "thomas-massie-ky-04",
-      "name": "Thomas Massie",
-      "imagePath": "assets/images/candidates/thomas-massie-ky-04.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/M001184.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:43.840429+00:00"
-    },
-    "thomas-suozzi-ny-h-03": {
-      "id": "thomas-suozzi-ny-h-03",
-      "name": "Thomas Suozzi",
-      "imagePath": "assets/images/candidates/thomas-suozzi-ny-h-03.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/S001201.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:44.024331+00:00"
-    },
-    "tim-burchett-tn-h-02": {
-      "id": "tim-burchett-tn-h-02",
-      "name": "Tim Burchett",
-      "imagePath": "assets/images/candidates/tim-burchett-tn-h-02.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/B001309.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:44.301510+00:00"
-    },
-    "tim-kaine-va-sen": {
-      "id": "tim-kaine-va-sen",
-      "name": "Tim Kaine",
-      "imagePath": "assets/images/candidates/tim-kaine-va-sen.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/K000384.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:44.504183+00:00"
-    },
-    "tim-walberg-mi-05": {
-      "id": "tim-walberg-mi-05",
-      "name": "Tim Walberg",
-      "imagePath": "assets/images/candidates/tim-walberg-mi-05.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/W000798.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:45.081629+00:00"
-    },
-    "tina-smith-mn-s-00": {
-      "id": "tina-smith-mn-s-00",
-      "name": "Tina Smith",
-      "imagePath": "assets/images/candidates/tina-smith-mn-s-00.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/S001203.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:45.360868+00:00"
-    },
-    "todd-young-in-sen": {
-      "id": "todd-young-in-sen",
-      "name": "Todd Young",
-      "imagePath": "assets/images/candidates/todd-young-in-sen.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/Y000064.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:45.757147+00:00"
-    },
-    "tom-cole-ok-h-04": {
-      "id": "tom-cole-ok-h-04",
-      "name": "Tom Cole",
-      "imagePath": "assets/images/candidates/tom-cole-ok-h-04.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/C001053.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:46.118469+00:00"
-    },
-    "tom-cotton-ar-sen": {
-      "id": "tom-cotton-ar-sen",
-      "name": "Tom Cotton",
-      "imagePath": "assets/images/candidates/tom-cotton-ar-sen.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/C001095.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:46.386480+00:00"
-    },
-    "tom-emmer-mn-06": {
-      "id": "tom-emmer-mn-06",
-      "name": "Tom Emmer",
-      "imagePath": "assets/images/candidates/tom-emmer-mn-06.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/E000294.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:46.534611+00:00"
-    },
-    "tom-mcclintock-ca-05": {
-      "id": "tom-mcclintock-ca-05",
-      "name": "Tom McClintock",
-      "imagePath": "assets/images/candidates/tom-mcclintock-ca-05.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/M001177.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:46.730772+00:00"
-    },
-    "tommy-tuberville-al-sen": {
-      "id": "tommy-tuberville-al-sen",
-      "name": "Tommy Tuberville",
-      "imagePath": "assets/images/candidates/tommy-tuberville-al-sen.webp",
-      "width": 128,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/T000278.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:46.884380+00:00"
-    },
-    "tracey-mann-ks-01": {
-      "id": "tracey-mann-ks-01",
-      "name": "Tracey Mann",
-      "imagePath": "assets/images/candidates/tracey-mann-ks-01.webp",
-      "width": 107,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/M000871.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:47.128266+00:00"
-    },
     "tracey-robert-mann-ks-h-01": {
       "id": "tracey-robert-mann-ks-h-01",
       "name": "Tracey Robert Mann",
@@ -8118,21 +7923,6 @@
       "usageTerms": null,
       "matchMethod": "congress_legislators_bioguide",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
-    },
-    "trent-kelly-ms-01": {
-      "id": "trent-kelly-ms-01",
-      "name": "Trent Kelly",
-      "imagePath": "assets/images/candidates/trent-kelly-ms-01.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/K000388.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:47.316100+00:00"
     },
     "troy-a-sr-carter-la-h-02": {
       "id": "troy-a-sr-carter-la-h-02",
@@ -8149,36 +7939,6 @@
       "matchMethod": "congress_legislators_bioguide",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
-    "troy-balderson-oh-12": {
-      "id": "troy-balderson-oh-12",
-      "name": "Troy Balderson",
-      "imagePath": "assets/images/candidates/troy-balderson-oh-12.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/B001306.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:47.576464+00:00"
-    },
-    "troy-carter-la-02": {
-      "id": "troy-carter-la-02",
-      "name": "Troy Carter",
-      "imagePath": "assets/images/candidates/troy-carter-la-02.webp",
-      "width": 128,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/C001125.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:47.742446+00:00"
-    },
     "troy-downing-mt-h-02": {
       "id": "troy-downing-mt-h-02",
       "name": "Troy Downing",
@@ -8193,51 +7953,6 @@
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
-    },
-    "troy-nehls-tx-h-22": {
-      "id": "troy-nehls-tx-h-22",
-      "name": "Troy Nehls",
-      "imagePath": "assets/images/candidates/troy-nehls-tx-h-22.webp",
-      "width": 128,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/N000026.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:47.960392+00:00"
-    },
-    "val-hoyle-or-04": {
-      "id": "val-hoyle-or-04",
-      "name": "Val Hoyle",
-      "imagePath": "assets/images/candidates/val-hoyle-or-04.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/H001094.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:48.244423+00:00"
-    },
-    "valerie-foushee-nc-h-04": {
-      "id": "valerie-foushee-nc-h-04",
-      "name": "Valerie Foushee",
-      "imagePath": "assets/images/candidates/valerie-foushee-nc-h-04.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/F000477.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:48.573927+00:00"
     },
     "valerie-hoyle-or-h-04": {
       "id": "valerie-hoyle-or-h-04",
@@ -8254,21 +7969,6 @@
       "matchMethod": "congress_legislators_bioguide",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
-    "vern-buchanan-fl-16": {
-      "id": "vern-buchanan-fl-16",
-      "name": "Vern Buchanan",
-      "imagePath": "assets/images/candidates/vern-buchanan-fl-16.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/B001260.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:48.750103+00:00"
-    },
     "vernon-buchanan-fl-h-16": {
       "id": "vernon-buchanan-fl-h-16",
       "name": "Vernon Buchanan",
@@ -8283,21 +7983,6 @@
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
-    },
-    "veronica-escobar-tx-h-16": {
-      "id": "veronica-escobar-tx-h-16",
-      "name": "Veronica Escobar",
-      "imagePath": "assets/images/candidates/veronica-escobar-tx-h-16.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/E000299.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:48.923738+00:00"
     },
     "vicente-gonzalez-tx-h-34": {
       "id": "vicente-gonzalez-tx-h-34",
@@ -8314,21 +7999,6 @@
       "matchMethod": "congress_legislators_bioguide",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
-    "victoria-spartz-in-h-05": {
-      "id": "victoria-spartz-in-h-05",
-      "name": "Victoria Spartz",
-      "imagePath": "assets/images/candidates/victoria-spartz-in-h-05.webp",
-      "width": 128,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/S000929.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:49.048599+00:00"
-    },
     "vince-fong-ca-h-20": {
       "id": "vince-fong-ca-h-20",
       "name": "Vince Fong",
@@ -8344,65 +8014,20 @@
       "matchMethod": "wikipedia_pageimages_free",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
-    "virginia-foxx-nc-05": {
-      "id": "virginia-foxx-nc-05",
-      "name": "Virginia Foxx",
-      "imagePath": "assets/images/candidates/virginia-foxx-nc-05.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/F000450.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:49.320520+00:00"
-    },
     "warren-davidson-oh-h-08": {
       "id": "warren-davidson-oh-h-08",
       "name": "Warren Davidson",
       "imagePath": "assets/images/candidates/warren-davidson-oh-h-08.webp",
-      "width": 131,
+      "width": 106,
       "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/D000626.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Warren_Davidson_-_119th_Congress.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Warren_Davidson",
+      "license": "Public domain",
       "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:49.634050+00:00"
-    },
-    "wesley-hunt-tx-h-38": {
-      "id": "wesley-hunt-tx-h-38",
-      "name": "Wesley Hunt",
-      "imagePath": "assets/images/candidates/wesley-hunt-tx-h-38.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/H001095.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:49.929986+00:00"
-    },
-    "wesley-hunt-tx-s-00": {
-      "id": "wesley-hunt-tx-s-00",
-      "name": "Wesley Hunt",
-      "imagePath": "assets/images/candidates/wesley-hunt-tx-s-00.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/H001095.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:49.930496+00:00"
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
     "william-m-cassidy-la-s-00": {
       "id": "william-m-cassidy-la-s-00",
@@ -8440,14 +8065,14 @@
       "imagePath": "assets/images/candidates/william-r-keating-ma-h-09.webp",
       "width": 131,
       "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/K000375.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bill_Keating_clerk_photo.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Bill_Keating",
+      "license": "Public domain",
       "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:50.128681+00:00"
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
     },
     "william-v-hilleary-tn-h-06": {
       "id": "william-v-hilleary-tn-h-06",
@@ -8485,29 +8110,14 @@
       "imagePath": "assets/images/candidates/young-kim-ca-h-40.webp",
       "width": 132,
       "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/K000397.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Young_Kim_117th_U.S_Congress.jpg",
+      "sourcePageUrl": "https://en.wikipedia.org/wiki/Young_Kim",
+      "license": "Public domain",
       "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:50.466289+00:00"
-    },
-    "yvette-clarke-ny-09": {
-      "id": "yvette-clarke-ny-09",
-      "name": "Yvette Clarke",
-      "imagePath": "assets/images/candidates/yvette-clarke-ny-09.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/C001067.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:50.651569+00:00"
+      "attributionRequired": "false",
+      "usageTerms": "Public domain",
+      "matchMethod": "wikipedia_pageimages_free",
+      "retrievedAt": "2026-03-03T15:45:02.364294+00:00"
     },
     "yvette-d-clarke-ny-h-09": {
       "id": "yvette-d-clarke-ny-h-09",
@@ -8538,21 +8148,6 @@
       "usageTerms": "Public domain",
       "matchMethod": "wikipedia_pageimages_free",
       "retrievedAt": "2026-03-03T16:34:13.314532+00:00"
-    },
-    "zoe-lofgren-ca-h-18": {
-      "id": "zoe-lofgren-ca-h-18",
-      "name": "Zoe Lofgren",
-      "imagePath": "assets/images/candidates/zoe-lofgren-ca-h-18.webp",
-      "width": 131,
-      "height": 160,
-      "sourceUrl": "https://unitedstates.github.io/images/congress/450x550/L000397.jpg",
-      "sourcePageUrl": "https://github.com/unitedstates/congress-legislators",
-      "license": "us_government_public_domain_or_open",
-      "licenseUrl": null,
-      "attributionRequired": null,
-      "usageTerms": null,
-      "matchMethod": "congress_legislators_bioguide",
-      "retrievedAt": "2026-03-04T21:13:50.844401+00:00"
     }
   }
 }

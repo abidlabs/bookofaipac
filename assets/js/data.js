@@ -1,5 +1,5 @@
 export const DEFAULT_IMAGE = "https://placehold.co/120x120?text=Candidate";
-const FLAG_BASE = "https://flagcdn.com/w80";
+const FLAG_BASE = "/assets/images/state-flags";
 const TERRITORY_CODES = new Set(["AS", "GU", "MP", "PR", "VI"]);
 
 export async function loadJson(relativePath) {
