@@ -1,0 +1,26 @@
+{
+  "id": "danny-davis-il-h-07",
+  "name": "Danny Davis",
+  "party": "Democratic",
+  "state": "IL",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, IL-07",
+  "imageUrl": "",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $110,160 for Danny Davis in U.S. House, IL-07. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
+  "timeline": [
+    {
+      "date": "2026-03-03",
+      "event": "Track AIPAC congressional listing records Israel Lobby Total: $110,160."
+    }
+  ],
+  "sourceIds": [
+    "trackaipac-congress",
+    "house-resolution-tracker",
+    "fec-candidate-master-2026",
+    "congress-floor-records"
+  ],
+  "profileLastUpdatedAt": "2026-03-05T06:31:31.295569+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}

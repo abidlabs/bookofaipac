@@ -1,0 +1,35 @@
+{
+  "id": "matthew-conroy-il-h-05",
+  "name": "Matthew Conroy",
+  "party": "Democratic",
+  "state": "IL",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, IL-05",
+  "imageUrl": "",
+  "stanceLabel": "Pro-Palestine",
+  "stanceColor": "green",
+  "stanceSummary": "Conroy's campaign platform and candidate questionnaire include calls to end genocide in Gaza and support legislation to end the war and protect civilian lives.",
+  "timeline": [
+    {
+      "date": "2026-03-05",
+      "event": "Campaign platform listed \"Ending Genocide in Gaza\" among top priorities in the IL-05 race.",
+      "sourceIds": [
+        "matt-conroy-campaign-website-2026"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "event": "In a published candidate questionnaire, Conroy said he would support legislation to end the war in Gaza and protect civilian lives.",
+      "sourceIds": [
+        "matt-conroy-suntimes-questionnaire-2026"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "matt-conroy-campaign-website-2026",
+    "matt-conroy-suntimes-questionnaire-2026",
+    "ballotpedia-il05-dem-primary-2026"
+  ],
+  "profileLastUpdatedAt": "2026-03-05T06:31:31.295569+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}

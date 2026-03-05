@@ -1,0 +1,26 @@
+{
+  "id": "darin-mckay-lahood-il-h-16",
+  "name": "Darin Mckay Lahood",
+  "party": "Republican",
+  "state": "IL",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, IL-16",
+  "imageUrl": "",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $420,511 for Darin LaHood in U.S. House, IL-16. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
+  "timeline": [
+    {
+      "date": "2026-03-03",
+      "event": "Track AIPAC congressional listing records Israel Lobby Total: $420,511."
+    }
+  ],
+  "sourceIds": [
+    "trackaipac-congress",
+    "house-resolution-tracker",
+    "fec-candidate-master-2026",
+    "congress-floor-records"
+  ],
+  "profileLastUpdatedAt": "2026-03-05T06:31:31.295569+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}

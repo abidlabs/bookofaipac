@@ -63,7 +63,7 @@
     "title": "The Israel Lobby in US Congress",
     "publisher": "Track AIPAC",
     "url": "https://www.trackaipac.com/congress",
-    "accessedAt": "2026-03-04"
+    "accessedAt": "2026-03-05"
   },
   "rep-schiff-israel-aid-2024": {
     "title": "Rep. Schiff votes for emergency assistance to Israel",
@@ -292,5 +292,23 @@
     "publisher": "Office of Rep. Nick Begich",
     "url": "https://begich.house.gov/media/press-releases/congressman-begich-issues-statement-us-military-action-against-irans-nuclear",
     "accessedAt": "2026-03-04"
+  },
+  "matt-conroy-campaign-website-2026": {
+    "title": "Matt Conroy for Congress campaign platform",
+    "publisher": "Matt Conroy for Congress",
+    "url": "https://www.mattconroyforcongress.com/",
+    "accessedAt": "2026-03-05"
+  },
+  "matt-conroy-suntimes-questionnaire-2026": {
+    "title": "Matthew Conroy candidate questionnaire for Illinois 5th Congressional District",
+    "publisher": "Chicago Sun-Times",
+    "url": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/matthew-conroy-illinois-primary-5th-congressional-district",
+    "accessedAt": "2026-03-05"
+  },
+  "ballotpedia-il05-dem-primary-2026": {
+    "title": "Illinois 5th Congressional District election, 2026 Democratic primary",
+    "publisher": "Ballotpedia",
+    "url": "https://ballotpedia.org/Illinois%27_5th_Congressional_District_election,_2026_(March_17_Democratic_primary)",
+    "accessedAt": "2026-03-05"
   }
 }

@@ -1118,6 +1118,38 @@ body {
   color: var(--text-dim);
 }
 
+.state-view-toggle-card {
+  padding: 12px 14px;
+}
+
+.state-view-toggle {
+  display: inline-flex;
+  gap: 8px;
+}
+
+.state-view-toggle-button {
+  border: 1px solid var(--border);
+  background: var(--bg-elevated);
+  color: var(--text-dim);
+  border-radius: 999px;
+  padding: 8px 12px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s, color 0.15s;
+}
+
+.state-view-toggle-button:hover {
+  color: var(--text);
+  border-color: rgba(125, 160, 255, 0.35);
+}
+
+.state-view-toggle-button.is-active {
+  color: var(--text);
+  background: var(--accent-dim);
+  border-color: rgba(125, 160, 255, 0.45);
+}
+
 pre {
   margin: 0 0 12px;
   padding: 14px;

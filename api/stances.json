@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-03-03",
-  "count": 1963,
+  "count": 1970,
   "items": [
     {
       "id": "az-h-atlarge",
@@ -1001,6 +1001,14 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/anthony-jr-driver-il-h-07.json"
+    },
+    {
+      "id": "anthony-michael-tamez-il-h-05",
+      "name": "Anthony Michael Tamez",
+      "districtOrOffice": "U.S. House, IL-05",
+      "stanceLabel": "Unknown",
+      "stanceColor": "neutral",
+      "endpoint": "/api/candidates/anthony-michael-tamez-il-h-05.json"
     },
     {
       "id": "anthony-thomas-constantino-ny-h-21",
@@ -3411,6 +3419,22 @@
       "endpoint": "/api/candidates/danny-davis-il-07.json"
     },
     {
+      "id": "danny-davis-il-h-07",
+      "name": "Danny Davis",
+      "districtOrOffice": "U.S. House, IL-07",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
+      "endpoint": "/api/candidates/danny-davis-il-h-07.json"
+    },
+    {
+      "id": "danny-k-mr-davis-il-h-07",
+      "name": "Danny K. Mr. Davis",
+      "districtOrOffice": "U.S. House, IL-07",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
+      "endpoint": "/api/candidates/danny-k-mr-davis-il-h-07.json"
+    },
+    {
       "id": "danny-minton-tx-h-06",
       "name": "Danny Minton",
       "districtOrOffice": "U.S. House, TX-06",
@@ -3441,6 +3465,22 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/darin-lahood-il-16.json"
+    },
+    {
+      "id": "darin-lahood-il-h-16",
+      "name": "Darin LaHood",
+      "districtOrOffice": "U.S. House, IL-16",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
+      "endpoint": "/api/candidates/darin-lahood-il-h-16.json"
+    },
+    {
+      "id": "darin-mckay-lahood-il-h-16",
+      "name": "Darin Mckay Lahood",
+      "districtOrOffice": "U.S. House, IL-16",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
+      "endpoint": "/api/candidates/darin-mckay-lahood-il-h-16.json"
     },
     {
       "id": "darius-mayfield-va-h-07",
@@ -4441,6 +4481,14 @@
       "stanceLabel": "Pro-Israel",
       "stanceColor": "red",
       "endpoint": "/api/candidates/elizabeth-warren-ma-sen.json"
+    },
+    {
+      "id": "ellen-corley-il-h-05",
+      "name": "Ellen Corley",
+      "districtOrOffice": "U.S. House, IL-05",
+      "stanceLabel": "Unknown",
+      "stanceColor": "neutral",
+      "endpoint": "/api/candidates/ellen-corley-il-h-05.json"
     },
     {
       "id": "elvis-arturo-lossa-tx-h-31",
@@ -8627,20 +8675,20 @@
       "endpoint": "/api/candidates/kelvin-buck-ms-h-01.json"
     },
     {
-      "id": "ken-calvert-ca-41",
-      "name": "Ken Calvert",
-      "districtOrOffice": "U.S. House, CA-41",
-      "stanceLabel": "Pro-Israel",
-      "stanceColor": "red",
-      "endpoint": "/api/candidates/ken-calvert-ca-41.json"
-    },
-    {
       "id": "ken-calvert-ca-h-40",
       "name": "Ken Calvert",
       "districtOrOffice": "U.S. House, CA-40",
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/ken-calvert-ca-h-40.json"
+    },
+    {
+      "id": "ken-calvert-ca-41",
+      "name": "Ken Calvert",
+      "districtOrOffice": "U.S. House, CA-41",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
+      "endpoint": "/api/candidates/ken-calvert-ca-41.json"
     },
     {
       "id": "ken-mitchell-va-h-06",
@@ -10153,6 +10201,14 @@
       "stanceLabel": "Unknown",
       "stanceColor": "neutral",
       "endpoint": "/api/candidates/matthew-cavanaugh-co-h-05.json"
+    },
+    {
+      "id": "matthew-conroy-il-h-05",
+      "name": "Matthew Conroy",
+      "districtOrOffice": "U.S. House, IL-05",
+      "stanceLabel": "Pro-Palestine",
+      "stanceColor": "green",
+      "endpoint": "/api/candidates/matthew-conroy-il-h-05.json"
     },
     {
       "id": "matthew-damian-schultz-ak-h-00",

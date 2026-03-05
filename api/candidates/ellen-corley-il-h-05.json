@@ -1,0 +1,26 @@
+{
+  "id": "ellen-corley-il-h-05",
+  "name": "Ellen Corley",
+  "party": "Democratic",
+  "state": "IL",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, IL-05",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "Ellen Corley is listed as an IL-05 Democratic primary candidate; verified Gaza/Israel stance evidence was not identified in this pass.",
+  "timeline": [
+    {
+      "date": "2026-03-05",
+      "event": "Added from IL-05 Democratic primary candidate listings for federal profile coverage.",
+      "sourceIds": [
+        "ballotpedia-il05-dem-primary-2026"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "ballotpedia-il05-dem-primary-2026"
+  ],
+  "profileLastUpdatedAt": "2026-03-05T06:31:31.295569+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}

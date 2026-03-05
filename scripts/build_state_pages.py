@@ -78,8 +78,8 @@ TEMPLATE = """<!doctype html>
       </footer>
     </main>
 
-    <script type="module" src="../../assets/js/footer.js"></script>
-    <script type="module" src="../../assets/js/state-page.js"></script>
+    <script type="module" src="../../assets/js/footer.js?v=20260305"></script>
+    <script type="module" src="../../assets/js/state-page.js?v=20260306"></script>
   </body>
 </html>
 """
