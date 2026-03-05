@@ -1,5 +1,5 @@
-import { loadJson } from "./data.js";
-import { getStateFlagUrl, getStateName } from "./states-data.js";
+import { loadJson } from "./data.js?v=20260305";
+import { getStateFlagUrl, getStateName } from "./states-data.js?v=20260305";
 
 const listRoot = document.getElementById("statesList");
 
@@ -14,7 +14,7 @@ function stateCardTemplate(stateRecord) {
   image.alt = `${stateRecord.name} flag`;
   image.loading = "lazy";
   image.addEventListener("error", () => {
-    image.src = "/assets/images/state-flags/us.png";
+    image.src = getStateFlagUrl("US");
   });
 
   const copyWrap = document.createElement("div");

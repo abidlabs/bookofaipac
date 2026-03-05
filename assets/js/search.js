@@ -7,7 +7,7 @@ import {
   makeCandidateIndex,
   normalizeForSearch,
 } from "./data.js?v=20260304";
-import { getStateFlagUrl, getStateName } from "./states-data.js";
+import { getStateFlagUrl, getStateName } from "./states-data.js?v=20260305";
 
 const searchInput = document.getElementById("candidateSearch");
 const resultsRoot = document.getElementById("searchResults");
@@ -38,7 +38,7 @@ function stateRowTemplate(stateRecord, isActive) {
   image.alt = `${stateRecord.name} flag`;
   image.loading = "lazy";
   image.addEventListener("error", () => {
-    image.src = "/assets/images/state-flags/us.png";
+    image.src = getStateFlagUrl("US");
   });
 
   const copyWrap = document.createElement("div");

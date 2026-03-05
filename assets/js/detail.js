@@ -4,7 +4,7 @@ import {
   getCandidateFallbackImage,
   getLocalImageForCandidate,
   loadJson,
-} from "./data.js";
+} from "./data.js?v=20260305";
 
 const headerRoot = document.getElementById("candidateHeader");
 const pageLastUpdatedRoot = document.getElementById("pageLastUpdated");

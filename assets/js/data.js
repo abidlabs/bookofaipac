@@ -1,6 +1,5 @@
 export const DEFAULT_IMAGE = "https://placehold.co/120x120?text=Candidate";
-const FLAG_BASE = "/assets/images/state-flags";
-const TERRITORY_CODES = new Set(["AS", "GU", "MP", "PR", "VI"]);
+const FLAG_BASE = new URL("../images/state-flags/", import.meta.url);
 
 export async function loadJson(relativePath) {
   const response = await fetch(relativePath);
@@ -28,11 +27,8 @@ export function formatIsraelLobbyTotal(value) {
 
 export function getStateFlagImage(stateCode) {
   const code = (stateCode || "").toUpperCase();
-  if (!code) return "";
-  if (TERRITORY_CODES.has(code)) {
-    return `${FLAG_BASE}/${code.toLowerCase()}.png`;
-  }
-  return `${FLAG_BASE}/us-${code.toLowerCase()}.png`;
+  if (!code) return new URL("us.png", FLAG_BASE).toString();
+  return new URL(`${code.toLowerCase()}.png`, FLAG_BASE).toString();
 }
 
 export function getCandidateFallbackImage(candidate) {

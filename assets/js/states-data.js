@@ -57,6 +57,8 @@ export const STATE_NAMES = {
   AS: "American Samoa",
 };
 
+const STATE_FLAG_BASE = new URL("../images/state-flags/", import.meta.url);
+
 export function getStateName(code) {
   return STATE_NAMES[code] || code;
 }
@@ -64,7 +66,7 @@ export function getStateName(code) {
 export function getStateFlagUrl(code) {
   const normalized = (code || "").toLowerCase();
   if (!normalized) {
-    return "/assets/images/state-flags/us.png";
+    return new URL("us.png", STATE_FLAG_BASE).toString();
   }
-  return `/assets/images/state-flags/${normalized}.png`;
+  return new URL(`${normalized}.png`, STATE_FLAG_BASE).toString();
 }

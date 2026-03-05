@@ -5,8 +5,8 @@ import {
   getCandidateFallbackImage,
   loadJson,
   makeCandidateIndex,
-} from "./data.js";
-import { getStateFlagUrl, getStateName } from "./states-data.js";
+} from "./data.js?v=20260305";
+import { getStateFlagUrl, getStateName } from "./states-data.js?v=20260305";
 
 const stateTitle = document.getElementById("stateTitle");
 const stateSubtitle = document.getElementById("stateSubtitle");
@@ -142,7 +142,7 @@ async function init() {
     stateFlag.src = getStateFlagUrl(stateCode);
     stateFlag.alt = `${getStateName(stateCode)} flag`;
     stateFlag.addEventListener("error", () => {
-      stateFlag.src = "/assets/images/state-flags/us.png";
+      stateFlag.src = getStateFlagUrl("US");
     });
   }
 

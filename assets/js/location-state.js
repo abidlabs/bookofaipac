@@ -1,5 +1,5 @@
 import { loadJson } from "./data.js?v=20260304";
-import { getStateName } from "./states-data.js";
+import { getStateName } from "./states-data.js?v=20260305";
 
 const button = document.getElementById("myStateButton");
 const statusRoot = document.getElementById("myStateStatus");
