@@ -6,13 +6,20 @@ import {
   Text,
   Animated,
   TouchableOpacity,
+  ActivityIndicator,
 } from "react-native";
+import { useNavigation } from "@react-navigation/native";
+import type { NativeStackNavigationProp } from "@react-navigation/native-stack";
 import { CameraView, useCameraPermissions } from "expo-camera";
 import { getMatcher, refreshInBackground, getCandidates } from "../utils/dataStore";
 import { Candidate } from "../utils/fuzzyMatch";
 import ResultsList from "../components/ResultsList";
 import InstructionsCard from "../components/InstructionsCard";
+import StatePickerModal from "../components/StatePickerModal";
+import { resolveStateFromLocation } from "../utils/resolveStateFromLocation";
+import type { RootStackParamList } from "../navigation/types";
 import { colors } from "../theme";
+import { Ionicons } from "@expo/vector-icons";
 
 const { height: SCREEN_H } = Dimensions.get("window");
 const CAMERA_RATIO = 0.5;
@@ -63,11 +70,14 @@ function generateRandomOcr(): string {
 }
 
 export default function ScanScreen() {
+  const navigation = useNavigation<NativeStackNavigationProp<RootStackParamList>>();
   const [permission, requestPermission] = useCameraPermissions();
   const [scanMode, setScanMode] = useState<"auto" | "manual">("auto");
   const [frozen, setFrozen] = useState(false);
   const [matches, setMatches] = useState<Candidate[]>([]);
   const [scanning, setScanning] = useState(false);
+  const [ballotLoading, setBallotLoading] = useState(false);
+  const [statePickerVisible, setStatePickerVisible] = useState(false);
   const scanLineAnim = useRef(new Animated.Value(0)).current;
   const cameraRef = useRef<InstanceType<typeof CameraView> | null>(null);
 
@@ -186,6 +196,27 @@ export default function ScanScreen() {
     setScanning(true);
   }, []);
 
+  const openBallot = useCallback(
+    (stateCode: string) => {
+      navigation.navigate("BallotForState", { stateCode: stateCode.toUpperCase() });
+    },
+    [navigation]
+  );
+
+  const onBallotForStatePress = useCallback(async () => {
+    setBallotLoading(true);
+    try {
+      const code = await resolveStateFromLocation();
+      if (code) {
+        openBallot(code);
+      } else {
+        setStatePickerVisible(true);
+      }
+    } finally {
+      setBallotLoading(false);
+    }
+  }, [openBallot]);
+
   if (!permission) {
     return (
       <View style={styles.container}>
@@ -283,11 +314,31 @@ export default function ScanScreen() {
         ) : (
           <>
             <InstructionsCard scanning={searchingActive} scanMode={scanMode} />
+            <TouchableOpacity
+              style={[styles.ballotBtn, ballotLoading && styles.ballotBtnDisabled]}
+              onPress={onBallotForStatePress}
+              disabled={ballotLoading}
+              activeOpacity={0.85}
+            >
+              {ballotLoading ? (
+                <ActivityIndicator color={colors.accent} />
+              ) : (
+                <View style={styles.ballotBtnRow}>
+                  <Ionicons name="map-outline" size={20} color={colors.text} />
+                  <Text style={styles.ballotBtnText}>Ballot for your State</Text>
+                </View>
+              )}
+            </TouchableOpacity>
             {scanMode === "manual" && searchingActive && (
               <TouchableOpacity style={styles.manualScanBtn} onPress={onManualScan} activeOpacity={0.85}>
                 <Text style={styles.manualScanText}>Scan</Text>
               </TouchableOpacity>
             )}
+            <StatePickerModal
+              visible={statePickerVisible}
+              onClose={() => setStatePickerVisible(false)}
+              onSelect={(code) => openBallot(code)}
+            />
           </>
         )}
       </View>
@@ -432,6 +483,32 @@ const styles = StyleSheet.create({
     color: colors.accent,
     fontSize: 17,
     fontWeight: "700",
+  },
+  ballotBtn: {
+    marginHorizontal: 24,
+    marginTop: 12,
+    paddingVertical: 14,
+    borderRadius: 12,
+    backgroundColor: colors.bgElevated,
+    borderWidth: 1,
+    borderColor: colors.border,
+    alignItems: "center",
+    justifyContent: "center",
+    minHeight: 48,
+  },
+  ballotBtnDisabled: {
+    opacity: 0.7,
+  },
+  ballotBtnRow: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "center",
+    gap: 8,
+  },
+  ballotBtnText: {
+    color: colors.text,
+    fontSize: 16,
+    fontWeight: "600",
   },
   permText: {
     color: colors.textDim,

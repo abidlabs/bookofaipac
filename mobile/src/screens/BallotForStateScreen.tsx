@@ -11,7 +11,8 @@ import {
 } from "react-native";
 import type { NativeStackScreenProps } from "@react-navigation/native-stack";
 import type { RootStackParamList } from "../navigation/types";
-import { getMergedCandidates, type MergedCandidate } from "../utils/ballotData";
+import { getMergedCandidates, type MergedCandidate } from "../utils/mergedCandidates";
+import { invalidateCandidateData } from "../utils/dataStore";
 import { resolveOfficeScope } from "../utils/officeScope";
 import { getStateName } from "../utils/states";
 import { colors, stanceColors, SITE_BASE_URL } from "../theme";
@@ -22,6 +23,26 @@ type Section = {
   title: string;
   data: MergedCandidate[];
 };
+
+function stanceRank(label: string | undefined): number {
+  switch (label) {
+    case "Pro-Palestine":
+      return 0;
+    case "Pro-Israel":
+      return 1;
+    default:
+      return 2;
+  }
+}
+
+function sortByStanceThenName(candidates: MergedCandidate[]): MergedCandidate[] {
+  return [...candidates].sort((a, b) => {
+    const ra = stanceRank(a.stanceLabel);
+    const rb = stanceRank(b.stanceLabel);
+    if (ra !== rb) return ra - rb;
+    return (a.name || "").localeCompare(b.name || "", undefined, { sensitivity: "base" });
+  });
+}
 
 function openDetail(candidate: MergedCandidate) {
   const url = `${SITE_BASE_URL}/detail/?id=${encodeURIComponent(candidate.id)}`;
@@ -89,17 +110,28 @@ export default function BallotForStateScreen({ route, navigation }: Props) {
     load();
   }, [load]);
 
+  const onRetry = useCallback(async () => {
+    await invalidateCandidateData();
+    load();
+  }, [load]);
+
   const sections: Section[] = useMemo(() => {
-    const senate = list
-      .filter((c) => resolveOfficeScope(c) === "SENATE")
-      .sort((a, b) => a.name.localeCompare(b.name));
-    const house = list
-      .filter((c) => resolveOfficeScope(c) === "HOUSE")
-      .sort((a, b) => a.name.localeCompare(b.name));
-    return [
+    const senate = sortByStanceThenName(list.filter((c) => resolveOfficeScope(c) === "SENATE"));
+    const house = sortByStanceThenName(list.filter((c) => resolveOfficeScope(c) === "HOUSE"));
+    const other = sortByStanceThenName(
+      list.filter((c) => {
+        const s = resolveOfficeScope(c);
+        return s !== "SENATE" && s !== "HOUSE";
+      }),
+    );
+    const out: Section[] = [
       { title: "U.S. Senate", data: senate },
       { title: "U.S. House of Representatives", data: house },
     ];
+    if (other.length > 0) {
+      out.push({ title: "Other", data: other });
+    }
+    return out;
   }, [list]);
 
   useLayoutEffect(() => {
@@ -127,7 +159,7 @@ export default function BallotForStateScreen({ route, navigation }: Props) {
     return (
       <View style={styles.centered}>
         <Text style={styles.errorText}>{error}</Text>
-        <TouchableOpacity style={styles.retryBtn} onPress={load} activeOpacity={0.8}>
+        <TouchableOpacity style={styles.retryBtn} onPress={onRetry} activeOpacity={0.8}>
           <Text style={styles.retryText}>Retry</Text>
         </TouchableOpacity>
       </View>

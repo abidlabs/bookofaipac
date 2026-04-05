@@ -10,6 +10,7 @@ Continuously improve candidate profile quality by identifying the most incomplet
 
 - Primary profile dataset: `data/politicians.json`
 - Broader candidate dataset: `data/2026-federal-candidates.json`
+- Mobile / client cache bust: `api/data-version.json` — increment `version` whenever either candidate JSON file above changes (so apps refetch merged data)
 - Source catalog: `data/sources.json`
 - API builder: `scripts/build_api_routes.py`
 - Track AIPAC merger: `scripts/build_trackaipac_data.py`
@@ -102,6 +103,7 @@ Never add claims without a supporting source. If a claim cannot be validated, sk
    - edit `data/politicians.json`
    - edit `data/2026-federal-candidates.json` only if needed for consistency or missing candidate rows
    - edit `data/sources.json`
+   - if you changed `data/politicians.json` or `data/2026-federal-candidates.json`, bump the string `version` in `api/data-version.json` (e.g. increment a number or use an ISO date) so clients see new data
 5. Rebuild derived artifacts:
    - `python3 scripts/build_trackaipac_data.py`
    - `python3 scripts/build_candidate_images.py --profiled-only` (only if any `imageUrl` changed)
@@ -135,6 +137,7 @@ Use this exact command flow per batch:
 git checkout -b feature/candidate-refresh-YYYYMMDD-batchNN
 
 # edit data/politicians.json data/2026-federal-candidates.json data/sources.json
+# if either candidate JSON file changed, bump "version" in api/data-version.json
 
 python3 scripts/build_trackaipac_data.py
 python3 scripts/build_api_routes.py
@@ -143,7 +146,7 @@ pytest -q tests/test_api_routes.py
 # run only when imageUrl values were added
 python3 scripts/build_candidate_images.py --profiled-only
 
-git add data/politicians.json data/2026-federal-candidates.json data/sources.json data/trackaipac-congress.json data/trackaipac-unmatched.json api tests
+git add data/politicians.json data/2026-federal-candidates.json data/sources.json api/data-version.json data/trackaipac-congress.json data/trackaipac-unmatched.json api tests
 git commit -m "Refresh candidate profiles batchNN"
 git push -u origin HEAD
 
@@ -156,6 +159,7 @@ gh pr create --title "Refresh candidate profiles: <Candidate A>, <Candidate B>, 
 - [ ] All factual changes have source IDs
 - [ ] `data/sources.json` includes any newly introduced sources
 - [ ] API routes regenerated
+- [ ] If candidate JSON changed, `api/data-version.json` `version` was bumped
 - [ ] `pytest -q tests/test_api_routes.py` passes
 - [ ] No unrelated candidate edits
 

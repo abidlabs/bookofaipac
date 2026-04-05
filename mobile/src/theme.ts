@@ -54,5 +54,5 @@ export function stanceColors(label: string) {
   }
 }
 
-// Base URL for the website detail pages
-export const SITE_BASE_URL = "https://bookofaipac.com";
+// Base URL for the deployed site (GitHub Pages)
+export const SITE_BASE_URL = "https://abidlabs.github.io/bookofaipac";
