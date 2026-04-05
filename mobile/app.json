@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "ScanAIPAC",
+    "slug": "scanaipac",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#0c0c0e"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.bookofaipac.scanaipac",
+      "infoPlist": {
+        "NSCameraUsageDescription": "ScanAIPAC uses the camera to scan printed text and identify political candidates.",
+        "NSLocationWhenInUseUsageDescription": "ScanAIPAC uses your approximate location to select your state for the ballot list."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0c0c0e"
+      },
+      "package": "com.bookofaipac.scanaipac",
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "ScanAIPAC uses the camera to scan printed text and identify political candidates."
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "ScanAIPAC uses your approximate location to select your state for the ballot list."
+        }
+      ]
+    ]
+  }
+}
