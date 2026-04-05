@@ -6,9 +6,9 @@
   "office": "U.S. Senate",
   "districtOrOffice": "U.S. Senate, Vermont",
   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bernie_Sanders%2C_official_portrait%2C_113th_Congress.jpg/440px-Bernie_Sanders%2C_official_portrait%2C_113th_Congress.jpg",
-  "stanceLabel": "Mixed-unclear",
-  "stanceColor": "gray",
-  "stanceSummary": "Sanders has been critical of Israeli military conduct in Gaza while also affirming Israel's right to security, placing him in a mixed position in this framework.",
+  "stanceLabel": "Pro-Palestine",
+  "stanceColor": "green",
+  "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Bernie Sanders in U.S. Senate, Vermont as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
   "timeline": [
     {
       "date": "2023-12-12",
@@ -17,12 +17,20 @@
     {
       "date": "2024-03-20",
       "event": "Repeated calls for humanitarian protections and policy recalibration."
+    },
+    {
+      "date": "2026-04-05",
+      "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (VT-SEN): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
     }
   ],
   "sourceIds": [
+    "trackaipac-congress",
     "sen-sanders-press",
     "senate-roll-call"
   ],
-  "profileLastUpdatedAt": "2026-03-03T20:03:20.076929+00:00",
+  "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

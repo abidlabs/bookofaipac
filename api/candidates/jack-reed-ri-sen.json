@@ -1,0 +1,39 @@
+{
+  "id": "jack-reed-ri-sen",
+  "name": "Jack Reed",
+  "party": "Unknown",
+  "state": "RI",
+  "office": "U.S. Senate",
+  "districtOrOffice": "U.S. Senate, RI",
+  "imageUrl": "",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $1,034,684 for Jack Reed in U.S. Senate, RI. This candidate has taken funding from the Israel lobby.",
+  "timeline": [
+    {
+      "date": "2026-04-05",
+      "event": "Baseline profile created for Track AIPAC funding import.",
+      "sourceIds": [
+        "trackaipac-congress",
+        "fec-candidate-master-2026",
+        "house-resolution-tracker",
+        "congress-floor-records"
+      ]
+    },
+    {
+      "date": "2026-04-05",
+      "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $1,034,684 (RI-SEN).",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "trackaipac-congress",
+    "fec-candidate-master-2026",
+    "house-resolution-tracker",
+    "congress-floor-records"
+  ],
+  "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}

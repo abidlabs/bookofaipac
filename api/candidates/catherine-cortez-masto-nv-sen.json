@@ -8,17 +8,24 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $3,180,044 for Catherine Cortez-Masto in U.S. Senate, NV. This candidate has taken funding from the Israel lobby; additional primary-source statement and vote evidence should continue to be expanded.",
+  "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $3,180,044 for Catherine Cortez-Masto in U.S. Senate, NV. This candidate has taken funding from the Israel lobby.",
   "timeline": [
     {
       "date": "2026-03-03",
       "event": "Track AIPAC congressional listing records Israel Lobby Total: $3,180,044."
+    },
+    {
+      "date": "2026-04-05",
+      "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $3,180,044 (NV-SEN).",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
     }
   ],
   "sourceIds": [
     "trackaipac-congress",
     "senate-roll-call"
   ],
-  "profileLastUpdatedAt": "2026-03-05T06:31:44.658553+00:00",
+  "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

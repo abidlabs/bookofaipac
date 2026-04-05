@@ -8,11 +8,18 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $470,328 for Adam Gray in U.S. House, CA-13. Additional policy-position sourcing is being expanded from official statements and congressional records.",
+  "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $470,328 for Adam Gray in U.S. House, CA-13. This candidate has taken funding from the Israel lobby.",
   "timeline": [
     {
       "date": "2026-03-03",
       "event": "Track AIPAC congressional listing shows Israel Lobby Total: $470,328."
+    },
+    {
+      "date": "2026-04-05",
+      "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $470,328 (CA-13).",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
     }
   ],
   "sourceIds": [
@@ -21,6 +28,6 @@
     "house-resolution-tracker",
     "congress-floor-records"
   ],
-  "profileLastUpdatedAt": "2026-03-05T06:31:44.658553+00:00",
+  "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

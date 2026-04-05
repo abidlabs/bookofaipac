@@ -8,11 +8,18 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $401,275 for August Pfluger in U.S. House, TX-11. This candidate has taken funding from the Israel lobby. Additional primary-source statements and voting records should continue to be incorporated over time.",
+  "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $401,275 for August Pfluger in U.S. House, TX-11. This candidate has taken funding from the Israel lobby.",
   "timeline": [
     {
       "date": "2026-03-03",
       "event": "Track AIPAC congressional listing records Israel Lobby Total: $401,275.",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
+    },
+    {
+      "date": "2026-04-05",
+      "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $401,275 (TX-11).",
       "sourceIds": [
         "trackaipac-congress"
       ]
@@ -24,6 +31,6 @@
     "fec-candidate-master-2026",
     "congress-floor-records"
   ],
-  "profileLastUpdatedAt": "2026-03-05T06:31:44.658553+00:00",
+  "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

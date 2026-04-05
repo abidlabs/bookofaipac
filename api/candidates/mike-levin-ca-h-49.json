@@ -8,7 +8,7 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Track AIPAC reports an Israel Lobby Total of $1,962,671 for Mike Levin in U.S. House, CA-49. Public statements and congressional records indicate an Israel-focused security policy posture in recent conflict framing. This candidate has taken funding from the Israel lobby.",
+  "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $1,962,671 for Mike Levin in U.S. House, CA-49. This candidate has taken funding from the Israel lobby.",
   "timeline": [
     {
       "date": "2026-03-03",
@@ -24,6 +24,13 @@
         "house-resolution-tracker",
         "congress-floor-records"
       ]
+    },
+    {
+      "date": "2026-04-05",
+      "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $1,962,671 (CA-49).",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
     }
   ],
   "sourceIds": [
@@ -31,6 +38,6 @@
     "house-resolution-tracker",
     "congress-floor-records"
   ],
-  "profileLastUpdatedAt": "2026-03-05T06:31:44.658553+00:00",
+  "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

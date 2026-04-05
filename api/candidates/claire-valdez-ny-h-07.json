@@ -1,0 +1,39 @@
+{
+  "id": "claire-valdez-ny-h-07",
+  "name": "Claire Valdez",
+  "party": "Unknown",
+  "state": "NY",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, NY-07",
+  "imageUrl": "",
+  "stanceLabel": "Pro-Palestine",
+  "stanceColor": "green",
+  "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Claire Valdez in U.S. House, NY-07 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+  "timeline": [
+    {
+      "date": "2026-04-05",
+      "event": "Baseline profile created for Track AIPAC funding import.",
+      "sourceIds": [
+        "trackaipac-congress",
+        "fec-candidate-master-2026",
+        "house-resolution-tracker",
+        "congress-floor-records"
+      ]
+    },
+    {
+      "date": "2026-04-05",
+      "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (NY-07): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "trackaipac-congress",
+    "fec-candidate-master-2026",
+    "house-resolution-tracker",
+    "congress-floor-records"
+  ],
+  "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}

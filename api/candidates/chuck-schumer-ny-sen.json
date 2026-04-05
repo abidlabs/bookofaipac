@@ -8,7 +8,7 @@
   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Chuck_Schumer%2C_official_photo%2C_113th_Congress.jpg/440px-Chuck_Schumer%2C_official_photo%2C_113th_Congress.jpg",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Schumer has expressed strong alignment with Israel's security position while also calling for pathways to regional de-escalation.",
+  "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $6,534,797 for Chuck Schumer in U.S. Senate, New York. This candidate has taken funding from the Israel lobby.",
   "timeline": [
     {
       "date": "2023-10-09",
@@ -17,12 +17,20 @@
     {
       "date": "2024-03-14",
       "event": "Delivered Senate floor remarks on Israeli government policy and long-term peace options."
+    },
+    {
+      "date": "2026-04-05",
+      "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $6,534,797 (NY-SEN).",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
     }
   ],
   "sourceIds": [
+    "trackaipac-congress",
     "sen-schumer-press",
     "senate-floor-transcripts"
   ],
-  "profileLastUpdatedAt": "2026-03-05T06:31:44.658553+00:00",
+  "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

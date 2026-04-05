@@ -8,7 +8,7 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Klobuchar condemned Hamas's October 7 attacks and emphasized U.S. support for Israel, while later backing broader aid legislation that also referenced humanitarian support for Palestinians. She has taken funding from the Israel lobby.",
+  "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $3,074,868 for Amy Klobuchar in U.S. Senate, MN. This candidate has taken funding from the Israel lobby.",
   "timeline": [
     {
       "date": "2023-10-07",
@@ -17,6 +17,13 @@
     {
       "date": "2024-02-04",
       "event": "Klobuchar described a bipartisan foreign-aid package as supporting key allies and humanitarian assistance, including aid for Palestinians."
+    },
+    {
+      "date": "2026-04-05",
+      "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $3,074,868 (MN-SEN).",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
     }
   ],
   "sourceIds": [
@@ -24,6 +31,6 @@
     "sen-klobuchar-israel-attacks-2023",
     "senate-roll-call"
   ],
-  "profileLastUpdatedAt": "2026-03-05T06:31:44.658553+00:00",
+  "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

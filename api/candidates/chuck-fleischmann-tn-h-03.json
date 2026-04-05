@@ -1,0 +1,39 @@
+{
+  "id": "chuck-fleischmann-tn-h-03",
+  "name": "Chuck Fleischmann",
+  "party": "Unknown",
+  "state": "TN",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, TN-03",
+  "imageUrl": "",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $155,858 for Chuck Fleischmann in U.S. House, TN-03. This candidate has taken funding from the Israel lobby.",
+  "timeline": [
+    {
+      "date": "2026-04-05",
+      "event": "Baseline profile created for Track AIPAC funding import.",
+      "sourceIds": [
+        "trackaipac-congress",
+        "fec-candidate-master-2026",
+        "house-resolution-tracker",
+        "congress-floor-records"
+      ]
+    },
+    {
+      "date": "2026-04-05",
+      "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $155,858 (TN-03).",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "trackaipac-congress",
+    "fec-candidate-master-2026",
+    "house-resolution-tracker",
+    "congress-floor-records"
+  ],
+  "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}

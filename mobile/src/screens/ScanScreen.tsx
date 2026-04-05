@@ -11,7 +11,8 @@ import {
 import { useNavigation } from "@react-navigation/native";
 import type { NativeStackNavigationProp } from "@react-navigation/native-stack";
 import { CameraView, useCameraPermissions } from "expo-camera";
-import { getMatcher, refreshInBackground, getCandidates } from "../utils/dataStore";
+import { extractTextFromImage, isSupported as ocrSupported } from "expo-text-extractor";
+import { getMatcher, refreshInBackground } from "../utils/dataStore";
 import { Candidate } from "../utils/fuzzyMatch";
 import ResultsList from "../components/ResultsList";
 import InstructionsCard from "../components/InstructionsCard";
@@ -24,50 +25,7 @@ import { Ionicons } from "@expo/vector-icons";
 const { height: SCREEN_H } = Dimensions.get("window");
 const CAMERA_RATIO = 0.5;
 
-const NOISE_WORDS = [
-  "the",
-  "and",
-  "vote",
-  "paid",
-  "elect",
-  "district",
-  "november",
-  "official",
-  "ballot",
-  "measure",
-  "candidate",
-  "primary",
-  "general",
-];
-
-function randomNoiseOcr(): string {
-  return Array.from(
-    { length: 6 + Math.floor(Math.random() * 5) },
-    () => NOISE_WORDS[Math.floor(Math.random() * NOISE_WORDS.length)]
-  ).join(" ");
-}
-
-function multiNameOcr(): string {
-  const all = getCandidates();
-  const picks: Candidate[] = [];
-  const seen = new Set<string>();
-  const shuffled = [...all].sort(() => Math.random() - 0.5);
-  for (const c of shuffled) {
-    const parts = c.name.trim().split(/\s+/);
-    if (parts.length >= 2 && !seen.has(c.id)) {
-      seen.add(c.id);
-      picks.push(c);
-      if (picks.length >= 4) break;
-    }
-  }
-  if (picks.length === 0) return all.slice(0, 3).map((c) => c.name).join("\n");
-  return picks.map((c) => c.name).join("\n");
-}
-
-function generateRandomOcr(): string {
-  if (Math.random() < 0.74) return randomNoiseOcr();
-  return multiNameOcr();
-}
+const AUTO_OCR_GAP_MS = 400;
 
 export default function ScanScreen() {
   const navigation = useNavigation<NativeStackNavigationProp<RootStackParamList>>();
@@ -78,12 +36,21 @@ export default function ScanScreen() {
   const [scanning, setScanning] = useState(false);
   const [ballotLoading, setBallotLoading] = useState(false);
   const [statePickerVisible, setStatePickerVisible] = useState(false);
+  const [ocrBusy, setOcrBusy] = useState(false);
   const scanLineAnim = useRef(new Animated.Value(0)).current;
   const cameraRef = useRef<InstanceType<typeof CameraView> | null>(null);
 
-  const repeatOcrRef = useRef<string | null>(null);
   const lastSigRef = useRef("");
   const stableCountRef = useRef(0);
+  const processingRef = useRef(false);
+  const autoOcrSessionRef = useRef(0);
+  const scanningRef = useRef(false);
+  const frozenRef = useRef(false);
+  const scanModeRef = useRef<"auto" | "manual">("auto");
+
+  scanningRef.current = scanning;
+  frozenRef.current = frozen;
+  scanModeRef.current = scanMode;
 
   useEffect(() => {
     refreshInBackground();
@@ -102,65 +69,94 @@ export default function ScanScreen() {
   const resetSearchState = useCallback(() => {
     setFrozen(false);
     setMatches([]);
-    repeatOcrRef.current = null;
     lastSigRef.current = "";
     stableCountRef.current = 0;
   }, []);
 
-  const runOcrPipeline = useCallback(
-    (ocrText: string) => {
-      const matcher = getMatcher();
-      const found = matcher.matchAll(ocrText);
-      const sig = found
-        .map((m) => m.id)
-        .sort()
-        .join(",");
+  const runOcrPipeline = useCallback((ocrText: string): boolean => {
+    const matcher = getMatcher();
+    const found = matcher.matchAll(ocrText);
+    const sig = found
+      .map((m) => m.id)
+      .sort()
+      .join(",");
 
-      if (found.length === 0) {
-        lastSigRef.current = "";
-        stableCountRef.current = 0;
-        return;
-      }
-
-      if (sig === lastSigRef.current) {
-        stableCountRef.current += 1;
-      } else {
-        lastSigRef.current = sig;
-        stableCountRef.current = 1;
-      }
-
-      if (stableCountRef.current >= 2) {
-        setMatches(found);
-        setFrozen(true);
-        repeatOcrRef.current = null;
-      }
-    },
-    []
-  );
-
-  const autoTick = useCallback(() => {
-    if (frozen) return;
-
-    let ocr: string;
-    if (repeatOcrRef.current !== null) {
-      ocr = repeatOcrRef.current;
-      repeatOcrRef.current = null;
-    } else {
-      ocr = generateRandomOcr();
-      const trial = getMatcher().matchAll(ocr);
-      if (trial.length > 0) {
-        repeatOcrRef.current = ocr;
-      }
+    if (found.length === 0) {
+      lastSigRef.current = "";
+      stableCountRef.current = 0;
+      return false;
     }
 
-    runOcrPipeline(ocr);
-  }, [frozen, runOcrPipeline]);
+    if (sig === lastSigRef.current) {
+      stableCountRef.current += 1;
+    } else {
+      lastSigRef.current = sig;
+      stableCountRef.current = 1;
+    }
+
+    if (stableCountRef.current >= 2) {
+      setMatches(found);
+      setFrozen(true);
+      return true;
+    }
+    return false;
+  }, []);
+
+  const captureAndRecognize = useCallback(async (): Promise<string> => {
+    const cam = cameraRef.current;
+    if (!cam) return "";
+    const photo = await cam.takePictureAsync({
+      quality: 0.45,
+      skipProcessing: false,
+    });
+    const lines = await extractTextFromImage(photo.uri);
+    return lines.join("\n");
+  }, []);
 
   useEffect(() => {
-    if (!scanning || frozen || scanMode !== "auto") return;
-    const id = setInterval(autoTick, 680);
-    return () => clearInterval(id);
-  }, [scanning, frozen, scanMode, autoTick]);
+    if (!scanning || frozen || scanMode !== "auto" || !ocrSupported) {
+      autoOcrSessionRef.current += 1;
+      return;
+    }
+    autoOcrSessionRef.current += 1;
+    const session = autoOcrSessionRef.current;
+
+    const sleep = (ms: number) => new Promise<void>((r) => setTimeout(r, ms));
+
+    const runLoop = async () => {
+      while (session === autoOcrSessionRef.current) {
+        if (!scanningRef.current || scanModeRef.current !== "auto") break;
+        if (processingRef.current) {
+          await sleep(120);
+          continue;
+        }
+        const cam = cameraRef.current;
+        if (!cam) {
+          await sleep(350);
+          continue;
+        }
+        processingRef.current = true;
+        setOcrBusy(true);
+        let didFreeze = false;
+        try {
+          const text = await captureAndRecognize();
+          didFreeze = runOcrPipeline(text);
+        } catch {
+          // ignore failed capture or OCR
+        } finally {
+          processingRef.current = false;
+          setOcrBusy(false);
+        }
+        if (session !== autoOcrSessionRef.current || didFreeze) break;
+        await sleep(AUTO_OCR_GAP_MS);
+      }
+    };
+
+    void runLoop();
+    return () => {
+      autoOcrSessionRef.current += 1;
+    };
+  }, [scanning, frozen, scanMode, ocrSupported, captureAndRecognize, runOcrPipeline]);
 
   useEffect(() => {
     const active = scanning && !frozen;
@@ -183,14 +179,25 @@ export default function ScanScreen() {
     return () => loop.stop();
   }, [scanning, frozen, scanLineAnim]);
 
-  const onManualScan = useCallback(() => {
-    const ocr = multiNameOcr();
-    const found = getMatcher().matchAll(ocr);
-    if (found.length > 0) {
-      setMatches(found);
-      setFrozen(true);
+  const onManualScan = useCallback(async () => {
+    if (!ocrSupported || processingRef.current) return;
+    if (!cameraRef.current) return;
+    processingRef.current = true;
+    setOcrBusy(true);
+    try {
+      const text = await captureAndRecognize();
+      const found = getMatcher().matchAll(text);
+      if (found.length > 0) {
+        setMatches(found);
+        setFrozen(true);
+      }
+    } catch {
+      // ignore
+    } finally {
+      processingRef.current = false;
+      setOcrBusy(false);
     }
-  }, []);
+  }, [captureAndRecognize]);
 
   const onCameraReady = useCallback(() => {
     setScanning(true);
@@ -274,6 +281,13 @@ export default function ScanScreen() {
         <View style={styles.cornerBL} />
         <View style={styles.cornerBR} />
 
+        {ocrBusy && (
+          <View style={styles.ocrBusyPill}>
+            <ActivityIndicator size="small" color={colors.accent} />
+            <Text style={styles.ocrBusyText}>Reading…</Text>
+          </View>
+        )}
+
         <View style={styles.modeBar}>
           {frozen ? (
             <TouchableOpacity style={styles.resetChip} onPress={resetSearchState} activeOpacity={0.75}>
@@ -314,6 +328,12 @@ export default function ScanScreen() {
         ) : (
           <>
             <InstructionsCard scanning={searchingActive} scanMode={scanMode} />
+            {!ocrSupported && (
+              <Text style={styles.ocrUnsupported}>
+                Text recognition is not available in this environment. Use a development or production build on a
+                physical device.
+              </Text>
+            )}
             <TouchableOpacity
               style={[styles.ballotBtn, ballotLoading && styles.ballotBtnDisabled]}
               onPress={onBallotForStatePress}
@@ -330,7 +350,12 @@ export default function ScanScreen() {
               )}
             </TouchableOpacity>
             {scanMode === "manual" && searchingActive && (
-              <TouchableOpacity style={styles.manualScanBtn} onPress={onManualScan} activeOpacity={0.85}>
+              <TouchableOpacity
+                style={[styles.manualScanBtn, (!ocrSupported || ocrBusy) && styles.manualScanBtnDisabled]}
+                onPress={onManualScan}
+                disabled={!ocrSupported || ocrBusy}
+                activeOpacity={0.85}
+              >
                 <Text style={styles.manualScanText}>Scan</Text>
               </TouchableOpacity>
             )}
@@ -483,6 +508,36 @@ const styles = StyleSheet.create({
     color: colors.accent,
     fontSize: 17,
     fontWeight: "700",
+  },
+  manualScanBtnDisabled: {
+    opacity: 0.45,
+  },
+  ocrBusyPill: {
+    position: "absolute",
+    top: 14,
+    alignSelf: "center",
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 8,
+    paddingHorizontal: 14,
+    paddingVertical: 8,
+    borderRadius: 20,
+    backgroundColor: "rgba(12,12,14,0.88)",
+    borderWidth: 1,
+    borderColor: colors.border,
+  },
+  ocrBusyText: {
+    color: colors.textDim,
+    fontSize: 13,
+    fontWeight: "600",
+  },
+  ocrUnsupported: {
+    color: colors.stanceRed,
+    fontSize: 13,
+    lineHeight: 18,
+    marginHorizontal: 24,
+    marginBottom: 8,
+    textAlign: "center",
   },
   ballotBtn: {
     marginHorizontal: 24,

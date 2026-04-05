@@ -1,0 +1,32 @@
+{
+  "id": "adrian-boafo-md-h-05",
+  "name": "Adrian Boafo",
+  "party": "Unknown",
+  "state": "MD",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, MD-05",
+  "imageUrl": "",
+  "stanceLabel": "Unknown",
+  "stanceColor": "neutral",
+  "stanceSummary": "No public Track AIPAC congressional total is currently linked for Adrian Boafo in U.S. House, MD-05. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+  "timeline": [
+    {
+      "date": "2026-04-05",
+      "event": "Baseline profile created for Track AIPAC funding import.",
+      "sourceIds": [
+        "trackaipac-congress",
+        "fec-candidate-master-2026",
+        "house-resolution-tracker",
+        "congress-floor-records"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "trackaipac-congress",
+    "fec-candidate-master-2026",
+    "house-resolution-tracker",
+    "congress-floor-records"
+  ],
+  "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}

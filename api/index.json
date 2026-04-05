@@ -3,12 +3,11 @@
   "version": "v1",
   "routes": {
     "apiIndex": "/api/index.json",
-    "candidatesDataVersion": "/api/data-version.json",
     "candidateStances": "/api/stances.json",
     "candidateByIdTemplate": "/api/candidates/{id}.json",
     "sources": "/data/sources.json",
     "federalCandidates2026": "/data/2026-federal-candidates.json"
   },
-  "profiledCandidatesCount": 1970,
-  "federalCandidatesCount": 2071
+  "profiledCandidatesCount": 2007,
+  "federalCandidatesCount": 2108
 }

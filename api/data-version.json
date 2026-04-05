@@ -1,4 +1,4 @@
 {
-  "version": "1",
+  "version": "2",
   "description": "Bump version when data/politicians.json or data/2026-federal-candidates.json changes."
 }

@@ -8,7 +8,7 @@
   "imageUrl": "",
   "stanceLabel": "Pro-Israel",
   "stanceColor": "red",
-  "stanceSummary": "Begich has framed Iran-backed groups including Hamas as part of a wider anti-American threat network and supported a hardline U.S. posture against Iran and affiliated proxies in the regional conflict context.",
+  "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $144,598 for Nicholas Iii Begich in U.S. House, AK-00. This candidate has taken funding from the Israel lobby.",
   "timeline": [
     {
       "date": "2026-02-28",
@@ -16,11 +16,32 @@
       "sourceIds": [
         "rep-begich-iran-proxies-hamas-2026"
       ]
+    },
+    {
+      "date": "2026-04-05",
+      "event": "Baseline profile created for Track AIPAC funding import.",
+      "sourceIds": [
+        "trackaipac-congress",
+        "fec-candidate-master-2026",
+        "house-resolution-tracker",
+        "congress-floor-records"
+      ]
+    },
+    {
+      "date": "2026-04-05",
+      "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $144,598 (AK-00).",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
     }
   ],
   "sourceIds": [
+    "trackaipac-congress",
+    "congress-floor-records",
+    "fec-candidate-master-2026",
+    "house-resolution-tracker",
     "rep-begich-iran-proxies-hamas-2026"
   ],
-  "profileLastUpdatedAt": "2026-03-04T20:54:53.088267+00:00",
+  "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
   "sourcesEndpoint": "/data/sources.json"
 }

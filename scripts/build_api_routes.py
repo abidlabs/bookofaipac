@@ -55,7 +55,9 @@ def stance_color(label: str) -> str:
 
 def build_candidate_endpoints(profiled: list[dict]) -> list[dict]:
   rows = []
+  valid_ids: set[str] = set()
   for candidate in profiled:
+    valid_ids.add(candidate["id"])
     profile_last_updated_at = (
       candidate.get("profileLastUpdatedAt")
       or candidate.get("trackAipacLastSyncedAt")
@@ -90,6 +92,9 @@ def build_candidate_endpoints(profiled: list[dict]) -> list[dict]:
         "endpoint": f"/api/candidates/{candidate['id']}.json",
       }
     )
+  for stale in API_CANDIDATES.glob("*.json"):
+    if stale.stem not in valid_ids:
+      stale.unlink()
   rows.sort(key=lambda item: item["name"])
   return rows
 

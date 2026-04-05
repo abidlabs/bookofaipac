@@ -1,0 +1,39 @@
+{
+  "id": "joe-kerr-ca-h-40",
+  "name": "Joe Kerr",
+  "party": "Unknown",
+  "state": "CA",
+  "office": "U.S. House",
+  "districtOrOffice": "U.S. House, CA-40",
+  "imageUrl": "",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $50,590 for Joe Kerr in U.S. House, CA-40. This candidate has taken funding from the Israel lobby.",
+  "timeline": [
+    {
+      "date": "2026-04-05",
+      "event": "Baseline profile created for Track AIPAC funding import.",
+      "sourceIds": [
+        "trackaipac-congress",
+        "fec-candidate-master-2026",
+        "house-resolution-tracker",
+        "congress-floor-records"
+      ]
+    },
+    {
+      "date": "2026-04-05",
+      "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $50,590 (CA-40).",
+      "sourceIds": [
+        "trackaipac-congress"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "trackaipac-congress",
+    "fec-candidate-master-2026",
+    "house-resolution-tracker",
+    "congress-floor-records"
+  ],
+  "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}
