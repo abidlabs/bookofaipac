@@ -1,10 +1,10 @@
 import {
   DEFAULT_IMAGE,
-  formatIsraelLobbyTotal,
   getCandidateFallbackImage,
+  getLobbyBadgeKind,
   getLocalImageForCandidate,
   loadJson,
-} from "./data.js?v=20260305";
+} from "./data.js?v=20260405";
 
 const headerRoot = document.getElementById("candidateHeader");
 const pageLastUpdatedRoot = document.getElementById("pageLastUpdated");
@@ -30,12 +30,6 @@ function makeFallbackRecord(candidate) {
   };
 }
 
-function getLobbyAmount(candidate) {
-  return typeof candidate.israelLobbyTotal === "number" && !Number.isNaN(candidate.israelLobbyTotal)
-    ? candidate.israelLobbyTotal
-    : null;
-}
-
 function renderHeader(candidate) {
   let headerClass = "detail-header";
   if (candidate.stanceLabel === "Pro-Israel") {
@@ -43,11 +37,9 @@ function renderHeader(candidate) {
   } else if (candidate.stanceLabel === "Pro-Palestine") {
     headerClass += " detail-header-green";
   }
-  const amount = getLobbyAmount(candidate);
-  const hasConfirmedAmount = typeof amount === "number";
-  const lobbyBadgeClass = amount > 0 ? "lobby-badge-positive" : "lobby-badge-zero";
-  const lobbyMarkup = hasConfirmedAmount
-    ? `<p class="detail-lobby-row"><span class="lobby-badge ${lobbyBadgeClass}">${formatIsraelLobbyTotal(amount)}</span></p>`
+  const badgeKind = getLobbyBadgeKind(candidate);
+  const lobbyMarkup = badgeKind.show
+    ? `<p class="detail-lobby-row"><span class="lobby-badge ${badgeKind.className}">${badgeKind.text}</span></p>`
     : "";
   headerRoot.className = headerClass;
   headerRoot.innerHTML = `

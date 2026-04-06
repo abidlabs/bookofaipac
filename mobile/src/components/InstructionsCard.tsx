@@ -19,6 +19,7 @@ export default function InstructionsCard({ scanning, scanMode }: Props) {
       <Text style={styles.body}>
         Point your camera at names on a ballot, flyer, or screen. {autoBody}
       </Text>
+      <Text style={styles.privacy}>Text is recognized on your device. Camera images are not uploaded.</Text>
       <View style={styles.statusRow}>
         <View style={[styles.dot, scanning ? styles.dotActive : styles.dotIdle]} />
         <Text style={styles.statusText}>
@@ -54,7 +55,15 @@ const styles = StyleSheet.create({
     fontSize: 15,
     textAlign: "center",
     lineHeight: 22,
+    marginBottom: 10,
+  },
+  privacy: {
+    color: colors.textDim,
+    fontSize: 12,
+    textAlign: "center",
+    lineHeight: 17,
     marginBottom: 20,
+    opacity: 0.9,
   },
   statusRow: {
     flexDirection: "row",

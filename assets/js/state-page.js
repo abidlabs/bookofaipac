@@ -1,11 +1,11 @@
 import {
   DEFAULT_IMAGE,
   applyLocalImageMap,
-  formatIsraelLobbyTotal,
   getCandidateFallbackImage,
+  getLobbyBadgeKind,
   loadJson,
   makeCandidateIndex,
-} from "./data.js?v=20260306";
+} from "./data.js?v=20260405";
 import { getStateFlagUrl, getStateName } from "./states-data.js?v=20260306";
 
 const stateTitle = document.getElementById("stateTitle");
@@ -85,10 +85,11 @@ function makeRow(candidate) {
 
   const amountCell = document.createElement("td");
   amountCell.className = "state-cell-amount";
-  if (typeof candidate.israelLobbyTotal === "number" && !Number.isNaN(candidate.israelLobbyTotal)) {
+  const badgeKind = getLobbyBadgeKind(candidate);
+  if (badgeKind.show) {
     const badge = document.createElement("span");
-    badge.className = `lobby-badge ${candidate.israelLobbyTotal > 0 ? "lobby-badge-positive" : "lobby-badge-zero"}`;
-    badge.textContent = formatIsraelLobbyTotal(candidate.israelLobbyTotal);
+    badge.className = `lobby-badge ${badgeKind.className}`;
+    badge.textContent = badgeKind.text;
     amountCell.appendChild(badge);
   } else {
     amountCell.textContent = "—";

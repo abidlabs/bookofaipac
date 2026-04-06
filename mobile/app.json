@@ -14,7 +14,7 @@
       "supportsTablet": false,
       "bundleIdentifier": "com.bookofaipac.scanaipac",
       "infoPlist": {
-        "NSCameraUsageDescription": "ScanAIPAC uses the camera to scan printed text and identify political candidates.",
+        "NSCameraUsageDescription": "ScanAIPAC reads text from the camera on your device to match candidate names. Images are not uploaded.",
         "NSLocationWhenInUseUsageDescription": "ScanAIPAC uses your approximate location to select your state for the ballot list."
       }
     },
@@ -33,7 +33,7 @@
       [
         "expo-camera",
         {
-          "cameraPermission": "ScanAIPAC uses the camera to scan printed text and identify political candidates."
+          "cameraPermission": "ScanAIPAC reads text from the camera on your device to match candidate names. Images are not uploaded."
         }
       ],
       [

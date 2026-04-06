@@ -23,13 +23,21 @@ function openDetail(candidate: Candidate) {
 
 function CandidateRow({ candidate }: { candidate: Candidate }) {
   const stance = stanceColors(candidate.stanceLabel);
-  const showAmount =
+  const showPositiveFunding =
     candidate.stanceLabel === "Pro-Israel" &&
     candidate.total !== null &&
     candidate.total > 0;
+  const showZeroFunding =
+    candidate.stanceLabel === "Pro-Palestine" ||
+    (candidate.total !== null && !Number.isNaN(candidate.total) && candidate.total === 0);
+  const showFundingRow = showPositiveFunding || showZeroFunding;
 
   return (
-    <View style={[styles.row, { borderLeftColor: stance.border }]}>
+    <TouchableOpacity
+      style={[styles.row, { borderLeftColor: stance.border }]}
+      onPress={() => openDetail(candidate)}
+      activeOpacity={0.75}
+    >
       <View style={styles.rowTop}>
         <View style={[styles.stanceBadge, { backgroundColor: stance.bg, borderColor: stance.border }]}>
           <Text style={[styles.stanceText, { color: stance.text }]} numberOfLines={1}>
@@ -43,23 +51,18 @@ function CandidateRow({ candidate }: { candidate: Candidate }) {
       <Text style={styles.office} numberOfLines={2}>
         {candidate.party} — {candidate.office}
       </Text>
-      {showAmount && (
+      {showFundingRow && (
         <View style={styles.metaRow}>
           <Text style={styles.amountLabel}>Lobby funding</Text>
           <Text style={[styles.amountValue, { color: stance.text }]} numberOfLines={1}>
-            {candidate.totalDisplay}
+            {showPositiveFunding ? candidate.totalDisplay : "$0"}
           </Text>
         </View>
       )}
-      {candidate.stanceLabel === "Pro-Palestine" && (
-        <Text style={[styles.cleanLabel, { color: colors.stanceGreen }]} numberOfLines={1}>
-          No lobby funding recorded
-        </Text>
-      )}
-      <TouchableOpacity style={styles.linkButton} onPress={() => openDetail(candidate)} activeOpacity={0.7}>
+      <View style={styles.linkButton}>
         <Text style={styles.linkText}>View profile</Text>
-      </TouchableOpacity>
-    </View>
+      </View>
+    </TouchableOpacity>
   );
 }
 
@@ -167,11 +170,6 @@ const styles = StyleSheet.create({
     fontWeight: "700",
     flex: 1,
     textAlign: "right",
-  },
-  cleanLabel: {
-    fontSize: 11,
-    fontWeight: "600",
-    marginTop: 4,
   },
   linkButton: {
     alignSelf: "flex-start",

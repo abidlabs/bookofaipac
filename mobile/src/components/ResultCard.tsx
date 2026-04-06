@@ -15,10 +15,14 @@ export default function ResultCard({ candidate }: Props) {
     Linking.openURL(url);
   };
 
-  const showAmount =
+  const showPositiveFunding =
     candidate.stanceLabel === "Pro-Israel" &&
     candidate.total !== null &&
     candidate.total > 0;
+  const showZeroFunding =
+    candidate.stanceLabel === "Pro-Palestine" ||
+    (candidate.total !== null && !Number.isNaN(candidate.total) && candidate.total === 0);
+  const showFundingRow = showPositiveFunding || showZeroFunding;
 
   return (
     <View style={[styles.card, { borderColor: stance.border }]}>
@@ -34,19 +38,11 @@ export default function ResultCard({ candidate }: Props) {
         {candidate.party} — {candidate.office}
       </Text>
 
-      {showAmount && (
+      {showFundingRow && (
         <View style={styles.amountRow}>
           <Text style={styles.amountLabel}>Israel lobby funding</Text>
           <Text style={[styles.amountValue, { color: stance.text }]}>
-            {candidate.totalDisplay}
-          </Text>
-        </View>
-      )}
-
-      {candidate.stanceLabel === "Pro-Palestine" && (
-        <View style={styles.amountRow}>
-          <Text style={[styles.cleanLabel, { color: colors.stanceGreen }]}>
-            No Israel lobby funding recorded
+            {showPositiveFunding ? candidate.totalDisplay : "$0"}
           </Text>
         </View>
       )}
@@ -103,10 +99,6 @@ const styles = StyleSheet.create({
   amountValue: {
     fontSize: 20,
     fontWeight: "700",
-  },
-  cleanLabel: {
-    fontSize: 14,
-    fontWeight: "600",
   },
   linkButton: {
     backgroundColor: colors.bgElevated,

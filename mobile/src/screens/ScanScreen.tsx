@@ -7,6 +7,8 @@ import {
   Animated,
   TouchableOpacity,
   ActivityIndicator,
+  ScrollView,
+  Platform,
 } from "react-native";
 import { useNavigation } from "@react-navigation/native";
 import type { NativeStackNavigationProp } from "@react-navigation/native-stack";
@@ -26,6 +28,7 @@ const { height: SCREEN_H } = Dimensions.get("window");
 const CAMERA_RATIO = 0.5;
 
 const AUTO_OCR_GAP_MS = 400;
+const MANUAL_SCAN_SWEEP_MS = 520;
 
 export default function ScanScreen() {
   const navigation = useNavigation<NativeStackNavigationProp<RootStackParamList>>();
@@ -37,6 +40,7 @@ export default function ScanScreen() {
   const [ballotLoading, setBallotLoading] = useState(false);
   const [statePickerVisible, setStatePickerVisible] = useState(false);
   const [ocrBusy, setOcrBusy] = useState(false);
+  const [manualNoMatchOcr, setManualNoMatchOcr] = useState<string | null>(null);
   const scanLineAnim = useRef(new Animated.Value(0)).current;
   const cameraRef = useRef<InstanceType<typeof CameraView> | null>(null);
 
@@ -69,6 +73,7 @@ export default function ScanScreen() {
   const resetSearchState = useCallback(() => {
     setFrozen(false);
     setMatches([]);
+    setManualNoMatchOcr(null);
     lastSigRef.current = "";
     stableCountRef.current = 0;
   }, []);
@@ -97,6 +102,7 @@ export default function ScanScreen() {
     if (stableCountRef.current >= 2) {
       setMatches(found);
       setFrozen(true);
+      setManualNoMatchOcr(null);
       return true;
     }
     return false;
@@ -108,6 +114,7 @@ export default function ScanScreen() {
     const photo = await cam.takePictureAsync({
       quality: 0.45,
       skipProcessing: false,
+      shutterSound: false,
     });
     const lines = await extractTextFromImage(photo.uri);
     return lines.join("\n");
@@ -159,8 +166,9 @@ export default function ScanScreen() {
   }, [scanning, frozen, scanMode, ocrSupported, captureAndRecognize, runOcrPipeline]);
 
   useEffect(() => {
-    const active = scanning && !frozen;
+    const active = scanning && !frozen && scanMode === "auto";
     if (!active) return;
+    scanLineAnim.setValue(0);
     const loop = Animated.loop(
       Animated.sequence([
         Animated.timing(scanLineAnim, {
@@ -177,11 +185,17 @@ export default function ScanScreen() {
     );
     loop.start();
     return () => loop.stop();
-  }, [scanning, frozen, scanLineAnim]);
+  }, [scanning, frozen, scanMode, scanLineAnim]);
 
   const onManualScan = useCallback(async () => {
     if (!ocrSupported || processingRef.current) return;
     if (!cameraRef.current) return;
+    scanLineAnim.setValue(0);
+    Animated.timing(scanLineAnim, {
+      toValue: 1,
+      duration: MANUAL_SCAN_SWEEP_MS,
+      useNativeDriver: true,
+    }).start();
     processingRef.current = true;
     setOcrBusy(true);
     try {
@@ -190,6 +204,11 @@ export default function ScanScreen() {
       if (found.length > 0) {
         setMatches(found);
         setFrozen(true);
+        setManualNoMatchOcr(null);
+      } else {
+        setMatches([]);
+        setFrozen(true);
+        setManualNoMatchOcr(text);
       }
     } catch {
       // ignore
@@ -238,7 +257,8 @@ export default function ScanScreen() {
         <View style={styles.permCard}>
           <Text style={styles.permTitle}>Camera Access Needed</Text>
           <Text style={styles.permBody}>
-            ScanAIPAC needs camera access to scan candidate names from printed text.
+            ScanAIPAC needs camera access to read text from printed material. Recognition runs on your device; camera
+            images are not uploaded.
           </Text>
           <Text style={styles.permButton} onPress={requestPermission}>
             Grant Camera Access
@@ -254,7 +274,10 @@ export default function ScanScreen() {
     outputRange: [0, cameraHeight - 4],
   });
 
-  const showScanLine = scanning && !frozen;
+  const showScanLine =
+    scanning &&
+    !frozen &&
+    (scanMode === "auto" || (scanMode === "manual" && ocrBusy));
   const searchingActive = scanning && !frozen;
 
   return (
@@ -325,6 +348,16 @@ export default function ScanScreen() {
       <View style={styles.resultWrap}>
         {frozen && matches.length > 0 ? (
           <ResultsList candidates={matches} />
+        ) : frozen && manualNoMatchOcr !== null ? (
+          <View style={styles.noMatchWrap}>
+            <Text style={styles.noMatchTitle}>No matching candidates found</Text>
+            <Text style={styles.noMatchHint}>Text read from image (debug):</Text>
+            <ScrollView style={styles.noMatchScroll} contentContainerStyle={styles.noMatchScrollContent}>
+              <Text style={styles.noMatchOcr} selectable>
+                {manualNoMatchOcr.trim() ? manualNoMatchOcr : "(No text detected)"}
+              </Text>
+            </ScrollView>
+          </View>
         ) : (
           <>
             <InstructionsCard scanning={searchingActive} scanMode={scanMode} />
@@ -493,6 +526,42 @@ const styles = StyleSheet.create({
   resultWrap: {
     flex: 1,
     paddingTop: 12,
+  },
+  noMatchWrap: {
+    flex: 1,
+    paddingHorizontal: 20,
+    paddingBottom: 16,
+  },
+  noMatchTitle: {
+    color: colors.text,
+    fontSize: 18,
+    fontWeight: "700",
+    marginBottom: 8,
+  },
+  noMatchHint: {
+    color: colors.textDim,
+    fontSize: 13,
+    marginBottom: 8,
+  },
+  noMatchScroll: {
+    flexGrow: 0,
+    maxHeight: 220,
+    backgroundColor: colors.bgElevated,
+    borderRadius: 10,
+    borderWidth: 1,
+    borderColor: colors.border,
+  },
+  noMatchScrollContent: {
+    padding: 12,
+  },
+  noMatchOcr: {
+    color: colors.textDim,
+    fontSize: 13,
+    lineHeight: 20,
+    ...Platform.select({
+      ios: { fontFamily: "Menlo" },
+      default: { fontFamily: "monospace" },
+    }),
   },
   manualScanBtn: {
     marginHorizontal: 32,

@@ -51,10 +51,16 @@ function openDetail(candidate: MergedCandidate) {
 
 function BallotRow({ candidate }: { candidate: MergedCandidate }) {
   const stance = stanceColors(candidate.stanceLabel);
-  const showAmount =
+  const showPositiveFunding =
     typeof candidate.israelLobbyTotal === "number" &&
     !Number.isNaN(candidate.israelLobbyTotal) &&
     candidate.israelLobbyTotal > 0;
+  const showZeroFunding =
+    candidate.stanceLabel === "Pro-Palestine" ||
+    (typeof candidate.israelLobbyTotal === "number" &&
+      !Number.isNaN(candidate.israelLobbyTotal) &&
+      candidate.israelLobbyTotal === 0);
+  const showLobbyLine = showPositiveFunding || showZeroFunding;
 
   return (
     <TouchableOpacity
@@ -75,9 +81,12 @@ function BallotRow({ candidate }: { candidate: MergedCandidate }) {
       <Text style={styles.office} numberOfLines={2}>
         {candidate.party || "Unknown"} — {candidate.districtOrOffice || "—"}
       </Text>
-      {showAmount && (
+      {showLobbyLine && (
         <Text style={[styles.amount, { color: stance.text }]}>
-          Lobby: {candidate.israelLobbyTotalDisplay || `$${candidate.israelLobbyTotal!.toLocaleString()}`}
+          Lobby:{" "}
+          {showPositiveFunding
+            ? candidate.israelLobbyTotalDisplay || `$${candidate.israelLobbyTotal!.toLocaleString()}`
+            : "$0"}
         </Text>
       )}
     </TouchableOpacity>

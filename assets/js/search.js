@@ -1,12 +1,12 @@
 import {
   DEFAULT_IMAGE,
   applyLocalImageMap,
-  formatIsraelLobbyTotal,
   getCandidateFallbackImage,
+  getLobbyBadgeKind,
   loadJson,
   makeCandidateIndex,
   normalizeForSearch,
-} from "./data.js?v=20260304";
+} from "./data.js?v=20260405";
 import { getStateFlagUrl, getStateName } from "./states-data.js?v=20260305";
 
 const searchInput = document.getElementById("candidateSearch");
@@ -107,13 +107,11 @@ function candidateRowTemplate(candidate, isActive) {
 
   button.appendChild(image);
   button.appendChild(copyWrap);
-  const hasConfirmedAmount =
-    typeof candidate.israelLobbyTotal === "number" && !Number.isNaN(candidate.israelLobbyTotal);
-  if (hasConfirmedAmount) {
-    const amount = candidate.israelLobbyTotal;
+  const badgeKind = getLobbyBadgeKind(candidate);
+  if (badgeKind.show) {
     const badge = document.createElement("span");
-    badge.className = `lobby-badge ${amount > 0 ? "lobby-badge-positive" : "lobby-badge-zero"}`;
-    badge.textContent = formatIsraelLobbyTotal(amount);
+    badge.className = `lobby-badge ${badgeKind.className}`;
+    badge.textContent = badgeKind.text;
     button.appendChild(badge);
   }
 
@@ -253,13 +251,11 @@ function renderTicker(candidates) {
 
     card.appendChild(img);
     card.appendChild(info);
-    const hasConfirmedAmount =
-      typeof candidate.israelLobbyTotal === "number" && !Number.isNaN(candidate.israelLobbyTotal);
-    if (hasConfirmedAmount) {
-      const amount = candidate.israelLobbyTotal;
+    const badgeKind = getLobbyBadgeKind(candidate);
+    if (badgeKind.show) {
       const badge = document.createElement("span");
-      badge.className = `lobby-badge ${amount > 0 ? "lobby-badge-positive" : "lobby-badge-zero"}`;
-      badge.textContent = formatIsraelLobbyTotal(amount);
+      badge.className = `lobby-badge ${badgeKind.className}`;
+      badge.textContent = badgeKind.text;
       card.appendChild(badge);
     }
 

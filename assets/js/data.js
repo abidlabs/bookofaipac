@@ -25,6 +25,28 @@ export function formatIsraelLobbyTotal(value) {
   return `$${value.toLocaleString()}`;
 }
 
+function lobbyAmountNumber(candidate) {
+  const n = candidate?.israelLobbyTotal;
+  return typeof n === "number" && !Number.isNaN(n) ? n : null;
+}
+
+export function getLobbyBadgeKind(candidate) {
+  if (!candidate) {
+    return { show: false, text: "", className: "" };
+  }
+  if (candidate.stanceLabel === "Pro-Palestine") {
+    return { show: true, text: formatIsraelLobbyTotal(0), className: "lobby-badge-zero" };
+  }
+  const n = lobbyAmountNumber(candidate);
+  if (n !== null && n > 0) {
+    return { show: true, text: formatIsraelLobbyTotal(n), className: "lobby-badge-positive" };
+  }
+  if (n === 0) {
+    return { show: true, text: formatIsraelLobbyTotal(0), className: "lobby-badge-zero" };
+  }
+  return { show: false, text: "", className: "" };
+}
+
 export function getStateFlagImage(stateCode) {
   const code = (stateCode || "").toUpperCase();
   if (!code) return new URL("us.png", FLAG_BASE).toString();

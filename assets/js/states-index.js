@@ -1,4 +1,4 @@
-import { loadJson } from "./data.js?v=20260305";
+import { loadJson } from "./data.js?v=20260405";
 import { getStateFlagUrl, getStateName } from "./states-data.js?v=20260305";
 
 const listRoot = document.getElementById("statesList");
