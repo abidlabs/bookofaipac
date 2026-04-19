@@ -4,10 +4,12 @@
   "main": "expo/AppEntry",
   "scripts": {
     "start": "npx expo start",
+    "start:devclient": "bash scripts/expo-devclient-lan.sh",
+    "start:tunnel": "env -u CI npx expo start --dev-client --host tunnel",
     "bundle-data": "node scripts/bundle-data.js",
     "prebuild": "node scripts/bundle-data.js && npx expo prebuild",
-    "build:ios": "eas build --profile development --platform ios",
-    "build:android": "eas build --profile development --platform android",
+    "build:ios": "npx eas-cli build --profile development --platform ios",
+    "build:android": "npx eas-cli build --profile development --platform android",
     "android": "expo run:android",
     "ios": "expo run:ios"
   },
@@ -18,6 +20,7 @@
     "babel-preset-expo": "~54.0.10",
     "expo": "~54.0.0",
     "expo-camera": "~17.0.0",
+    "expo-dev-client": "~6.0.20",
     "expo-file-system": "~19.0.21",
     "expo-linking": "~8.0.11",
     "expo-location": "~19.0.8",

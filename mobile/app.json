@@ -2,6 +2,7 @@
   "expo": {
     "name": "ScanAIPAC",
     "slug": "scanaipac",
+    "scheme": "scanaipac",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,7 +16,8 @@
       "bundleIdentifier": "com.bookofaipac.scanaipac",
       "infoPlist": {
         "NSCameraUsageDescription": "ScanAIPAC reads text from the camera on your device to match candidate names. Images are not uploaded.",
-        "NSLocationWhenInUseUsageDescription": "ScanAIPAC uses your approximate location to select your state for the ballot list."
+        "NSLocationWhenInUseUsageDescription": "ScanAIPAC uses your approximate location to select your state for the ballot list.",
+        "ITSAppUsesNonExemptEncryption": false
       }
     },
     "android": {
@@ -26,7 +28,8 @@
       "permissions": [
         "android.permission.CAMERA",
         "android.permission.ACCESS_COARSE_LOCATION",
-        "android.permission.ACCESS_FINE_LOCATION"
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.RECORD_AUDIO"
       ]
     },
     "plugins": [
@@ -42,6 +45,12 @@
           "locationWhenInUsePermission": "ScanAIPAC uses your approximate location to select your state for the ballot list."
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "5e0515a0-e622-4581-8bd2-05320742702b"
+      }
+    },
+    "owner": "abidlabs"
   }
 }
