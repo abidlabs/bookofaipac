@@ -15,7 +15,8 @@ import { getMergedCandidates, type MergedCandidate } from "../utils/mergedCandid
 import { invalidateCandidateData } from "../utils/dataStore";
 import { resolveOfficeScope } from "../utils/officeScope";
 import { getStateName } from "../utils/states";
-import { colors, stanceColors, SITE_BASE_URL } from "../theme";
+import { colors, stanceColors } from "../theme";
+import { candidateDetailUrl } from "../utils/siteLinks";
 
 type Props = NativeStackScreenProps<RootStackParamList, "BallotForState">;
 
@@ -45,8 +46,7 @@ function sortByStanceThenName(candidates: MergedCandidate[]): MergedCandidate[] 
 }
 
 function openDetail(candidate: MergedCandidate) {
-  const url = `${SITE_BASE_URL}/detail/?id=${encodeURIComponent(candidate.id)}`;
-  Linking.openURL(url);
+  void Linking.openURL(candidateDetailUrl(candidate.id));
 }
 
 function BallotRow({ candidate }: { candidate: MergedCandidate }) {

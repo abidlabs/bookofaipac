@@ -9,7 +9,8 @@ import {
   ListRenderItem,
 } from "react-native";
 import { Candidate } from "../utils/fuzzyMatch";
-import { colors, stanceColors, SITE_BASE_URL } from "../theme";
+import { colors, stanceColors } from "../theme";
+import { candidateDetailUrl } from "../utils/siteLinks";
 
 interface Props {
   candidates: Candidate[];
@@ -17,8 +18,7 @@ interface Props {
 }
 
 function openDetail(candidate: Candidate) {
-  const url = `${SITE_BASE_URL}/detail/?id=${encodeURIComponent(candidate.id)}`;
-  Linking.openURL(url);
+  void Linking.openURL(candidateDetailUrl(candidate.id));
 }
 
 function CandidateRow({ candidate }: { candidate: Candidate }) {

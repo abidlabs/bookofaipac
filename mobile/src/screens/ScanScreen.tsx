@@ -351,7 +351,7 @@ export default function ScanScreen() {
         ) : frozen && manualNoMatchOcr !== null ? (
           <View style={styles.noMatchWrap}>
             <Text style={styles.noMatchTitle}>No matching candidates found</Text>
-            <Text style={styles.noMatchHint}>Text read from image (debug):</Text>
+            <Text style={styles.noMatchHint}>Text read from image:</Text>
             <ScrollView style={styles.noMatchScroll} contentContainerStyle={styles.noMatchScrollContent}>
               <Text style={styles.noMatchOcr} selectable>
                 {manualNoMatchOcr.trim() ? manualNoMatchOcr : "(No text detected)"}

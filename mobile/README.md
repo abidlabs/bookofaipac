@@ -95,4 +95,12 @@ First run may install tunnel dependencies. This avoids same-network issues at th
 | `npm run start:devclient` | Dev client + LAN IP helper (recommended for a physical iPhone on the same network) |
 | `npm run start:tunnel` | Dev client + Expo tunnel |
 | `npm run build:ios` | EAS iOS development build |
+| `npm run generate:icon` | Regenerate `assets/icon.png` (1024×1024) and `assets/app-icon.svg` from `scripts/generate-app-icon.mjs` |
 | `npm start` | Plain `expo start` (Expo Go-oriented; not sufficient for this app’s native modules) |
+
+---
+
+## App Store & Google Play
+
+- **[CODE_REVIEW.md](./CODE_REVIEW.md)** — security, performance, safety notes and release hygiene  
+- **[PUBLISHING.md](./PUBLISHING.md)** — EAS production builds and store submission steps

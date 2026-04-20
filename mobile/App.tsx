@@ -15,8 +15,6 @@ import { getOnboardingComplete } from "./src/utils/onboardingStorage";
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
-const DEV_FORCE_LANDING = __DEV__ && true;
-
 export default function App() {
   const [ready, setReady] = useState(false);
   const [initialRoute, setInitialRoute] = useState<"Landing" | "Scan">("Landing");
@@ -24,13 +22,6 @@ export default function App() {
   useEffect(() => {
     let cancelled = false;
     void (async () => {
-      if (DEV_FORCE_LANDING) {
-        if (!cancelled) {
-          setInitialRoute("Landing");
-          setReady(true);
-        }
-        return;
-      }
       const done = await getOnboardingComplete();
       if (!cancelled) {
         setInitialRoute(done ? "Scan" : "Landing");

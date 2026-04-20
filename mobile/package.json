@@ -7,6 +7,7 @@
     "start:devclient": "bash scripts/expo-devclient-lan.sh",
     "start:tunnel": "env -u CI npx expo start --dev-client --host tunnel",
     "bundle-data": "node scripts/bundle-data.js",
+    "generate:icon": "node scripts/generate-app-icon.mjs",
     "prebuild": "node scripts/bundle-data.js && npx expo prebuild",
     "build:ios": "npx eas-cli build --profile development --platform ios",
     "build:android": "npx eas-cli build --profile development --platform android",
