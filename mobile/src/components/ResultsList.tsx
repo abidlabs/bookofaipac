@@ -38,30 +38,31 @@ function CandidateRow({ candidate }: { candidate: Candidate }) {
       onPress={() => openDetail(candidate)}
       activeOpacity={0.75}
     >
-      <View style={styles.rowTop}>
-        <View style={[styles.stanceBadge, { backgroundColor: stance.bg, borderColor: stance.border }]}>
-          <Text style={[styles.stanceText, { color: stance.text }]} numberOfLines={1}>
-            {candidate.stanceLabel}
+      <View style={styles.rowMain}>
+        <View style={styles.rowTop}>
+          <View style={[styles.stanceBadge, { backgroundColor: stance.bg, borderColor: stance.border }]}>
+            <Text style={[styles.stanceText, { color: stance.text }]} numberOfLines={1}>
+              {candidate.stanceLabel}
+            </Text>
+          </View>
+          <Text style={styles.name} numberOfLines={2}>
+            {candidate.name}
           </Text>
         </View>
-        <Text style={styles.name} numberOfLines={2}>
-          {candidate.name}
+        <Text style={styles.office} numberOfLines={2}>
+          {candidate.party} — {candidate.office}
         </Text>
+        <View style={styles.linkButton}>
+          <Text style={styles.linkText}>View profile</Text>
+        </View>
       </View>
-      <Text style={styles.office} numberOfLines={2}>
-        {candidate.party} — {candidate.office}
-      </Text>
       {showFundingRow && (
-        <View style={styles.metaRow}>
-          <Text style={styles.amountLabel}>Lobby funding</Text>
+        <View style={styles.amountColumn}>
           <Text style={[styles.amountValue, { color: stance.text }]} numberOfLines={1}>
             {showPositiveFunding ? candidate.totalDisplay : "$0"}
           </Text>
         </View>
       )}
-      <View style={styles.linkButton}>
-        <Text style={styles.linkText}>View profile</Text>
-      </View>
     </TouchableOpacity>
   );
 }
@@ -118,10 +119,16 @@ const styles = StyleSheet.create({
     backgroundColor: colors.border,
   },
   row: {
+    flexDirection: "row",
+    alignItems: "center",
     backgroundColor: colors.card,
-    paddingVertical: 8,
+    paddingVertical: 10,
     paddingHorizontal: 12,
     borderLeftWidth: 3,
+  },
+  rowMain: {
+    flex: 1,
+    minWidth: 0,
   },
   rowTop: {
     flexDirection: "row",
@@ -154,22 +161,16 @@ const styles = StyleSheet.create({
     lineHeight: 14,
     marginTop: 4,
   },
-  metaRow: {
-    flexDirection: "row",
-    justifyContent: "space-between",
-    alignItems: "center",
-    marginTop: 4,
-  },
-  amountLabel: {
-    color: colors.textDim,
-    fontSize: 11,
-    flexShrink: 0,
+  amountColumn: {
+    marginLeft: 10,
+    maxWidth: "42%",
+    alignItems: "flex-end",
+    justifyContent: "center",
   },
   amountValue: {
-    fontSize: 13,
-    fontWeight: "700",
-    flex: 1,
-    textAlign: "right",
+    fontSize: 22,
+    fontWeight: "800",
+    letterSpacing: -0.3,
   },
   linkButton: {
     alignSelf: "flex-start",
