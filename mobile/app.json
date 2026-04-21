@@ -13,6 +13,7 @@
     },
     "ios": {
       "supportsTablet": false,
+      "buildNumber": "2",
       "bundleIdentifier": "com.bookofaipac.scanaipac",
       "infoPlist": {
         "NSCameraUsageDescription": "ScanAIPAC reads text from the camera on your device to match candidate names. Images are not uploaded.",

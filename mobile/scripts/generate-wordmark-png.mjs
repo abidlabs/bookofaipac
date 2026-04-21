@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import sharp from "sharp";
+import { barcodeStripeRects } from "./barcodeStripes.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.join(__dirname, "..");
@@ -14,15 +15,8 @@ const FONT =
 const FONT_SIZE = 182;
 const TEXT_Y = 322;
 const BG = "#0c0c0e";
-const BARCODE_CUT_HEIGHT = 3;
-const BARCODE_STRIDE = 7;
 
-const barcodeCuts = [];
-for (let y = 0; y < H; y += BARCODE_STRIDE) {
-  barcodeCuts.push(
-    `<rect x="0" y="${y}" width="${W}" height="${BARCODE_CUT_HEIGHT}" fill="${BG}"/>`
-  );
-}
+const barcodeCuts = barcodeStripeRects(W, H, BG);
 
 const svg = `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">

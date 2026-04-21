@@ -83,7 +83,7 @@ export default function LandingScreen() {
           Does your candidate take money from the Israeli lobby? Scan their name to find out. 
           </Text>
           <Text style={styles.body}>
-          Text recognition runs on your device. Camera images and recognized text are not uploaded or sent anywhere. Matches and results are best-effort, verify with official sources.  
+          Text recognition runs on your device. Camera images and recognized text are not uploaded or sent anywhere. Matches and results are best-effort, verify with official sources and follow applicable laws.  
           </Text>
           <TouchableOpacity
             activeOpacity={0.88}

@@ -29,6 +29,13 @@ const CAMERA_RATIO = 0.5;
 
 const AUTO_OCR_GAP_MS = 400;
 const MANUAL_SCAN_SWEEP_MS = 520;
+const AUTO_PREVIEW_MAX_LEN = 15;
+
+function previewSnippet(t: string, max: number): string {
+  const s = t.replace(/\s+/g, " ").trim();
+  if (!s) return "";
+  return s.length <= max ? s : `${s.slice(0, max - 1)}…`;
+}
 
 export default function ScanScreen() {
   const navigation = useNavigation<NativeStackNavigationProp<RootStackParamList>>();
@@ -41,7 +48,9 @@ export default function ScanScreen() {
   const [statePickerVisible, setStatePickerVisible] = useState(false);
   const [ocrBusy, setOcrBusy] = useState(false);
   const [manualNoMatchOcr, setManualNoMatchOcr] = useState<string | null>(null);
+  const [autoOcrPreview, setAutoOcrPreview] = useState("");
   const scanLineAnim = useRef(new Animated.Value(0)).current;
+  const previewPulseAnim = useRef(new Animated.Value(1)).current;
   const cameraRef = useRef<InstanceType<typeof CameraView> | null>(null);
 
   const lastSigRef = useRef("");
@@ -74,6 +83,7 @@ export default function ScanScreen() {
     setFrozen(false);
     setMatches([]);
     setManualNoMatchOcr(null);
+    setAutoOcrPreview("");
     lastSigRef.current = "";
     stableCountRef.current = 0;
   }, []);
@@ -147,6 +157,7 @@ export default function ScanScreen() {
         let didFreeze = false;
         try {
           const text = await captureAndRecognize();
+          setAutoOcrPreview(previewSnippet(text, AUTO_PREVIEW_MAX_LEN));
           didFreeze = runOcrPipeline(text);
         } catch {
           // ignore failed capture or OCR
@@ -186,6 +197,33 @@ export default function ScanScreen() {
     loop.start();
     return () => loop.stop();
   }, [scanning, frozen, scanMode, scanLineAnim]);
+
+  useEffect(() => {
+    const active = scanning && !frozen && scanMode === "auto" && ocrSupported;
+    if (!active) {
+      previewPulseAnim.setValue(1);
+      return;
+    }
+    const loop = Animated.loop(
+      Animated.sequence([
+        Animated.timing(previewPulseAnim, {
+          toValue: 0.48,
+          duration: 420,
+          useNativeDriver: true,
+        }),
+        Animated.timing(previewPulseAnim, {
+          toValue: 1,
+          duration: 420,
+          useNativeDriver: true,
+        }),
+      ])
+    );
+    loop.start();
+    return () => {
+      loop.stop();
+      previewPulseAnim.setValue(1);
+    };
+  }, [scanning, frozen, scanMode, ocrSupported, previewPulseAnim]);
 
   const onManualScan = useCallback(async () => {
     if (!ocrSupported || processingRef.current) return;
@@ -361,6 +399,21 @@ export default function ScanScreen() {
         ) : (
           <>
             <InstructionsCard scanning={searchingActive} scanMode={scanMode} />
+            {scanMode === "auto" && searchingActive && ocrSupported && (
+              <View style={styles.autoPreviewWrap}>
+                <View style={styles.autoPreviewRow}>
+                  <Text style={styles.autoPreviewPrefix} numberOfLines={1}>
+                    Searching for names:{" "}
+                  </Text>
+                  <Animated.Text
+                    style={[styles.autoPreviewValue, { opacity: previewPulseAnim }]}
+                    numberOfLines={1}
+                  >
+                    {autoOcrPreview || "—"}
+                  </Animated.Text>
+                </View>
+              </View>
+            )}
             {!ocrSupported && (
               <Text style={styles.ocrUnsupported}>
                 Text recognition is not available in this environment. Use a development or production build on a
@@ -526,6 +579,36 @@ const styles = StyleSheet.create({
   resultWrap: {
     flex: 1,
     paddingTop: 12,
+  },
+  autoPreviewWrap: {
+    marginHorizontal: 20,
+    marginBottom: 10,
+    paddingHorizontal: 14,
+    paddingVertical: 10,
+    borderRadius: 12,
+    backgroundColor: colors.bgElevated,
+    borderWidth: 1,
+    borderColor: colors.border,
+  },
+  autoPreviewRow: {
+    flexDirection: "row",
+    alignItems: "center",
+    flexWrap: "nowrap",
+  },
+  autoPreviewPrefix: {
+    color: colors.textDim,
+    fontSize: 13,
+    fontWeight: "600",
+    flexShrink: 0,
+    letterSpacing: 0.2,
+  },
+  autoPreviewValue: {
+    flex: 1,
+    minWidth: 0,
+    color: colors.accent,
+    fontSize: 15,
+    fontWeight: "700",
+    letterSpacing: 0.2,
   },
   noMatchWrap: {
     flex: 1,

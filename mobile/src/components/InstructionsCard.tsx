@@ -10,7 +10,7 @@ interface Props {
 export default function InstructionsCard({ scanning, scanMode }: Props) {
   const autoBody =
     scanMode === "auto"
-      ? "Auto mode searches until it locks onto matching names. Hold the phone steady for a moment."
+      ? "Auto mode searches until it locks onto matching names."
       : "Manual mode: tap Scan when names are in frame.";
 
   return (
