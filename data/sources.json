@@ -310,5 +310,53 @@
     "publisher": "Ballotpedia",
     "url": "https://ballotpedia.org/Illinois%27_5th_Congressional_District_election,_2026_(March_17_Democratic_primary)",
     "accessedAt": "2026-03-05"
+  },
+  "trump-jerusalem-recognition-2017": {
+    "title": "Proclamation on Jerusalem as the Capital of the State of Israel",
+    "publisher": "The American Presidency Project",
+    "url": "https://www.presidency.ucsb.edu/documents/proclamation-jerusalem-the-capital-the-state-israel",
+    "accessedAt": "2026-06-05"
+  },
+  "trump-gaza-peace-plan-2025": {
+    "title": "President Donald J. Trump's Comprehensive Plan to End the Gaza Conflict",
+    "publisher": "The American Presidency Project",
+    "url": "https://www.presidency.ucsb.edu/documents/white-house-press-release-president-donald-j-trumps-comprehensive-plan-end-the-gaza",
+    "accessedAt": "2026-06-05"
+  },
+  "vance-israel-gaza-visit-2025": {
+    "title": "Vance holds news briefing in Israel during visit to bolster ceasefire",
+    "publisher": "PBS NewsHour",
+    "url": "https://www.pbs.org/newshour/politics/watch-live-vance-holds-news-briefing-in-israel-during-visit-to-bolster-ceasefire",
+    "accessedAt": "2026-06-05"
+  },
+  "biden-gaza-ceasefire-framework-2024": {
+    "title": "May 31, 2024: Remarks on the Middle East",
+    "publisher": "Miller Center",
+    "url": "https://millercenter.org/the-presidency/presidential-speeches/may-31-2024-remarks-middle-east",
+    "accessedAt": "2026-06-05"
+  },
+  "biden-gaza-ceasefire-deal-2025": {
+    "title": "Statement on Reaching a Cease-Fire and Hostage-Release Deal Between Israel and Hamas",
+    "publisher": "The American Presidency Project",
+    "url": "https://www.presidency.ucsb.edu/documents/statement-reaching-cease-fire-and-hostage-release-deal-between-israel-and-hamas",
+    "accessedAt": "2026-06-05"
+  },
+  "harris-gaza-ceasefire-selma-2024": {
+    "title": "Kamala Harris urges Hamas to agree to an immediate ceasefire, pushes Israel on aid to Gaza",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2024/03/04/kamala-harris-urges-hamas-to-agree-to-an-immediate-ceasefire-pushes-israel-on-aid-to-gaza-.html",
+    "accessedAt": "2026-06-05"
+  },
+  "harris-netanyahu-meeting-2024": {
+    "title": "Remarks by the Vice President Following a Meeting with Prime Minister Benjamin Netanyahu of Israel",
+    "publisher": "The American Presidency Project",
+    "url": "https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-following-meeting-with-prime-minister-benjamin-netanyahu-israel",
+    "accessedAt": "2026-06-05"
+  },
+  "harris-dnc-israel-remarks-2024": {
+    "title": "Harris: Israel 'has right to defend itself,' Palestinians need 'dignity, security'",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2024/08/23/g-s1-19232/kamala-harris-israel-gaza-dnc",
+    "accessedAt": "2026-06-05"
   }
 }

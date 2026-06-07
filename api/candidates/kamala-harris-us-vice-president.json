@@ -1,0 +1,42 @@
+{
+  "id": "kamala-harris-us-vice-president",
+  "name": "Kamala Harris",
+  "party": "Democratic",
+  "state": "",
+  "office": "U.S. Vice President",
+  "districtOrOffice": "Former U.S. Vice President",
+  "imageUrl": "",
+  "stanceLabel": "Mixed-unclear",
+  "stanceColor": "gray",
+  "stanceSummary": "Kamala Harris served as U.S. Vice President (2021\u20132025). Track AIPAC congressional totals do not apply. Official remarks affirm Israel's right to defend itself while pressing for an immediate ceasefire, increased aid access in Gaza, and a two-state framework.",
+  "timeline": [
+    {
+      "date": "2024-03-03",
+      "event": "Harris called for an immediate Gaza ceasefire and urged Israel to significantly increase humanitarian aid deliveries while reiterating Israel's right to defend itself.",
+      "sourceIds": [
+        "harris-gaza-ceasefire-selma-2024"
+      ]
+    },
+    {
+      "date": "2024-07-25",
+      "event": "After meeting Prime Minister Netanyahu, Harris said she would always ensure Israel can defend itself while expressing serious concern about civilian suffering in Gaza and calling for a ceasefire deal and two-state path.",
+      "sourceIds": [
+        "harris-netanyahu-meeting-2024"
+      ]
+    },
+    {
+      "date": "2024-08-22",
+      "event": "In DNC remarks, Harris reiterated support for Israel's right to defend itself and described Gaza civilian suffering as devastating while urging completion of a ceasefire and hostage deal.",
+      "sourceIds": [
+        "harris-dnc-israel-remarks-2024"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "harris-gaza-ceasefire-selma-2024",
+    "harris-netanyahu-meeting-2024",
+    "harris-dnc-israel-remarks-2024"
+  ],
+  "profileLastUpdatedAt": "2026-06-05T23:01:16.220603+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}

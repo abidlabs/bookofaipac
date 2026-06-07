@@ -1,4 +1,4 @@
-import React, { useCallback } from "react";
+import React, { useCallback, useEffect, useRef } from "react";
 import {
   View,
   Text,
@@ -8,6 +8,8 @@ import {
   TouchableOpacity,
   ActivityIndicator,
   Dimensions,
+  Animated,
+  Easing,
 } from "react-native";
 import { useNavigation } from "@react-navigation/native";
 import type { NativeStackNavigationProp } from "@react-navigation/native-stack";
@@ -16,6 +18,7 @@ import { useCameraPermissions } from "expo-camera";
 import type { RootStackParamList } from "../navigation/types";
 import { colors } from "../theme";
 import { setOnboardingComplete } from "../utils/onboardingStorage";
+import LandingHeroCards from "../components/LandingHeroCards";
 
 const { height: WINDOW_H } = Dimensions.get("window");
 const HERO_RATIO = 0.44;
@@ -31,12 +34,46 @@ const cornerBase = {
   position: "absolute" as const,
   width: CORNER_SIZE,
   height: CORNER_SIZE,
-  borderColor: colors.accent,
+  borderColor: colors.stanceRed,
+  zIndex: 4,
 };
+
+const PULSE_MS = 1800;
 
 export default function LandingScreen() {
   const navigation = useNavigation<NativeStackNavigationProp<RootStackParamList>>();
   const [permission, requestPermission] = useCameraPermissions();
+  const pulseAnim = useRef(new Animated.Value(0)).current;
+
+  useEffect(() => {
+    const breathe = Animated.loop(
+      Animated.sequence([
+        Animated.timing(pulseAnim, {
+          toValue: 1,
+          duration: PULSE_MS,
+          easing: Easing.inOut(Easing.ease),
+          useNativeDriver: true,
+        }),
+        Animated.timing(pulseAnim, {
+          toValue: 0,
+          duration: PULSE_MS,
+          easing: Easing.inOut(Easing.ease),
+          useNativeDriver: true,
+        }),
+      ])
+    );
+    breathe.start();
+    return () => breathe.stop();
+  }, [pulseAnim]);
+
+  const pulseGlow = pulseAnim.interpolate({
+    inputRange: [0, 1],
+    outputRange: [0.08, 0.28],
+  });
+  const pulseScale = pulseAnim.interpolate({
+    inputRange: [0, 1],
+    outputRange: [1, 1.018],
+  });
 
   const goToScan = useCallback(async () => {
     await setOnboardingComplete();
@@ -54,7 +91,7 @@ export default function LandingScreen() {
   if (!permission) {
     return (
       <View style={styles.boot}>
-        <ActivityIndicator size="large" color={colors.accent} />
+        <ActivityIndicator size="large" color={colors.stanceRed} />
       </View>
     );
   }
@@ -71,7 +108,13 @@ export default function LandingScreen() {
         bounces={false}
       >
         <View style={[styles.heroWrap, { height: heroH }]}>
-          <Image source={heroWordmark} style={styles.heroImage} resizeMode="contain" accessibilityLabel="ScanAIPAC" />
+          <LandingHeroCards />
+          <Image
+            source={heroWordmark}
+            style={styles.heroImage}
+            resizeMode="contain"
+            accessibilityLabel="ScanAIPAC"
+          />
           <View style={styles.cornerTL} pointerEvents="none" />
           <View style={styles.cornerTR} pointerEvents="none" />
           <View style={styles.cornerBL} pointerEvents="none" />
@@ -80,20 +123,26 @@ export default function LandingScreen() {
 
         <View style={styles.copyBlock}>
           <Text style={styles.lead}>
-          Does your candidate take money from the Israeli lobby? Scan their name to find out. 
+            Scan a candidate's name to see if they take money from the Israel lobby.
           </Text>
+          <Animated.View style={[styles.ctaPulseShell, { transform: [{ scale: pulseScale }] }]}>
+            <TouchableOpacity
+              activeOpacity={0.88}
+              onPress={onGrantCamera}
+              style={styles.ctaOuter}
+              accessibilityRole="button"
+              accessibilityLabel="Grant camera access"
+            >
+              <Animated.View
+                pointerEvents="none"
+                style={[styles.ctaGlow, { opacity: pulseGlow }]}
+              />
+              <Text style={styles.ctaText}>GRANT CAMERA ACCESS</Text>
+            </TouchableOpacity>
+          </Animated.View>
           <Text style={styles.body}>
-          Text recognition runs on your device. Camera images and recognized text are not uploaded or sent anywhere. Matches and results are best-effort, verify with official sources and follow applicable laws.  
+            On your device only, no data is uploaded. Results are best-effort, verify with official sources.
           </Text>
-          <TouchableOpacity
-            activeOpacity={0.88}
-            onPress={onGrantCamera}
-            style={styles.ctaOuter}
-            accessibilityRole="button"
-            accessibilityLabel="Grant camera access"
-          >
-            <Text style={styles.ctaText}>GRANT CAMERA ACCESS</Text>
-          </TouchableOpacity>
         </View>
       </ScrollView>
     </SafeAreaView>
@@ -128,6 +177,7 @@ const styles = StyleSheet.create({
     width: "100%",
     height: "100%",
     backgroundColor: BG,
+    zIndex: 1,
   },
   cornerTL: {
     ...cornerBase,
@@ -159,7 +209,7 @@ const styles = StyleSheet.create({
   },
   copyBlock: {
     paddingHorizontal: 28,
-    paddingTop: 64,
+    paddingTop: 48,
     paddingBottom: 20,
     flexGrow: 1,
     justifyContent: "flex-start",
@@ -167,39 +217,45 @@ const styles = StyleSheet.create({
   },
   lead: {
     color: colors.text,
-    fontSize: 16,
-    lineHeight: 24,
+    fontSize: 18,
+    lineHeight: 26,
+    fontWeight: "600",
     textAlign: "center",
-    marginBottom: 14,
+    marginBottom: 48,
   },
   body: {
     color: colors.textDim,
     fontSize: 14,
     lineHeight: 21,
     textAlign: "center",
-    marginBottom: 28,
+    marginTop: 16,
+    paddingHorizontal: 4,
+  },
+  ctaPulseShell: {
+    alignSelf: "stretch",
   },
   ctaOuter: {
     alignSelf: "stretch",
     borderRadius: 16,
     overflow: "hidden",
-    shadowColor: "#7da0ff",
-    shadowOffset: { width: 0, height: 8 },
-    shadowOpacity: 0.22,
-    shadowRadius: 16,
-    elevation: 6,
     paddingVertical: 18,
     paddingHorizontal: 20,
     alignItems: "center",
     justifyContent: "center",
-    backgroundColor: "#5f6fd4",
+    backgroundColor: "rgba(255, 255, 255, 0.1)",
     borderWidth: 1,
-    borderColor: "rgba(125, 160, 255, 0.55)",
+    borderColor: colors.border,
+  },
+  ctaGlow: {
+    ...StyleSheet.absoluteFillObject,
+    borderRadius: 16,
+    backgroundColor: "#ffffff",
   },
   ctaText: {
     color: "#f8f8ff",
     fontSize: 15,
     fontWeight: "800",
     letterSpacing: 1.4,
+    zIndex: 1,
   },
 });

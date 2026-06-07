@@ -72,11 +72,13 @@ export function makeCandidateIndex(profiled, federal) {
     const districtOrOffice = candidate.districtOrOffice || candidate.office || "";
     const inferredScope =
       candidate.officeScope ||
-      (districtOrOffice.includes("Senate")
-        ? "SENATE"
-        : districtOrOffice.includes("House")
-          ? "HOUSE"
-          : "");
+      (districtOrOffice.includes("President") || districtOrOffice.includes("Vice President")
+        ? "EXECUTIVE"
+        : districtOrOffice.includes("Senate")
+          ? "SENATE"
+          : districtOrOffice.includes("House")
+            ? "HOUSE"
+            : "");
     const enriched = {
       id: candidate.id,
       name: candidate.name,

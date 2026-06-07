@@ -1,0 +1,33 @@
+{
+  "id": "jd-vance-us-vice-president",
+  "name": "JD Vance",
+  "party": "Republican",
+  "state": "",
+  "office": "U.S. Vice President",
+  "districtOrOffice": "U.S. Vice President",
+  "imageUrl": "",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "JD Vance is the incumbent U.S. Vice President. Track AIPAC congressional totals do not apply. Official remarks during his October 2025 Israel visit emphasized U.S.-Israel partnership and implementation of the Trump administration Gaza ceasefire and peace plan.",
+  "timeline": [
+    {
+      "date": "2025-10-21",
+      "event": "During an Israel visit, Vance said the Gaza ceasefire was progressing better than expected and that the administration would keep working to disarm Hamas and rebuild Gaza while ensuring Israel's security.",
+      "sourceIds": [
+        "vance-israel-gaza-visit-2025"
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "event": "Standing with Prime Minister Netanyahu, Vance rejected claims that Israel is a U.S. 'client state' and described the relationship as a partnership focused on advancing the Gaza peace plan.",
+      "sourceIds": [
+        "vance-israel-gaza-visit-2025"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "vance-israel-gaza-visit-2025"
+  ],
+  "profileLastUpdatedAt": "2026-06-05T23:01:16.220603+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}

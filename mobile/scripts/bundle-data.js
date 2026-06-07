@@ -19,6 +19,7 @@ const pick = (c) => ({
   stanceLabel: c.stanceLabel || "Unknown",
   total: typeof c.israelLobbyTotal === "number" ? c.israelLobbyTotal : null,
   totalDisplay: c.israelLobbyTotalDisplay || "",
+  imageUrl: c.imageUrl || "",
 });
 
 const seen = new Set();

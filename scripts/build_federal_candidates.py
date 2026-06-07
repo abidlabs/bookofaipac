@@ -132,6 +132,15 @@ def build_rows(lines: list[str]) -> list[dict]:
   return rows
 
 
+def merge_executive_rows(rows: list[dict]) -> list[dict]:
+  from add_executive_officials import EXECUTIVES, build_federal
+
+  by_id = {row["id"]: row for row in rows if row.get("id")}
+  for entry in EXECUTIVES:
+    by_id[entry["id"]] = build_federal(entry)
+  return sorted(by_id.values(), key=lambda item: (item["state"], item["officeScope"], item["name"]))
+
+
 def main() -> None:
   response = requests.get(FEC_CYCLE_URL, timeout=90)
   response.raise_for_status()
@@ -140,7 +149,7 @@ def main() -> None:
   name = zf.namelist()[0]
   with zf.open(name) as file_handle:
     lines = [line.decode("latin-1") for line in file_handle]
-  rows = build_rows(lines)
+  rows = merge_executive_rows(build_rows(lines))
   OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
   OUTPUT_PATH.write_text(json.dumps(rows, indent=2), encoding="utf-8")
   print(f"Wrote {len(rows)} rows to {OUTPUT_PATH}")

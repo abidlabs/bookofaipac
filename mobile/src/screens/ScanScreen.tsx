@@ -6,6 +6,7 @@ import {
   Text,
   Animated,
   TouchableOpacity,
+  Pressable,
   ActivityIndicator,
   ScrollView,
   Platform,
@@ -18,14 +19,16 @@ import { getMatcher, refreshInBackground } from "../utils/dataStore";
 import { Candidate } from "../utils/fuzzyMatch";
 import ResultsList from "../components/ResultsList";
 import InstructionsCard from "../components/InstructionsCard";
+import WordmarkOverlay from "../components/WordmarkOverlay";
 import StatePickerModal from "../components/StatePickerModal";
 import { resolveStateFromLocation } from "../utils/resolveStateFromLocation";
+import { clearOnboardingComplete } from "../utils/onboardingStorage";
 import type { RootStackParamList } from "../navigation/types";
 import { colors } from "../theme";
+import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Ionicons } from "@expo/vector-icons";
 
-const { height: SCREEN_H } = Dimensions.get("window");
-const CAMERA_RATIO = 0.5;
+const VIEWFINDER_INSET = 28;
 
 const AUTO_OCR_GAP_MS = 400;
 const MANUAL_SCAN_SWEEP_MS = 520;
@@ -38,6 +41,7 @@ function previewSnippet(t: string, max: number): string {
 }
 
 export default function ScanScreen() {
+  const insets = useSafeAreaInsets();
   const navigation = useNavigation<NativeStackNavigationProp<RootStackParamList>>();
   const [permission, requestPermission] = useCameraPermissions();
   const [scanMode, setScanMode] = useState<"auto" | "manual">("auto");
@@ -49,7 +53,9 @@ export default function ScanScreen() {
   const [ocrBusy, setOcrBusy] = useState(false);
   const [manualNoMatchOcr, setManualNoMatchOcr] = useState<string | null>(null);
   const [autoOcrPreview, setAutoOcrPreview] = useState("");
+  const [cameraLayoutH, setCameraLayoutH] = useState(300);
   const scanLineAnim = useRef(new Animated.Value(0)).current;
+  const progressAnim = useRef(new Animated.Value(0)).current;
   const previewPulseAnim = useRef(new Animated.Value(1)).current;
   const cameraRef = useRef<InstanceType<typeof CameraView> | null>(null);
 
@@ -225,6 +231,23 @@ export default function ScanScreen() {
     };
   }, [scanning, frozen, scanMode, ocrSupported, previewPulseAnim]);
 
+  useEffect(() => {
+    const active = scanning && !frozen && scanMode === "auto" && ocrSupported;
+    if (!active) {
+      progressAnim.setValue(0);
+      return;
+    }
+    const loop = Animated.loop(
+      Animated.timing(progressAnim, {
+        toValue: 1,
+        duration: 1800,
+        useNativeDriver: false,
+      })
+    );
+    loop.start();
+    return () => loop.stop();
+  }, [scanning, frozen, scanMode, ocrSupported, progressAnim]);
+
   const onManualScan = useCallback(async () => {
     if (!ocrSupported || processingRef.current) return;
     if (!cameraRef.current) return;
@@ -267,6 +290,14 @@ export default function ScanScreen() {
     [navigation]
   );
 
+  const onWordmarkLongPress = useCallback(async () => {
+    await clearOnboardingComplete();
+    navigation.reset({
+      index: 0,
+      routes: [{ name: "Landing" }],
+    });
+  }, [navigation]);
+
   const onBallotForStatePress = useCallback(async () => {
     setBallotLoading(true);
     try {
@@ -306,10 +337,14 @@ export default function ScanScreen() {
     );
   }
 
-  const cameraHeight = SCREEN_H * CAMERA_RATIO;
   const scanLineTranslateY = scanLineAnim.interpolate({
     inputRange: [0, 1],
-    outputRange: [0, cameraHeight - 4],
+    outputRange: [0, Math.max(cameraLayoutH - VIEWFINDER_INSET * 2 - 4, 0)],
+  });
+
+  const progressWidth = progressAnim.interpolate({
+    inputRange: [0, 1],
+    outputRange: ["12%", "88%"],
   });
 
   const showScanLine =
@@ -317,10 +352,76 @@ export default function ScanScreen() {
     !frozen &&
     (scanMode === "auto" || (scanMode === "manual" && ocrBusy));
   const searchingActive = scanning && !frozen;
-
+  const showScanningStatus =
+    searchingActive && (scanMode === "auto" ? ocrSupported : true) && (scanMode === "auto" || ocrBusy);
   return (
     <View style={styles.container}>
-      <View style={[styles.cameraWrap, { height: cameraHeight }]}>
+      <View style={[styles.header, { paddingTop: insets.top + 6 }]}>
+        <Pressable
+          onLongPress={onWordmarkLongPress}
+          delayLongPress={500}
+          style={styles.headerWordmarkPress}
+          accessibilityLabel="ScanAIPAC"
+          accessibilityHint="Long press to open welcome screen"
+        >
+          <WordmarkOverlay fontSize={36} style={styles.headerWordmark} />
+        </Pressable>
+        {!frozen && <InstructionsCard scanMode={scanMode} />}
+        <View style={styles.toolbar}>
+          {frozen ? (
+            <TouchableOpacity onPress={resetSearchState} activeOpacity={0.7}>
+              <Text style={styles.resetLinkText}>Scan again</Text>
+            </TouchableOpacity>
+          ) : (
+            <View style={styles.modeToggle} accessibilityRole="tablist">
+              <TouchableOpacity
+                style={[styles.modeSegment, scanMode === "auto" && styles.modeSegmentOn]}
+                onPress={() => {
+                  setScanMode("auto");
+                  resetSearchState();
+                }}
+                activeOpacity={0.75}
+                accessibilityRole="tab"
+                accessibilityState={{ selected: scanMode === "auto" }}
+              >
+                <Text style={[styles.modeLabel, scanMode === "auto" && styles.modeLabelOn]}>Auto</Text>
+              </TouchableOpacity>
+              <TouchableOpacity
+                style={[styles.modeSegment, scanMode === "manual" && styles.modeSegmentOn]}
+                onPress={() => {
+                  setScanMode("manual");
+                  resetSearchState();
+                }}
+                activeOpacity={0.75}
+                accessibilityRole="tab"
+                accessibilityState={{ selected: scanMode === "manual" }}
+              >
+                <Text style={[styles.modeLabel, scanMode === "manual" && styles.modeLabelOn]}>Manual</Text>
+              </TouchableOpacity>
+            </View>
+          )}
+          <TouchableOpacity
+            onPress={onBallotForStatePress}
+            disabled={ballotLoading}
+            activeOpacity={0.7}
+            style={styles.ballotLink}
+          >
+            {ballotLoading ? (
+              <ActivityIndicator color={colors.textDim} size="small" />
+            ) : (
+              <View style={styles.ballotRow}>
+                <Ionicons name="map-outline" size={17} color={colors.textDim} />
+                <Text style={styles.ballotLinkText}>State Ballot</Text>
+              </View>
+            )}
+          </TouchableOpacity>
+        </View>
+      </View>
+
+      <View
+        style={[styles.cameraWrap, frozen && styles.cameraWrapFrozen]}
+        onLayout={(e) => setCameraLayoutH(e.nativeEvent.layout.height)}
+      >
         <CameraView
           ref={cameraRef}
           style={StyleSheet.absoluteFill}
@@ -332,64 +433,33 @@ export default function ScanScreen() {
             <Text style={styles.lockedText}>Locked</Text>
           </View>
         )}
-        {showScanLine && (
-          <Animated.View
-            style={[styles.scanLine, { transform: [{ translateY: scanLineTranslateY }] }]}
-          />
-        )}
-        <View style={styles.cornerTL} />
-        <View style={styles.cornerTR} />
-        <View style={styles.cornerBL} />
-        <View style={styles.cornerBR} />
-
-        {ocrBusy && (
-          <View style={styles.ocrBusyPill}>
-            <ActivityIndicator size="small" color={colors.accent} />
-            <Text style={styles.ocrBusyText}>Reading…</Text>
-          </View>
-        )}
-
-        <View style={styles.modeBar}>
-          {frozen ? (
-            <TouchableOpacity style={styles.resetChip} onPress={resetSearchState} activeOpacity={0.75}>
-              <Text style={styles.resetChipText}>Reset</Text>
-            </TouchableOpacity>
-          ) : (
-            <>
-              <TouchableOpacity
-                style={[styles.modeChip, scanMode === "auto" && styles.modeChipOn]}
-                onPress={() => {
-                  setScanMode("auto");
-                  resetSearchState();
-                }}
-                activeOpacity={0.75}
-              >
-                <Text style={[styles.modeChipText, scanMode === "auto" && styles.modeChipTextOn]}>Auto</Text>
-              </TouchableOpacity>
-              <TouchableOpacity
-                style={[styles.modeChip, scanMode === "manual" && styles.modeChipOn]}
-                onPress={() => {
-                  setScanMode("manual");
-                  resetSearchState();
-                }}
-                activeOpacity={0.75}
-              >
-                <Text style={[styles.modeChipText, scanMode === "manual" && styles.modeChipTextOn]}>
-                  Manual
-                </Text>
-              </TouchableOpacity>
-            </>
+        <View style={[styles.viewfinder, { top: VIEWFINDER_INSET, bottom: VIEWFINDER_INSET, left: VIEWFINDER_INSET, right: VIEWFINDER_INSET }]}>
+          <View style={styles.cornerTL} />
+          <View style={styles.cornerTR} />
+          <View style={styles.cornerBL} />
+          <View style={styles.cornerBR} />
+          {showScanLine && (
+            <Animated.View
+              style={[styles.scanLine, { transform: [{ translateY: scanLineTranslateY }] }]}
+            />
           )}
         </View>
       </View>
 
-      <View style={styles.resultWrap}>
+      <View
+        style={[
+          styles.footer,
+          frozen && styles.footerExpanded,
+          { paddingBottom: Math.max(insets.bottom, 16) },
+        ]}
+      >
         {frozen && matches.length > 0 ? (
-          <ResultsList candidates={matches} />
+          <View style={styles.resultArea}>
+            <ResultsList candidates={matches} />
+          </View>
         ) : frozen && manualNoMatchOcr !== null ? (
           <View style={styles.noMatchWrap}>
-            <Text style={styles.noMatchTitle}>No matching candidates found</Text>
-            <Text style={styles.noMatchHint}>Text read from image:</Text>
+            <Text style={styles.noMatchTitle}>No match found</Text>
             <ScrollView style={styles.noMatchScroll} contentContainerStyle={styles.noMatchScrollContent}>
               <Text style={styles.noMatchOcr} selectable>
                 {manualNoMatchOcr.trim() ? manualNoMatchOcr : "(No text detected)"}
@@ -398,72 +468,61 @@ export default function ScanScreen() {
           </View>
         ) : (
           <>
-            <InstructionsCard scanning={searchingActive} scanMode={scanMode} />
-            {scanMode === "auto" && searchingActive && ocrSupported && (
-              <View style={styles.autoPreviewWrap}>
-                <View style={styles.autoPreviewRow}>
-                  <Text style={styles.autoPreviewPrefix} numberOfLines={1}>
-                    Searching for names:{" "}
-                  </Text>
-                  <Animated.Text
-                    style={[styles.autoPreviewValue, { opacity: previewPulseAnim }]}
-                    numberOfLines={1}
-                  >
-                    {autoOcrPreview || "—"}
-                  </Animated.Text>
-                </View>
-              </View>
-            )}
-            {!ocrSupported && (
-              <Text style={styles.ocrUnsupported}>
-                Text recognition is not available in this environment. Use a development or production build on a
-                physical device.
+            {showScanningStatus && (
+              <Text style={styles.scanningLabel}>
+                {ocrBusy ? "SCANNING…" : scanMode === "auto" ? "SCANNING…" : "READY"}
               </Text>
             )}
-            <TouchableOpacity
-              style={[styles.ballotBtn, ballotLoading && styles.ballotBtnDisabled]}
-              onPress={onBallotForStatePress}
-              disabled={ballotLoading}
-              activeOpacity={0.85}
-            >
-              {ballotLoading ? (
-                <ActivityIndicator color={colors.accent} />
-              ) : (
-                <View style={styles.ballotBtnRow}>
-                  <Ionicons name="map-outline" size={20} color={colors.text} />
-                  <Text style={styles.ballotBtnText}>Ballot for your State</Text>
-                </View>
-              )}
-            </TouchableOpacity>
+            {!scanning && (
+              <Text style={styles.scanningLabel}>Starting camera…</Text>
+            )}
+            {scanMode === "auto" && searchingActive && ocrSupported && (
+              <View style={styles.progressTrack}>
+                <Animated.View style={[styles.progressFill, { width: progressWidth }]} />
+              </View>
+            )}
+            {scanMode === "auto" && searchingActive && ocrSupported && autoOcrPreview ? (
+              <Animated.Text
+                style={[styles.livePreview, { opacity: previewPulseAnim }]}
+                numberOfLines={1}
+              >
+                {autoOcrPreview}
+              </Animated.Text>
+            ) : null}
             {scanMode === "manual" && searchingActive && (
               <TouchableOpacity
-                style={[styles.manualScanBtn, (!ocrSupported || ocrBusy) && styles.manualScanBtnDisabled]}
+                style={[styles.scanBtn, (!ocrSupported || ocrBusy) && styles.scanBtnDisabled]}
                 onPress={onManualScan}
                 disabled={!ocrSupported || ocrBusy}
                 activeOpacity={0.85}
               >
-                <Text style={styles.manualScanText}>Scan</Text>
+                <Text style={styles.scanBtnText}>{ocrBusy ? "SCANNING…" : "SCAN"}</Text>
               </TouchableOpacity>
             )}
-            <StatePickerModal
-              visible={statePickerVisible}
-              onClose={() => setStatePickerVisible(false)}
-              onSelect={(code) => openBallot(code)}
-            />
+            {!ocrSupported && (
+              <Text style={styles.ocrUnsupported}>
+                OCR requires a physical device build — not available in this environment.
+              </Text>
+            )}
           </>
         )}
       </View>
+      <StatePickerModal
+        visible={statePickerVisible}
+        onClose={() => setStatePickerVisible(false)}
+        onSelect={(code) => openBallot(code)}
+      />
     </View>
   );
 }
 
-const CORNER_SIZE = 22;
-const CORNER_WIDTH = 3;
+const CORNER_SIZE = 28;
+const CORNER_WIDTH = 2;
 const cornerBase = {
   position: "absolute" as const,
   width: CORNER_SIZE,
   height: CORNER_SIZE,
-  borderColor: colors.accent,
+  borderColor: colors.text,
 };
 
 const styles = StyleSheet.create({
@@ -471,251 +530,238 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: colors.bg,
   },
+  header: {
+    alignItems: "center",
+    paddingBottom: 10,
+  },
+  headerWordmarkPress: {
+    alignSelf: "center",
+    marginBottom: -2,
+  },
+  headerWordmark: {
+    alignSelf: "center",
+  },
+  toolbar: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "flex-start",
+    alignSelf: "stretch",
+    width: "100%",
+    paddingLeft: 12,
+    paddingRight: 22,
+    marginTop: 12,
+    marginBottom: 4,
+    gap: 12,
+  },
+  modeToggle: {
+    flexDirection: "row",
+    alignItems: "center",
+    backgroundColor: "rgba(255, 255, 255, 0.06)",
+    borderRadius: 6,
+    padding: 2,
+  },
+  modeSegment: {
+    paddingHorizontal: 16,
+    paddingVertical: 8,
+    borderRadius: 4,
+  },
+  modeSegmentOn: {
+    backgroundColor: "rgba(255, 255, 255, 0.14)",
+  },
+  modeLabel: {
+    color: colors.textDim,
+    fontSize: 15,
+    fontWeight: "600",
+    letterSpacing: 0.2,
+  },
+  modeLabelOn: {
+    color: colors.text,
+    fontWeight: "700",
+  },
+  resetLinkText: {
+    color: colors.accent,
+    fontSize: 16,
+    fontWeight: "600",
+  },
   cameraWrap: {
+    flex: 1,
     width: "100%",
     overflow: "hidden",
     backgroundColor: "#000",
+    minHeight: 200,
+  },
+  cameraWrapFrozen: {
+    flex: 0,
+    height: 200,
+    minHeight: 0,
+  },
+  viewfinder: {
+    position: "absolute",
+    pointerEvents: "none",
   },
   lockedBanner: {
     ...StyleSheet.absoluteFillObject,
-    backgroundColor: "rgba(0,0,0,0.35)",
-    justifyContent: "flex-start",
+    backgroundColor: "rgba(0,0,0,0.4)",
+    justifyContent: "center",
     alignItems: "center",
-    paddingTop: 12,
   },
   lockedText: {
     color: colors.text,
-    fontSize: 13,
+    fontSize: 14,
     fontWeight: "700",
-    letterSpacing: 1.2,
+    letterSpacing: 2,
     textTransform: "uppercase",
-    backgroundColor: "rgba(12,12,14,0.85)",
-    overflow: "hidden",
-    paddingHorizontal: 14,
-    paddingVertical: 6,
-    borderRadius: 8,
-    borderWidth: 1,
-    borderColor: colors.border,
   },
   scanLine: {
     position: "absolute",
-    left: 16,
-    right: 16,
+    left: 0,
+    right: 0,
     height: 2,
-    backgroundColor: colors.accent,
-    opacity: 0.45,
-    borderRadius: 1,
+    backgroundColor: colors.stanceRed,
+    opacity: 0.85,
+    shadowColor: colors.stanceRed,
+    shadowOffset: { width: 0, height: 0 },
+    shadowOpacity: 0.9,
+    shadowRadius: 8,
   },
   cornerTL: {
     ...cornerBase,
-    top: 12,
-    left: 12,
+    top: 0,
+    left: 0,
     borderTopWidth: CORNER_WIDTH,
     borderLeftWidth: CORNER_WIDTH,
   },
   cornerTR: {
     ...cornerBase,
-    top: 12,
-    right: 12,
+    top: 0,
+    right: 0,
     borderTopWidth: CORNER_WIDTH,
     borderRightWidth: CORNER_WIDTH,
   },
   cornerBL: {
     ...cornerBase,
-    bottom: 12,
-    left: 12,
+    bottom: 0,
+    left: 0,
     borderBottomWidth: CORNER_WIDTH,
     borderLeftWidth: CORNER_WIDTH,
   },
   cornerBR: {
     ...cornerBase,
-    bottom: 12,
-    right: 12,
+    bottom: 0,
+    right: 0,
     borderBottomWidth: CORNER_WIDTH,
     borderRightWidth: CORNER_WIDTH,
   },
-  modeBar: {
-    position: "absolute",
-    bottom: 14,
-    left: 0,
-    right: 0,
-    flexDirection: "row",
-    justifyContent: "center",
-    gap: 10,
+  footer: {
+    alignItems: "center",
+    paddingTop: 20,
+    paddingHorizontal: 32,
+    minHeight: 140,
   },
-  modeChip: {
-    paddingHorizontal: 18,
-    paddingVertical: 8,
-    borderRadius: 20,
-    backgroundColor: "rgba(12,12,14,0.75)",
-    borderWidth: 1,
-    borderColor: colors.border,
-  },
-  modeChipOn: {
-    borderColor: colors.accent,
-    backgroundColor: "rgba(125, 160, 255, 0.2)",
-  },
-  modeChipText: {
-    color: colors.textDim,
-    fontSize: 14,
-    fontWeight: "600",
-  },
-  modeChipTextOn: {
-    color: colors.accent,
-  },
-  resetChip: {
-    paddingHorizontal: 28,
-    paddingVertical: 10,
-    borderRadius: 20,
-    backgroundColor: "rgba(125, 160, 255, 0.22)",
-    borderWidth: 1,
-    borderColor: colors.accent,
-  },
-  resetChipText: {
-    color: colors.accent,
-    fontSize: 15,
-    fontWeight: "700",
-  },
-  resultWrap: {
+  footerExpanded: {
     flex: 1,
-    paddingTop: 12,
   },
-  autoPreviewWrap: {
-    marginHorizontal: 20,
+  scanningLabel: {
+    color: colors.text,
+    fontSize: 15,
+    fontWeight: "800",
+    letterSpacing: 1.5,
+    textTransform: "uppercase",
     marginBottom: 10,
-    paddingHorizontal: 14,
-    paddingVertical: 10,
-    borderRadius: 12,
-    backgroundColor: colors.bgElevated,
-    borderWidth: 1,
-    borderColor: colors.border,
   },
-  autoPreviewRow: {
+  progressTrack: {
+    width: "72%",
+    maxWidth: 280,
+    height: 3,
+    backgroundColor: "rgba(255,255,255,0.12)",
+    borderRadius: 2,
+    marginBottom: 10,
+    overflow: "hidden",
+  },
+  progressFill: {
+    height: "100%",
+    backgroundColor: colors.textDim,
+    borderRadius: 2,
+  },
+  livePreview: {
+    color: colors.textDim,
+    fontSize: 12,
+    marginBottom: 14,
+    maxWidth: "90%",
+    textAlign: "center",
+  },
+  scanBtn: {
+    marginTop: 4,
+    marginBottom: 16,
+    paddingVertical: 14,
+    paddingHorizontal: 48,
+    borderRadius: 24,
+    backgroundColor: "rgba(255,255,255,0.1)",
+  },
+  scanBtnDisabled: {
+    opacity: 0.4,
+  },
+  scanBtnText: {
+    color: colors.text,
+    fontSize: 15,
+    fontWeight: "800",
+    letterSpacing: 1.2,
+  },
+  ballotLink: {
+    paddingVertical: 6,
+    justifyContent: "center",
+    marginLeft: "auto",
+  },
+  ballotRow: {
     flexDirection: "row",
     alignItems: "center",
-    flexWrap: "nowrap",
+    gap: 6,
   },
-  autoPreviewPrefix: {
+  ballotLinkText: {
     color: colors.textDim,
-    fontSize: 13,
+    fontSize: 16,
     fontWeight: "600",
-    flexShrink: 0,
-    letterSpacing: 0.2,
   },
-  autoPreviewValue: {
+  resultArea: {
     flex: 1,
-    minWidth: 0,
-    color: colors.accent,
-    fontSize: 15,
-    fontWeight: "700",
-    letterSpacing: 0.2,
+    alignSelf: "stretch",
+    width: "100%",
+    minHeight: 120,
   },
   noMatchWrap: {
-    flex: 1,
-    paddingHorizontal: 20,
-    paddingBottom: 16,
+    alignSelf: "stretch",
+    width: "100%",
+    paddingHorizontal: 8,
   },
   noMatchTitle: {
     color: colors.text,
-    fontSize: 18,
+    fontSize: 16,
     fontWeight: "700",
     marginBottom: 8,
-  },
-  noMatchHint: {
-    color: colors.textDim,
-    fontSize: 13,
-    marginBottom: 8,
+    textAlign: "center",
   },
   noMatchScroll: {
-    flexGrow: 0,
-    maxHeight: 220,
-    backgroundColor: colors.bgElevated,
-    borderRadius: 10,
-    borderWidth: 1,
-    borderColor: colors.border,
+    maxHeight: 120,
   },
   noMatchScrollContent: {
-    padding: 12,
+    paddingHorizontal: 4,
   },
   noMatchOcr: {
     color: colors.textDim,
     fontSize: 13,
     lineHeight: 20,
+    textAlign: "center",
     ...Platform.select({
       ios: { fontFamily: "Menlo" },
       default: { fontFamily: "monospace" },
     }),
   },
-  manualScanBtn: {
-    marginHorizontal: 32,
-    marginTop: 16,
-    paddingVertical: 16,
-    borderRadius: 12,
-    backgroundColor: "rgba(125, 160, 255, 0.18)",
-    borderWidth: 1,
-    borderColor: colors.accent,
-    alignItems: "center",
-  },
-  manualScanText: {
-    color: colors.accent,
-    fontSize: 17,
-    fontWeight: "700",
-  },
-  manualScanBtnDisabled: {
-    opacity: 0.45,
-  },
-  ocrBusyPill: {
-    position: "absolute",
-    top: 14,
-    alignSelf: "center",
-    flexDirection: "row",
-    alignItems: "center",
-    gap: 8,
-    paddingHorizontal: 14,
-    paddingVertical: 8,
-    borderRadius: 20,
-    backgroundColor: "rgba(12,12,14,0.88)",
-    borderWidth: 1,
-    borderColor: colors.border,
-  },
-  ocrBusyText: {
-    color: colors.textDim,
-    fontSize: 13,
-    fontWeight: "600",
-  },
   ocrUnsupported: {
     color: colors.stanceRed,
-    fontSize: 13,
-    lineHeight: 18,
-    marginHorizontal: 24,
-    marginBottom: 8,
+    fontSize: 12,
+    lineHeight: 17,
+    marginBottom: 10,
     textAlign: "center",
-  },
-  ballotBtn: {
-    marginHorizontal: 24,
-    marginTop: 12,
-    paddingVertical: 14,
-    borderRadius: 12,
-    backgroundColor: colors.bgElevated,
-    borderWidth: 1,
-    borderColor: colors.border,
-    alignItems: "center",
-    justifyContent: "center",
-    minHeight: 48,
-  },
-  ballotBtnDisabled: {
-    opacity: 0.7,
-  },
-  ballotBtnRow: {
-    flexDirection: "row",
-    alignItems: "center",
-    justifyContent: "center",
-    gap: 8,
-  },
-  ballotBtnText: {
-    color: colors.text,
-    fontSize: 16,
-    fontWeight: "600",
   },
   permText: {
     color: colors.textDim,

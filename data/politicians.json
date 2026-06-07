@@ -691,6 +691,48 @@
     "district": "13"
   },
   {
+    "id": "adam-hamawy-nj-h-12",
+    "name": "Adam Hamawy",
+    "party": "Unknown",
+    "state": "NJ",
+    "districtOrOffice": "U.S. House, NJ-12",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Adam Hamawy in U.S. House, NJ-12 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (NJ-12): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "12",
+    "trackAipacOfficeLabel": "NJ-12",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "adam-hollier-mi-h-13",
     "name": "Adam Hollier",
     "party": "Democratic",
@@ -1080,6 +1122,38 @@
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
   {
+    "id": "adrian-boafo-md-h-05",
+    "name": "Adrian Boafo",
+    "party": "Unknown",
+    "state": "MD",
+    "districtOrOffice": "U.S. House, MD-05",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Unknown",
+    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Adrian Boafo in U.S. House, MD-05. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "05"
+  },
+  {
     "id": "adrian-o-mr-mapp-nj-h-12",
     "name": "Adrian O Mr Mapp",
     "party": "Democratic",
@@ -1386,6 +1460,37 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+  },
+  {
+    "id": "alan-armstrong-ok-sen",
+    "name": "Alan Armstrong",
+    "party": "Unknown",
+    "state": "OK",
+    "districtOrOffice": "U.S. Senate, OK",
+    "office": "U.S. Senate",
+    "imageUrl": "",
+    "stanceLabel": "Unknown",
+    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Alan Armstrong in U.S. Senate, OK. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "SENATE"
   },
   {
     "id": "alan-mark-grayson-fl-s-00",
@@ -3132,6 +3237,48 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "andrew-rice-ct-h-03",
+    "name": "Andrew Rice",
+    "party": "Unknown",
+    "state": "CT",
+    "districtOrOffice": "U.S. House, CT-03",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Andrew Rice in U.S. House, CT-03 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (CT-03): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "03",
+    "trackAipacOfficeLabel": "CT-03",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "andy-barr-ky-06",
     "name": "Andy Barr",
     "party": "Republican",
@@ -3870,6 +4017,48 @@
     "israelLobbyTotal": 27216,
     "israelLobbyTotalDisplay": "$27,216",
     "trackAipacOfficeLabel": "SC-SEN",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
+    "id": "anthony-aguilar-nc-h-13",
+    "name": "Anthony Aguilar",
+    "party": "Unknown",
+    "state": "NC",
+    "districtOrOffice": "U.S. House, NC-13",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Anthony Aguilar in U.S. House, NC-13 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (NC-13): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "13",
+    "trackAipacOfficeLabel": "NC-13",
     "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
@@ -5041,6 +5230,48 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+  },
+  {
+    "id": "becca-balint-vt-h-00",
+    "name": "Becca Balint",
+    "party": "Unknown",
+    "state": "VT",
+    "districtOrOffice": "U.S. House, VT-00",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Becca Balint in U.S. House, VT-00 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (VT-00): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "00",
+    "trackAipacOfficeLabel": "VT-00",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
   {
     "id": "becky-lynn-stille-ne-h-03",
@@ -8959,6 +9190,48 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "case-norton-ga-h-07",
+    "name": "Case Norton",
+    "party": "Unknown",
+    "state": "GA",
+    "districtOrOffice": "U.S. House, GA-07",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Case Norton in U.S. House, GA-07 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (GA-07): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "07",
+    "trackAipacOfficeLabel": "GA-07",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "casey-crabtree-sd-h-00",
     "name": "Casey Crabtree",
     "party": "Republican",
@@ -10380,6 +10653,47 @@
     "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00"
   },
   {
+    "id": "chris-van-hollen-md-sen",
+    "name": "Chris Van Hollen",
+    "party": "Unknown",
+    "state": "MD",
+    "districtOrOffice": "U.S. Senate, MD",
+    "office": "U.S. Senate",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Chris Van Hollen in U.S. Senate, MD as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (MD-SEN): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "SENATE",
+    "trackAipacOfficeLabel": "MD-SEN",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "chrissy-houlahan-pa-h-06",
     "name": "Chrissy Houlahan",
     "party": "Democratic",
@@ -11298,6 +11612,50 @@
     "district": "11"
   },
   {
+    "id": "chuck-fleischmann-tn-h-03",
+    "name": "Chuck Fleischmann",
+    "party": "Unknown",
+    "state": "TN",
+    "districtOrOffice": "U.S. House, TN-03",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $155,858 for Chuck Fleischmann in U.S. House, TN-03. This candidate has taken funding from the Israel lobby.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $155,858 (TN-03).",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "03",
+    "israelLobbyTotal": 155858,
+    "israelLobbyTotalDisplay": "$155,858",
+    "trackAipacOfficeLabel": "TN-03",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "chuck-grassley-ia-sen",
     "name": "Chuck Grassley",
     "party": "Republican",
@@ -11393,13 +11751,55 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "chuck-park-ny-h-06",
+    "name": "Chuck Park",
+    "party": "Unknown",
+    "state": "NY",
+    "districtOrOffice": "U.S. House, NY-06",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Chuck Park in U.S. House, NY-06 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (NY-06): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "06",
+    "trackAipacOfficeLabel": "NY-06",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "chuck-schumer-ny-sen",
     "name": "Chuck Schumer",
     "party": "Democratic",
     "state": "NY",
     "districtOrOffice": "U.S. Senate, New York",
     "office": "U.S. Senate",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Chuck_Schumer%2C_official_photo%2C_113th_Congress.jpg/440px-Chuck_Schumer%2C_official_photo%2C_113th_Congress.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Chuck_Schumer_official_photo.jpg",
     "stanceLabel": "Pro-Israel",
     "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $6,534,797 for Chuck Schumer in U.S. Senate, New York. This candidate has taken funding from the Israel lobby.",
     "timeline": [
@@ -11548,6 +11948,48 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+  },
+  {
+    "id": "claire-valdez-ny-h-07",
+    "name": "Claire Valdez",
+    "party": "Unknown",
+    "state": "NY",
+    "districtOrOffice": "U.S. House, NY-07",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Claire Valdez in U.S. House, NY-07 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (NY-07): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "07",
+    "trackAipacOfficeLabel": "NY-07",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
   {
     "id": "clarence-blalock-ga-h-14",
@@ -12915,6 +13357,48 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "damon-lynch-oh-h-01",
+    "name": "Damon Lynch",
+    "party": "Unknown",
+    "state": "OH",
+    "districtOrOffice": "U.S. House, OH-01",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Damon Lynch in U.S. House, OH-01 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (OH-01): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "01",
+    "trackAipacOfficeLabel": "OH-01",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "dan-crenshaw-tx-02",
     "name": "Dan Crenshaw",
     "party": "Republican",
@@ -13009,6 +13493,50 @@
     "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
     "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00"
+  },
+  {
+    "id": "dan-helmer-va-h-08",
+    "name": "Dan Helmer",
+    "party": "Unknown",
+    "state": "VA",
+    "districtOrOffice": "U.S. House, VA-08",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $183,520 for Dan Helmer in U.S. House, VA-08. This candidate has taken funding from the Israel lobby.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $183,520 (VA-08).",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "08",
+    "israelLobbyTotal": 183520,
+    "israelLobbyTotalDisplay": "$183,520",
+    "trackAipacOfficeLabel": "VA-08",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
   {
     "id": "dan-innis-nh-s-00",
@@ -16802,6 +17330,39 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "donald-trump-us-president",
+    "name": "Donald Trump",
+    "party": "Republican",
+    "state": "",
+    "districtOrOffice": "U.S. President",
+    "office": "U.S. President",
+    "officeScope": "EXECUTIVE",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "Donald Trump is the incumbent U.S. President. Track AIPAC congressional totals do not apply to executive officeholders. Official White House records show sustained U.S. security partnership with Israel and a September 2025 Gaza peace framework announced alongside Israeli Prime Minister Benjamin Netanyahu.",
+    "timeline": [
+      {
+        "date": "2017-12-06",
+        "event": "As president, Trump recognized Jerusalem as Israel's capital and directed the U.S. embassy to move there, framing the decision as recognition of Israel's sovereignty.",
+        "sourceIds": [
+          "trump-jerusalem-recognition-2017"
+        ]
+      },
+      {
+        "date": "2025-09-29",
+        "event": "White House released Trump's 20-point Comprehensive Plan to End the Gaza Conflict, including ceasefire, hostage release, demilitarization, and reconstruction phases with explicit U.S. commitment to Israel's security.",
+        "sourceIds": [
+          "trump-gaza-peace-plan-2025"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trump-jerusalem-recognition-2017",
+      "trump-gaza-peace-plan-2025"
+    ],
+    "profileLastUpdatedAt": "2026-06-05T23:01:16.220603+00:00"
+  },
+  {
     "id": "donavan-mckinney-mi-h-13",
     "name": "Donavan Mckinney",
     "party": "Democratic",
@@ -20240,6 +20801,48 @@
     "district": "24"
   },
   {
+    "id": "frederick-haynes-iii-tx-h-30",
+    "name": "Frederick Haynes III",
+    "party": "Unknown",
+    "state": "TX",
+    "districtOrOffice": "U.S. House, TX-30",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Frederick Haynes III in U.S. House, TX-30 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (TX-30): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "30",
+    "trackAipacOfficeLabel": "TX-30",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "frederick-heurtebise-mi-s-00",
     "name": "Frederick Heurtebise",
     "party": "Republican",
@@ -21624,6 +22227,48 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "greg-casar-tx-h-35",
+    "name": "Greg Casar",
+    "party": "Unknown",
+    "state": "TX",
+    "districtOrOffice": "U.S. House, TX-35",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Greg Casar in U.S. House, TX-35 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (TX-35): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "35",
+    "trackAipacOfficeLabel": "TX-35",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "greg-cunningham-nm-h-02",
     "name": "Greg Cunningham",
     "party": "Republican",
@@ -21866,6 +22511,48 @@
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
     "officeScope": "HOUSE",
     "district": "17"
+  },
+  {
+    "id": "greg-stoker-tx-h-31",
+    "name": "Greg Stoker",
+    "party": "Unknown",
+    "state": "TX",
+    "districtOrOffice": "U.S. House, TX-31",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Greg Stoker in U.S. House, TX-31 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (TX-31): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "31",
+    "trackAipacOfficeLabel": "TX-31",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
   {
     "id": "gregg-mele-nj-h-12",
@@ -23726,6 +24413,38 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "jd-vance-us-vice-president",
+    "name": "JD Vance",
+    "party": "Republican",
+    "state": "",
+    "districtOrOffice": "U.S. Vice President",
+    "office": "U.S. Vice President",
+    "officeScope": "EXECUTIVE",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "JD Vance is the incumbent U.S. Vice President. Track AIPAC congressional totals do not apply. Official remarks during his October 2025 Israel visit emphasized U.S.-Israel partnership and implementation of the Trump administration Gaza ceasefire and peace plan.",
+    "timeline": [
+      {
+        "date": "2025-10-21",
+        "event": "During an Israel visit, Vance said the Gaza ceasefire was progressing better than expected and that the administration would keep working to disarm Hamas and rebuild Gaza while ensuring Israel's security.",
+        "sourceIds": [
+          "vance-israel-gaza-visit-2025"
+        ]
+      },
+      {
+        "date": "2025-10-22",
+        "event": "Standing with Prime Minister Netanyahu, Vance rejected claims that Israel is a U.S. 'client state' and described the relationship as a partnership focused on advancing the Gaza peace plan.",
+        "sourceIds": [
+          "vance-israel-gaza-visit-2025"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "vance-israel-gaza-visit-2025"
+    ],
+    "profileLastUpdatedAt": "2026-06-05T23:01:16.220603+00:00"
+  },
+  {
     "id": "jace-yarbrough-tx-h-32",
     "name": "Jace Yarbrough",
     "party": "Republican",
@@ -23824,6 +24543,49 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+  },
+  {
+    "id": "jack-reed-ri-sen",
+    "name": "Jack Reed",
+    "party": "Unknown",
+    "state": "RI",
+    "districtOrOffice": "U.S. Senate, RI",
+    "office": "U.S. Senate",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $1,034,684 for Jack Reed in U.S. Senate, RI. This candidate has taken funding from the Israel lobby.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $1,034,684 (RI-SEN).",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "SENATE",
+    "israelLobbyTotal": 1034684,
+    "israelLobbyTotalDisplay": "$1,034,684",
+    "trackAipacOfficeLabel": "RI-SEN",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
   {
     "id": "jackie-norris-ia-s-00",
@@ -28608,6 +29370,48 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "jessica-salas-or-h-03",
+    "name": "Jessica Salas",
+    "party": "Unknown",
+    "state": "OR",
+    "districtOrOffice": "U.S. House, OR-03",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Jessica Salas in U.S. House, OR-03 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (OR-03): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "03",
+    "trackAipacOfficeLabel": "OR-03",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "jessica-swartz-mi-h-04",
     "name": "Jessica Swartz",
     "party": "Democratic",
@@ -28711,6 +29515,48 @@
       "rep-jesus-garcia-gaza-ceasefire-deal"
     ],
     "profileLastUpdatedAt": "2026-03-04T09:07:44.876979+00:00"
+  },
+  {
+    "id": "jes-s-chuy-garc-a-il-h-04",
+    "name": "Jes\u00fas Chuy Garc\u00eda",
+    "party": "Unknown",
+    "state": "IL",
+    "districtOrOffice": "U.S. House, IL-04",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Jes\u00fas Chuy Garc\u00eda in U.S. House, IL-04 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (IL-04): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "04",
+    "trackAipacOfficeLabel": "IL-04",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
   {
     "id": "jill-manrique-il-h-09",
@@ -28931,6 +29777,50 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+  },
+  {
+    "id": "jim-clyburn-sc-h-06",
+    "name": "Jim Clyburn",
+    "party": "Unknown",
+    "state": "SC",
+    "districtOrOffice": "U.S. House, SC-06",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $382,148 for Jim Clyburn in U.S. House, SC-06. This candidate has taken funding from the Israel lobby.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $382,148 (SC-06).",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "06",
+    "israelLobbyTotal": 382148,
+    "israelLobbyTotalDisplay": "$382,148",
+    "trackAipacOfficeLabel": "SC-06",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
   {
     "id": "jim-costa-ca-h-21",
@@ -29613,6 +30503,39 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "joe-biden-us-president",
+    "name": "Joe Biden",
+    "party": "Democratic",
+    "state": "",
+    "districtOrOffice": "Former U.S. President",
+    "office": "U.S. President",
+    "officeScope": "EXECUTIVE",
+    "imageUrl": "",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "Joe Biden served as the 46th U.S. President (2021\u20132025). Track AIPAC congressional totals do not apply. Official records show continued U.S. military support for Israel alongside repeated diplomatic pushes for a Gaza ceasefire, hostage release, and expanded humanitarian aid.",
+    "timeline": [
+      {
+        "date": "2024-05-31",
+        "event": "Biden outlined a three-phase Gaza ceasefire and hostage-release framework, including Israeli withdrawal from populated areas and a surge of humanitarian assistance.",
+        "sourceIds": [
+          "biden-gaza-ceasefire-framework-2024"
+        ]
+      },
+      {
+        "date": "2025-01-15",
+        "event": "Biden announced Israel and Hamas had reached a ceasefire and hostage-release deal based on the framework he proposed in May 2024.",
+        "sourceIds": [
+          "biden-gaza-ceasefire-deal-2025"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "biden-gaza-ceasefire-framework-2024",
+      "biden-gaza-ceasefire-deal-2025"
+    ],
+    "profileLastUpdatedAt": "2026-06-05T23:01:16.220603+00:00"
+  },
+  {
     "id": "joe-courtney-ct-02",
     "name": "Joe Courtney",
     "party": "Democratic",
@@ -29711,6 +30634,50 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+  },
+  {
+    "id": "joe-kerr-ca-h-40",
+    "name": "Joe Kerr",
+    "party": "Unknown",
+    "state": "CA",
+    "districtOrOffice": "U.S. House, CA-40",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $50,590 for Joe Kerr in U.S. House, CA-40. This candidate has taken funding from the Israel lobby.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $50,590 (CA-40).",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "40",
+    "israelLobbyTotal": 50590,
+    "israelLobbyTotalDisplay": "$50,590",
+    "trackAipacOfficeLabel": "CA-40",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
   {
     "id": "joe-males-ca-h-25",
@@ -34666,6 +35633,89 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "kai-newkirk-az-h-04",
+    "name": "Kai Newkirk",
+    "party": "Unknown",
+    "state": "AZ",
+    "districtOrOffice": "U.S. House, AZ-04",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Kai Newkirk in U.S. House, AZ-04 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (AZ-04): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "04",
+    "trackAipacOfficeLabel": "AZ-04",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
+    "id": "kamala-harris-us-vice-president",
+    "name": "Kamala Harris",
+    "party": "Democratic",
+    "state": "",
+    "districtOrOffice": "Former U.S. Vice President",
+    "office": "U.S. Vice President",
+    "officeScope": "EXECUTIVE",
+    "imageUrl": "",
+    "stanceLabel": "Mixed-unclear",
+    "stanceSummary": "Kamala Harris served as U.S. Vice President (2021\u20132025). Track AIPAC congressional totals do not apply. Official remarks affirm Israel's right to defend itself while pressing for an immediate ceasefire, increased aid access in Gaza, and a two-state framework.",
+    "timeline": [
+      {
+        "date": "2024-03-03",
+        "event": "Harris called for an immediate Gaza ceasefire and urged Israel to significantly increase humanitarian aid deliveries while reiterating Israel's right to defend itself.",
+        "sourceIds": [
+          "harris-gaza-ceasefire-selma-2024"
+        ]
+      },
+      {
+        "date": "2024-07-25",
+        "event": "After meeting Prime Minister Netanyahu, Harris said she would always ensure Israel can defend itself while expressing serious concern about civilian suffering in Gaza and calling for a ceasefire deal and two-state path.",
+        "sourceIds": [
+          "harris-netanyahu-meeting-2024"
+        ]
+      },
+      {
+        "date": "2024-08-22",
+        "event": "In DNC remarks, Harris reiterated support for Israel's right to defend itself and described Gaza civilian suffering as devastating while urging completion of a ceasefire and hostage deal.",
+        "sourceIds": [
+          "harris-dnc-israel-remarks-2024"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "harris-gaza-ceasefire-selma-2024",
+      "harris-netanyahu-meeting-2024",
+      "harris-dnc-israel-remarks-2024"
+    ],
+    "profileLastUpdatedAt": "2026-06-05T23:01:16.220603+00:00"
+  },
+  {
     "id": "kandiss-dr-taylor-ga-h-01",
     "name": "Kandiss Dr. Taylor",
     "party": "Republican",
@@ -34804,6 +35854,48 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+  },
+  {
+    "id": "karen-ortiz-ny-h-12",
+    "name": "Karen Ortiz",
+    "party": "Unknown",
+    "state": "NY",
+    "districtOrOffice": "U.S. House, NY-12",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Karen Ortiz in U.S. House, NY-12 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (NY-12): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "12",
+    "trackAipacOfficeLabel": "NY-12",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
   {
     "id": "karishma-manzur-nh-s-00",
@@ -35864,6 +36956,37 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+  },
+  {
+    "id": "ken-paxton-tx-sen",
+    "name": "Ken Paxton",
+    "party": "Unknown",
+    "state": "TX",
+    "districtOrOffice": "U.S. Senate, TX",
+    "office": "U.S. Senate",
+    "imageUrl": "",
+    "stanceLabel": "Unknown",
+    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Ken Paxton in U.S. Senate, TX. Official statements and congressional records were used as the primary basis for stance context in this profile.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "SENATE"
   },
   {
     "id": "kennedy-pivnick-nj-h-11",
@@ -40172,6 +41295,48 @@
     "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00"
   },
   {
+    "id": "marianne-shamma-ca-h-36",
+    "name": "Marianne Shamma",
+    "party": "Unknown",
+    "state": "CA",
+    "districtOrOffice": "U.S. House, CA-36",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Marianne Shamma in U.S. House, CA-36 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (CA-36): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "36",
+    "trackAipacOfficeLabel": "CA-36",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "mariannette-jane-miller-meeks-ia-h-01",
     "name": "Mariannette Jane Miller-Meeks",
     "party": "Republican",
@@ -42779,6 +43944,48 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+  },
+  {
+    "id": "maureen-galindo-tx-h-35",
+    "name": "Maureen Galindo",
+    "party": "Unknown",
+    "state": "TX",
+    "districtOrOffice": "U.S. House, TX-35",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Maureen Galindo in U.S. House, TX-35 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (TX-35): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "35",
+    "trackAipacOfficeLabel": "TX-35",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
   {
     "id": "maurice-gerard-morton-mi-h-13",
@@ -46031,6 +47238,49 @@
     "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00"
   },
   {
+    "id": "mike-rogers-senate-mi-sen",
+    "name": "Mike Rogers (Senate)",
+    "party": "Unknown",
+    "state": "MI",
+    "districtOrOffice": "U.S. Senate, MI",
+    "office": "U.S. Senate",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $1,003,157 for Mike Rogers (Senate) in U.S. Senate, MI. This candidate has taken funding from the Israel lobby.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $1,003,157 (MI-SEN).",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "SENATE",
+    "israelLobbyTotal": 1003157,
+    "israelLobbyTotalDisplay": "$1,003,157",
+    "trackAipacOfficeLabel": "MI-SEN",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "mike-rounds-sd-s-00",
     "name": "Mike Rounds",
     "party": "Republican",
@@ -47030,6 +48280,48 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "morgan-wadsworth-nv-h-02",
+    "name": "Morgan Wadsworth",
+    "party": "Unknown",
+    "state": "NV",
+    "districtOrOffice": "U.S. House, NV-02",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Morgan Wadsworth in U.S. House, NV-02 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (NV-02): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "02",
+    "trackAipacOfficeLabel": "NV-02",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "morris-d-col-davis-nc-h-11",
     "name": "Morris D. Col. Davis",
     "party": "Democratic",
@@ -47056,6 +48348,48 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+  },
+  {
+    "id": "mussab-ali-nj-h-08",
+    "name": "Mussab Ali",
+    "party": "Unknown",
+    "state": "NJ",
+    "districtOrOffice": "U.S. House, NJ-08",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Mussab Ali in U.S. House, NJ-08 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (NJ-08): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "08",
+    "trackAipacOfficeLabel": "NJ-08",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
   {
     "id": "n-kiyla-jasmine-ann-thomas-ok-s-00",
@@ -50377,6 +51711,47 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "peter-welch-vt-sen",
+    "name": "Peter Welch",
+    "party": "Unknown",
+    "state": "VT",
+    "districtOrOffice": "U.S. Senate, VT",
+    "office": "U.S. Senate",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Peter Welch in U.S. Senate, VT as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (VT-SEN): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "SENATE",
+    "trackAipacOfficeLabel": "VT-SEN",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "phil-ehr-fl-h-28",
     "name": "Phil Ehr",
     "party": "Democratic",
@@ -51298,7 +52673,7 @@
     "state": "MI",
     "districtOrOffice": "U.S. House, MI-12",
     "office": "U.S. House",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rashida_Tlaib%2C_official_portrait%2C_116th_Congress.jpg/440px-Rashida_Tlaib%2C_official_portrait%2C_116th_Congress.jpg",
+    "imageUrl": "https://unitedstates.github.io/images/congress/450x550/T000481.jpg",
     "stanceLabel": "Pro-Palestine",
     "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Rashida Tlaib in U.S. House, MI-12 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
     "timeline": [
@@ -54815,6 +56190,48 @@
     "district": "03"
   },
   {
+    "id": "rose-penelope-yee-ca-h-02",
+    "name": "Rose Penelope Yee",
+    "party": "Unknown",
+    "state": "CA",
+    "districtOrOffice": "U.S. House, CA-02",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Rose Penelope Yee in U.S. House, CA-02 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (CA-02): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "02",
+    "trackAipacOfficeLabel": "CA-02",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "rosemary-oglesby-henry-oh-h-01",
     "name": "Rosemary Oglesby-Henry",
     "party": "Republican",
@@ -55759,6 +57176,48 @@
     ],
     "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
     "trackAipacOfficeLabel": "CA-11",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
+    "id": "salaam-bhatti-va-h-01",
+    "name": "Salaam Bhatti",
+    "party": "Unknown",
+    "state": "VA",
+    "districtOrOffice": "U.S. House, VA-01",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Salaam Bhatti in U.S. House, VA-01 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (VA-01): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "01",
+    "trackAipacOfficeLabel": "VA-01",
     "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
@@ -57802,6 +59261,49 @@
     "district": "20"
   },
   {
+    "id": "sheldon-whitehouse-ri-sen",
+    "name": "Sheldon Whitehouse",
+    "party": "Unknown",
+    "state": "RI",
+    "districtOrOffice": "U.S. Senate, RI",
+    "office": "U.S. Senate",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $1,539,762 for Sheldon Whitehouse in U.S. Senate, RI. This candidate has taken funding from the Israel lobby.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $1,539,762 (RI-SEN).",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "SENATE",
+    "israelLobbyTotal": 1539762,
+    "israelLobbyTotalDisplay": "$1,539,762",
+    "trackAipacOfficeLabel": "RI-SEN",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "shelley-moore-capito-wv-s-00",
     "name": "Shelley Moore Capito",
     "party": "Republican",
@@ -58157,6 +59659,48 @@
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
     "officeScope": "HOUSE",
     "district": "13"
+  },
+  {
+    "id": "sparky-mitra-ca-h-50",
+    "name": "Sparky Mitra",
+    "party": "Unknown",
+    "state": "CA",
+    "districtOrOffice": "U.S. House, CA-50",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Palestine",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Sparky Mitra in U.S. House, CA-50 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (CA-50): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "50",
+    "trackAipacOfficeLabel": "CA-50",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
   {
     "id": "squire-servance-nj-h-12",
@@ -59335,6 +60879,50 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
+  },
+  {
+    "id": "sue-altman-nj-h-12",
+    "name": "Sue Altman",
+    "party": "Unknown",
+    "state": "NJ",
+    "districtOrOffice": "U.S. House, NJ-12",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $308,605 for Sue Altman in U.S. House, NJ-12. This candidate has taken funding from the Israel lobby.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $308,605 (NJ-12).",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "12",
+    "israelLobbyTotal": 308605,
+    "israelLobbyTotalDisplay": "$308,605",
+    "trackAipacOfficeLabel": "NJ-12",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
   {
     "id": "suhas-subramanyam-va-h-10",
@@ -61799,6 +63387,49 @@
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
   },
   {
+    "id": "tim-scott-sc-sen",
+    "name": "Tim Scott",
+    "party": "Unknown",
+    "state": "SC",
+    "districtOrOffice": "U.S. Senate, SC",
+    "office": "U.S. Senate",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $2,135,718 for Tim Scott in U.S. Senate, SC. This candidate has taken funding from the Israel lobby.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $2,135,718 (SC-SEN).",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "SENATE",
+    "israelLobbyTotal": 2135718,
+    "israelLobbyTotalDisplay": "$2,135,718",
+    "trackAipacOfficeLabel": "SC-SEN",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
+  },
+  {
     "id": "tim-sheehy-mt-sen",
     "name": "Tim Sheehy",
     "party": "Republican",
@@ -62821,6 +64452,50 @@
     "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
     "trackAipacSourceUrl": "https://www.trackaipac.com/congress",
     "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00"
+  },
+  {
+    "id": "tony-gonzales-tx-h-23",
+    "name": "Tony Gonzales",
+    "party": "Unknown",
+    "state": "TX",
+    "districtOrOffice": "U.S. House, TX-23",
+    "office": "U.S. House",
+    "imageUrl": "",
+    "stanceLabel": "Pro-Israel",
+    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $3,030,108 for Tony Gonzales in U.S. House, TX-23. This candidate has taken funding from the Israel lobby.",
+    "timeline": [
+      {
+        "date": "2026-04-05",
+        "event": "Baseline profile created for Track AIPAC funding import.",
+        "sourceIds": [
+          "trackaipac-congress",
+          "fec-candidate-master-2026",
+          "house-resolution-tracker",
+          "congress-floor-records"
+        ]
+      },
+      {
+        "date": "2026-04-05",
+        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $3,030,108 (TX-23).",
+        "sourceIds": [
+          "trackaipac-congress"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "trackaipac-congress",
+      "fec-candidate-master-2026",
+      "house-resolution-tracker",
+      "congress-floor-records"
+    ],
+    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
+    "officeScope": "HOUSE",
+    "district": "23",
+    "israelLobbyTotal": 3030108,
+    "israelLobbyTotalDisplay": "$3,030,108",
+    "trackAipacOfficeLabel": "TX-23",
+    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
+    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   },
   {
     "id": "tony-wied-wi-h-08",
@@ -65979,1541 +67654,5 @@
       "congress-floor-records"
     ],
     "profileLastUpdatedAt": "2026-03-04T07:47:48.024005+00:00"
-  },
-  {
-    "id": "kai-newkirk-az-h-04",
-    "name": "Kai Newkirk",
-    "party": "Unknown",
-    "state": "AZ",
-    "districtOrOffice": "U.S. House, AZ-04",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Kai Newkirk in U.S. House, AZ-04 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (AZ-04): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "04",
-    "trackAipacOfficeLabel": "AZ-04",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "rose-penelope-yee-ca-h-02",
-    "name": "Rose Penelope Yee",
-    "party": "Unknown",
-    "state": "CA",
-    "districtOrOffice": "U.S. House, CA-02",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Rose Penelope Yee in U.S. House, CA-02 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (CA-02): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "02",
-    "trackAipacOfficeLabel": "CA-02",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "marianne-shamma-ca-h-36",
-    "name": "Marianne Shamma",
-    "party": "Unknown",
-    "state": "CA",
-    "districtOrOffice": "U.S. House, CA-36",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Marianne Shamma in U.S. House, CA-36 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (CA-36): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "36",
-    "trackAipacOfficeLabel": "CA-36",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "joe-kerr-ca-h-40",
-    "name": "Joe Kerr",
-    "party": "Unknown",
-    "state": "CA",
-    "districtOrOffice": "U.S. House, CA-40",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $50,590 for Joe Kerr in U.S. House, CA-40. This candidate has taken funding from the Israel lobby.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $50,590 (CA-40).",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "40",
-    "israelLobbyTotal": 50590,
-    "israelLobbyTotalDisplay": "$50,590",
-    "trackAipacOfficeLabel": "CA-40",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "sparky-mitra-ca-h-50",
-    "name": "Sparky Mitra",
-    "party": "Unknown",
-    "state": "CA",
-    "districtOrOffice": "U.S. House, CA-50",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Sparky Mitra in U.S. House, CA-50 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (CA-50): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "50",
-    "trackAipacOfficeLabel": "CA-50",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "andrew-rice-ct-h-03",
-    "name": "Andrew Rice",
-    "party": "Unknown",
-    "state": "CT",
-    "districtOrOffice": "U.S. House, CT-03",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Andrew Rice in U.S. House, CT-03 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (CT-03): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "03",
-    "trackAipacOfficeLabel": "CT-03",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "case-norton-ga-h-07",
-    "name": "Case Norton",
-    "party": "Unknown",
-    "state": "GA",
-    "districtOrOffice": "U.S. House, GA-07",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Case Norton in U.S. House, GA-07 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (GA-07): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "07",
-    "trackAipacOfficeLabel": "GA-07",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "jes-s-chuy-garc-a-il-h-04",
-    "name": "Jes\u00fas Chuy Garc\u00eda",
-    "party": "Unknown",
-    "state": "IL",
-    "districtOrOffice": "U.S. House, IL-04",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Jes\u00fas Chuy Garc\u00eda in U.S. House, IL-04 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (IL-04): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "04",
-    "trackAipacOfficeLabel": "IL-04",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "chris-van-hollen-md-sen",
-    "name": "Chris Van Hollen",
-    "party": "Unknown",
-    "state": "MD",
-    "districtOrOffice": "U.S. Senate, MD",
-    "office": "U.S. Senate",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Chris Van Hollen in U.S. Senate, MD as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (MD-SEN): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "SENATE",
-    "trackAipacOfficeLabel": "MD-SEN",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "adrian-boafo-md-h-05",
-    "name": "Adrian Boafo",
-    "party": "Unknown",
-    "state": "MD",
-    "districtOrOffice": "U.S. House, MD-05",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Adrian Boafo in U.S. House, MD-05. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "05"
-  },
-  {
-    "id": "mike-rogers-senate-mi-sen",
-    "name": "Mike Rogers (Senate)",
-    "party": "Unknown",
-    "state": "MI",
-    "districtOrOffice": "U.S. Senate, MI",
-    "office": "U.S. Senate",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $1,003,157 for Mike Rogers (Senate) in U.S. Senate, MI. This candidate has taken funding from the Israel lobby.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $1,003,157 (MI-SEN).",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "SENATE",
-    "israelLobbyTotal": 1003157,
-    "israelLobbyTotalDisplay": "$1,003,157",
-    "trackAipacOfficeLabel": "MI-SEN",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "morgan-wadsworth-nv-h-02",
-    "name": "Morgan Wadsworth",
-    "party": "Unknown",
-    "state": "NV",
-    "districtOrOffice": "U.S. House, NV-02",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Morgan Wadsworth in U.S. House, NV-02 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (NV-02): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "02",
-    "trackAipacOfficeLabel": "NV-02",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "mussab-ali-nj-h-08",
-    "name": "Mussab Ali",
-    "party": "Unknown",
-    "state": "NJ",
-    "districtOrOffice": "U.S. House, NJ-08",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Mussab Ali in U.S. House, NJ-08 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (NJ-08): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "08",
-    "trackAipacOfficeLabel": "NJ-08",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "sue-altman-nj-h-12",
-    "name": "Sue Altman",
-    "party": "Unknown",
-    "state": "NJ",
-    "districtOrOffice": "U.S. House, NJ-12",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $308,605 for Sue Altman in U.S. House, NJ-12. This candidate has taken funding from the Israel lobby.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $308,605 (NJ-12).",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "12",
-    "israelLobbyTotal": 308605,
-    "israelLobbyTotalDisplay": "$308,605",
-    "trackAipacOfficeLabel": "NJ-12",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "adam-hamawy-nj-h-12",
-    "name": "Adam Hamawy",
-    "party": "Unknown",
-    "state": "NJ",
-    "districtOrOffice": "U.S. House, NJ-12",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Adam Hamawy in U.S. House, NJ-12 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (NJ-12): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "12",
-    "trackAipacOfficeLabel": "NJ-12",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "chuck-park-ny-h-06",
-    "name": "Chuck Park",
-    "party": "Unknown",
-    "state": "NY",
-    "districtOrOffice": "U.S. House, NY-06",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Chuck Park in U.S. House, NY-06 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (NY-06): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "06",
-    "trackAipacOfficeLabel": "NY-06",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "claire-valdez-ny-h-07",
-    "name": "Claire Valdez",
-    "party": "Unknown",
-    "state": "NY",
-    "districtOrOffice": "U.S. House, NY-07",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Claire Valdez in U.S. House, NY-07 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (NY-07): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "07",
-    "trackAipacOfficeLabel": "NY-07",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "karen-ortiz-ny-h-12",
-    "name": "Karen Ortiz",
-    "party": "Unknown",
-    "state": "NY",
-    "districtOrOffice": "U.S. House, NY-12",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Karen Ortiz in U.S. House, NY-12 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (NY-12): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "12",
-    "trackAipacOfficeLabel": "NY-12",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "anthony-aguilar-nc-h-13",
-    "name": "Anthony Aguilar",
-    "party": "Unknown",
-    "state": "NC",
-    "districtOrOffice": "U.S. House, NC-13",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Anthony Aguilar in U.S. House, NC-13 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (NC-13): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "13",
-    "trackAipacOfficeLabel": "NC-13",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "damon-lynch-oh-h-01",
-    "name": "Damon Lynch",
-    "party": "Unknown",
-    "state": "OH",
-    "districtOrOffice": "U.S. House, OH-01",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Damon Lynch in U.S. House, OH-01 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (OH-01): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "01",
-    "trackAipacOfficeLabel": "OH-01",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "alan-armstrong-ok-sen",
-    "name": "Alan Armstrong",
-    "party": "Unknown",
-    "state": "OK",
-    "districtOrOffice": "U.S. Senate, OK",
-    "office": "U.S. Senate",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Alan Armstrong in U.S. Senate, OK. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "SENATE"
-  },
-  {
-    "id": "jessica-salas-or-h-03",
-    "name": "Jessica Salas",
-    "party": "Unknown",
-    "state": "OR",
-    "districtOrOffice": "U.S. House, OR-03",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Jessica Salas in U.S. House, OR-03 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (OR-03): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "03",
-    "trackAipacOfficeLabel": "OR-03",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "sheldon-whitehouse-ri-sen",
-    "name": "Sheldon Whitehouse",
-    "party": "Unknown",
-    "state": "RI",
-    "districtOrOffice": "U.S. Senate, RI",
-    "office": "U.S. Senate",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $1,539,762 for Sheldon Whitehouse in U.S. Senate, RI. This candidate has taken funding from the Israel lobby.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $1,539,762 (RI-SEN).",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "SENATE",
-    "israelLobbyTotal": 1539762,
-    "israelLobbyTotalDisplay": "$1,539,762",
-    "trackAipacOfficeLabel": "RI-SEN",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "jack-reed-ri-sen",
-    "name": "Jack Reed",
-    "party": "Unknown",
-    "state": "RI",
-    "districtOrOffice": "U.S. Senate, RI",
-    "office": "U.S. Senate",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $1,034,684 for Jack Reed in U.S. Senate, RI. This candidate has taken funding from the Israel lobby.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $1,034,684 (RI-SEN).",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "SENATE",
-    "israelLobbyTotal": 1034684,
-    "israelLobbyTotalDisplay": "$1,034,684",
-    "trackAipacOfficeLabel": "RI-SEN",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "tim-scott-sc-sen",
-    "name": "Tim Scott",
-    "party": "Unknown",
-    "state": "SC",
-    "districtOrOffice": "U.S. Senate, SC",
-    "office": "U.S. Senate",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $2,135,718 for Tim Scott in U.S. Senate, SC. This candidate has taken funding from the Israel lobby.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $2,135,718 (SC-SEN).",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "SENATE",
-    "israelLobbyTotal": 2135718,
-    "israelLobbyTotalDisplay": "$2,135,718",
-    "trackAipacOfficeLabel": "SC-SEN",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "jim-clyburn-sc-h-06",
-    "name": "Jim Clyburn",
-    "party": "Unknown",
-    "state": "SC",
-    "districtOrOffice": "U.S. House, SC-06",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $382,148 for Jim Clyburn in U.S. House, SC-06. This candidate has taken funding from the Israel lobby.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $382,148 (SC-06).",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "06",
-    "israelLobbyTotal": 382148,
-    "israelLobbyTotalDisplay": "$382,148",
-    "trackAipacOfficeLabel": "SC-06",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "chuck-fleischmann-tn-h-03",
-    "name": "Chuck Fleischmann",
-    "party": "Unknown",
-    "state": "TN",
-    "districtOrOffice": "U.S. House, TN-03",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $155,858 for Chuck Fleischmann in U.S. House, TN-03. This candidate has taken funding from the Israel lobby.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $155,858 (TN-03).",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "03",
-    "israelLobbyTotal": 155858,
-    "israelLobbyTotalDisplay": "$155,858",
-    "trackAipacOfficeLabel": "TN-03",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "ken-paxton-tx-sen",
-    "name": "Ken Paxton",
-    "party": "Unknown",
-    "state": "TX",
-    "districtOrOffice": "U.S. Senate, TX",
-    "office": "U.S. Senate",
-    "imageUrl": "",
-    "stanceLabel": "Unknown",
-    "stanceSummary": "No public Track AIPAC congressional total is currently linked for Ken Paxton in U.S. Senate, TX. Official statements and congressional records were used as the primary basis for stance context in this profile.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "SENATE"
-  },
-  {
-    "id": "tony-gonzales-tx-h-23",
-    "name": "Tony Gonzales",
-    "party": "Unknown",
-    "state": "TX",
-    "districtOrOffice": "U.S. House, TX-23",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $3,030,108 for Tony Gonzales in U.S. House, TX-23. This candidate has taken funding from the Israel lobby.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $3,030,108 (TX-23).",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "23",
-    "israelLobbyTotal": 3030108,
-    "israelLobbyTotalDisplay": "$3,030,108",
-    "trackAipacOfficeLabel": "TX-23",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "frederick-haynes-iii-tx-h-30",
-    "name": "Frederick Haynes III",
-    "party": "Unknown",
-    "state": "TX",
-    "districtOrOffice": "U.S. House, TX-30",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Frederick Haynes III in U.S. House, TX-30 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (TX-30): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "30",
-    "trackAipacOfficeLabel": "TX-30",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "greg-stoker-tx-h-31",
-    "name": "Greg Stoker",
-    "party": "Unknown",
-    "state": "TX",
-    "districtOrOffice": "U.S. House, TX-31",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Greg Stoker in U.S. House, TX-31 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (TX-31): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "31",
-    "trackAipacOfficeLabel": "TX-31",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "greg-casar-tx-h-35",
-    "name": "Greg Casar",
-    "party": "Unknown",
-    "state": "TX",
-    "districtOrOffice": "U.S. House, TX-35",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Greg Casar in U.S. House, TX-35 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (TX-35): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "35",
-    "trackAipacOfficeLabel": "TX-35",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "maureen-galindo-tx-h-35",
-    "name": "Maureen Galindo",
-    "party": "Unknown",
-    "state": "TX",
-    "districtOrOffice": "U.S. House, TX-35",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Maureen Galindo in U.S. House, TX-35 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (TX-35): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "35",
-    "trackAipacOfficeLabel": "TX-35",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "peter-welch-vt-sen",
-    "name": "Peter Welch",
-    "party": "Unknown",
-    "state": "VT",
-    "districtOrOffice": "U.S. Senate, VT",
-    "office": "U.S. Senate",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Peter Welch in U.S. Senate, VT as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (VT-SEN): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "SENATE",
-    "trackAipacOfficeLabel": "VT-SEN",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "becca-balint-vt-h-00",
-    "name": "Becca Balint",
-    "party": "Unknown",
-    "state": "VT",
-    "districtOrOffice": "U.S. House, VT-00",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Becca Balint in U.S. House, VT-00 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (VT-00): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "00",
-    "trackAipacOfficeLabel": "VT-00",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "salaam-bhatti-va-h-01",
-    "name": "Salaam Bhatti",
-    "party": "Unknown",
-    "state": "VA",
-    "districtOrOffice": "U.S. House, VA-01",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Palestine",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) lists Salaam Bhatti in U.S. House, VA-01 as not receiving Israel lobby PAC money for this race. This dataset classifies such candidates as Pro-Palestine.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing (VA-01): candidate listed as not receiving Israel lobby PAC money; classified Pro-Palestine.",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "01",
-    "trackAipacOfficeLabel": "VA-01",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
-  },
-  {
-    "id": "dan-helmer-va-h-08",
-    "name": "Dan Helmer",
-    "party": "Unknown",
-    "state": "VA",
-    "districtOrOffice": "U.S. House, VA-08",
-    "office": "U.S. House",
-    "imageUrl": "",
-    "stanceLabel": "Pro-Israel",
-    "stanceSummary": "Track AIPAC (trackaipac.com/congress) reports an Israel Lobby Total of $183,520 for Dan Helmer in U.S. House, VA-08. This candidate has taken funding from the Israel lobby.",
-    "timeline": [
-      {
-        "date": "2026-04-05",
-        "event": "Baseline profile created for Track AIPAC funding import.",
-        "sourceIds": [
-          "trackaipac-congress",
-          "fec-candidate-master-2026",
-          "house-resolution-tracker",
-          "congress-floor-records"
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "event": "[trackaipac-funding 2026-04-05] Track AIPAC congressional listing records Israel Lobby Total: $183,520 (VA-08).",
-        "sourceIds": [
-          "trackaipac-congress"
-        ]
-      }
-    ],
-    "sourceIds": [
-      "trackaipac-congress",
-      "fec-candidate-master-2026",
-      "house-resolution-tracker",
-      "congress-floor-records"
-    ],
-    "profileLastUpdatedAt": "2026-04-05T12:00:00+00:00",
-    "officeScope": "HOUSE",
-    "district": "08",
-    "israelLobbyTotal": 183520,
-    "israelLobbyTotalDisplay": "$183,520",
-    "trackAipacOfficeLabel": "VA-08",
-    "trackAipacLastSyncedAt": "2026-04-05T12:00:00+00:00",
-    "trackAipacSourceUrl": "https://www.trackaipac.com/congress"
   }
 ]

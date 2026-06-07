@@ -1,0 +1,34 @@
+{
+  "id": "donald-trump-us-president",
+  "name": "Donald Trump",
+  "party": "Republican",
+  "state": "",
+  "office": "U.S. President",
+  "districtOrOffice": "U.S. President",
+  "imageUrl": "",
+  "stanceLabel": "Pro-Israel",
+  "stanceColor": "red",
+  "stanceSummary": "Donald Trump is the incumbent U.S. President. Track AIPAC congressional totals do not apply to executive officeholders. Official White House records show sustained U.S. security partnership with Israel and a September 2025 Gaza peace framework announced alongside Israeli Prime Minister Benjamin Netanyahu.",
+  "timeline": [
+    {
+      "date": "2017-12-06",
+      "event": "As president, Trump recognized Jerusalem as Israel's capital and directed the U.S. embassy to move there, framing the decision as recognition of Israel's sovereignty.",
+      "sourceIds": [
+        "trump-jerusalem-recognition-2017"
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "event": "White House released Trump's 20-point Comprehensive Plan to End the Gaza Conflict, including ceasefire, hostage release, demilitarization, and reconstruction phases with explicit U.S. commitment to Israel's security.",
+      "sourceIds": [
+        "trump-gaza-peace-plan-2025"
+      ]
+    }
+  ],
+  "sourceIds": [
+    "trump-jerusalem-recognition-2017",
+    "trump-gaza-peace-plan-2025"
+  ],
+  "profileLastUpdatedAt": "2026-06-05T23:01:16.220603+00:00",
+  "sourcesEndpoint": "/data/sources.json"
+}

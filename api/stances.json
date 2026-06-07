@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-03-03",
-  "count": 2007,
+  "count": 2011,
   "items": [
     {
       "id": "az-h-atlarge",
@@ -4243,6 +4243,14 @@
       "endpoint": "/api/candidates/donald-sternoff-jr-beyer-va-h-08.json"
     },
     {
+      "id": "donald-trump-us-president",
+      "name": "Donald Trump",
+      "districtOrOffice": "U.S. President",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
+      "endpoint": "/api/candidates/donald-trump-us-president.json"
+    },
+    {
       "id": "donavan-mckinney-mi-h-13",
       "name": "Donavan Mckinney",
       "districtOrOffice": "U.S. House, MI-13",
@@ -5923,6 +5931,14 @@
       "endpoint": "/api/candidates/isaiah-t-iii-martin-pa-h-03.json"
     },
     {
+      "id": "jd-vance-us-vice-president",
+      "name": "JD Vance",
+      "districtOrOffice": "U.S. Vice President",
+      "stanceLabel": "Pro-Israel",
+      "stanceColor": "red",
+      "endpoint": "/api/candidates/jd-vance-us-vice-president.json"
+    },
+    {
       "id": "jace-yarbrough-tx-h-32",
       "name": "Jace Yarbrough",
       "districtOrOffice": "U.S. House, TX-32",
@@ -7363,6 +7379,14 @@
       "endpoint": "/api/candidates/joe-albright-il-h-16.json"
     },
     {
+      "id": "joe-biden-us-president",
+      "name": "Joe Biden",
+      "districtOrOffice": "Former U.S. President",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
+      "endpoint": "/api/candidates/joe-biden-us-president.json"
+    },
+    {
       "id": "joe-courtney-ct-02",
       "name": "Joe Courtney",
       "districtOrOffice": "U.S. House, CT-02",
@@ -8577,6 +8601,14 @@
       "stanceLabel": "Pro-Palestine",
       "stanceColor": "green",
       "endpoint": "/api/candidates/kai-newkirk-az-h-04.json"
+    },
+    {
+      "id": "kamala-harris-us-vice-president",
+      "name": "Kamala Harris",
+      "districtOrOffice": "Former U.S. Vice President",
+      "stanceLabel": "Mixed-unclear",
+      "stanceColor": "gray",
+      "endpoint": "/api/candidates/kamala-harris-us-vice-president.json"
     },
     {
       "id": "kandiss-dr-taylor-ga-h-01",
