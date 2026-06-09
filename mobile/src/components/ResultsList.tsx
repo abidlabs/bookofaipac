@@ -72,7 +72,9 @@ export default function ResultsList({ candidates, listFooterComponent }: Props) 
 
   const header = (
     <Text style={styles.header}>
-      {candidates.length === 1 ? "1 match" : `${candidates.length} matches`}
+      {candidates.length === 1
+        ? "1 approximate match"
+        : `${candidates.length} approximate matches`}
     </Text>
   );
 

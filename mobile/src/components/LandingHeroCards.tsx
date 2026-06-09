@@ -1,6 +1,25 @@
-import React from "react";
-import { View, Text, StyleSheet, Image, ImageSourcePropType, ViewStyle } from "react-native";
+import React, { useEffect, useRef, useState } from "react";
+import {
+  View,
+  Text,
+  StyleSheet,
+  Image,
+  Animated,
+  Easing,
+  ImageSourcePropType,
+} from "react-native";
 import { colors, stanceColors } from "../theme";
+
+const CARD_WIDTH = 152;
+const CARD_HEIGHT = 64;
+const SCAN_MS = 1200;
+
+type Placement = {
+  top?: `${number}%`;
+  bottom?: `${number}%`;
+  left?: `${number}%`;
+  right?: `${number}%`;
+};
 
 interface ShowcaseCandidate {
   name: string;
@@ -8,7 +27,7 @@ interface ShowcaseCandidate {
   funding: string;
   stanceLabel: "Pro-Israel" | "Pro-Palestine";
   image: ImageSourcePropType;
-  style: ViewStyle;
+  placement: Placement;
 }
 
 const SHOWCASE: ShowcaseCandidate[] = [
@@ -18,7 +37,7 @@ const SHOWCASE: ShowcaseCandidate[] = [
     funding: "$6.5M",
     stanceLabel: "Pro-Israel",
     image: require("../../assets/candidates/chuck-schumer-ny-sen.webp"),
-    style: { top: "12%", left: "6%", transform: [{ rotate: "-2.5deg" }] },
+    placement: { top: "12%", left: "6%" },
   },
   {
     name: "Hakeem Jeffries",
@@ -26,7 +45,7 @@ const SHOWCASE: ShowcaseCandidate[] = [
     funding: "$5.5M",
     stanceLabel: "Pro-Israel",
     image: require("../../assets/candidates/hakeem-jeffries-ny-h-08.webp"),
-    style: { top: "25%", right: "5%", transform: [{ rotate: "2deg" }] },
+    placement: { top: "25%", right: "5%" },
   },
   {
     name: "Rashida Tlaib",
@@ -34,44 +53,106 @@ const SHOWCASE: ShowcaseCandidate[] = [
     funding: "$0",
     stanceLabel: "Pro-Palestine",
     image: require("../../assets/candidates/rashida-tlaib-mi-h-12.webp"),
-    style: { bottom: "17%", left: "18%", transform: [{ rotate: "-1.5deg" }] },
+    placement: { bottom: "17%", left: "18%" },
   },
 ];
 
-function HeroCard({ candidate }: { candidate: ShowcaseCandidate }) {
+function cardTopPx(placement: Placement, heroH: number): number {
+  if (placement.top) {
+    return (parseFloat(placement.top) / 100) * heroH;
+  }
+  if (placement.bottom) {
+    return heroH * (1 - parseFloat(placement.bottom) / 100) - CARD_HEIGHT;
+  }
+  return 0;
+}
+
+function HeroCard({
+  candidate,
+  scanAnim,
+  heroH,
+}: {
+  candidate: ShowcaseCandidate;
+  scanAnim: Animated.Value;
+  heroH: number;
+}) {
   const stance = stanceColors(candidate.stanceLabel);
+  const topPx = cardTopPx(candidate.placement, heroH);
+  const startP = heroH > 0 ? topPx / heroH : 0;
+  const endP = heroH > 0 ? Math.min(1, (topPx + CARD_HEIGHT) / heroH) : 0;
+
+  const clipHeight = scanAnim.interpolate({
+    inputRange: [0, startP, endP, 1],
+    outputRange: [0, 0, CARD_HEIGHT, CARD_HEIGHT],
+    extrapolate: "clamp",
+  });
 
   return (
-    <View
-      style={[
-        styles.card,
-        { borderColor: stance.border, backgroundColor: "rgba(12, 12, 14, 0.88)" },
-        candidate.style,
-      ]}
-      pointerEvents="none"
-    >
-      <Image source={candidate.image} style={styles.photo} />
-      <View style={styles.meta}>
-        <Text style={styles.name} numberOfLines={1}>
-          {candidate.name}
-        </Text>
-        <Text style={styles.district} numberOfLines={1}>
-          {candidate.district}
-        </Text>
-        <Text style={[styles.funding, { color: stance.text }]} numberOfLines={1}>
-          {candidate.funding}
-        </Text>
-      </View>
+    <View style={[styles.cardSlot, candidate.placement]} pointerEvents="none">
+      <Animated.View style={[styles.cardClip, { height: clipHeight }]}>
+        <View style={styles.cardInner}>
+          <View
+            style={[
+              styles.card,
+              { borderColor: stance.border, backgroundColor: "rgba(12, 12, 14, 0.88)" },
+            ]}
+          >
+            <Image source={candidate.image} style={styles.photo} />
+            <View style={styles.meta}>
+              <Text style={styles.name} numberOfLines={1}>
+                {candidate.name}
+              </Text>
+              <Text style={styles.district} numberOfLines={1}>
+                {candidate.district}
+              </Text>
+              <Text style={[styles.funding, { color: stance.text }]} numberOfLines={1}>
+                {candidate.funding}
+              </Text>
+            </View>
+          </View>
+        </View>
+      </Animated.View>
     </View>
   );
 }
 
 export default function LandingHeroCards() {
+  const [heroH, setHeroH] = useState(0);
+  const [scanFinished, setScanFinished] = useState(false);
+  const scanAnim = useRef(new Animated.Value(0)).current;
+
+  useEffect(() => {
+    if (heroH <= 0) return;
+    const scan = Animated.timing(scanAnim, {
+      toValue: 1,
+      duration: SCAN_MS,
+      easing: Easing.linear,
+      useNativeDriver: false,
+    });
+    scan.start(({ finished }) => {
+      if (finished) setScanFinished(true);
+    });
+    return () => scan.stop();
+  }, [heroH, scanAnim]);
+
+  const scanLineTop = scanAnim.interpolate({
+    inputRange: [0, 1],
+    outputRange: [0, Math.max(heroH - 2, 0)],
+  });
+
   return (
-    <View style={styles.layer} pointerEvents="none">
-      {SHOWCASE.map((candidate) => (
-        <HeroCard key={candidate.name} candidate={candidate} />
-      ))}
+    <View
+      style={styles.layer}
+      pointerEvents="none"
+      onLayout={(e) => setHeroH(e.nativeEvent.layout.height)}
+    >
+      {heroH > 0 &&
+        SHOWCASE.map((candidate) => (
+          <HeroCard key={candidate.name} candidate={candidate} scanAnim={scanAnim} heroH={heroH} />
+        ))}
+      {heroH > 0 && !scanFinished && (
+        <Animated.View style={[styles.scanLine, { top: scanLineTop }]} />
+      )}
     </View>
   );
 }
@@ -81,9 +162,34 @@ const styles = StyleSheet.create({
     ...StyleSheet.absoluteFillObject,
     zIndex: 3,
   },
-  card: {
+  scanLine: {
     position: "absolute",
-    width: 152,
+    left: 16,
+    right: 16,
+    height: 2,
+    backgroundColor: colors.stanceRed,
+    opacity: 0.75,
+    shadowColor: colors.stanceRed,
+    shadowOffset: { width: 0, height: 0 },
+    shadowOpacity: 0.85,
+    shadowRadius: 6,
+    zIndex: 5,
+  },
+  cardSlot: {
+    position: "absolute",
+    width: CARD_WIDTH,
+    height: CARD_HEIGHT,
+  },
+  cardClip: {
+    width: CARD_WIDTH,
+    overflow: "hidden",
+  },
+  cardInner: {
+    height: CARD_HEIGHT,
+  },
+  card: {
+    width: CARD_WIDTH,
+    height: CARD_HEIGHT,
     flexDirection: "row",
     alignItems: "center",
     gap: 8,

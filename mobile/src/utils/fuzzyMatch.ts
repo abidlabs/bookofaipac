@@ -19,6 +19,31 @@ function normalize(str: string): string {
     .trim();
 }
 
+function compact(str: string): string {
+  return normalize(str).replace(/\s/g, "");
+}
+
+function splitConcatenatedWords(words: string[], lastNames: Iterable<string>): string[] {
+  const expanded = [...words];
+  const lastNameList = [...lastNames].filter((ln) => ln.length >= 3);
+
+  for (const word of words) {
+    if (word.length < 5) continue;
+
+    for (const lastName of lastNameList) {
+      if (word.length <= lastName.length + 1) continue;
+      if (!word.endsWith(lastName)) continue;
+
+      const prefix = word.slice(0, word.length - lastName.length);
+      if (prefix.length >= 2) {
+        expanded.push(prefix, lastName);
+      }
+    }
+  }
+
+  return expanded;
+}
+
 function levenshtein(a: string, b: string): number {
   const m = a.length;
   const n = b.length;
@@ -43,6 +68,7 @@ function levenshtein(a: string, b: string): number {
 interface IndexedCandidate {
   candidate: Candidate;
   normalizedFull: string;
+  compactFull: string;
   firstName: string;
   lastName: string;
 }
@@ -64,6 +90,7 @@ export class CandidateMatcher {
       const entry: IndexedCandidate = {
         candidate: c,
         normalizedFull,
+        compactFull: compact(normalizedFull),
         firstName,
         lastName,
       };
@@ -80,18 +107,26 @@ export class CandidateMatcher {
     if (!ocrText || ocrText.trim().length < 3) return null;
 
     const text = normalize(ocrText);
+    const compactText = compact(ocrText);
 
-    // Phase 1: Exact full-name substring match
+    // Phase 1: Exact full-name substring match (spaced or concatenated OCR)
     const exactFullMatches: Candidate[] = [];
     for (const entry of this.indexed) {
-      if (entry.normalizedFull.length >= 4 && text.includes(entry.normalizedFull)) {
+      const spacedHit =
+        entry.normalizedFull.length >= 4 && text.includes(entry.normalizedFull);
+      const compactHit =
+        entry.compactFull.length >= 4 && compactText.includes(entry.compactFull);
+      if (spacedHit || compactHit) {
         exactFullMatches.push(entry.candidate);
       }
     }
     if (exactFullMatches.length === 1) return exactFullMatches[0];
 
     // Phase 2: Word-based matching with last-name index
-    const words = text.split(/\s+/).filter((w) => w.length >= 2);
+    const words = splitConcatenatedWords(
+      text.split(/\s+/).filter((w) => w.length >= 2),
+      this.lastNameIndex.keys(),
+    );
     const scored: { candidate: Candidate; score: number }[] = [];
 
     for (let i = 0; i < words.length; i++) {
@@ -154,16 +189,24 @@ export class CandidateMatcher {
     if (!ocrText || ocrText.trim().length < 3) return [];
 
     const text = normalize(ocrText);
+    const compactText = compact(ocrText);
     const best = new Map<string, number>();
 
     for (const entry of this.indexed) {
-      if (entry.normalizedFull.length >= 4 && text.includes(entry.normalizedFull)) {
+      const spacedHit =
+        entry.normalizedFull.length >= 4 && text.includes(entry.normalizedFull);
+      const compactHit =
+        entry.compactFull.length >= 4 && compactText.includes(entry.compactFull);
+      if (spacedHit || compactHit) {
         const prev = best.get(entry.candidate.id) ?? 0;
         if (100 > prev) best.set(entry.candidate.id, 100);
       }
     }
 
-    const words = text.split(/\s+/).filter((w) => w.length >= 2);
+    const words = splitConcatenatedWords(
+      text.split(/\s+/).filter((w) => w.length >= 2),
+      this.lastNameIndex.keys(),
+    );
     const scored: { candidate: Candidate; score: number }[] = [];
 
     for (let i = 0; i < words.length; i++) {
